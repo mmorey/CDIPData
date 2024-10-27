@@ -13,16 +13,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Fetch CDIP Data
         run: |
           mkdir -p public/data
           curl -s https://cdip.ucsd.edu/data_access/sccoos.cdip | grep -A 1000 "<pre>" | grep -B 1000 "</pre>" | grep -v "<pre>" | grep -v "</pre>" > public/data/cdip_sccoos.txt
 
+      - name: Convert to JSON
+        run: |
+          chmod +x scripts/convert_sccoos_to_json.js
+          node scripts/convert_sccoos_to_json.js
+
       - name: Check for changes
         id: verify_diff
         run: |
-          git add -N public/data/cdip_sccoos.txt
-          if ! git diff --exit-code --quiet public/data/cdip_sccoos.txt; then
+          git add -N public/data/cdip_sccoos.txt public/data/cdip_sccoos.json
+          if ! git diff --exit-code --quiet public/data/cdip_sccoos.txt public/data/cdip_sccoos.json; then
             echo "changes_detected=true" >> $GITHUB_OUTPUT
           else
             echo "changes_detected=false" >> $GITHUB_OUTPUT
@@ -33,6 +43,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add public/data/cdip_sccoos.txt
+          git add public/data/cdip_sccoos.txt public/data/cdip_sccoos.json
           git commit -m "Update CDIP data"
           git push
