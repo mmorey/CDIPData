@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-10-31T10:36:05.677Z",
+  "last_updated": "2024-10-31T10:47:09.000Z",
   "data": [
     {
       "timestamp": "10.31.2024-09:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.43,
-      "tp_s": 11.11,
-      "dp_deg": 288,
+      "hs_m": 2.19,
+      "tp_s": 11.76,
+      "dp_deg": 273,
       "sst_c": 29.5
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.69,
+      "hs_m": 2.83,
       "tp_s": 9.09,
-      "dp_deg": 82,
+      "dp_deg": 79,
       "sst_c": 26.1
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 26.4
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.92,
+      "hs_m": 0.91,
       "tp_s": 13.33,
-      "dp_deg": 188,
+      "dp_deg": 189,
       "sst_c": 26.9
     },
     {
@@ -338,15 +338,15 @@
       "sst_c": 17.8
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.69,
+      "hs_m": 0.67,
       "tp_s": 14.29,
-      "dp_deg": 194,
+      "dp_deg": 188,
       "sst_c": 18
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.67,
-      "tp_s": 13.33,
-      "dp_deg": 211,
+      "hs_m": 0.6,
+      "tp_s": 14.29,
+      "dp_deg": 210,
       "sst_c": 17
     },
     {
@@ -482,16 +482,16 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 0.95,
-      "tp_s": 10.53,
-      "dp_deg": 275,
-      "sst_c": 13.9
+      "hs_m": 1,
+      "tp_s": 9.88,
+      "dp_deg": 282,
+      "sst_c": 14.2
     },
     {
       "timestamp": "10.31.2024-09:30:00",
@@ -530,40 +530,40 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 0.53,
-      "tp_s": 9.88,
-      "dp_deg": 255,
+      "hs_m": 0.51,
+      "tp_s": 10.53,
+      "dp_deg": 254,
       "sst_c": 13.4
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "275",
       "station_name": "APTOS CREEK NEARSHORE, CA",
       "latitude": 36.951,
       "longitude": -121.921,
       "depth_cm": 1500,
-      "hs_m": 0.39,
+      "hs_m": 0.41,
       "tp_s": 14.29,
-      "dp_deg": 213,
+      "dp_deg": 207,
       "sst_c": 13.2
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78806,
       "longitude": -122.6313,
       "depth_cm": 1451,
-      "hs_m": 1.06,
+      "hs_m": 1.16,
       "tp_s": 14.29,
-      "dp_deg": 233,
-      "sst_c": 12.8
+      "dp_deg": 235,
+      "sst_c": 12.7
     },
     {
       "timestamp": "10.31.2024-10:00:00",
@@ -578,16 +578,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.83,
-      "tp_s": 11.11,
-      "dp_deg": 304,
-      "sst_c": 14.7
+      "hs_m": 2.8,
+      "tp_s": 11.76,
+      "dp_deg": 309,
+      "sst_c": 14.8
     },
     {
       "timestamp": "10.31.2024-09:30:00",
@@ -674,16 +674,16 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.44,
-      "tp_s": 12.5,
-      "dp_deg": 294,
-      "sst_c": 9.6
+      "hs_m": 0.48,
+      "tp_s": 13.33,
+      "dp_deg": 296,
+      "sst_c": 9.7
     },
     {
       "timestamp": "10.31.2024-09:30:00",
@@ -698,15 +698,15 @@
       "sst_c": 8.1
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 1.64,
-      "tp_s": 7.14,
-      "dp_deg": 101,
+      "hs_m": 1.58,
+      "tp_s": 6.67,
+      "dp_deg": 110,
       "sst_c": 27.8
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.53,
+      "hs_m": 1.38,
       "tp_s": 9.09,
-      "dp_deg": 101,
-      "sst_c": 26.4
+      "dp_deg": 103,
+      "sst_c": 26.3
     },
     {
       "timestamp": "10.31.2024-10:00:00",
@@ -806,15 +806,15 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 1.78,
-      "tp_s": 7.14,
-      "dp_deg": 107,
+      "hs_m": 1.98,
+      "tp_s": 8.33,
+      "dp_deg": 105,
       "sst_c": 22.5
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.83,
-      "tp_s": 8.33,
-      "dp_deg": 133,
+      "hs_m": 0.86,
+      "tp_s": 7.69,
+      "dp_deg": 132,
       "sst_c": 18.6
     },
     {
@@ -1010,39 +1010,39 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 0.97,
+      "hs_m": 1,
       "tp_s": 5.88,
-      "dp_deg": 174,
+      "dp_deg": 168,
       "sst_c": 15.5
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.43,
-      "tp_s": 2.78,
-      "dp_deg": 234,
-      "sst_c": 13.8
+      "hs_m": 0.41,
+      "tp_s": 2.86,
+      "dp_deg": 238,
+      "sst_c": 13.7
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.95,
-      "tp_s": 6.25,
-      "dp_deg": 131,
+      "hs_m": 0.91,
+      "tp_s": 7.69,
+      "dp_deg": 133,
       "sst_c": 12.4
     },
     {
@@ -1070,16 +1070,16 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "10.31.2024-09:30:00",
+      "timestamp": "10.31.2024-10:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8032,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.23,
-      "tp_s": 2.94,
-      "dp_deg": 278,
-      "sst_c": 11.6
+      "hs_m": 0.22,
+      "tp_s": 3.12,
+      "dp_deg": 275,
+      "sst_c": 11.5
     },
     {
       "timestamp": "10.31.2024-10:00:00",
