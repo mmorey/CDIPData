@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-01T21:21:16.866Z",
+  "last_updated": "2024-11-01T21:32:20.618Z",
   "data": [
     {
       "timestamp": "11.01.2024-20:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.61,
-      "tp_s": 7.14,
-      "dp_deg": 68,
+      "hs_m": 1.69,
+      "tp_s": 8.33,
+      "dp_deg": 59,
       "sst_c": 29.3
     },
     {
@@ -158,40 +158,40 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.32,
-      "tp_s": 9.88,
-      "dp_deg": 86,
+      "hs_m": 2.41,
+      "tp_s": 9.09,
+      "dp_deg": 66,
       "sst_c": 26.5
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 2.1,
+      "hs_m": 1.95,
       "tp_s": 9.88,
-      "dp_deg": 70,
+      "dp_deg": 45,
       "sst_c": 26.4
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 1.96,
+      "hs_m": 2.08,
       "tp_s": 9.88,
       "dp_deg": 63,
-      "sst_c": 26.2
+      "sst_c": 26.3
     },
     {
       "timestamp": "11.01.2024-20:50:07",
@@ -266,28 +266,28 @@
       "sst_c": 19.1
     },
     {
-      "timestamp": "11.01.2024-19:45:00",
+      "timestamp": "11.01.2024-20:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.82,
-      "tp_s": 7.31,
+      "hs_m": 0.76,
+      "tp_s": 6.56,
       "dp_deg": null,
       "sst_c": null
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.77,
-      "tp_s": 7.14,
+      "hs_m": 0.74,
+      "tp_s": 6.67,
       "dp_deg": 282,
-      "sst_c": 18.5
+      "sst_c": 18.3
     },
     {
       "timestamp": "11.01.2024-20:30:00",
@@ -302,15 +302,15 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.39,
       "depth_cm": 57196,
-      "hs_m": 0.94,
-      "tp_s": 15.38,
-      "dp_deg": 260,
+      "hs_m": 1.02,
+      "tp_s": 13.33,
+      "dp_deg": 277,
       "sst_c": 19
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "11.01.2024-20:00:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.75,
-      "tp_s": 16.67,
-      "dp_deg": 250,
-      "sst_c": 17.7
+      "hs_m": 0.74,
+      "tp_s": 15.38,
+      "dp_deg": 244,
+      "sst_c": 17.9
     },
     {
       "timestamp": "11.01.2024-20:30:00",
@@ -482,27 +482,27 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.76667,
       "longitude": -121.49661,
       "depth_cm": 65000,
-      "hs_m": 3.59,
-      "tp_s": 15.38,
-      "dp_deg": 316,
+      "hs_m": 3.98,
+      "tp_s": 14.29,
+      "dp_deg": 320,
       "sst_c": 15.4
     },
     {
-      "timestamp": "11.01.2024-20:00:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.04,
+      "hs_m": 1.86,
       "tp_s": 13.33,
-      "dp_deg": 276,
+      "dp_deg": 275,
       "sst_c": 14
     },
     {
@@ -518,16 +518,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.28,
-      "tp_s": 11.11,
-      "dp_deg": 348,
-      "sst_c": 13.6
+      "hs_m": 1.3,
+      "tp_s": 10.53,
+      "dp_deg": 343,
+      "sst_c": 13.7
     },
     {
       "timestamp": "11.01.2024-20:30:00",
@@ -614,15 +614,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 3.99,
+      "hs_m": 3.8,
       "tp_s": 12.5,
-      "dp_deg": 300,
+      "dp_deg": 306,
       "sst_c": 12.9
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 26.9
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.56,
-      "tp_s": 10.53,
-      "dp_deg": 72,
+      "hs_m": 1.48,
+      "tp_s": 11.11,
+      "dp_deg": 77,
       "sst_c": 25.7
     },
     {
@@ -806,16 +806,16 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.29,
-      "tp_s": 9.09,
-      "dp_deg": 87,
-      "sst_c": 24.1
+      "hs_m": 1.34,
+      "tp_s": 8.33,
+      "dp_deg": 89,
+      "sst_c": 24
     },
     {
       "timestamp": "11.01.2024-20:30:00",
@@ -854,15 +854,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2129,
       "longitude": -76.9493,
       "depth_cm": 3048,
-      "hs_m": 0.99,
-      "tp_s": 6.25,
-      "dp_deg": 155,
+      "hs_m": 1.06,
+      "tp_s": 6.67,
+      "dp_deg": 149,
       "sst_c": 23.4
     },
     {
@@ -890,16 +890,16 @@
       "sst_c": 20
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 0.67,
-      "tp_s": 8.33,
-      "dp_deg": 121,
-      "sst_c": 20.4
+      "hs_m": 0.65,
+      "tp_s": 9.09,
+      "dp_deg": 113,
+      "sst_c": 20.2
     },
     {
       "timestamp": "11.01.2024-20:30:00",
@@ -962,15 +962,15 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
-      "hs_m": 0.75,
-      "tp_s": 4.55,
-      "dp_deg": 170,
+      "hs_m": 0.69,
+      "tp_s": 4.76,
+      "dp_deg": 168,
       "sst_c": 18.5
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 17
     },
     {
-      "timestamp": "11.01.2024-20:30:00",
+      "timestamp": "11.01.2024-21:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 2.57,
+      "hs_m": 2.54,
       "tp_s": 8.33,
-      "dp_deg": 203,
+      "dp_deg": 207,
       "sst_c": 16.6
     },
     {
