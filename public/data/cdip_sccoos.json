@@ -1,16 +1,16 @@
 {
-  "last_updated": "2024-11-02T14:33:14.171Z",
+  "last_updated": "2024-11-02T14:47:11.954Z",
   "data": [
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.06,
-      "tp_s": 14.29,
-      "dp_deg": 229,
+      "hs_m": 1.12,
+      "tp_s": 13.33,
+      "dp_deg": 219,
       "sst_c": 28.5
     },
     {
@@ -74,40 +74,40 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.71,
-      "tp_s": 12.5,
-      "dp_deg": 291,
+      "hs_m": 1.8,
+      "tp_s": 11.76,
+      "dp_deg": 314,
       "sst_c": 29.6
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.76,
-      "tp_s": 11.76,
-      "dp_deg": 343,
+      "hs_m": 1.68,
+      "tp_s": 13.33,
+      "dp_deg": 295,
       "sst_c": 29
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.21,
-      "tp_s": 11.76,
-      "dp_deg": 3,
-      "sst_c": 25.8
+      "hs_m": 2.25,
+      "tp_s": 20,
+      "dp_deg": 343,
+      "sst_c": 25.9
     },
     {
       "timestamp": "11.02.2024-14:00:00",
@@ -122,13 +122,13 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 2.21,
+      "hs_m": 2.17,
       "tp_s": 18.18,
       "dp_deg": 325,
       "sst_c": 25.9
@@ -290,16 +290,16 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "11.02.2024-13:00:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.86,
-      "tp_s": 16.67,
-      "dp_deg": 251,
-      "sst_c": 17
+      "hs_m": 0.85,
+      "tp_s": 14.29,
+      "dp_deg": 261,
+      "sst_c": 16.9
     },
     {
       "timestamp": "11.02.2024-14:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 16
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.62,
-      "tp_s": 18.18,
-      "dp_deg": 207,
+      "hs_m": 0.64,
+      "tp_s": 6.25,
+      "dp_deg": 247,
       "sst_c": 16
     },
     {
@@ -494,15 +494,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.65,
-      "tp_s": 12.5,
-      "dp_deg": 275,
+      "hs_m": 1.8,
+      "tp_s": 14.29,
+      "dp_deg": 271,
       "sst_c": 12.1
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78806,
       "longitude": -122.6313,
       "depth_cm": 1451,
-      "hs_m": 2.02,
-      "tp_s": 12.5,
-      "dp_deg": 277,
+      "hs_m": 1.81,
+      "tp_s": 11.11,
+      "dp_deg": 279,
       "sst_c": 13.6
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.58,
+      "hs_m": 2.44,
       "tp_s": 11.11,
-      "dp_deg": 299,
+      "dp_deg": 305,
       "sst_c": 12.5
     },
     {
@@ -650,16 +650,16 @@
       "sst_c": 12
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.1304,
       "longitude": -124.644,
       "depth_cm": 18288,
-      "hs_m": 2.58,
-      "tp_s": 9.88,
-      "dp_deg": 275,
-      "sst_c": 13.5
+      "hs_m": 2.63,
+      "tp_s": 10.53,
+      "dp_deg": 291,
+      "sst_c": 13.4
     },
     {
       "timestamp": "11.02.2024-14:00:00",
@@ -746,15 +746,15 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.98,
-      "tp_s": 7.14,
-      "dp_deg": 150,
+      "hs_m": 0.92,
+      "tp_s": 7.69,
+      "dp_deg": 155,
       "sst_c": 25.4
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.84,
+      "hs_m": 0.75,
       "tp_s": 5.56,
-      "dp_deg": 58,
-      "sst_c": 26.7
+      "dp_deg": 62,
+      "sst_c": 26.8
     },
     {
       "timestamp": "11.02.2024-14:00:00",
@@ -806,16 +806,16 @@
       "sst_c": 25
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.23,
-      "tp_s": 8.33,
-      "dp_deg": 87,
-      "sst_c": 23.8
+      "hs_m": 1.25,
+      "tp_s": 9.88,
+      "dp_deg": 91,
+      "sst_c": 23.9
     },
     {
       "timestamp": "11.02.2024-13:30:00",
@@ -830,16 +830,16 @@
       "sst_c": 23.2
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.7,
-      "tp_s": 7.69,
-      "dp_deg": 149,
-      "sst_c": 21.2
+      "hs_m": 0.72,
+      "tp_s": 6.67,
+      "dp_deg": 152,
+      "sst_c": 21.4
     },
     {
       "timestamp": "11.02.2024-14:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 22.7
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.03,
-      "tp_s": 4.35,
-      "dp_deg": 7,
-      "sst_c": 22.7
+      "hs_m": 1.2,
+      "tp_s": 4.55,
+      "dp_deg": 8,
+      "sst_c": 22.6
     },
     {
       "timestamp": "11.02.2024-14:00:00",
@@ -974,15 +974,15 @@
       "sst_c": 18.3
     },
     {
-      "timestamp": "11.02.2024-13:00:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
       "hs_m": 0.66,
-      "tp_s": 4,
-      "dp_deg": 30,
+      "tp_s": 3.7,
+      "dp_deg": 33,
       "sst_c": 17.2
     },
     {
@@ -1058,15 +1058,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "11.02.2024-12:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "269",
       "station_name": "RAWLEY POINT EAST, WI",
       "latitude": 44.0554,
       "longitude": -87.050133,
       "depth_cm": 14500,
-      "hs_m": 0.19,
-      "tp_s": 2.78,
-      "dp_deg": 98,
+      "hs_m": 0.28,
+      "tp_s": 1.82,
+      "dp_deg": 186,
       "sst_c": 13.5
     },
     {
@@ -1082,15 +1082,15 @@
       "sst_c": 10.3
     },
     {
-      "timestamp": "11.02.2024-13:30:00",
+      "timestamp": "11.02.2024-14:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
       "latitude": 46.9735,
       "longitude": -86.5681,
       "depth_cm": 16000,
-      "hs_m": 0.66,
-      "tp_s": 3.7,
-      "dp_deg": 220,
+      "hs_m": 0.77,
+      "tp_s": 3.85,
+      "dp_deg": 218,
       "sst_c": 10.4
     },
     {
