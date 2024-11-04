@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-04T09:34:21.686Z",
+  "last_updated": "2024-11-04T09:46:53.673Z",
   "data": [
     {
       "timestamp": "11.04.2024-08:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 30.5
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 1.42,
-      "tp_s": 12.5,
-      "dp_deg": 356,
+      "hs_m": 1.33,
+      "tp_s": 11.76,
+      "dp_deg": 359,
       "sst_c": 30.1
     },
     {
@@ -62,27 +62,27 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.29,
-      "tp_s": 9.09,
-      "dp_deg": 167,
-      "sst_c": 29.4
+      "hs_m": 1.31,
+      "tp_s": 10.53,
+      "dp_deg": 86,
+      "sst_c": 29.3
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.5,
-      "tp_s": 10.53,
-      "dp_deg": 31,
+      "hs_m": 1.48,
+      "tp_s": 8.33,
+      "dp_deg": 13,
       "sst_c": 29.7
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 26.4
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.79,
+      "hs_m": 1.8,
       "tp_s": 15.38,
-      "dp_deg": 317,
-      "sst_c": 26.6
+      "dp_deg": 313,
+      "sst_c": 26.5
     },
     {
       "timestamp": "11.04.2024-09:00:00",
@@ -230,15 +230,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.79,
-      "tp_s": 7.14,
-      "dp_deg": 281,
+      "hs_m": 1.9,
+      "tp_s": 8.33,
+      "dp_deg": 277,
       "sst_c": null
     },
     {
@@ -278,27 +278,27 @@
       "sst_c": null
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.26,
-      "tp_s": 7.14,
-      "dp_deg": 274,
+      "hs_m": 1.23,
+      "tp_s": 6.25,
+      "dp_deg": 277,
       "sst_c": 17.3
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 1.16,
-      "tp_s": 6.25,
-      "dp_deg": 280,
+      "hs_m": 1.08,
+      "tp_s": 7.14,
+      "dp_deg": 270,
       "sst_c": 17
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.12,
-      "tp_s": 5.26,
-      "dp_deg": 280,
+      "hs_m": 1.1,
+      "tp_s": 6.67,
+      "dp_deg": 273,
       "sst_c": 17
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.93,
+      "hs_m": 0.94,
       "tp_s": 16.67,
-      "dp_deg": 212,
+      "dp_deg": 216,
       "sst_c": 16.7
     },
     {
@@ -386,13 +386,13 @@
       "sst_c": 17.9
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.21,
+      "hs_m": 1.13,
       "tp_s": 16.67,
       "dp_deg": 192,
       "sst_c": 17.8
@@ -530,16 +530,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.18,
-      "tp_s": 16.67,
-      "dp_deg": 231,
-      "sst_c": 13.1
+      "hs_m": 1.14,
+      "tp_s": 15.38,
+      "dp_deg": 235,
+      "sst_c": 13
     },
     {
       "timestamp": "11.04.2024-08:30:00",
@@ -566,15 +566,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78806,
       "longitude": -122.6313,
       "depth_cm": 1451,
-      "hs_m": 1.94,
+      "hs_m": 2.25,
       "tp_s": 20,
-      "dp_deg": 264,
+      "dp_deg": 266,
       "sst_c": 13.4
     },
     {
@@ -590,28 +590,28 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 4.29,
+      "hs_m": 4.42,
       "tp_s": 18.18,
-      "dp_deg": 302,
-      "sst_c": 14.3
+      "dp_deg": 297,
+      "sst_c": 14.2
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 4.04,
-      "tp_s": 18.18,
-      "dp_deg": 300,
-      "sst_c": 12.4
+      "hs_m": 4.12,
+      "tp_s": 20,
+      "dp_deg": 301,
+      "sst_c": 12.3
     },
     {
       "timestamp": "11.04.2024-09:00:00",
@@ -734,39 +734,39 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 2.3,
-      "tp_s": 7.14,
-      "dp_deg": 146,
+      "hs_m": 2.5,
+      "tp_s": 7.69,
+      "dp_deg": 132,
       "sst_c": 26.2
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.55,
+      "hs_m": 1.47,
       "tp_s": 6.67,
-      "dp_deg": 151,
+      "dp_deg": 150,
       "sst_c": 25.6
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 2.17,
+      "hs_m": 2.11,
       "tp_s": 6.67,
-      "dp_deg": 149,
+      "dp_deg": 152,
       "sst_c": 25.6
     },
     {
@@ -830,15 +830,15 @@
       "sst_c": 22.8
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1.33,
+      "hs_m": 1.31,
       "tp_s": 6.67,
-      "dp_deg": 110,
+      "dp_deg": 97,
       "sst_c": 20.9
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.33,
-      "tp_s": 5,
-      "dp_deg": 52,
-      "sst_c": 18.5
+      "hs_m": 1.34,
+      "tp_s": 5.26,
+      "dp_deg": 55,
+      "sst_c": 18.4
     },
     {
       "timestamp": "11.04.2024-08:30:00",
@@ -986,15 +986,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.87,
-      "tp_s": 4.76,
-      "dp_deg": 77,
+      "hs_m": 0.86,
+      "tp_s": 4.17,
+      "dp_deg": 78,
       "sst_c": 16.7
     },
     {
@@ -1034,28 +1034,28 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "11.04.2024-08:00:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
       "hs_m": 0.47,
-      "tp_s": 11.11,
-      "dp_deg": 105,
+      "tp_s": 10.53,
+      "dp_deg": 98,
       "sst_c": 11.8
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 0.29,
-      "tp_s": 2.17,
-      "dp_deg": 108,
-      "sst_c": 13.8
+      "hs_m": 0.36,
+      "tp_s": 2.38,
+      "dp_deg": 126,
+      "sst_c": 13.7
     },
     {
       "timestamp": "11.02.2024-15:30:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 8.9
     },
     {
-      "timestamp": "11.04.2024-08:30:00",
+      "timestamp": "11.04.2024-09:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8032,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.3,
+      "hs_m": 0.27,
       "tp_s": 3.23,
-      "dp_deg": 82,
+      "dp_deg": 80,
       "sst_c": 9.9
     },
     {
