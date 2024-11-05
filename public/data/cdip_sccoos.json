@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-05T13:34:18.007Z",
+  "last_updated": "2024-11-05T13:46:56.846Z",
   "data": [
     {
       "timestamp": "11.05.2024-12:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "11.05.2024-12:00:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.27,
-      "tp_s": 11.76,
-      "dp_deg": 24,
+      "hs_m": 1.36,
+      "tp_s": 12.5,
+      "dp_deg": 2,
       "sst_c": 29.1
     },
     {
@@ -122,39 +122,39 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 1.99,
-      "tp_s": 11.76,
-      "dp_deg": 325,
+      "hs_m": 2.01,
+      "tp_s": 12.5,
+      "dp_deg": 329,
       "sst_c": 26.1
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.88,
-      "tp_s": 7.14,
-      "dp_deg": 148,
-      "sst_c": 26.2
+      "hs_m": 0.91,
+      "tp_s": 5.88,
+      "dp_deg": 134,
+      "sst_c": 26.3
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.94,
-      "tp_s": 11.76,
-      "dp_deg": 323,
+      "hs_m": 1.04,
+      "tp_s": 12.5,
+      "dp_deg": 315,
       "sst_c": 26.7
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.16,
+      "hs_m": 1.17,
       "tp_s": 14.29,
-      "dp_deg": 212,
+      "dp_deg": 194,
       "sst_c": null
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.75,
+      "hs_m": 0.7,
       "tp_s": 18.18,
-      "dp_deg": 260,
+      "dp_deg": 261,
       "sst_c": 16.5
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.65,
+      "hs_m": 1.45,
       "tp_s": 15.38,
-      "dp_deg": 240,
+      "dp_deg": 238,
       "sst_c": 12.9
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 3.32,
-      "tp_s": 15.38,
-      "dp_deg": 283,
+      "hs_m": 3.36,
+      "tp_s": 16.67,
+      "dp_deg": 296,
       "sst_c": 12.6
     },
     {
@@ -614,15 +614,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 3.95,
-      "tp_s": 9.88,
-      "dp_deg": 309,
+      "hs_m": 3.99,
+      "tp_s": 13.33,
+      "dp_deg": 313,
       "sst_c": 11.6
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 1.68,
-      "tp_s": 7.14,
-      "dp_deg": 68,
+      "hs_m": 1.75,
+      "tp_s": 5.88,
+      "dp_deg": 83,
       "sst_c": 27.5
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "11.05.2024-12:30:00",
+      "timestamp": "11.05.2024-13:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8032,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.22,
-      "tp_s": 1.85,
-      "dp_deg": 51,
+      "hs_m": 0.24,
+      "tp_s": 2,
+      "dp_deg": 49,
       "sst_c": 10.9
     },
     {
