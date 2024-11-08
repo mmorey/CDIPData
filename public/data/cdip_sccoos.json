@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-08T14:34:17.982Z",
+  "last_updated": "2024-11-08T14:47:08.256Z",
   "data": [
     {
       "timestamp": "11.08.2024-13:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.44,
+      "hs_m": 1.51,
       "tp_s": 8.33,
-      "dp_deg": 56,
+      "dp_deg": 55,
       "sst_c": 29.1
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.02,
+      "hs_m": 0.98,
       "tp_s": 11.76,
-      "dp_deg": 314,
+      "dp_deg": 308,
       "sst_c": 26.5
     },
     {
@@ -230,27 +230,27 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.7,
-      "tp_s": 11.76,
-      "dp_deg": 249,
+      "hs_m": 0.76,
+      "tp_s": 12.5,
+      "dp_deg": 228,
       "sst_c": null
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
       "hs_m": 0.57,
-      "tp_s": 12.5,
-      "dp_deg": 270,
+      "tp_s": 10.53,
+      "dp_deg": 263,
       "sst_c": 13.7
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "11.08.2024-12:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.45,
+      "hs_m": 0.42,
       "tp_s": 12.5,
-      "dp_deg": 254,
-      "sst_c": 15.6
+      "dp_deg": 259,
+      "sst_c": 15.5
     },
     {
       "timestamp": "11.08.2024-14:00:00",
@@ -746,15 +746,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 2.23,
+      "hs_m": 2.1,
       "tp_s": 11.76,
-      "dp_deg": 151,
+      "dp_deg": 152,
       "sst_c": 25.8
     },
     {
@@ -782,13 +782,13 @@
       "sst_c": 27.3
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.21,
+      "hs_m": 1.18,
       "tp_s": 8.33,
       "dp_deg": 69,
       "sst_c": 27
@@ -986,15 +986,15 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.63,
-      "tp_s": 7.69,
-      "dp_deg": 156,
+      "hs_m": 0.59,
+      "tp_s": 8.33,
+      "dp_deg": 160,
       "sst_c": 16.8
     },
     {
@@ -1034,51 +1034,51 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.9,
-      "tp_s": 3.7,
-      "dp_deg": 256,
+      "hs_m": 1.09,
+      "tp_s": 4.17,
+      "dp_deg": 245,
       "sst_c": 11.7
     },
     {
-      "timestamp": "11.08.2024-12:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 2.48,
+      "hs_m": 2.51,
       "tp_s": 7.14,
-      "dp_deg": 281,
-      "sst_c": 13.6
+      "dp_deg": 278,
+      "sst_c": 13.5
     },
     {
-      "timestamp": "11.08.2024-13:00:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8032,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 1.2,
-      "tp_s": 5.26,
-      "dp_deg": 289,
+      "hs_m": 1.13,
+      "tp_s": 5,
+      "dp_deg": 286,
       "sst_c": 11
     },
     {
-      "timestamp": "11.08.2024-13:30:00",
+      "timestamp": "11.08.2024-14:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
       "latitude": 46.9735,
       "longitude": -86.5681,
       "depth_cm": 16000,
-      "hs_m": 1.95,
-      "tp_s": 6.67,
-      "dp_deg": 284,
+      "hs_m": 1.86,
+      "tp_s": 6.25,
+      "dp_deg": 294,
       "sst_c": 9.9
     },
     {
