@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-12T03:34:35.392Z",
+  "last_updated": "2024-11-12T03:47:01.830Z",
   "data": [
     {
       "timestamp": "11.12.2024-02:30:00",
@@ -50,16 +50,16 @@
       "sst_c": 30.5
     },
     {
-      "timestamp": "11.12.2024-02:00:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 0.78,
+      "hs_m": 0.8,
       "tp_s": 9.88,
-      "dp_deg": 36,
-      "sst_c": 30.7
+      "dp_deg": 45,
+      "sst_c": 29.9
     },
     {
       "timestamp": "11.12.2024-03:00:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.98,
-      "tp_s": 10.53,
-      "dp_deg": 26,
+      "hs_m": 1.96,
+      "tp_s": 9.88,
+      "dp_deg": 38,
       "sst_c": 29.2
     },
     {
@@ -146,27 +146,27 @@
       "sst_c": 26.1
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.25,
+      "hs_m": 1.28,
       "tp_s": 15.38,
-      "dp_deg": 310,
+      "dp_deg": 311,
       "sst_c": 26.8
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.07,
-      "tp_s": 7.69,
-      "dp_deg": 87,
+      "hs_m": 2.15,
+      "tp_s": 7.14,
+      "dp_deg": 79,
       "sst_c": 26.1
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "11.12.2024-02:00:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.82,
+      "hs_m": 0.86,
       "tp_s": 14.29,
-      "dp_deg": 246,
-      "sst_c": 16.1
+      "dp_deg": 261,
+      "sst_c": 16
     },
     {
       "timestamp": "11.12.2024-03:00:00",
@@ -350,16 +350,16 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.94,
-      "tp_s": 13.33,
-      "dp_deg": 303,
-      "sst_c": 16.5
+      "hs_m": 1.7,
+      "tp_s": 14.29,
+      "dp_deg": 226,
+      "sst_c": 16.4
     },
     {
       "timestamp": "11.12.2024-02:30:00",
@@ -386,15 +386,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.07,
-      "tp_s": 13.33,
-      "dp_deg": 244,
+      "hs_m": 0.96,
+      "tp_s": 14.29,
+      "dp_deg": 254,
       "sst_c": 16.2
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
       "hs_m": 1.06,
-      "tp_s": 13.33,
-      "dp_deg": 245,
+      "tp_s": 12.5,
+      "dp_deg": 249,
       "sst_c": 11.9
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78806,
       "longitude": -122.6313,
       "depth_cm": 1451,
-      "hs_m": 1.43,
-      "tp_s": 13.33,
-      "dp_deg": 268,
+      "hs_m": 1.5,
+      "tp_s": 12.5,
+      "dp_deg": 269,
       "sst_c": 12.4
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.29,
+      "hs_m": 1.31,
       "tp_s": 4.17,
-      "dp_deg": 35,
+      "dp_deg": 34,
       "sst_c": 25.5
     },
     {
@@ -854,16 +854,16 @@
       "sst_c": 23
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.2,
-      "tp_s": 12.5,
-      "dp_deg": 93,
-      "sst_c": 20.5
+      "hs_m": 1.23,
+      "tp_s": 13.33,
+      "dp_deg": 88,
+      "sst_c": 20.6
     },
     {
       "timestamp": "11.12.2024-03:00:00",
@@ -926,15 +926,15 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.78,
-      "tp_s": 5.88,
-      "dp_deg": 144,
+      "hs_m": 0.77,
+      "tp_s": 5.56,
+      "dp_deg": 151,
       "sst_c": 18.1
     },
     {
@@ -1046,7 +1046,7 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "11.12.2024-02:30:00",
+      "timestamp": "11.12.2024-03:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8032,
@@ -1054,7 +1054,7 @@
       "depth_cm": 1980,
       "hs_m": 0.63,
       "tp_s": 4.55,
-      "dp_deg": 282,
+      "dp_deg": 281,
       "sst_c": 10
     },
     {
