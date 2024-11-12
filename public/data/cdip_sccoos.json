@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-12T21:21:07.673Z",
+  "last_updated": "2024-11-12T21:32:21.881Z",
   "data": [
     {
       "timestamp": "11.12.2024-20:30:00",
@@ -110,16 +110,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.06,
-      "tp_s": 14.29,
-      "dp_deg": 306,
-      "sst_c": 27
+      "hs_m": 1.09,
+      "tp_s": 13.33,
+      "dp_deg": 309,
+      "sst_c": 27.1
     },
     {
       "timestamp": "11.12.2024-20:30:00",
@@ -170,15 +170,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.65,
-      "tp_s": 11.11,
-      "dp_deg": 342,
+      "hs_m": 1.61,
+      "tp_s": 12.5,
+      "dp_deg": 343,
       "sst_c": 26
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.46,
-      "tp_s": 7.69,
-      "dp_deg": 278,
+      "hs_m": 1.55,
+      "tp_s": 8.33,
+      "dp_deg": 271,
       "sst_c": null
     },
     {
@@ -266,27 +266,27 @@
       "sst_c": 17.8
     },
     {
-      "timestamp": "11.12.2024-19:45:00",
+      "timestamp": "11.12.2024-20:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 1.21,
-      "tp_s": 7.11,
+      "hs_m": 1.11,
+      "tp_s": 6.92,
       "dp_deg": null,
       "sst_c": null
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 1.12,
-      "tp_s": 7.14,
-      "dp_deg": 284,
+      "tp_s": 7.69,
+      "dp_deg": 281,
       "sst_c": 16.9
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.28,
+      "hs_m": 1.27,
       "tp_s": 7.69,
-      "dp_deg": 274,
+      "dp_deg": 278,
       "sst_c": 17.5
     },
     {
@@ -326,16 +326,16 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.1,
+      "hs_m": 0.98,
       "tp_s": 7.69,
-      "dp_deg": 267,
-      "sst_c": 16.8
+      "dp_deg": 270,
+      "sst_c": 16.7
     },
     {
       "timestamp": "11.12.2024-20:30:00",
@@ -386,16 +386,16 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.98,
-      "tp_s": 13.33,
-      "dp_deg": 186,
-      "sst_c": 16.4
+      "hs_m": 1.05,
+      "tp_s": 12.5,
+      "dp_deg": 237,
+      "sst_c": 16.2
     },
     {
       "timestamp": "11.12.2024-20:30:00",
@@ -470,15 +470,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "11.12.2024-20:00:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.76667,
       "longitude": -121.49661,
       "depth_cm": 65000,
-      "hs_m": 3.23,
+      "hs_m": 3.87,
       "tp_s": 15.38,
-      "dp_deg": 305,
+      "dp_deg": 302,
       "sst_c": 15.1
     },
     {
@@ -602,27 +602,27 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 5.04,
+      "hs_m": 5.25,
       "tp_s": 16.67,
-      "dp_deg": 288,
+      "dp_deg": 291,
       "sst_c": 12.1
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 5.92,
-      "tp_s": 15.38,
-      "dp_deg": 286,
+      "hs_m": 5.19,
+      "tp_s": 14.29,
+      "dp_deg": 285,
       "sst_c": 12
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "11.12.2024-20:00:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 4.39,
-      "tp_s": 14.29,
-      "dp_deg": 267,
+      "hs_m": 4.69,
+      "tp_s": 15.38,
+      "dp_deg": 260,
       "sst_c": 12.2
     },
     {
@@ -746,15 +746,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 0.83,
+      "hs_m": 0.76,
       "tp_s": 3.85,
-      "dp_deg": 51,
+      "dp_deg": 58,
       "sst_c": 26
     },
     {
@@ -842,13 +842,13 @@
       "sst_c": 21
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2129,
       "longitude": -76.9493,
       "depth_cm": 3048,
-      "hs_m": 1.53,
+      "hs_m": 1.5,
       "tp_s": 9.09,
       "dp_deg": 145,
       "sst_c": 22.6
@@ -866,7 +866,7 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
@@ -874,19 +874,19 @@
       "depth_cm": 1829,
       "hs_m": 2.08,
       "tp_s": 6.67,
-      "dp_deg": 16,
-      "sst_c": 19.1
+      "dp_deg": 10,
+      "sst_c": 19
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 2.03,
+      "hs_m": 1.99,
       "tp_s": 6.67,
-      "dp_deg": 16,
+      "dp_deg": 19,
       "sst_c": 18.9
     },
     {
@@ -938,39 +938,39 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
       "hs_m": 0.94,
-      "tp_s": 4.55,
-      "dp_deg": 2,
+      "tp_s": 4.76,
+      "dp_deg": 4,
       "sst_c": 17.5
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
-      "hs_m": 1.13,
-      "tp_s": 5,
-      "dp_deg": 40,
+      "hs_m": 1.2,
+      "tp_s": 4.35,
+      "dp_deg": 34,
       "sst_c": 17.5
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 1.1,
-      "tp_s": 4.76,
-      "dp_deg": 18,
+      "hs_m": 1.15,
+      "tp_s": 5,
+      "dp_deg": 23,
       "sst_c": 16.2
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 2.23,
-      "tp_s": 5.88,
-      "dp_deg": 342,
+      "hs_m": 2.32,
+      "tp_s": 6.25,
+      "dp_deg": 339,
       "sst_c": 16.1
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "11.12.2024-20:30:00",
+      "timestamp": "11.12.2024-21:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 1.15,
-      "tp_s": 5,
-      "dp_deg": 334,
+      "hs_m": 1.1,
+      "tp_s": 4.76,
+      "dp_deg": 328,
       "sst_c": 12.5
     },
     {
