@@ -1,14 +1,14 @@
 {
-  "last_updated": "2024-11-13T17:33:43.544Z",
+  "last_updated": "2024-11-13T17:47:09.984Z",
   "data": [
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.83,
+      "hs_m": 1.93,
       "tp_s": 9.09,
       "dp_deg": 152,
       "sst_c": 28.4
@@ -86,15 +86,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.53,
-      "tp_s": 10.53,
-      "dp_deg": 49,
+      "hs_m": 1.67,
+      "tp_s": 6.67,
+      "dp_deg": 68,
       "sst_c": 29
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.02,
-      "tp_s": 6.67,
-      "dp_deg": 147,
+      "hs_m": 0.99,
+      "tp_s": 7.69,
+      "dp_deg": 144,
       "sst_c": 25.9
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "11.13.2024-16:00:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3.13,
-      "tp_s": 15.38,
-      "dp_deg": 320,
+      "hs_m": 3.01,
+      "tp_s": 14.29,
+      "dp_deg": 324,
       "sst_c": 25
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 8.9
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 2.21,
-      "tp_s": 16.67,
-      "dp_deg": 287,
+      "hs_m": 2.23,
+      "tp_s": 15.38,
+      "dp_deg": 282,
       "sst_c": null
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.12,
-      "tp_s": 13.33,
-      "dp_deg": 298,
-      "sst_c": 16.4
+      "hs_m": 1.14,
+      "tp_s": 15.38,
+      "dp_deg": 302,
+      "sst_c": 16.5
     },
     {
       "timestamp": "11.13.2024-16:30:00",
@@ -434,16 +434,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
       "hs_m": 0.94,
-      "tp_s": 10.53,
-      "dp_deg": 255,
-      "sst_c": 15.8
+      "tp_s": 11.76,
+      "dp_deg": 265,
+      "sst_c": 15.9
     },
     {
       "timestamp": "11.13.2024-16:30:00",
@@ -518,16 +518,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.94,
-      "tp_s": 16.67,
-      "dp_deg": 235,
-      "sst_c": 11.7
+      "hs_m": 1.74,
+      "tp_s": 14.29,
+      "dp_deg": 243,
+      "sst_c": 11.8
     },
     {
       "timestamp": "11.13.2024-16:30:00",
@@ -554,16 +554,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78806,
       "longitude": -122.6313,
       "depth_cm": 1451,
-      "hs_m": 2.24,
-      "tp_s": 15.38,
-      "dp_deg": 272,
-      "sst_c": 12.3
+      "hs_m": 2.14,
+      "tp_s": 14.29,
+      "dp_deg": 271,
+      "sst_c": 12.4
     },
     {
       "timestamp": "11.13.2024-17:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "11.13.2024-16:00:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.7,
-      "tp_s": 13.33,
-      "dp_deg": 261,
+      "hs_m": 3.42,
+      "tp_s": 10.53,
+      "dp_deg": 232,
       "sst_c": 12.1
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.5,
-      "tp_s": 6.25,
-      "dp_deg": 148,
+      "hs_m": 1.46,
+      "tp_s": 6.67,
+      "dp_deg": 150,
       "sst_c": 25.4
     },
     {
@@ -878,28 +878,28 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 1.97,
-      "tp_s": 7.69,
-      "dp_deg": 31,
+      "hs_m": 2,
+      "tp_s": 7.14,
+      "dp_deg": 41,
       "sst_c": 18.5
     },
     {
-      "timestamp": "11.13.2024-16:30:00",
+      "timestamp": "11.13.2024-17:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.73,
+      "hs_m": 1.74,
       "tp_s": 8.33,
-      "dp_deg": 52,
-      "sst_c": 18.1
+      "dp_deg": 54,
+      "sst_c": 18
     },
     {
       "timestamp": "11.13.2024-16:30:00",
