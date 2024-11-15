@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-15T21:32:44.490Z",
+  "last_updated": "2024-11-15T21:47:10.932Z",
   "data": [
     {
       "timestamp": "11.15.2024-20:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.12,
-      "tp_s": 9.88,
-      "dp_deg": 80,
+      "hs_m": 1.13,
+      "tp_s": 9.09,
+      "dp_deg": 87,
       "sst_c": 29
     },
     {
@@ -86,7 +86,7 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
@@ -94,7 +94,7 @@
       "depth_cm": 48768,
       "hs_m": 1.34,
       "tp_s": 10.53,
-      "dp_deg": 35,
+      "dp_deg": 27,
       "sst_c": 29
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 2.95,
+      "hs_m": 3.21,
       "tp_s": 9.09,
-      "dp_deg": 63,
+      "dp_deg": 69,
       "sst_c": 25.8
     },
     {
@@ -206,16 +206,16 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.7,
+      "hs_m": 2.64,
       "tp_s": 9.09,
-      "dp_deg": 68,
-      "sst_c": 24.8
+      "dp_deg": 65,
+      "sst_c": 24.9
     },
     {
       "timestamp": "11.15.2024-20:30:00",
@@ -290,15 +290,15 @@
       "sst_c": 16
     },
     {
-      "timestamp": "11.15.2024-20:00:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 2.55,
-      "tp_s": 8.33,
-      "dp_deg": 273,
+      "hs_m": 2.31,
+      "tp_s": 7.69,
+      "dp_deg": 280,
       "sst_c": 15.9
     },
     {
@@ -422,15 +422,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 2.3,
-      "tp_s": 15.38,
-      "dp_deg": 278,
+      "hs_m": 2.48,
+      "tp_s": 16.67,
+      "dp_deg": 272,
       "sst_c": 14
     },
     {
@@ -734,16 +734,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.6,
+      "hs_m": 0.61,
       "tp_s": 7.69,
-      "dp_deg": 142,
-      "sst_c": 24.4
+      "dp_deg": 147,
+      "sst_c": 24.5
     },
     {
       "timestamp": "11.15.2024-21:00:00",
@@ -854,15 +854,15 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
       "hs_m": 3.53,
-      "tp_s": 11.76,
-      "dp_deg": 83,
+      "tp_s": 12.5,
+      "dp_deg": 81,
       "sst_c": 18.2
     },
     {
@@ -878,15 +878,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 3.17,
-      "tp_s": 12.5,
-      "dp_deg": 62,
+      "hs_m": 3.02,
+      "tp_s": 6.67,
+      "dp_deg": 34,
       "sst_c": 17.8
     },
     {
@@ -926,39 +926,39 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.78,
-      "tp_s": 11.76,
-      "dp_deg": 65,
+      "hs_m": 1.82,
+      "tp_s": 6.25,
+      "dp_deg": 79,
       "sst_c": 16.9
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.86,
-      "tp_s": 11.76,
-      "dp_deg": 107,
+      "hs_m": 0.85,
+      "tp_s": 13.33,
+      "dp_deg": 109,
       "sst_c": 15.9
     },
     {
-      "timestamp": "11.15.2024-20:30:00",
+      "timestamp": "11.15.2024-21:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
-      "hs_m": 1.67,
+      "hs_m": 1.56,
       "tp_s": 13.33,
-      "dp_deg": 89,
+      "dp_deg": 93,
       "sst_c": 15.9
     },
     {
