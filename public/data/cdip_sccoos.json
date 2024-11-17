@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-17T05:35:06.047Z",
+  "last_updated": "2024-11-17T05:47:00.944Z",
   "data": [
     {
       "timestamp": "11.17.2024-04:30:00",
@@ -86,27 +86,27 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.44,
+      "hs_m": 1.41,
       "tp_s": 9.88,
-      "dp_deg": 25,
-      "sst_c": 29.2
+      "dp_deg": 29,
+      "sst_c": 29.1
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 3.7,
-      "tp_s": 10.53,
-      "dp_deg": 82,
+      "hs_m": 3.88,
+      "tp_s": 11.11,
+      "dp_deg": 65,
       "sst_c": 25.7
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 1.4,
-      "tp_s": 10.53,
-      "dp_deg": 273,
+      "hs_m": 1.25,
+      "tp_s": 11.76,
+      "dp_deg": 268,
       "sst_c": 15.8
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 1.1,
+      "hs_m": 1.08,
       "tp_s": 11.11,
-      "dp_deg": 251,
+      "dp_deg": 250,
       "sst_c": 14.5
     },
     {
@@ -746,27 +746,27 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.75,
-      "tp_s": 4.17,
-      "dp_deg": 139,
+      "hs_m": 0.78,
+      "tp_s": 3.57,
+      "dp_deg": 126,
       "sst_c": 24.1
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 1.06,
-      "tp_s": 4.55,
-      "dp_deg": 115,
+      "hs_m": 1.03,
+      "tp_s": 4.76,
+      "dp_deg": 122,
       "sst_c": 25
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.78,
-      "tp_s": 11.11,
-      "dp_deg": 68,
+      "hs_m": 1.7,
+      "tp_s": 11.76,
+      "dp_deg": 78,
       "sst_c": 17.7
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.65,
+      "hs_m": 1.61,
       "tp_s": 11.76,
-      "dp_deg": 89,
-      "sst_c": 17.2
+      "dp_deg": 90,
+      "sst_c": 17.1
     },
     {
       "timestamp": "11.17.2024-04:30:00",
@@ -938,15 +938,15 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.24,
-      "tp_s": 4.55,
-      "dp_deg": 35,
+      "hs_m": 1.33,
+      "tp_s": 11.11,
+      "dp_deg": 85,
       "sst_c": 16.5
     },
     {
@@ -962,14 +962,14 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
       "hs_m": 0.98,
-      "tp_s": 11.11,
+      "tp_s": 11.76,
       "dp_deg": 90,
       "sst_c": 15.7
     },
@@ -986,16 +986,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
       "hs_m": 1.26,
-      "tp_s": 5,
-      "dp_deg": 5,
-      "sst_c": 15.1
+      "tp_s": 4.76,
+      "dp_deg": 4,
+      "sst_c": 15.2
     },
     {
       "timestamp": "11.17.2024-05:00:00",
@@ -1022,15 +1022,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "11.17.2024-04:30:00",
+      "timestamp": "11.17.2024-05:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.93,
-      "tp_s": 4.55,
-      "dp_deg": 348,
+      "hs_m": 0.99,
+      "tp_s": 4.76,
+      "dp_deg": 349,
       "sst_c": 11.4
     },
     {
