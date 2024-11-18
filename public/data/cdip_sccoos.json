@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-18T09:35:06.129Z",
+  "last_updated": "2024-11-18T09:47:20.749Z",
   "data": [
     {
       "timestamp": "11.18.2024-08:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.28,
+      "hs_m": 1.3,
       "tp_s": 9.88,
-      "dp_deg": 15,
+      "dp_deg": 28,
       "sst_c": 29
     },
     {
@@ -134,38 +134,38 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.44,
+      "hs_m": 1.34,
       "tp_s": 8.33,
-      "dp_deg": 147,
+      "dp_deg": 145,
       "sst_c": 25.7
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.88,
+      "hs_m": 0.96,
       "tp_s": 14.29,
-      "dp_deg": 298,
-      "sst_c": 26.5
+      "dp_deg": 303,
+      "sst_c": 26.4
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.64,
-      "tp_s": 9.88,
+      "hs_m": 2.77,
+      "tp_s": 7.14,
       "dp_deg": 66,
       "sst_c": 25.4
     },
@@ -206,15 +206,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3,
-      "tp_s": 11.11,
-      "dp_deg": 75,
+      "hs_m": 3.08,
+      "tp_s": 10.53,
+      "dp_deg": 74,
       "sst_c": 24.6
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.08,
+      "hs_m": 1.04,
       "tp_s": 11.76,
-      "dp_deg": 263,
-      "sst_c": 16.3
+      "dp_deg": 259,
+      "sst_c": 16.2
     },
     {
       "timestamp": "11.18.2024-08:45:00",
@@ -290,16 +290,16 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "11.18.2024-08:00:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
       "hs_m": 0.78,
-      "tp_s": 12.5,
-      "dp_deg": 267,
-      "sst_c": 15.2
+      "tp_s": 9.88,
+      "dp_deg": 271,
+      "sst_c": 15.1
     },
     {
       "timestamp": "11.18.2024-09:00:00",
@@ -338,15 +338,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.77,
-      "tp_s": 6.67,
-      "dp_deg": 267,
+      "hs_m": 0.82,
+      "tp_s": 15.38,
+      "dp_deg": 205,
       "sst_c": 15.7
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.74,
+      "hs_m": 0.75,
       "tp_s": 15.38,
-      "dp_deg": 216,
-      "sst_c": 14.3
+      "dp_deg": 218,
+      "sst_c": 14.2
     },
     {
       "timestamp": "11.18.2024-08:30:00",
@@ -386,15 +386,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.73,
-      "tp_s": 12.5,
-      "dp_deg": 250,
+      "hs_m": 0.79,
+      "tp_s": 11.76,
+      "dp_deg": 261,
       "sst_c": 14.6
     },
     {
@@ -626,16 +626,16 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 4.59,
-      "tp_s": 12.5,
-      "dp_deg": 285,
-      "sst_c": 11
+      "hs_m": 4.68,
+      "tp_s": 11.76,
+      "dp_deg": 287,
+      "sst_c": 11.1
     },
     {
       "timestamp": "11.18.2024-09:00:00",
@@ -650,16 +650,16 @@
       "sst_c": 12
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.86,
-      "tp_s": 11.76,
-      "dp_deg": 268,
-      "sst_c": 11.4
+      "hs_m": 3.9,
+      "tp_s": 13.33,
+      "dp_deg": 267,
+      "sst_c": 11.6
     },
     {
       "timestamp": "11.18.2024-09:00:00",
@@ -734,15 +734,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.29,
+      "hs_m": 1.36,
       "tp_s": 6.25,
-      "dp_deg": 148,
+      "dp_deg": 153,
       "sst_c": 24
     },
     {
@@ -818,15 +818,15 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.75,
+      "hs_m": 0.74,
       "tp_s": 3.7,
-      "dp_deg": 273,
+      "dp_deg": 275,
       "sst_c": 19
     },
     {
@@ -854,15 +854,15 @@
       "sst_c": 21.3
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.91,
+      "hs_m": 0.96,
       "tp_s": 8.33,
-      "dp_deg": 76,
+      "dp_deg": 71,
       "sst_c": 17.4
     },
     {
@@ -1010,15 +1010,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.3,
+      "hs_m": 0.29,
       "tp_s": 3.33,
-      "dp_deg": 359,
+      "dp_deg": 6,
       "sst_c": 11.3
     },
     {
@@ -1034,7 +1034,7 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "11.18.2024-08:30:00",
+      "timestamp": "11.18.2024-09:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
