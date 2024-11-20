@@ -1,28 +1,28 @@
 {
-  "last_updated": "2024-11-20T19:32:25.443Z",
+  "last_updated": "2024-11-20T19:47:12.743Z",
   "data": [
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.74,
-      "tp_s": 11.11,
-      "dp_deg": 117,
-      "sst_c": 28.2
+      "hs_m": 1.72,
+      "tp_s": 10.53,
+      "dp_deg": 127,
+      "sst_c": 28.3
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.88,
-      "tp_s": 10.53,
-      "dp_deg": 122,
+      "hs_m": 2.69,
+      "tp_s": 11.11,
+      "dp_deg": 127,
       "sst_c": 27.8
     },
     {
@@ -74,15 +74,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.37,
+      "hs_m": 1.56,
       "tp_s": 9.88,
-      "dp_deg": 48,
+      "dp_deg": 58,
       "sst_c": 29.2
     },
     {
@@ -170,27 +170,27 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.67,
-      "tp_s": 9.09,
-      "dp_deg": 92,
-      "sst_c": 25.4
+      "hs_m": 1.65,
+      "tp_s": 9.88,
+      "dp_deg": 68,
+      "sst_c": 25.5
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.46,
-      "tp_s": 9.09,
-      "dp_deg": 69,
+      "hs_m": 1.45,
+      "tp_s": 8.33,
+      "dp_deg": 66,
       "sst_c": 25.5
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.56,
+      "hs_m": 1.62,
       "tp_s": 9.88,
-      "dp_deg": 75,
+      "dp_deg": 84,
       "sst_c": 25
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.17,
-      "tp_s": 13.33,
-      "dp_deg": 277,
+      "hs_m": 1.05,
+      "tp_s": 12.5,
+      "dp_deg": 274,
       "sst_c": 16.4
     },
     {
@@ -302,16 +302,16 @@
       "sst_c": 16
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.79,
-      "tp_s": 13.33,
+      "hs_m": 0.77,
+      "tp_s": 12.5,
       "dp_deg": 267,
-      "sst_c": 15.5
+      "sst_c": 15.2
     },
     {
       "timestamp": "11.20.2024-19:00:00",
@@ -362,27 +362,27 @@
       "sst_c": 16
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.58,
-      "tp_s": 13.33,
-      "dp_deg": 306,
+      "hs_m": 1.48,
+      "tp_s": 14.29,
+      "dp_deg": 303,
       "sst_c": 14.7
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.6,
-      "tp_s": 12.5,
-      "dp_deg": 235,
+      "hs_m": 0.55,
+      "tp_s": 13.33,
+      "dp_deg": 231,
       "sst_c": 14.9
     },
     {
@@ -422,16 +422,16 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.61,
-      "tp_s": 13.33,
-      "dp_deg": 249,
-      "sst_c": 14.5
+      "hs_m": 0.6,
+      "tp_s": 14.29,
+      "dp_deg": 256,
+      "sst_c": 14.6
     },
     {
       "timestamp": "11.20.2024-19:00:00",
@@ -446,16 +446,16 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.65,
-      "tp_s": 12.5,
-      "dp_deg": 238,
-      "sst_c": 15.7
+      "hs_m": 0.64,
+      "tp_s": 13.33,
+      "dp_deg": 223,
+      "sst_c": 15.9
     },
     {
       "timestamp": "11.20.2024-18:30:00",
@@ -470,16 +470,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.4,
+      "hs_m": 1.54,
       "tp_s": 14.29,
-      "dp_deg": 309,
-      "sst_c": 12.4
+      "dp_deg": 305,
+      "sst_c": 12.5
     },
     {
       "timestamp": "11.20.2024-19:00:00",
@@ -518,28 +518,28 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.56,
-      "tp_s": 11.76,
-      "dp_deg": 349,
+      "hs_m": 1.64,
+      "tp_s": 13.33,
+      "dp_deg": 353,
       "sst_c": 12
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.89,
-      "tp_s": 15.38,
-      "dp_deg": 239,
-      "sst_c": 11.5
+      "hs_m": 2.1,
+      "tp_s": 13.33,
+      "dp_deg": 249,
+      "sst_c": 11.6
     },
     {
       "timestamp": "11.20.2024-18:30:00",
@@ -722,19 +722,19 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.88,
-      "tp_s": 5.56,
+      "hs_m": 1.87,
+      "tp_s": 5.88,
       "dp_deg": 51,
       "sst_c": 24.9
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
@@ -742,7 +742,7 @@
       "depth_cm": 4600,
       "hs_m": 1.08,
       "tp_s": 4,
-      "dp_deg": 319,
+      "dp_deg": 324,
       "sst_c": 24.2
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.78,
-      "tp_s": 11.76,
-      "dp_deg": 61,
-      "sst_c": 25.6
+      "hs_m": 0.81,
+      "tp_s": 13.33,
+      "dp_deg": 65,
+      "sst_c": 25.7
     },
     {
       "timestamp": "11.20.2024-19:00:00",
@@ -830,16 +830,16 @@
       "sst_c": 23.3
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.75,
+      "hs_m": 0.77,
       "tp_s": 6.25,
-      "dp_deg": 176,
-      "sst_c": 19.7
+      "dp_deg": 177,
+      "sst_c": 19.9
     },
     {
       "timestamp": "11.20.2024-19:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.78,
+      "hs_m": 0.73,
       "tp_s": 9.88,
-      "dp_deg": 81,
+      "dp_deg": 73,
       "sst_c": 18
     },
     {
@@ -902,51 +902,51 @@
       "sst_c": 17
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.53,
+      "hs_m": 0.55,
       "tp_s": 9.09,
-      "dp_deg": 76,
+      "dp_deg": 83,
       "sst_c": 16.7
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.61,
-      "tp_s": 9.88,
-      "dp_deg": 87,
+      "hs_m": 0.63,
+      "tp_s": 10.53,
+      "dp_deg": 83,
       "sst_c": 16.8
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.7,
-      "tp_s": 9.09,
-      "dp_deg": 84,
+      "hs_m": 0.69,
+      "tp_s": 8.33,
+      "dp_deg": 82,
       "sst_c": 17
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.45,
+      "hs_m": 0.47,
       "tp_s": 9.88,
-      "dp_deg": 103,
+      "dp_deg": 93,
       "sst_c": 16.2
     },
     {
@@ -1022,15 +1022,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "11.20.2024-18:30:00",
+      "timestamp": "11.20.2024-19:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.44,
-      "tp_s": 3.45,
-      "dp_deg": 360,
+      "hs_m": 0.47,
+      "tp_s": 2.7,
+      "dp_deg": 19,
       "sst_c": 11.1
     },
     {
