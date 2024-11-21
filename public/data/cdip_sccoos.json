@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-21T18:49:11.641Z",
+  "last_updated": "2024-11-21T19:02:56.754Z",
   "data": [
     {
       "timestamp": "11.21.2024-18:00:00",
@@ -194,27 +194,27 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 1.1,
-      "tp_s": 13.33,
-      "dp_deg": 4,
+      "hs_m": 1.25,
+      "tp_s": 8.33,
+      "dp_deg": 59,
       "sst_c": 25.2
     },
     {
-      "timestamp": "11.21.2024-17:50:07",
+      "timestamp": "11.21.2024-18:20:07",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.09,
-      "tp_s": 13.33,
-      "dp_deg": 321,
+      "hs_m": 1.16,
+      "tp_s": 12.5,
+      "dp_deg": 314,
       "sst_c": 26
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.99,
-      "tp_s": 14.29,
-      "dp_deg": 260,
-      "sst_c": 15
+      "hs_m": 0.92,
+      "tp_s": 12.5,
+      "dp_deg": 264,
+      "sst_c": 15.1
     },
     {
       "timestamp": "11.21.2024-17:30:00",
@@ -362,16 +362,16 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.69,
-      "tp_s": 12.5,
-      "dp_deg": 297,
-      "sst_c": 14.1
+      "hs_m": 3.11,
+      "tp_s": 13.33,
+      "dp_deg": 305,
+      "sst_c": 14.2
     },
     {
       "timestamp": "11.21.2024-18:00:00",
@@ -434,15 +434,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.73,
+      "hs_m": 1.74,
       "tp_s": 12.5,
-      "dp_deg": 275,
+      "dp_deg": 264,
       "sst_c": 14.2
     },
     {
@@ -482,28 +482,28 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.76667,
       "longitude": -121.49661,
       "depth_cm": 65000,
-      "hs_m": 3.32,
+      "hs_m": 3.64,
       "tp_s": 14.29,
-      "dp_deg": 309,
+      "dp_deg": 312,
       "sst_c": 14.4
     },
     {
-      "timestamp": "11.21.2024-17:30:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.62,
+      "hs_m": 2.66,
       "tp_s": 13.33,
-      "dp_deg": 271,
-      "sst_c": 11.7
+      "dp_deg": 274,
+      "sst_c": 11.9
     },
     {
       "timestamp": "11.21.2024-18:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.31,
-      "tp_s": 10.53,
-      "dp_deg": 346,
-      "sst_c": 12.2
+      "hs_m": 1.47,
+      "tp_s": 11.76,
+      "dp_deg": 349,
+      "sst_c": 12
     },
     {
       "timestamp": "11.21.2024-18:00:00",
@@ -602,16 +602,16 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 3.23,
+      "hs_m": 3.25,
       "tp_s": 13.33,
-      "dp_deg": 293,
-      "sst_c": 11.6
+      "dp_deg": 292,
+      "sst_c": 11.7
     },
     {
       "timestamp": "11.21.2024-18:00:00",
@@ -674,15 +674,15 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "11.21.2024-17:30:00",
+      "timestamp": "11.21.2024-18:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 0.85,
-      "tp_s": 4.55,
-      "dp_deg": 331,
+      "hs_m": 0.78,
+      "tp_s": 5,
+      "dp_deg": 324,
       "sst_c": 6.7
     },
     {
@@ -698,15 +698,15 @@
       "sst_c": 27.6
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 1.89,
-      "tp_s": 8.33,
-      "dp_deg": 287,
+      "hs_m": 1.86,
+      "tp_s": 7.69,
+      "dp_deg": 295,
       "sst_c": 24.2
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 1.85,
+      "hs_m": 1.77,
       "tp_s": 7.69,
-      "dp_deg": 16,
+      "dp_deg": 17,
       "sst_c": 16.8
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "11.21.2024-18:00:00",
+      "timestamp": "11.21.2024-18:30:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 1.13,
+      "hs_m": 1.07,
       "tp_s": 11.76,
-      "dp_deg": 14,
+      "dp_deg": 7,
       "sst_c": 29.3
     }
   ]
