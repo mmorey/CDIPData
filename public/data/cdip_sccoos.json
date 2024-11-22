@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-22T22:35:10.421Z",
+  "last_updated": "2024-11-22T22:47:10.688Z",
   "data": [
     {
       "timestamp": "11.22.2024-21:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 29
     },
     {
-      "timestamp": "11.22.2024-21:00:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.73,
-      "tp_s": 10.53,
-      "dp_deg": 37,
+      "hs_m": 1.79,
+      "tp_s": 9.88,
+      "dp_deg": 35,
       "sst_c": 29.2
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.34,
+      "hs_m": 1.41,
       "tp_s": 10.53,
-      "dp_deg": 45,
+      "dp_deg": 35,
       "sst_c": 29
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.31,
-      "tp_s": 15.38,
-      "dp_deg": 192,
+      "hs_m": 1.28,
+      "tp_s": 12.5,
+      "dp_deg": 274,
       "sst_c": null
     },
     {
@@ -254,15 +254,15 @@
       "sst_c": 14.3
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.19,
-      "tp_s": 11.76,
-      "dp_deg": 282,
+      "hs_m": 1.28,
+      "tp_s": 15.38,
+      "dp_deg": 209,
       "sst_c": 15.9
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.81,
+      "hs_m": 0.7,
       "tp_s": 15.38,
-      "dp_deg": 194,
-      "sst_c": 15.1
+      "dp_deg": 192,
+      "sst_c": 15
     },
     {
       "timestamp": "11.22.2024-21:30:00",
@@ -434,16 +434,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.83,
-      "tp_s": 9.09,
-      "dp_deg": 262,
-      "sst_c": 14.6
+      "hs_m": 0.86,
+      "tp_s": 11.11,
+      "dp_deg": 248,
+      "sst_c": 14.9
     },
     {
       "timestamp": "11.22.2024-21:30:00",
@@ -494,16 +494,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 2.56,
-      "tp_s": 12.5,
-      "dp_deg": 308,
-      "sst_c": 11.9
+      "hs_m": 2.73,
+      "tp_s": 9.09,
+      "dp_deg": 253,
+      "sst_c": 11.8
     },
     {
       "timestamp": "11.22.2024-22:00:00",
@@ -566,28 +566,28 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 3.22,
+      "hs_m": 3.45,
       "tp_s": 9.88,
-      "dp_deg": 239,
+      "dp_deg": 229,
       "sst_c": 13.3
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 2.43,
+      "hs_m": 2.36,
       "tp_s": 9.88,
-      "dp_deg": 255,
-      "sst_c": 12.7
+      "dp_deg": 256,
+      "sst_c": 12.8
     },
     {
       "timestamp": "11.22.2024-22:00:00",
@@ -650,15 +650,15 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.91,
+      "hs_m": 0.93,
       "tp_s": 5.26,
-      "dp_deg": 79,
+      "dp_deg": 75,
       "sst_c": 10
     },
     {
@@ -710,16 +710,16 @@
       "sst_c": 24.1
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.33,
-      "tp_s": 2.5,
-      "dp_deg": 338,
-      "sst_c": 23.4
+      "hs_m": 0.35,
+      "tp_s": 5.88,
+      "dp_deg": 236,
+      "sst_c": 23.3
     },
     {
       "timestamp": "11.22.2024-22:00:00",
@@ -830,14 +830,14 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.83,
-      "tp_s": 4.76,
+      "hs_m": 1.73,
+      "tp_s": 4.17,
       "dp_deg": 280,
       "sst_c": 17.9
     },
@@ -878,15 +878,15 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.07,
-      "tp_s": 3.85,
-      "dp_deg": 287,
+      "hs_m": 1.02,
+      "tp_s": 3.7,
+      "dp_deg": 280,
       "sst_c": 16.2
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 1.51,
+      "hs_m": 1.44,
       "tp_s": 5.56,
-      "dp_deg": 218,
+      "dp_deg": 211,
       "sst_c": 14.5
     },
     {
@@ -986,28 +986,28 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.34,
-      "tp_s": 7.69,
-      "dp_deg": 359,
+      "hs_m": 0.3,
+      "tp_s": 8.33,
+      "dp_deg": 357,
       "sst_c": 10.9
     },
     {
-      "timestamp": "11.22.2024-21:30:00",
+      "timestamp": "11.22.2024-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.73,
+      "hs_m": 1.77,
       "tp_s": 7.69,
-      "dp_deg": 86,
-      "sst_c": 10.6
+      "dp_deg": 92,
+      "sst_c": 10.5
     },
     {
       "timestamp": "11.22.2024-21:30:00",
