@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-23T09:33:26.554Z",
+  "last_updated": "2024-11-23T09:46:52.408Z",
   "data": [
     {
       "timestamp": "11.23.2024-08:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.64,
-      "tp_s": 11.11,
-      "dp_deg": 47,
+      "hs_m": 1.7,
+      "tp_s": 10.53,
+      "dp_deg": 45,
       "sst_c": 29.1
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.88,
-      "tp_s": 9.88,
-      "dp_deg": 307,
+      "hs_m": 0.87,
+      "tp_s": 12.5,
+      "dp_deg": 208,
       "sst_c": 25.9
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.83,
+      "hs_m": 0.86,
       "tp_s": 15.38,
-      "dp_deg": 211,
+      "dp_deg": 246,
       "sst_c": 13.8
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.85,
-      "tp_s": 9.88,
-      "dp_deg": 262,
+      "hs_m": 0.81,
+      "tp_s": 12.5,
+      "dp_deg": 233,
       "sst_c": 14.4
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 0.82,
-      "tp_s": 11.76,
-      "dp_deg": 348,
+      "hs_m": 0.8,
+      "tp_s": 11.11,
+      "dp_deg": 346,
       "sst_c": 12
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.56,
-      "tp_s": 9.09,
-      "dp_deg": 251,
+      "hs_m": 2.68,
+      "tp_s": 11.76,
+      "dp_deg": 310,
       "sst_c": 14.1
     },
     {
@@ -602,28 +602,28 @@
       "sst_c": 12
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 3.21,
-      "tp_s": 9.88,
-      "dp_deg": 216,
+      "hs_m": 3.24,
+      "tp_s": 10.53,
+      "dp_deg": 240,
       "sst_c": 11.9
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.5,
+      "hs_m": 2.56,
       "tp_s": 10.53,
-      "dp_deg": 252,
-      "sst_c": 10.9
+      "dp_deg": 260,
+      "sst_c": 11.1
     },
     {
       "timestamp": "11.23.2024-09:00:00",
@@ -710,16 +710,16 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.57,
+      "hs_m": 0.6,
       "tp_s": 3.33,
-      "dp_deg": 341,
-      "sst_c": 23.6
+      "dp_deg": 353,
+      "sst_c": 23.7
     },
     {
       "timestamp": "11.23.2024-09:00:00",
@@ -938,15 +938,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "11.23.2024-08:30:00",
+      "timestamp": "11.23.2024-09:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.61,
-      "tp_s": 15.38,
-      "dp_deg": 86,
+      "hs_m": 0.65,
+      "tp_s": 14.29,
+      "dp_deg": 71,
       "sst_c": 13.4
     },
     {
