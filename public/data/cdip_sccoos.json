@@ -1,16 +1,16 @@
 {
-  "last_updated": "2024-12-01T17:33:25.643Z",
+  "last_updated": "2024-12-01T17:47:08.753Z",
   "data": [
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.52,
+      "hs_m": 1.46,
       "tp_s": 12.5,
-      "dp_deg": 210,
+      "dp_deg": 185,
       "sst_c": 28.6
     },
     {
@@ -86,13 +86,13 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "12.01.2024-16:00:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.01,
+      "hs_m": 1.94,
       "tp_s": 11.76,
       "dp_deg": 333,
       "sst_c": 29
@@ -110,27 +110,27 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.32,
+      "hs_m": 1.38,
       "tp_s": 14.29,
-      "dp_deg": 251,
+      "dp_deg": 258,
       "sst_c": 26.3
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 2.83,
+      "hs_m": 2.45,
       "tp_s": 14.29,
-      "dp_deg": 322,
+      "dp_deg": 319,
       "sst_c": 25.5
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
       "hs_m": 1.57,
-      "tp_s": 14.29,
-      "dp_deg": 343,
+      "tp_s": 11.11,
+      "dp_deg": 18,
       "sst_c": 25.5
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.33,
+      "hs_m": 0.31,
       "tp_s": 12.5,
-      "dp_deg": 273,
-      "sst_c": 14.9
+      "dp_deg": 270,
+      "sst_c": 15
     },
     {
       "timestamp": "12.01.2024-17:00:00",
@@ -398,15 +398,15 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.46,
-      "tp_s": 14.29,
-      "dp_deg": 183,
+      "hs_m": 0.48,
+      "tp_s": 13.33,
+      "dp_deg": 167,
       "sst_c": 15.1
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.94,
+      "hs_m": 2.08,
       "tp_s": 16.67,
-      "dp_deg": 285,
+      "dp_deg": 279,
       "sst_c": 10.4
     },
     {
@@ -626,16 +626,16 @@
       "sst_c": 9.4
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.4,
-      "tp_s": 16.67,
-      "dp_deg": 263,
-      "sst_c": 10.2
+      "hs_m": 2.04,
+      "tp_s": 15.38,
+      "dp_deg": 260,
+      "sst_c": 10.1
     },
     {
       "timestamp": "12.01.2024-16:30:00",
@@ -710,19 +710,19 @@
       "sst_c": 21.3
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.58,
-      "tp_s": 5.88,
-      "dp_deg": 76,
+      "hs_m": 1.73,
+      "tp_s": 5,
+      "dp_deg": 78,
       "sst_c": 23.3
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
@@ -730,7 +730,7 @@
       "depth_cm": 4600,
       "hs_m": 0.62,
       "tp_s": 3.03,
-      "dp_deg": 32,
+      "dp_deg": 25,
       "sst_c": 21.9
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.72,
-      "tp_s": 7.14,
-      "dp_deg": 42,
-      "sst_c": 25.6
+      "hs_m": 0.75,
+      "tp_s": 7.69,
+      "dp_deg": 44,
+      "sst_c": 25.7
     },
     {
       "timestamp": "12.01.2024-17:00:00",
@@ -794,15 +794,15 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.83,
-      "tp_s": 14.29,
-      "dp_deg": 86,
+      "hs_m": 0.77,
+      "tp_s": 3.57,
+      "dp_deg": 27,
       "sst_c": 19.8
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "12.01.2024-16:30:00",
+      "timestamp": "12.01.2024-17:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.43,
-      "tp_s": 13.33,
-      "dp_deg": 78,
+      "hs_m": 0.46,
+      "tp_s": 11.76,
+      "dp_deg": 85,
       "sst_c": 13.1
     },
     {
