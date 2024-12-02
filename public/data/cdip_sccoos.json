@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-02T05:36:03.722Z",
+  "last_updated": "2024-12-02T05:47:23.406Z",
   "data": [
     {
       "timestamp": "12.02.2024-04:30:00",
@@ -86,14 +86,14 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "12.02.2024-04:00:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.73,
-      "tp_s": 10.53,
+      "hs_m": 1.76,
+      "tp_s": 11.11,
       "dp_deg": 327,
       "sst_c": 29.1
     },
@@ -230,28 +230,28 @@
       "sst_c": 8.1
     },
     {
-      "timestamp": "12.02.2024-04:00:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.91,
+      "hs_m": 1.01,
       "tp_s": 18.18,
-      "dp_deg": 280,
+      "dp_deg": 284,
       "sst_c": null
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.7,
+      "hs_m": 0.8,
       "tp_s": 18.18,
-      "dp_deg": 264,
-      "sst_c": 13.7
+      "dp_deg": 266,
+      "sst_c": 13.8
     },
     {
       "timestamp": "12.02.2024-05:00:00",
@@ -278,7 +278,7 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
@@ -287,19 +287,19 @@
       "hs_m": 0.29,
       "tp_s": 18.18,
       "dp_deg": 292,
-      "sst_c": 15.4
+      "sst_c": 15.6
     },
     {
-      "timestamp": "12.02.2024-03:00:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.67,
+      "hs_m": 0.7,
       "tp_s": 18.18,
-      "dp_deg": 264,
-      "sst_c": 16
+      "dp_deg": 260,
+      "sst_c": 15.6
     },
     {
       "timestamp": "12.02.2024-05:00:00",
@@ -314,16 +314,16 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "12.02.2024-04:00:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.54,
-      "tp_s": 11.76,
-      "dp_deg": 244,
-      "sst_c": 15.8
+      "hs_m": 0.62,
+      "tp_s": 18.18,
+      "dp_deg": 261,
+      "sst_c": 15.6
     },
     {
       "timestamp": "12.02.2024-05:00:00",
@@ -386,16 +386,16 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.6,
+      "hs_m": 0.68,
       "tp_s": 18.18,
-      "dp_deg": 248,
-      "sst_c": 15.1
+      "dp_deg": 243,
+      "sst_c": 15.2
     },
     {
       "timestamp": "12.02.2024-05:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 15.3
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.86,
+      "hs_m": 0.79,
       "tp_s": 16.67,
-      "dp_deg": 243,
+      "dp_deg": 244,
       "sst_c": 14.2
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.81,
-      "tp_s": 16.67,
-      "dp_deg": 286,
+      "hs_m": 1.73,
+      "tp_s": 14.29,
+      "dp_deg": 279,
       "sst_c": 10.6
     },
     {
@@ -626,16 +626,16 @@
       "sst_c": 10
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.96,
+      "hs_m": 1.79,
       "tp_s": 15.38,
-      "dp_deg": 254,
-      "sst_c": 9.6
+      "dp_deg": 263,
+      "sst_c": 9.7
     },
     {
       "timestamp": "12.02.2024-05:00:00",
@@ -674,15 +674,15 @@
       "sst_c": 6
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.97,
-      "tp_s": 3.57,
-      "dp_deg": 352,
+      "hs_m": 1.04,
+      "tp_s": 3.45,
+      "dp_deg": 11,
       "sst_c": 25.9
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 23.1
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.58,
-      "tp_s": 3.03,
-      "dp_deg": 45,
-      "sst_c": 20.5
+      "hs_m": 0.6,
+      "tp_s": 2.94,
+      "dp_deg": 34,
+      "sst_c": 20.3
     },
     {
       "timestamp": "12.02.2024-05:00:00",
@@ -830,39 +830,39 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "12.02.2024-04:00:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2129,
       "longitude": -76.9493,
       "depth_cm": 3048,
-      "hs_m": 0.67,
-      "tp_s": 3.23,
-      "dp_deg": 268,
-      "sst_c": 21.3
+      "hs_m": 0.74,
+      "tp_s": 3.33,
+      "dp_deg": 271,
+      "sst_c": 21.2
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.6,
+      "hs_m": 0.61,
       "tp_s": 13.33,
-      "dp_deg": 85,
+      "dp_deg": 68,
       "sst_c": 21.6
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 0.48,
-      "tp_s": 13.33,
-      "dp_deg": 62,
+      "hs_m": 0.49,
+      "tp_s": 12.5,
+      "dp_deg": 65,
       "sst_c": 17
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.68,
-      "tp_s": 3.33,
-      "dp_deg": 301,
+      "hs_m": 0.65,
+      "tp_s": 3.23,
+      "dp_deg": 290,
       "sst_c": 13
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "12.02.2024-04:30:00",
+      "timestamp": "12.02.2024-05:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.65,
-      "tp_s": 3.12,
-      "dp_deg": 280,
+      "hs_m": 0.7,
+      "tp_s": 3.33,
+      "dp_deg": 305,
       "sst_c": 9.5
     },
     {
