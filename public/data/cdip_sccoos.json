@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-07T20:33:28.058Z",
+  "last_updated": "2024-12-07T20:47:02.347Z",
   "data": [
     {
       "timestamp": "12.07.2024-19:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2,
+      "hs_m": 2.01,
       "tp_s": 7.69,
-      "dp_deg": 89,
-      "sst_c": 29.2
+      "dp_deg": 72,
+      "sst_c": 29.3
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.47,
-      "tp_s": 7.14,
-      "dp_deg": 55,
+      "hs_m": 1.57,
+      "tp_s": 7.69,
+      "dp_deg": 56,
       "sst_c": 28.9
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.33,
-      "tp_s": 14.29,
-      "dp_deg": 202,
+      "hs_m": 1.41,
+      "tp_s": 9.88,
+      "dp_deg": 174,
       "sst_c": 26.5
     },
     {
@@ -134,16 +134,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.88,
-      "tp_s": 9.88,
-      "dp_deg": 163,
-      "sst_c": 26
+      "hs_m": 0.89,
+      "tp_s": 15.38,
+      "dp_deg": 167,
+      "sst_c": 25.9
     },
     {
       "timestamp": "12.07.2024-19:30:00",
@@ -158,16 +158,16 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.6,
-      "tp_s": 6.67,
-      "dp_deg": 16,
-      "sst_c": 25.8
+      "hs_m": 1.59,
+      "tp_s": 11.76,
+      "dp_deg": 346,
+      "sst_c": 25.9
     },
     {
       "timestamp": "12.05.2024-18:30:00",
@@ -242,15 +242,15 @@
       "sst_c": 7.8
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.13,
-      "tp_s": 13.33,
-      "dp_deg": 271,
+      "hs_m": 1.23,
+      "tp_s": 12.5,
+      "dp_deg": 288,
       "sst_c": null
     },
     {
@@ -302,16 +302,16 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "12.07.2024-19:00:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.8,
+      "hs_m": 0.91,
       "tp_s": 13.33,
-      "dp_deg": 253,
-      "sst_c": 14.4
+      "dp_deg": 260,
+      "sst_c": 14.5
     },
     {
       "timestamp": "12.07.2024-20:00:00",
@@ -350,16 +350,16 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.86,
-      "tp_s": 13.33,
-      "dp_deg": 236,
-      "sst_c": 15.8
+      "hs_m": 0.85,
+      "tp_s": 14.29,
+      "dp_deg": 209,
+      "sst_c": 15.9
     },
     {
       "timestamp": "12.07.2024-20:00:00",
@@ -434,15 +434,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.25,
+      "hs_m": 1.22,
       "tp_s": 12.5,
-      "dp_deg": 275,
+      "dp_deg": 279,
       "sst_c": 16
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 1.26,
+      "hs_m": 1.31,
       "tp_s": 14.29,
-      "dp_deg": 243,
-      "sst_c": 12.3
+      "dp_deg": 241,
+      "sst_c": 12.4
     },
     {
       "timestamp": "12.07.2024-19:00:00",
@@ -614,16 +614,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "12.07.2024-19:00:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 2.15,
+      "hs_m": 2.03,
       "tp_s": 13.33,
-      "dp_deg": 284,
-      "sst_c": 11.1
+      "dp_deg": 288,
+      "sst_c": 11
     },
     {
       "timestamp": "12.07.2024-20:00:00",
@@ -722,27 +722,27 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.41,
+      "hs_m": 1.31,
       "tp_s": 5.88,
-      "dp_deg": 23,
+      "dp_deg": 19,
       "sst_c": 24.2
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.57,
-      "tp_s": 5,
-      "dp_deg": 332,
+      "hs_m": 0.59,
+      "tp_s": 5.26,
+      "dp_deg": 324,
       "sst_c": 19.2
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 21.1
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.69,
-      "tp_s": 3.03,
-      "dp_deg": 86,
+      "hs_m": 0.62,
+      "tp_s": 3.33,
+      "dp_deg": 115,
       "sst_c": 21.1
     },
     {
@@ -806,15 +806,15 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "12.07.2024-19:30:00",
+      "timestamp": "12.07.2024-20:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.72,
+      "hs_m": 0.68,
       "tp_s": 9.09,
-      "dp_deg": 87,
+      "dp_deg": 100,
       "sst_c": 19.5
     },
     {
