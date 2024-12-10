@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-10T07:34:00.103Z",
+  "last_updated": "2024-12-10T07:47:09.647Z",
   "data": [
     {
       "timestamp": "12.10.2024-06:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.02,
-      "tp_s": 9.09,
-      "dp_deg": 9,
+      "hs_m": 1.03,
+      "tp_s": 8.33,
+      "dp_deg": 346,
       "sst_c": 29.1
     },
     {
@@ -134,39 +134,39 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.86,
-      "tp_s": 14.29,
-      "dp_deg": 168,
-      "sst_c": 25.9
+      "hs_m": 0.98,
+      "tp_s": 13.33,
+      "dp_deg": 164,
+      "sst_c": 25.8
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.35,
-      "tp_s": 13.33,
-      "dp_deg": 285,
+      "hs_m": 1.28,
+      "tp_s": 14.29,
+      "dp_deg": 273,
       "sst_c": 25.7
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.28,
+      "hs_m": 2,
       "tp_s": 15.38,
-      "dp_deg": 346,
+      "dp_deg": 349,
       "sst_c": 25.8
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.62,
-      "tp_s": 15.38,
-      "dp_deg": 334,
+      "hs_m": 2.71,
+      "tp_s": 14.29,
+      "dp_deg": 331,
       "sst_c": 24
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.7,
-      "tp_s": 12.5,
-      "dp_deg": 289,
-      "sst_c": 14.7
+      "hs_m": 0.68,
+      "tp_s": 15.38,
+      "dp_deg": 291,
+      "sst_c": 14.6
     },
     {
       "timestamp": "12.10.2024-06:30:00",
@@ -398,51 +398,51 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.09,
-      "tp_s": 14.29,
+      "hs_m": 0.97,
+      "tp_s": 13.33,
       "dp_deg": 270,
       "sst_c": 14.6
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.67,
-      "tp_s": 13.33,
-      "dp_deg": 243,
+      "hs_m": 0.74,
+      "tp_s": 15.38,
+      "dp_deg": 195,
       "sst_c": 14.5
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.45,
-      "tp_s": 14.29,
-      "dp_deg": 269,
-      "sst_c": 15.6
+      "hs_m": 1.37,
+      "tp_s": 15.38,
+      "dp_deg": 217,
+      "sst_c": 15.8
     },
     {
-      "timestamp": "12.10.2024-05:00:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.89,
-      "tp_s": 11.76,
-      "dp_deg": 250,
+      "hs_m": 0.9,
+      "tp_s": 15.38,
+      "dp_deg": 227,
       "sst_c": 15.5
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.86,
-      "tp_s": 18.18,
-      "dp_deg": 282,
-      "sst_c": 10.8
+      "hs_m": 1.68,
+      "tp_s": 11.76,
+      "dp_deg": 291,
+      "sst_c": 10.7
     },
     {
       "timestamp": "12.10.2024-07:00:00",
@@ -734,15 +734,15 @@
       "sst_c": 20.5
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.49,
+      "hs_m": 1.51,
       "tp_s": 6.25,
-      "dp_deg": 211,
+      "dp_deg": 210,
       "sst_c": 20.8
     },
     {
@@ -854,16 +854,16 @@
       "sst_c": 20.6
     },
     {
-      "timestamp": "12.10.2024-06:30:00",
+      "timestamp": "12.10.2024-07:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 0.58,
-      "tp_s": 9.09,
-      "dp_deg": 121,
-      "sst_c": 13.1
+      "hs_m": 0.59,
+      "tp_s": 2.94,
+      "dp_deg": 199,
+      "sst_c": 13.2
     },
     {
       "timestamp": "12.10.2024-07:00:00",
