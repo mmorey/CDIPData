@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-13T14:36:13.075Z",
+  "last_updated": "2024-12-13T14:47:21.374Z",
   "data": [
     {
       "timestamp": "12.13.2024-13:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.86,
-      "tp_s": 8.33,
-      "dp_deg": 79,
+      "hs_m": 2.82,
+      "tp_s": 9.09,
+      "dp_deg": 56,
       "sst_c": 29.8
     },
     {
@@ -86,7 +86,7 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
@@ -94,7 +94,7 @@
       "depth_cm": 48768,
       "hs_m": 2.02,
       "tp_s": 7.69,
-      "dp_deg": 41,
+      "dp_deg": 31,
       "sst_c": 28.7
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "12.13.2024-13:00:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
       "hs_m": 2.42,
-      "tp_s": 11.76,
-      "dp_deg": 318,
+      "tp_s": 13.33,
+      "dp_deg": 313,
       "sst_c": 23.8
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.74,
-      "tp_s": 14.29,
-      "dp_deg": 273,
+      "hs_m": 1.79,
+      "tp_s": 15.38,
+      "dp_deg": 275,
       "sst_c": null
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.13.2024-13:00:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
       "hs_m": 1.39,
-      "tp_s": 13.33,
-      "dp_deg": 261,
+      "tp_s": 7.69,
+      "dp_deg": 288,
       "sst_c": 14
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "12.13.2024-13:00:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.31,
-      "tp_s": 14.29,
-      "dp_deg": 218,
-      "sst_c": 14.9
+      "hs_m": 1.36,
+      "tp_s": 6.67,
+      "dp_deg": 287,
+      "sst_c": 14.8
     },
     {
       "timestamp": "12.13.2024-14:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.96,
-      "tp_s": 14.29,
-      "dp_deg": 223,
+      "hs_m": 0.91,
+      "tp_s": 15.38,
+      "dp_deg": 221,
       "sst_c": 13.9
     },
     {
@@ -470,15 +470,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 4.57,
-      "tp_s": 13.33,
-      "dp_deg": 320,
+      "hs_m": 4.92,
+      "tp_s": 14.29,
+      "dp_deg": 319,
       "sst_c": 14.2
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 4.09,
+      "hs_m": 3.55,
       "tp_s": 16.67,
-      "dp_deg": 298,
+      "dp_deg": 292,
       "sst_c": 11
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3,
-      "tp_s": 11.76,
-      "dp_deg": 265,
+      "hs_m": 3.2,
+      "tp_s": 15.38,
+      "dp_deg": 284,
       "sst_c": 9.4
     },
     {
@@ -746,15 +746,15 @@
       "sst_c": 18.7
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.17,
+      "hs_m": 1.11,
       "tp_s": 4.17,
-      "dp_deg": 26,
+      "dp_deg": 30,
       "sst_c": 19.8
     },
     {
@@ -854,16 +854,16 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 0.75,
-      "tp_s": 4,
-      "dp_deg": 357,
-      "sst_c": 15.1
+      "hs_m": 0.8,
+      "tp_s": 8.33,
+      "dp_deg": 104,
+      "sst_c": 15.2
     },
     {
       "timestamp": "12.13.2024-14:00:00",
@@ -878,7 +878,7 @@
       "sst_c": 14
     },
     {
-      "timestamp": "12.13.2024-13:00:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
@@ -886,8 +886,8 @@
       "depth_cm": 1814,
       "hs_m": 0.46,
       "tp_s": 10.53,
-      "dp_deg": 86,
-      "sst_c": 12.8
+      "dp_deg": 97,
+      "sst_c": 12.9
     },
     {
       "timestamp": "12.13.2024-13:30:00",
@@ -986,16 +986,16 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "12.13.2024-13:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.3,
-      "tp_s": 10.53,
-      "dp_deg": 186,
-      "sst_c": 8.7
+      "hs_m": 1.24,
+      "tp_s": 7.14,
+      "dp_deg": 206,
+      "sst_c": 8.5
     },
     {
       "timestamp": "12.13.2024-13:30:00",
@@ -1022,16 +1022,16 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "12.13.2024-12:30:00",
+      "timestamp": "12.13.2024-14:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 2.36,
+      "hs_m": 2.07,
       "tp_s": 7.14,
-      "dp_deg": 281,
-      "sst_c": 7.3
+      "dp_deg": 273,
+      "sst_c": 7.4
     },
     {
       "timestamp": "12.13.2024-14:00:00",
