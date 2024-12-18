@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-18T22:35:24.721Z",
+  "last_updated": "2024-12-18T22:47:01.515Z",
   "data": [
     {
       "timestamp": "12.18.2024-21:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.73,
+      "hs_m": 2.79,
       "tp_s": 9.88,
       "dp_deg": 72,
       "sst_c": 29
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.79,
-      "tp_s": 8.33,
-      "dp_deg": 35,
+      "hs_m": 1.77,
+      "tp_s": 9.88,
+      "dp_deg": 39,
       "sst_c": 28.6
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.45,
+      "hs_m": 1.46,
       "tp_s": 16.67,
-      "dp_deg": 311,
-      "sst_c": 26
+      "dp_deg": 312,
+      "sst_c": 26.3
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -302,16 +302,16 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.24,
-      "tp_s": 11.76,
+      "hs_m": 1.19,
+      "tp_s": 12.5,
       "dp_deg": 277,
-      "sst_c": 16.1
+      "sst_c": 16.3
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -386,27 +386,27 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.98,
+      "hs_m": 0.88,
       "tp_s": 12.5,
-      "dp_deg": 267,
-      "sst_c": 16
+      "dp_deg": 255,
+      "sst_c": 16.5
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.23,
-      "tp_s": 11.11,
-      "dp_deg": 271,
+      "hs_m": 1.3,
+      "tp_s": 11.76,
+      "dp_deg": 277,
       "sst_c": 16.5
     },
     {
@@ -446,16 +446,16 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.57,
+      "hs_m": 0.58,
       "tp_s": 12.5,
-      "dp_deg": 228,
-      "sst_c": 14.7
+      "dp_deg": 226,
+      "sst_c": 15.1
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -494,15 +494,15 @@
       "sst_c": 13
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 2.21,
-      "tp_s": 13.33,
-      "dp_deg": 293,
+      "hs_m": 2.03,
+      "tp_s": 12.5,
+      "dp_deg": 295,
       "sst_c": 13.4
     },
     {
@@ -542,16 +542,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1.15,
-      "tp_s": 12.5,
-      "dp_deg": 249,
-      "sst_c": 13.6
+      "hs_m": 1.08,
+      "tp_s": 13.33,
+      "dp_deg": 246,
+      "sst_c": 13.4
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -566,26 +566,26 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.82,
+      "hs_m": 2.86,
       "tp_s": 12.5,
-      "dp_deg": 282,
-      "sst_c": 13.1
+      "dp_deg": 276,
+      "sst_c": 13
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 2.87,
-      "tp_s": 11.76,
+      "hs_m": 2.57,
+      "tp_s": 13.33,
       "dp_deg": 274,
       "sst_c": 12.3
     },
@@ -650,15 +650,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.47,
+      "hs_m": 3.15,
       "tp_s": 18.18,
-      "dp_deg": 272,
+      "dp_deg": 271,
       "sst_c": 10.9
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 26.1
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.42,
-      "tp_s": 3.45,
-      "dp_deg": 110,
+      "hs_m": 0.44,
+      "tp_s": 3.33,
+      "dp_deg": 106,
       "sst_c": 23.9
     },
     {
@@ -746,28 +746,28 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.53,
+      "hs_m": 0.61,
       "tp_s": 6.67,
-      "dp_deg": 157,
-      "sst_c": 21.5
+      "dp_deg": 156,
+      "sst_c": 21.6
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 0.63,
-      "tp_s": 6.25,
-      "dp_deg": 134,
-      "sst_c": 22
+      "hs_m": 0.56,
+      "tp_s": 6.67,
+      "dp_deg": 139,
+      "sst_c": 21.7
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -842,16 +842,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.11,
-      "tp_s": 8.33,
-      "dp_deg": 126,
-      "sst_c": 22.5
+      "hs_m": 1.1,
+      "tp_s": 9.88,
+      "dp_deg": 120,
+      "sst_c": 22.6
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -914,28 +914,28 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.72,
-      "tp_s": 9.09,
-      "dp_deg": 117,
-      "sst_c": 11.4
+      "hs_m": 0.79,
+      "tp_s": 8.33,
+      "dp_deg": 120,
+      "sst_c": 11.2
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.21,
+      "hs_m": 0.24,
       "tp_s": 9.09,
-      "dp_deg": 125,
-      "sst_c": 9.1
+      "dp_deg": 118,
+      "sst_c": 9
     },
     {
       "timestamp": "12.18.2024-22:00:00",
@@ -998,16 +998,16 @@
       "sst_c": 8.7
     },
     {
-      "timestamp": "12.18.2024-21:30:00",
+      "timestamp": "12.18.2024-22:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.16,
-      "tp_s": 2.17,
-      "dp_deg": 249,
-      "sst_c": 7.7
+      "hs_m": 0.18,
+      "tp_s": 1.96,
+      "dp_deg": 178,
+      "sst_c": 7.8
     },
     {
       "timestamp": "12.18.2024-22:00:00",
