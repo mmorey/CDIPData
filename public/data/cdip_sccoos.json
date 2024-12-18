@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-18T13:36:18.369Z",
+  "last_updated": "2024-12-18T13:47:11.100Z",
   "data": [
     {
       "timestamp": "12.18.2024-12:30:00",
@@ -74,28 +74,28 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.39,
-      "tp_s": 10.53,
-      "dp_deg": 66,
+      "hs_m": 2.38,
+      "tp_s": 9.88,
+      "dp_deg": 63,
       "sst_c": 29
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.19,
+      "hs_m": 2.29,
       "tp_s": 9.88,
-      "dp_deg": 44,
-      "sst_c": 28.6
+      "dp_deg": 46,
+      "sst_c": 28.7
     },
     {
       "timestamp": "12.18.2024-13:00:00",
@@ -110,15 +110,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.79,
-      "tp_s": 11.11,
-      "dp_deg": 212,
+      "hs_m": 0.74,
+      "tp_s": 18.18,
+      "dp_deg": 314,
       "sst_c": 25.8
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.98,
+      "hs_m": 1.15,
       "tp_s": 16.67,
       "dp_deg": 317,
-      "sst_c": 25.8
+      "sst_c": 25.9
     },
     {
       "timestamp": "12.18.2024-13:00:00",
@@ -314,16 +314,16 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.12,
+      "hs_m": 1.21,
       "tp_s": 16.67,
-      "dp_deg": 273,
-      "sst_c": 13.7
+      "dp_deg": 270,
+      "sst_c": 13.6
     },
     {
       "timestamp": "12.18.2024-13:00:00",
@@ -542,15 +542,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1.37,
-      "tp_s": 15.38,
-      "dp_deg": 240,
+      "hs_m": 1.45,
+      "tp_s": 14.29,
+      "dp_deg": 245,
       "sst_c": 12.6
     },
     {
@@ -566,14 +566,14 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.81,
-      "tp_s": 12.5,
+      "hs_m": 3.1,
+      "tp_s": 11.76,
       "dp_deg": 297,
       "sst_c": 13.1
     },
@@ -626,15 +626,15 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "12.18.2024-12:00:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 4.6,
-      "tp_s": 9.88,
-      "dp_deg": 220,
+      "hs_m": 4.42,
+      "tp_s": 11.11,
+      "dp_deg": 253,
       "sst_c": 11
     },
     {
@@ -698,15 +698,15 @@
       "sst_c": 6.5
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.74,
-      "tp_s": 5.88,
-      "dp_deg": 104,
+      "hs_m": 0.75,
+      "tp_s": 5.56,
+      "dp_deg": 115,
       "sst_c": 25.8
     },
     {
@@ -746,13 +746,13 @@
       "sst_c": 19.7
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.65,
+      "hs_m": 0.58,
       "tp_s": 6.67,
       "dp_deg": 159,
       "sst_c": 19.9
@@ -914,15 +914,15 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.73,
+      "hs_m": 0.76,
       "tp_s": 9.09,
-      "dp_deg": 103,
+      "dp_deg": 111,
       "sst_c": 11.1
     },
     {
@@ -1010,16 +1010,16 @@
       "sst_c": 7.7
     },
     {
-      "timestamp": "12.18.2024-12:30:00",
+      "timestamp": "12.18.2024-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.78,
-      "tp_s": 7.14,
-      "dp_deg": 131,
-      "sst_c": 8.1
+      "hs_m": 0.8,
+      "tp_s": 6.67,
+      "dp_deg": 135,
+      "sst_c": 8.2
     },
     {
       "timestamp": "12.18.2024-13:00:00",
