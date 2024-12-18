@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-18T09:34:03.987Z",
+  "last_updated": "2024-12-18T09:47:10.959Z",
   "data": [
     {
       "timestamp": "12.18.2024-08:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.49,
-      "tp_s": 10.53,
-      "dp_deg": 63,
+      "hs_m": 2.75,
+      "tp_s": 9.09,
+      "dp_deg": 62,
       "sst_c": 29.6
     },
     {
@@ -86,16 +86,16 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.2,
-      "tp_s": 10.53,
-      "dp_deg": 41,
-      "sst_c": 28.6
+      "hs_m": 2.06,
+      "tp_s": 9.88,
+      "dp_deg": 32,
+      "sst_c": 28.7
     },
     {
       "timestamp": "12.18.2024-09:00:00",
@@ -134,27 +134,27 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.55,
-      "tp_s": 7.69,
-      "dp_deg": 162,
+      "hs_m": 0.54,
+      "tp_s": 9.88,
+      "dp_deg": 155,
       "sst_c": 25.8
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.06,
+      "hs_m": 1.08,
       "tp_s": 18.18,
-      "dp_deg": 316,
+      "dp_deg": 321,
       "sst_c": 26
     },
     {
@@ -242,27 +242,27 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.98,
-      "tp_s": 15.38,
-      "dp_deg": 270,
-      "sst_c": 13.4
+      "hs_m": 0.95,
+      "tp_s": 16.67,
+      "dp_deg": 274,
+      "sst_c": 13.3
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.2,
+      "hs_m": 1.17,
       "tp_s": 16.67,
-      "dp_deg": 271,
+      "dp_deg": 267,
       "sst_c": 16
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 1.03,
-      "tp_s": 18.18,
-      "dp_deg": 261,
-      "sst_c": 13.9
+      "hs_m": 1.01,
+      "tp_s": 16.67,
+      "dp_deg": 268,
+      "sst_c": 13.8
     },
     {
       "timestamp": "12.18.2024-09:00:00",
@@ -350,27 +350,27 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 3.57,
+      "hs_m": 3.31,
       "tp_s": 15.38,
-      "dp_deg": 299,
+      "dp_deg": 303,
       "sst_c": 14.4
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.5,
-      "tp_s": 16.67,
-      "dp_deg": 217,
+      "hs_m": 0.54,
+      "tp_s": 15.38,
+      "dp_deg": 237,
       "sst_c": 15
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.14,
-      "tp_s": 16.67,
-      "dp_deg": 264,
+      "hs_m": 1.07,
+      "tp_s": 15.38,
+      "dp_deg": 268,
       "sst_c": 15.2
     },
     {
@@ -530,15 +530,15 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 1.97,
-      "tp_s": 13.33,
-      "dp_deg": 247,
+      "hs_m": 1.87,
+      "tp_s": 14.29,
+      "dp_deg": 244,
       "sst_c": 12.6
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.58,
+      "hs_m": 2.28,
       "tp_s": 13.33,
-      "dp_deg": 296,
+      "dp_deg": 292,
       "sst_c": 13.1
     },
     {
@@ -698,27 +698,27 @@
       "sst_c": 6.3
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.81,
-      "tp_s": 6.25,
-      "dp_deg": 118,
-      "sst_c": 25.5
+      "hs_m": 0.76,
+      "tp_s": 5.88,
+      "dp_deg": 120,
+      "sst_c": 25.6
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.77,
+      "hs_m": 0.72,
       "tp_s": 3.85,
-      "dp_deg": 57,
+      "dp_deg": 65,
       "sst_c": 23.8
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.69,
-      "tp_s": 7.14,
-      "dp_deg": 159,
-      "sst_c": 20.6
+      "hs_m": 0.66,
+      "tp_s": 7.69,
+      "dp_deg": 157,
+      "sst_c": 20.7
     },
     {
       "timestamp": "12.18.2024-09:00:00",
@@ -770,16 +770,16 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
       "hs_m": 1.5,
-      "tp_s": 10.53,
-      "dp_deg": 59,
-      "sst_c": 23.7
+      "tp_s": 9.88,
+      "dp_deg": 61,
+      "sst_c": 23.6
     },
     {
       "timestamp": "12.18.2024-09:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "12.18.2024-08:30:00",
+      "timestamp": "12.18.2024-09:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.17,
+      "hs_m": 1.04,
       "tp_s": 9.09,
-      "dp_deg": 113,
+      "dp_deg": 116,
       "sst_c": 22.9
     },
     {
