@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-19T09:34:18.761Z",
+  "last_updated": "2024-12-19T09:47:10.851Z",
   "data": [
     {
       "timestamp": "12.19.2024-08:30:00",
@@ -26,28 +26,28 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "276",
       "station_name": "UTWE, KOSRAE, MICRONESIA",
       "latitude": 5.24042,
       "longitude": 163.00082,
       "depth_cm": 57000,
-      "hs_m": 1.52,
-      "tp_s": 9.88,
-      "dp_deg": 75,
-      "sst_c": 30
+      "hs_m": 1.5,
+      "tp_s": 10.53,
+      "dp_deg": 88,
+      "sst_c": 29.9
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.6,
-      "tp_s": 10.53,
-      "dp_deg": 45,
-      "sst_c": 29.6
+      "hs_m": 2.49,
+      "tp_s": 11.76,
+      "dp_deg": 25,
+      "sst_c": 29.5
     },
     {
       "timestamp": "12.19.2024-08:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.74,
-      "tp_s": 9.88,
-      "dp_deg": 57,
+      "hs_m": 1.6,
+      "tp_s": 10.53,
+      "dp_deg": 55,
       "sst_c": 28.8
     },
     {
@@ -158,14 +158,14 @@
       "sst_c": 26
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.27,
-      "tp_s": 18.18,
+      "hs_m": 1.4,
+      "tp_s": 16.67,
       "dp_deg": 359,
       "sst_c": 25.5
     },
@@ -290,15 +290,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.94,
-      "tp_s": 11.11,
-      "dp_deg": 263,
+      "hs_m": 0.91,
+      "tp_s": 11.76,
+      "dp_deg": 264,
       "sst_c": 14
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1,
-      "tp_s": 11.11,
-      "dp_deg": 263,
+      "hs_m": 0.94,
+      "tp_s": 12.5,
+      "dp_deg": 270,
       "sst_c": 15.3
     },
     {
@@ -530,28 +530,28 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 1.34,
-      "tp_s": 12.5,
-      "dp_deg": 251,
+      "hs_m": 1.4,
+      "tp_s": 11.11,
+      "dp_deg": 253,
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1.39,
+      "hs_m": 1.21,
       "tp_s": 12.5,
-      "dp_deg": 245,
-      "sst_c": 12.6
+      "dp_deg": 246,
+      "sst_c": 12.5
     },
     {
       "timestamp": "12.19.2024-09:00:00",
@@ -698,15 +698,15 @@
       "sst_c": 6.3
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.5,
+      "hs_m": 0.52,
       "tp_s": 5.26,
-      "dp_deg": 120,
+      "dp_deg": 121,
       "sst_c": 25.8
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.87,
-      "tp_s": 3.45,
-      "dp_deg": 15,
-      "sst_c": 19.6
+      "hs_m": 0.98,
+      "tp_s": 3.85,
+      "dp_deg": 19,
+      "sst_c": 19.9
     },
     {
       "timestamp": "12.19.2024-09:00:00",
@@ -794,15 +794,15 @@
       "sst_c": 20.5
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.23,
-      "tp_s": 9.09,
-      "dp_deg": 90,
+      "hs_m": 1.21,
+      "tp_s": 9.88,
+      "dp_deg": 96,
       "sst_c": 19.1
     },
     {
@@ -866,16 +866,16 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "12.19.2024-08:30:00",
+      "timestamp": "12.19.2024-09:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 1.16,
-      "tp_s": 5.88,
-      "dp_deg": 144,
-      "sst_c": 13
+      "hs_m": 1.21,
+      "tp_s": 5.56,
+      "dp_deg": 149,
+      "sst_c": 13.3
     },
     {
       "timestamp": "12.19.2024-08:30:00",
