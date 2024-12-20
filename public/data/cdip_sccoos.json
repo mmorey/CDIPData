@@ -1,17 +1,17 @@
 {
-  "last_updated": "2024-12-20T13:33:41.885Z",
+  "last_updated": "2024-12-20T13:47:05.987Z",
   "data": [
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 2.53,
-      "tp_s": 11.11,
-      "dp_deg": 204,
-      "sst_c": 29.4
+      "hs_m": 2.32,
+      "tp_s": 12.5,
+      "dp_deg": 208,
+      "sst_c": 29.3
     },
     {
       "timestamp": "12.20.2024-13:00:00",
@@ -62,13 +62,13 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.07,
+      "hs_m": 1.94,
       "tp_s": 10.53,
       "dp_deg": 86,
       "sst_c": 28.7
@@ -86,16 +86,16 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.5,
+      "hs_m": 1.54,
       "tp_s": 10.53,
-      "dp_deg": 45,
-      "sst_c": 28.6
+      "dp_deg": 25,
+      "sst_c": 28.7
     },
     {
       "timestamp": "12.20.2024-13:00:00",
@@ -122,27 +122,27 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 3.96,
+      "hs_m": 3.94,
       "tp_s": 15.38,
-      "dp_deg": 328,
+      "dp_deg": 322,
       "sst_c": 25.5
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.55,
-      "tp_s": 9.09,
-      "dp_deg": 156,
+      "hs_m": 0.56,
+      "tp_s": 9.88,
+      "dp_deg": 154,
       "sst_c": 25.7
     },
     {
@@ -158,16 +158,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.95,
-      "tp_s": 12.5,
+      "hs_m": 1.72,
+      "tp_s": 15.38,
       "dp_deg": 352,
-      "sst_c": 25.6
+      "sst_c": 25.7
     },
     {
       "timestamp": "12.20.2024-13:00:00",
@@ -206,15 +206,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3.54,
-      "tp_s": 15.38,
-      "dp_deg": 321,
+      "hs_m": 3.48,
+      "tp_s": 14.29,
+      "dp_deg": 327,
       "sst_c": 23.9
     },
     {
@@ -242,15 +242,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.24,
-      "tp_s": 18.18,
-      "dp_deg": 267,
+      "hs_m": 1.23,
+      "tp_s": 20,
+      "dp_deg": 268,
       "sst_c": 13.5
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.76,
-      "tp_s": 11.76,
-      "dp_deg": 251,
-      "sst_c": 15.2
+      "hs_m": 0.71,
+      "tp_s": 14.29,
+      "dp_deg": 222,
+      "sst_c": 15.1
     },
     {
       "timestamp": "12.20.2024-12:30:00",
@@ -458,7 +458,7 @@
       "sst_c": 15
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
@@ -466,7 +466,7 @@
       "depth_cm": 2000,
       "hs_m": 0.49,
       "tp_s": 20,
-      "dp_deg": 217,
+      "dp_deg": 214,
       "sst_c": 14
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.26,
-      "tp_s": 18.18,
-      "dp_deg": 236,
-      "sst_c": 12.3
+      "hs_m": 1.43,
+      "tp_s": 15.38,
+      "dp_deg": 233,
+      "sst_c": 12.2
     },
     {
       "timestamp": "12.20.2024-12:30:00",
@@ -566,15 +566,15 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 1.7,
+      "hs_m": 1.79,
       "tp_s": 18.18,
-      "dp_deg": 276,
+      "dp_deg": 275,
       "sst_c": 11.8
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.47,
+      "hs_m": 2.33,
       "tp_s": 9.88,
-      "dp_deg": 249,
+      "dp_deg": 247,
       "sst_c": 10.7
     },
     {
@@ -770,15 +770,15 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.48,
-      "tp_s": 2.78,
-      "dp_deg": 355,
+      "hs_m": 0.44,
+      "tp_s": 3.03,
+      "dp_deg": 351,
       "sst_c": 20.1
     },
     {
@@ -1034,28 +1034,28 @@
       "sst_c": 7.7
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.09,
-      "tp_s": 5,
-      "dp_deg": 37,
+      "hs_m": 1.13,
+      "tp_s": 4.76,
+      "dp_deg": 38,
       "sst_c": 8.1
     },
     {
-      "timestamp": "12.20.2024-12:30:00",
+      "timestamp": "12.20.2024-13:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 0.51,
-      "tp_s": 4,
-      "dp_deg": 3,
-      "sst_c": 7
+      "hs_m": 0.5,
+      "tp_s": 3.85,
+      "dp_deg": 5,
+      "sst_c": 7.1
     },
     {
       "timestamp": "12.20.2024-13:00:00",
