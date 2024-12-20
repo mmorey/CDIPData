@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-20T05:34:21.505Z",
+  "last_updated": "2024-12-20T05:47:07.065Z",
   "data": [
     {
       "timestamp": "12.20.2024-04:30:00",
@@ -62,27 +62,27 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.93,
-      "tp_s": 9.09,
-      "dp_deg": 104,
+      "hs_m": 2.05,
+      "tp_s": 9.88,
+      "dp_deg": 91,
       "sst_c": 28.8
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.88,
+      "hs_m": 1.87,
       "tp_s": 9.88,
-      "dp_deg": 75,
+      "dp_deg": 91,
       "sst_c": 29.2
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 3.17,
-      "tp_s": 14.29,
-      "dp_deg": 331,
+      "hs_m": 3.5,
+      "tp_s": 16.67,
+      "dp_deg": 333,
       "sst_c": 26
     },
     {
@@ -134,28 +134,28 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
       "hs_m": 0.61,
-      "tp_s": 9.88,
-      "dp_deg": 154,
-      "sst_c": 25.9
+      "tp_s": 10.53,
+      "dp_deg": 153,
+      "sst_c": 25.8
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.8,
-      "tp_s": 16.67,
-      "dp_deg": 317,
-      "sst_c": 25.8
+      "hs_m": 2.01,
+      "tp_s": 15.38,
+      "dp_deg": 316,
+      "sst_c": 25.7
     },
     {
       "timestamp": "12.20.2024-05:00:00",
@@ -290,15 +290,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.89,
-      "tp_s": 18.18,
-      "dp_deg": 264,
+      "hs_m": 0.88,
+      "tp_s": 11.76,
+      "dp_deg": 270,
       "sst_c": 14.2
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "12.20.2024-04:00:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.8,
-      "tp_s": 11.76,
-      "dp_deg": 271,
-      "sst_c": 16.3
+      "hs_m": 0.85,
+      "tp_s": 13.33,
+      "dp_deg": 226,
+      "sst_c": 16.2
     },
     {
       "timestamp": "12.20.2024-05:00:00",
@@ -494,15 +494,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.98,
-      "tp_s": 20,
-      "dp_deg": 272,
+      "hs_m": 1.93,
+      "tp_s": 18.18,
+      "dp_deg": 269,
       "sst_c": 14.5
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.88,
+      "hs_m": 2.81,
       "tp_s": 16.67,
-      "dp_deg": 301,
+      "dp_deg": 297,
       "sst_c": 13
     },
     {
@@ -758,7 +758,7 @@
       "sst_c": 19.1
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
@@ -766,20 +766,20 @@
       "depth_cm": 2270,
       "hs_m": 0.53,
       "tp_s": 6.67,
-      "dp_deg": 108,
+      "dp_deg": 102,
       "sst_c": 18.3
     },
     {
-      "timestamp": "12.20.2024-04:00:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.37,
-      "tp_s": 6.67,
-      "dp_deg": 156,
-      "sst_c": 20.3
+      "hs_m": 0.38,
+      "tp_s": 8.33,
+      "dp_deg": 153,
+      "sst_c": 20.2
     },
     {
       "timestamp": "12.20.2024-05:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
       "hs_m": 1.97,
-      "tp_s": 5.56,
-      "dp_deg": 22,
-      "sst_c": 18
+      "tp_s": 5.88,
+      "dp_deg": 23,
+      "sst_c": 19.2
     },
     {
       "timestamp": "12.20.2024-05:00:00",
@@ -974,13 +974,13 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "12.20.2024-04:30:00",
+      "timestamp": "12.20.2024-05:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.66,
+      "hs_m": 0.68,
       "tp_s": 12.5,
       "dp_deg": 72,
       "sst_c": 8.6
