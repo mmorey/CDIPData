@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-22T05:32:57.818Z",
+  "last_updated": "2024-12-22T05:47:12.894Z",
   "data": [
     {
       "timestamp": "12.22.2024-04:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.56,
-      "tp_s": 11.76,
-      "dp_deg": 1,
+      "hs_m": 2.53,
+      "tp_s": 12.5,
+      "dp_deg": 16,
       "sst_c": 29
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.44,
+      "hs_m": 1.38,
       "tp_s": 14.29,
-      "dp_deg": 294,
+      "dp_deg": 302,
       "sst_c": 26.4
     },
     {
@@ -134,28 +134,28 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.56,
-      "tp_s": 7.69,
+      "hs_m": 0.6,
+      "tp_s": 6.67,
       "dp_deg": 169,
       "sst_c": 25.9
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.84,
-      "tp_s": 13.33,
-      "dp_deg": 301,
-      "sst_c": 26.4
+      "hs_m": 1.92,
+      "tp_s": 14.29,
+      "dp_deg": 307,
+      "sst_c": 26.3
     },
     {
       "timestamp": "12.22.2024-05:00:00",
@@ -302,16 +302,16 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "12.22.2024-04:00:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.87,
-      "tp_s": 16.67,
-      "dp_deg": 261,
-      "sst_c": 14
+      "hs_m": 0.85,
+      "tp_s": 18.18,
+      "dp_deg": 259,
+      "sst_c": 13.9
     },
     {
       "timestamp": "12.22.2024-05:00:00",
@@ -398,14 +398,14 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.7,
-      "tp_s": 14.29,
+      "hs_m": 0.75,
+      "tp_s": 12.5,
       "dp_deg": 243,
       "sst_c": 15.3
     },
@@ -458,27 +458,27 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.13,
-      "tp_s": 15.38,
-      "dp_deg": 264,
-      "sst_c": 14.7
+      "hs_m": 1.06,
+      "tp_s": 18.18,
+      "dp_deg": 271,
+      "sst_c": 14.6
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.55,
+      "hs_m": 0.56,
       "tp_s": 16.67,
-      "dp_deg": 221,
+      "dp_deg": 220,
       "sst_c": 14
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.89,
-      "tp_s": 3.7,
-      "dp_deg": 16,
+      "hs_m": 0.83,
+      "tp_s": 3.85,
+      "dp_deg": 8,
       "sst_c": 20.3
     },
     {
@@ -806,7 +806,7 @@
       "sst_c": 20
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
@@ -814,7 +814,7 @@
       "depth_cm": 1676,
       "hs_m": 1.11,
       "tp_s": 9.09,
-      "dp_deg": 68,
+      "dp_deg": 72,
       "sst_c": 23.4
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.99,
-      "tp_s": 9.88,
-      "dp_deg": 101,
+      "hs_m": 0.98,
+      "tp_s": 5.56,
+      "dp_deg": 51,
       "sst_c": 16
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 7.7
     },
     {
-      "timestamp": "12.22.2024-04:30:00",
+      "timestamp": "12.22.2024-05:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 1.9,
+      "hs_m": 1.95,
       "tp_s": 6.25,
-      "dp_deg": 342,
+      "dp_deg": 343,
       "sst_c": 7
     },
     {
