@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-23T10:35:53.781Z",
+  "last_updated": "2024-12-23T10:47:06.385Z",
   "data": [
     {
       "timestamp": "12.23.2024-09:30:00",
@@ -86,16 +86,16 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.85,
+      "hs_m": 1.92,
       "tp_s": 9.88,
-      "dp_deg": 27,
-      "sst_c": 29
+      "dp_deg": 34,
+      "sst_c": 28.9
     },
     {
       "timestamp": "12.23.2024-10:00:00",
@@ -170,16 +170,16 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 2.54,
+      "hs_m": 2.52,
       "tp_s": 13.33,
-      "dp_deg": 353,
-      "sst_c": 25.3
+      "dp_deg": 350,
+      "sst_c": 25.2
     },
     {
       "timestamp": "12.23.2024-10:00:00",
@@ -254,15 +254,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 3.07,
-      "tp_s": 15.38,
-      "dp_deg": 267,
+      "hs_m": 3.02,
+      "tp_s": 16.67,
+      "dp_deg": 268,
       "sst_c": 13.4
     },
     {
@@ -338,27 +338,27 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.7,
-      "tp_s": 15.38,
-      "dp_deg": 259,
+      "hs_m": 2.14,
+      "tp_s": 16.67,
+      "dp_deg": 257,
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.47,
-      "tp_s": 15.38,
-      "dp_deg": 263,
+      "hs_m": 1.55,
+      "tp_s": 16.67,
+      "dp_deg": 260,
       "sst_c": 14.9
     },
     {
@@ -422,27 +422,27 @@
       "sst_c": 15
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 2.21,
+      "hs_m": 2.4,
       "tp_s": 16.67,
       "dp_deg": 243,
       "sst_c": 15.1
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 2.86,
-      "tp_s": 16.67,
-      "dp_deg": 269,
+      "hs_m": 2.72,
+      "tp_s": 15.38,
+      "dp_deg": 272,
       "sst_c": 14.4
     },
     {
@@ -494,16 +494,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.76,
-      "tp_s": 13.33,
-      "dp_deg": 250,
-      "sst_c": 13.9
+      "hs_m": 2.75,
+      "tp_s": 15.38,
+      "dp_deg": 255,
+      "sst_c": 14
     },
     {
       "timestamp": "12.23.2024-09:30:00",
@@ -530,39 +530,39 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "12.23.2024-08:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.45,
+      "hs_m": 2.43,
       "tp_s": 15.38,
-      "dp_deg": 236,
-      "sst_c": 12.9
+      "dp_deg": 232,
+      "sst_c": 13
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 2.43,
-      "tp_s": 15.38,
-      "dp_deg": 239,
+      "hs_m": 2.32,
+      "tp_s": 16.67,
+      "dp_deg": 238,
       "sst_c": 12.8
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 2.33,
+      "hs_m": 2.3,
       "tp_s": 15.38,
-      "dp_deg": 237,
+      "dp_deg": 236,
       "sst_c": 12.8
     },
     {
@@ -662,13 +662,13 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 4.37,
+      "hs_m": 4.07,
       "tp_s": 14.29,
       "dp_deg": 270,
       "sst_c": 10.7
@@ -686,15 +686,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.63,
-      "tp_s": 11.76,
-      "dp_deg": 241,
+      "hs_m": 3.88,
+      "tp_s": 13.33,
+      "dp_deg": 258,
       "sst_c": 10.2
     },
     {
@@ -770,15 +770,15 @@
       "sst_c": 19
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.65,
+      "hs_m": 0.62,
       "tp_s": 3.33,
-      "dp_deg": 47,
+      "dp_deg": 42,
       "sst_c": 17.6
     },
     {
@@ -902,15 +902,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "12.23.2024-09:30:00",
+      "timestamp": "12.23.2024-10:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1,
-      "tp_s": 9.09,
-      "dp_deg": 78,
+      "hs_m": 1.01,
+      "tp_s": 11.11,
+      "dp_deg": 80,
       "sst_c": 9.7
     },
     {
