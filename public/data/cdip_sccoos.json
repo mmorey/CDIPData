@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-24T05:34:10.052Z",
+  "last_updated": "2024-12-24T05:46:54.697Z",
   "data": [
     {
       "timestamp": "12.24.2024-04:30:00",
@@ -86,28 +86,28 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.62,
-      "tp_s": 11.76,
-      "dp_deg": 350,
+      "hs_m": 1.77,
+      "tp_s": 11.11,
+      "dp_deg": 346,
       "sst_c": 28.9
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.68,
-      "tp_s": 12.5,
-      "dp_deg": 342,
-      "sst_c": 25.5
+      "hs_m": 2.66,
+      "tp_s": 13.33,
+      "dp_deg": 336,
+      "sst_c": 25.6
     },
     {
       "timestamp": "12.24.2024-05:00:00",
@@ -242,16 +242,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 2.68,
+      "hs_m": 2.61,
       "tp_s": 22.22,
-      "dp_deg": 264,
-      "sst_c": 13.5
+      "dp_deg": 267,
+      "sst_c": 13.8
     },
     {
       "timestamp": "12.24.2024-05:00:00",
@@ -314,16 +314,16 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.84,
+      "hs_m": 1.74,
       "tp_s": 22.22,
-      "dp_deg": 263,
-      "sst_c": 14
+      "dp_deg": 257,
+      "sst_c": 13.9
     },
     {
       "timestamp": "12.24.2024-05:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 6.4,
-      "tp_s": 22.22,
-      "dp_deg": 288,
+      "hs_m": 5.66,
+      "tp_s": 20,
+      "dp_deg": 289,
       "sst_c": 13.7
     },
     {
@@ -746,27 +746,27 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.21,
-      "tp_s": 5.56,
-      "dp_deg": 104,
+      "hs_m": 1.23,
+      "tp_s": 5.88,
+      "dp_deg": 103,
       "sst_c": 18.9
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.63,
-      "tp_s": 3.23,
-      "dp_deg": 55,
+      "hs_m": 0.67,
+      "tp_s": 3.03,
+      "dp_deg": 60,
       "sst_c": 17.9
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 1.2,
-      "tp_s": 4.76,
-      "dp_deg": 62,
+      "hs_m": 1.16,
+      "tp_s": 12.5,
+      "dp_deg": 86,
       "sst_c": 10.8
     },
     {
@@ -974,15 +974,15 @@
       "sst_c": 6.3
     },
     {
-      "timestamp": "12.24.2024-04:30:00",
+      "timestamp": "12.24.2024-05:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.71,
-      "tp_s": 11.76,
-      "dp_deg": 98,
+      "hs_m": 0.77,
+      "tp_s": 11.11,
+      "dp_deg": 95,
       "sst_c": 10.1
     },
     {
