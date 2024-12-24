@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-24T16:35:49.185Z",
+  "last_updated": "2024-12-24T16:47:11.325Z",
   "data": [
     {
       "timestamp": "12.24.2024-15:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "12.24.2024-15:00:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.62,
-      "tp_s": 10.53,
-      "dp_deg": 90,
+      "hs_m": 1.67,
+      "tp_s": 9.09,
+      "dp_deg": 94,
       "sst_c": 28.8
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.04,
+      "hs_m": 2.2,
       "tp_s": 11.11,
-      "dp_deg": 337,
+      "dp_deg": 345,
       "sst_c": 28.8
     },
     {
@@ -206,14 +206,14 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.59,
-      "tp_s": 12.5,
+      "hs_m": 2.48,
+      "tp_s": 13.33,
       "dp_deg": 323,
       "sst_c": 23.8
     },
@@ -254,16 +254,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.24.2024-15:00:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 2.74,
+      "hs_m": 2.86,
       "tp_s": 18.18,
       "dp_deg": 277,
-      "sst_c": 15.8
+      "sst_c": 15.9
     },
     {
       "timestamp": "12.24.2024-15:45:00",
@@ -314,16 +314,16 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 2.31,
-      "tp_s": 18.18,
-      "dp_deg": 270,
-      "sst_c": 13.5
+      "hs_m": 2.12,
+      "tp_s": 20,
+      "dp_deg": 267,
+      "sst_c": 13.6
     },
     {
       "timestamp": "12.24.2024-16:00:00",
@@ -338,15 +338,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.24.2024-15:00:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.44,
+      "hs_m": 1.47,
       "tp_s": 15.38,
-      "dp_deg": 261,
+      "dp_deg": 257,
       "sst_c": 15.6
     },
     {
@@ -422,15 +422,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 2.39,
-      "tp_s": 15.38,
-      "dp_deg": 271,
+      "hs_m": 2.59,
+      "tp_s": 16.67,
+      "dp_deg": 275,
       "sst_c": 14.6
     },
     {
@@ -458,27 +458,27 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 5.18,
+      "hs_m": 4.68,
       "tp_s": 18.18,
-      "dp_deg": 288,
-      "sst_c": 13.6
+      "dp_deg": 286,
+      "sst_c": 13.5
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 5.08,
-      "tp_s": 18.18,
-      "dp_deg": 283,
+      "hs_m": 4.68,
+      "tp_s": 15.38,
+      "dp_deg": 285,
       "sst_c": 14.6
     },
     {
@@ -518,14 +518,14 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 3.52,
-      "tp_s": 15.38,
+      "hs_m": 3.57,
+      "tp_s": 18.18,
       "dp_deg": 233,
       "sst_c": 13.2
     },
@@ -602,26 +602,26 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 4.28,
-      "tp_s": 18.18,
-      "dp_deg": 274,
+      "hs_m": 4.2,
+      "tp_s": 13.33,
+      "dp_deg": 272,
       "sst_c": 11.2
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 3.71,
-      "tp_s": 15.38,
+      "hs_m": 3.86,
+      "tp_s": 16.67,
       "dp_deg": 281,
       "sst_c": 11.1
     },
@@ -746,28 +746,28 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.38,
-      "tp_s": 5.88,
-      "dp_deg": 125,
-      "sst_c": 18.5
+      "hs_m": 1.28,
+      "tp_s": 6.67,
+      "dp_deg": 130,
+      "sst_c": 18.6
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
       "hs_m": 0.56,
-      "tp_s": 3.03,
-      "dp_deg": 39,
-      "sst_c": 18.7
+      "tp_s": 6.25,
+      "dp_deg": 137,
+      "sst_c": 18.6
     },
     {
       "timestamp": "12.24.2024-16:00:00",
@@ -854,15 +854,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.98,
-      "tp_s": 11.76,
-      "dp_deg": 80,
+      "hs_m": 1.05,
+      "tp_s": 3.85,
+      "dp_deg": 8,
       "sst_c": 11.2
     },
     {
@@ -902,28 +902,28 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.79,
+      "hs_m": 0.73,
       "tp_s": 5.26,
-      "dp_deg": 112,
+      "dp_deg": 115,
       "sst_c": 10.6
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.84,
+      "hs_m": 0.86,
       "tp_s": 5.26,
-      "dp_deg": 147,
-      "sst_c": 13.8
+      "dp_deg": 153,
+      "sst_c": 13.7
     },
     {
       "timestamp": "12.24.2024-16:00:00",
@@ -998,15 +998,15 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "12.24.2024-15:30:00",
+      "timestamp": "12.24.2024-16:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.43,
+      "hs_m": 1.46,
       "tp_s": 5.56,
-      "dp_deg": 211,
+      "dp_deg": 217,
       "sst_c": 6.7
     },
     {
