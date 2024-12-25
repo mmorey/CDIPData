@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-25T10:34:58.850Z",
+  "last_updated": "2024-12-25T10:47:06.282Z",
   "data": [
     {
       "timestamp": "12.25.2024-09:30:00",
@@ -38,39 +38,39 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.02,
-      "tp_s": 11.11,
-      "dp_deg": 60,
+      "hs_m": 2.06,
+      "tp_s": 7.14,
+      "dp_deg": 79,
       "sst_c": 29.7
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 2.07,
-      "tp_s": 7.14,
-      "dp_deg": 75,
+      "hs_m": 2.09,
+      "tp_s": 10.53,
+      "dp_deg": 20,
       "sst_c": 29.9
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.76,
-      "tp_s": 6.25,
-      "dp_deg": 104,
+      "hs_m": 1.82,
+      "tp_s": 6.67,
+      "dp_deg": 98,
       "sst_c": 28.8
     },
     {
@@ -86,27 +86,27 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.25.2024-09:00:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.54,
+      "hs_m": 2.49,
       "tp_s": 12.5,
-      "dp_deg": 353,
-      "sst_c": 28.9
+      "dp_deg": 351,
+      "sst_c": 28.8
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.25,
-      "tp_s": 13.33,
-      "dp_deg": 336,
+      "hs_m": 2.29,
+      "tp_s": 10.53,
+      "dp_deg": 353,
       "sst_c": 25.2
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.93,
+      "hs_m": 0.96,
       "tp_s": 9.09,
-      "dp_deg": 161,
+      "dp_deg": 166,
       "sst_c": 25.5
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 7.8
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 2.76,
-      "tp_s": 13.33,
-      "dp_deg": 266,
+      "hs_m": 2.99,
+      "tp_s": 14.29,
+      "dp_deg": 268,
       "sst_c": null
     },
     {
@@ -314,16 +314,16 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 2.09,
-      "tp_s": 15.38,
-      "dp_deg": 267,
-      "sst_c": 13.7
+      "hs_m": 1.89,
+      "tp_s": 13.33,
+      "dp_deg": 270,
+      "sst_c": 13.6
     },
     {
       "timestamp": "12.25.2024-10:00:00",
@@ -470,15 +470,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.69,
+      "hs_m": 3.81,
       "tp_s": 16.67,
-      "dp_deg": 288,
+      "dp_deg": 285,
       "sst_c": 14.3
     },
     {
@@ -494,15 +494,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 4.47,
-      "tp_s": 14.29,
-      "dp_deg": 285,
+      "hs_m": 4.34,
+      "tp_s": 13.33,
+      "dp_deg": 287,
       "sst_c": 14.1
     },
     {
@@ -530,27 +530,27 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 2.29,
+      "hs_m": 2.67,
       "tp_s": 16.67,
       "dp_deg": 237,
-      "sst_c": 13.1
+      "sst_c": 13
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 2.07,
-      "tp_s": 15.38,
-      "dp_deg": 240,
+      "hs_m": 1.94,
+      "tp_s": 14.29,
+      "dp_deg": 246,
       "sst_c": 12.9
     },
     {
@@ -650,28 +650,28 @@
       "sst_c": 11
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 3.78,
-      "tp_s": 13.33,
-      "dp_deg": 278,
+      "hs_m": 3.52,
+      "tp_s": 15.38,
+      "dp_deg": 276,
       "sst_c": 10.7
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.81,
-      "tp_s": 13.33,
-      "dp_deg": 254,
-      "sst_c": 10.5
+      "hs_m": 3.8,
+      "tp_s": 11.76,
+      "dp_deg": 260,
+      "sst_c": 10.9
     },
     {
       "timestamp": "12.25.2024-10:00:00",
@@ -710,27 +710,27 @@
       "sst_c": 6.5
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 1.04,
-      "tp_s": 6.67,
-      "dp_deg": 103,
+      "hs_m": 1.01,
+      "tp_s": 6.25,
+      "dp_deg": 106,
       "sst_c": 25.5
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.64,
-      "tp_s": 3.85,
-      "dp_deg": 48,
+      "hs_m": 0.62,
+      "tp_s": 4,
+      "dp_deg": 42,
       "sst_c": 22.9
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.79,
-      "tp_s": 6.25,
-      "dp_deg": 146,
-      "sst_c": 18
+      "hs_m": 0.82,
+      "tp_s": 5.88,
+      "dp_deg": 142,
+      "sst_c": 18.1
     },
     {
       "timestamp": "12.25.2024-10:00:00",
@@ -806,15 +806,15 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.2,
-      "tp_s": 9.88,
-      "dp_deg": 87,
+      "hs_m": 1.23,
+      "tp_s": 9.09,
+      "dp_deg": 75,
       "sst_c": 17.6
     },
     {
@@ -854,15 +854,15 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 2.1,
-      "tp_s": 5.88,
-      "dp_deg": 24,
+      "hs_m": 2.08,
+      "tp_s": 6.25,
+      "dp_deg": 28,
       "sst_c": 11.3
     },
     {
@@ -878,15 +878,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 1.67,
-      "tp_s": 5.26,
-      "dp_deg": 23,
+      "hs_m": 1.66,
+      "tp_s": 5.56,
+      "dp_deg": 26,
       "sst_c": 10.8
     },
     {
@@ -962,15 +962,15 @@
       "sst_c": 7.8
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.76,
-      "tp_s": 4.17,
-      "dp_deg": 44,
+      "hs_m": 0.81,
+      "tp_s": 3.85,
+      "dp_deg": 43,
       "sst_c": 6.1
     },
     {
@@ -1022,27 +1022,27 @@
       "sst_c": 6.7
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.52,
-      "tp_s": 5.56,
-      "dp_deg": 33,
+      "hs_m": 1.62,
+      "tp_s": 6.67,
+      "dp_deg": 53,
       "sst_c": 7.8
     },
     {
-      "timestamp": "12.25.2024-09:30:00",
+      "timestamp": "12.25.2024-10:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 0.47,
+      "hs_m": 0.42,
       "tp_s": 3.57,
-      "dp_deg": 9,
+      "dp_deg": 15,
       "sst_c": 6.4
     },
     {
