@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-27T16:35:39.032Z",
+  "last_updated": "2024-12-27T16:47:21.015Z",
   "data": [
     {
       "timestamp": "12.27.2024-15:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.59,
-      "tp_s": 8.33,
-      "dp_deg": 47,
-      "sst_c": 29.3
+      "hs_m": 1.6,
+      "tp_s": 9.09,
+      "dp_deg": 40,
+      "sst_c": 29.2
     },
     {
       "timestamp": "12.27.2024-15:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.19,
-      "tp_s": 9.88,
-      "dp_deg": 26,
+      "hs_m": 2.18,
+      "tp_s": 14.29,
+      "dp_deg": 14,
       "sst_c": 28.8
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 2.01,
-      "tp_s": 16.67,
+      "hs_m": 2,
+      "tp_s": 14.29,
       "dp_deg": 285,
-      "sst_c": 15.5
+      "sst_c": 15.6
     },
     {
       "timestamp": "12.27.2024-15:45:00",
@@ -326,27 +326,27 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "12.27.2024-15:00:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.18,
-      "tp_s": 12.5,
+      "hs_m": 1.35,
+      "tp_s": 14.29,
       "dp_deg": 263,
-      "sst_c": 13.9
+      "sst_c": 13.8
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
       "hs_m": 1.31,
-      "tp_s": 11.76,
-      "dp_deg": 270,
+      "tp_s": 12.5,
+      "dp_deg": 268,
       "sst_c": 15.5
     },
     {
@@ -470,28 +470,28 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 4.05,
-      "tp_s": 14.29,
-      "dp_deg": 299,
+      "hs_m": 4.21,
+      "tp_s": 13.33,
+      "dp_deg": 310,
       "sst_c": 14
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 3.03,
+      "hs_m": 3.29,
       "tp_s": 14.29,
-      "dp_deg": 269,
-      "sst_c": 12
+      "dp_deg": 268,
+      "sst_c": 12.1
     },
     {
       "timestamp": "12.27.2024-15:30:00",
@@ -602,15 +602,15 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "12.27.2024-14:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 4.46,
+      "hs_m": 4.76,
       "tp_s": 15.38,
-      "dp_deg": 264,
+      "dp_deg": 270,
       "sst_c": 11
     },
     {
@@ -674,13 +674,13 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 4.09,
+      "hs_m": 3.96,
       "tp_s": 14.29,
       "dp_deg": 261,
       "sst_c": 10.3
@@ -758,15 +758,15 @@
       "sst_c": 18
     },
     {
-      "timestamp": "12.27.2024-15:30:00",
+      "timestamp": "12.27.2024-16:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.82,
-      "tp_s": 7.14,
-      "dp_deg": 150,
+      "hs_m": 0.83,
+      "tp_s": 5.26,
+      "dp_deg": 178,
       "sst_c": 18
     },
     {
