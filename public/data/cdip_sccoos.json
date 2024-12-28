@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-28T08:34:35.947Z",
+  "last_updated": "2024-12-28T08:47:00.480Z",
   "data": [
     {
       "timestamp": "12.28.2024-07:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2,
-      "tp_s": 9.09,
-      "dp_deg": 96,
+      "hs_m": 1.92,
+      "tp_s": 8.33,
+      "dp_deg": 94,
       "sst_c": 28.7
     },
     {
@@ -86,27 +86,27 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.2,
-      "tp_s": 13.33,
-      "dp_deg": 22,
+      "hs_m": 2.13,
+      "tp_s": 14.29,
+      "dp_deg": 19,
       "sst_c": 28.8
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.7,
-      "tp_s": 15.38,
-      "dp_deg": 326,
+      "hs_m": 2.49,
+      "tp_s": 14.29,
+      "dp_deg": 328,
       "sst_c": 25.4
     },
     {
@@ -146,7 +146,7 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
@@ -154,7 +154,7 @@
       "depth_cm": 28000,
       "hs_m": 2.34,
       "tp_s": 15.38,
-      "dp_deg": 301,
+      "dp_deg": 308,
       "sst_c": 25.8
     },
     {
@@ -254,15 +254,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.88,
+      "hs_m": 1.95,
       "tp_s": 14.29,
-      "dp_deg": 285,
+      "dp_deg": 281,
       "sst_c": 15.5
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
       "hs_m": 1.52,
-      "tp_s": 13.33,
-      "dp_deg": 264,
+      "tp_s": 14.29,
+      "dp_deg": 261,
       "sst_c": 14.5
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.93,
+      "hs_m": 2.78,
       "tp_s": 15.38,
-      "dp_deg": 240,
+      "dp_deg": 236,
       "sst_c": 13.4
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 18
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.98,
+      "hs_m": 1.03,
       "tp_s": 7.14,
-      "dp_deg": 159,
-      "sst_c": 19.3
+      "dp_deg": 162,
+      "sst_c": 19.4
     },
     {
       "timestamp": "12.28.2024-08:00:00",
@@ -842,39 +842,39 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 1.09,
-      "tp_s": 5.56,
-      "dp_deg": 126,
+      "hs_m": 1.15,
+      "tp_s": 5,
+      "dp_deg": 142,
       "sst_c": 12.3
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.42,
-      "tp_s": 11.11,
-      "dp_deg": 87,
+      "hs_m": 1.6,
+      "tp_s": 11.76,
+      "dp_deg": 84,
       "sst_c": 10.8
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 1.46,
+      "hs_m": 1.48,
       "tp_s": 11.76,
-      "dp_deg": 65,
+      "dp_deg": 80,
       "sst_c": 10.6
     },
     {
@@ -1022,27 +1022,27 @@
       "sst_c": 6.1
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.07,
+      "hs_m": 1.1,
       "tp_s": 9.09,
-      "dp_deg": 105,
+      "dp_deg": 100,
       "sst_c": 7.6
     },
     {
-      "timestamp": "12.28.2024-07:30:00",
+      "timestamp": "12.28.2024-08:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
       "hs_m": 0.19,
-      "tp_s": 1.75,
-      "dp_deg": 134,
+      "tp_s": 1.79,
+      "dp_deg": 150,
       "sst_c": 6.2
     },
     {
