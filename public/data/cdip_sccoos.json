@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-28T06:36:16.726Z",
+  "last_updated": "2024-12-28T06:47:17.698Z",
   "data": [
     {
       "timestamp": "12.28.2024-05:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "12.28.2024-05:00:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.12,
-      "tp_s": 14.29,
-      "dp_deg": 14,
+      "hs_m": 2.15,
+      "tp_s": 13.33,
+      "dp_deg": 15,
       "sst_c": 29.1
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.59,
+      "hs_m": 2.45,
       "tp_s": 15.38,
-      "dp_deg": 329,
+      "dp_deg": 326,
       "sst_c": 25.4
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 26.1
     },
     {
-      "timestamp": "12.28.2024-05:00:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3.06,
-      "tp_s": 14.29,
-      "dp_deg": 306,
+      "hs_m": 4.06,
+      "tp_s": 15.38,
+      "dp_deg": 316,
       "sst_c": 23.9
     },
     {
@@ -230,28 +230,28 @@
       "sst_c": 7.7
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 2.4,
+      "hs_m": 2.35,
       "tp_s": 14.29,
-      "dp_deg": 273,
+      "dp_deg": 271,
       "sst_c": null
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.87,
-      "tp_s": 15.38,
-      "dp_deg": 264,
-      "sst_c": 13.7
+      "hs_m": 2.05,
+      "tp_s": 14.29,
+      "dp_deg": 273,
+      "sst_c": 13.5
     },
     {
       "timestamp": "12.28.2024-06:00:00",
@@ -290,16 +290,16 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "12.28.2024-05:00:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 1.61,
-      "tp_s": 14.29,
-      "dp_deg": 266,
-      "sst_c": 14.6
+      "hs_m": 1.69,
+      "tp_s": 15.38,
+      "dp_deg": 263,
+      "sst_c": 14.4
     },
     {
       "timestamp": "12.28.2024-06:00:00",
@@ -362,27 +362,27 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.98,
+      "hs_m": 0.99,
       "tp_s": 14.29,
       "dp_deg": 244,
       "sst_c": 15.2
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.12,
-      "tp_s": 13.33,
-      "dp_deg": 267,
+      "hs_m": 1.17,
+      "tp_s": 11.76,
+      "dp_deg": 281,
       "sst_c": 15.4
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.94,
-      "tp_s": 14.29,
-      "dp_deg": 244,
+      "hs_m": 0.9,
+      "tp_s": 13.33,
+      "dp_deg": 243,
       "sst_c": 14.6
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.42,
-      "tp_s": 15.38,
-      "dp_deg": 261,
+      "hs_m": 1.41,
+      "tp_s": 10.53,
+      "dp_deg": 254,
       "sst_c": 14.5
     },
     {
@@ -470,28 +470,28 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.63,
+      "hs_m": 3.89,
       "tp_s": 14.29,
-      "dp_deg": 289,
+      "dp_deg": 293,
       "sst_c": 13.9
     },
     {
-      "timestamp": "12.28.2024-05:00:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.97,
-      "tp_s": 13.33,
-      "dp_deg": 265,
-      "sst_c": 12.6
+      "hs_m": 2.96,
+      "tp_s": 11.76,
+      "dp_deg": 269,
+      "sst_c": 12.7
     },
     {
       "timestamp": "12.28.2024-05:30:00",
@@ -602,14 +602,14 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 5.53,
-      "tp_s": 18.18,
+      "hs_m": 5.07,
+      "tp_s": 16.67,
       "dp_deg": 284,
       "sst_c": 11
     },
@@ -638,15 +638,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 5.82,
-      "tp_s": 18.18,
-      "dp_deg": 296,
+      "hs_m": 6.04,
+      "tp_s": 16.67,
+      "dp_deg": 299,
       "sst_c": 11.2
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 5.9
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 1.09,
-      "tp_s": 6.25,
-      "dp_deg": 111,
+      "hs_m": 1.11,
+      "tp_s": 5.88,
+      "dp_deg": 122,
       "sst_c": 25.5
     },
     {
@@ -782,14 +782,14 @@
       "sst_c": 20
     },
     {
-      "timestamp": "12.28.2024-05:30:00",
+      "timestamp": "12.28.2024-06:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.68,
-      "tp_s": 5.26,
+      "hs_m": 1.67,
+      "tp_s": 5.56,
       "dp_deg": 107,
       "sst_c": 20
     },
