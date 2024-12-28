@@ -1,17 +1,17 @@
 {
-  "last_updated": "2024-12-28T22:33:18.343Z",
+  "last_updated": "2024-12-28T22:47:00.098Z",
   "data": [
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.86,
-      "tp_s": 12.5,
-      "dp_deg": 308,
-      "sst_c": 30.6
+      "hs_m": 1.77,
+      "tp_s": 14.29,
+      "dp_deg": 217,
+      "sst_c": 30.7
     },
     {
       "timestamp": "12.28.2024-22:00:00",
@@ -62,39 +62,39 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.07,
-      "tp_s": 8.33,
-      "dp_deg": 103,
+      "hs_m": 2.01,
+      "tp_s": 9.09,
+      "dp_deg": 100,
       "sst_c": 28.7
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.06,
-      "tp_s": 14.29,
-      "dp_deg": 8,
+      "hs_m": 2.02,
+      "tp_s": 15.38,
+      "dp_deg": 359,
       "sst_c": 29
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.81,
-      "tp_s": 14.29,
-      "dp_deg": 21,
+      "hs_m": 1.78,
+      "tp_s": 16.67,
+      "dp_deg": 17,
       "sst_c": 28.7
     },
     {
@@ -122,37 +122,37 @@
       "sst_c": 26
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 2.54,
+      "hs_m": 2.39,
       "tp_s": 13.33,
       "dp_deg": 319,
       "sst_c": 25.3
     },
     {
-      "timestamp": "12.28.2024-21:00:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.66,
-      "tp_s": 11.76,
-      "dp_deg": 153,
-      "sst_c": 25.5
+      "hs_m": 0.68,
+      "tp_s": 7.69,
+      "dp_deg": 168,
+      "sst_c": 25.6
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.71,
+      "hs_m": 1.7,
       "tp_s": 14.29,
       "dp_deg": 299,
       "sst_c": 25.9
@@ -386,15 +386,15 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.23,
-      "tp_s": 12.5,
-      "dp_deg": 261,
+      "hs_m": 1.32,
+      "tp_s": 20,
+      "dp_deg": 241,
       "sst_c": 14.8
     },
     {
@@ -434,27 +434,27 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.65,
-      "tp_s": 13.33,
-      "dp_deg": 268,
+      "hs_m": 1.58,
+      "tp_s": 11.76,
+      "dp_deg": 264,
       "sst_c": 14.5
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
       "hs_m": 0.94,
-      "tp_s": 22.22,
-      "dp_deg": 215,
+      "tp_s": 20,
+      "dp_deg": 216,
       "sst_c": 14.1
     },
     {
@@ -494,13 +494,13 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 5.76,
+      "hs_m": 5.58,
       "tp_s": 18.18,
       "dp_deg": 292,
       "sst_c": 13.8
@@ -602,15 +602,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 6.19,
-      "tp_s": 18.18,
-      "dp_deg": 289,
+      "hs_m": 6.14,
+      "tp_s": 16.67,
+      "dp_deg": 286,
       "sst_c": 11.5
     },
     {
@@ -746,28 +746,28 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.09,
-      "tp_s": 6.25,
-      "dp_deg": 121,
+      "hs_m": 1.13,
+      "tp_s": 5.88,
+      "dp_deg": 131,
       "sst_c": 18.6
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.06,
+      "hs_m": 1.09,
       "tp_s": 6.25,
-      "dp_deg": 150,
-      "sst_c": 19.5
+      "dp_deg": 154,
+      "sst_c": 19.6
     },
     {
       "timestamp": "12.28.2024-22:00:00",
@@ -986,28 +986,28 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.13,
-      "tp_s": 10.53,
-      "dp_deg": 120,
+      "hs_m": 1.12,
+      "tp_s": 9.88,
+      "dp_deg": 113,
       "sst_c": 10.1
     },
     {
-      "timestamp": "12.28.2024-21:30:00",
+      "timestamp": "12.28.2024-22:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.11,
-      "tp_s": 4.76,
-      "dp_deg": 193,
-      "sst_c": 6.4
+      "hs_m": 1.05,
+      "tp_s": 4.55,
+      "dp_deg": 194,
+      "sst_c": 6.3
     },
     {
       "timestamp": "12.28.2024-21:30:00",
