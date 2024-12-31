@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-12-31T03:35:09.352Z",
+  "last_updated": "2024-12-31T03:47:03.799Z",
   "data": [
     {
       "timestamp": "12.31.2024-02:00:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.25,
+      "hs_m": 2,
       "tp_s": 8.33,
-      "dp_deg": 22,
+      "dp_deg": 13,
       "sst_c": 28.7
     },
     {
@@ -134,16 +134,16 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.64,
-      "tp_s": 5,
-      "dp_deg": 127,
-      "sst_c": 25.7
+      "hs_m": 0.61,
+      "tp_s": 4.76,
+      "dp_deg": 129,
+      "sst_c": 25.6
     },
     {
       "timestamp": "12.31.2024-02:30:00",
@@ -242,15 +242,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.71,
-      "tp_s": 12.5,
-      "dp_deg": 264,
+      "hs_m": 1.6,
+      "tp_s": 15.38,
+      "dp_deg": 261,
       "sst_c": 13.4
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 1,
-      "tp_s": 15.38,
-      "dp_deg": 250,
+      "hs_m": 0.93,
+      "tp_s": 12.5,
+      "dp_deg": 258,
       "sst_c": 14.4
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.8,
+      "hs_m": 0.78,
       "tp_s": 15.38,
-      "dp_deg": 242,
+      "dp_deg": 250,
       "sst_c": 14.7
     },
     {
@@ -458,40 +458,40 @@
       "sst_c": 14
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 3.1,
+      "hs_m": 3.14,
       "tp_s": 14.29,
-      "dp_deg": 288,
+      "dp_deg": 295,
       "sst_c": 12.1
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.46,
-      "tp_s": 11.11,
-      "dp_deg": 305,
+      "hs_m": 3.32,
+      "tp_s": 11.76,
+      "dp_deg": 290,
       "sst_c": 13.6
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.24,
-      "tp_s": 12.5,
-      "dp_deg": 265,
-      "sst_c": 12.9
+      "hs_m": 2.31,
+      "tp_s": 13.33,
+      "dp_deg": 272,
+      "sst_c": 13.1
     },
     {
       "timestamp": "12.31.2024-02:30:00",
@@ -638,15 +638,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.88,
-      "tp_s": 9.88,
-      "dp_deg": 277,
+      "hs_m": 2.82,
+      "tp_s": 12.5,
+      "dp_deg": 271,
       "sst_c": 11.4
     },
     {
@@ -806,15 +806,15 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.6,
-      "tp_s": 11.11,
-      "dp_deg": 72,
+      "hs_m": 0.58,
+      "tp_s": 9.88,
+      "dp_deg": 70,
       "sst_c": 17.1
     },
     {
@@ -1034,16 +1034,16 @@
       "sst_c": 7.6
     },
     {
-      "timestamp": "12.31.2024-02:30:00",
+      "timestamp": "12.31.2024-03:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 2.63,
+      "hs_m": 2.6,
       "tp_s": 7.69,
       "dp_deg": 278,
-      "sst_c": 6.7
+      "sst_c": 6.8
     },
     {
       "timestamp": "12.31.2024-03:00:00",
