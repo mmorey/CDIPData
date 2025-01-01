@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-01T10:34:58.156Z",
+  "last_updated": "2025-01-01T10:47:06.722Z",
   "data": [
     {
       "timestamp": "01.01.2025-09:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 30.4
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.58,
-      "tp_s": 13.33,
-      "dp_deg": 352,
-      "sst_c": 30.1
+      "hs_m": 1.53,
+      "tp_s": 10.53,
+      "dp_deg": 85,
+      "sst_c": 30
     },
     {
       "timestamp": "01.01.2025-09:30:00",
@@ -50,15 +50,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 1.93,
+      "hs_m": 1.84,
       "tp_s": 9.88,
-      "dp_deg": 39,
+      "dp_deg": 36,
       "sst_c": 29.6
     },
     {
@@ -86,16 +86,16 @@
       "sst_c": 29
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.44,
-      "tp_s": 8.33,
-      "dp_deg": 28,
-      "sst_c": 28.8
+      "hs_m": 1.4,
+      "tp_s": 7.14,
+      "dp_deg": 37,
+      "sst_c": 28.7
     },
     {
       "timestamp": "01.01.2025-10:00:00",
@@ -134,15 +134,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.6,
+      "hs_m": 0.56,
       "tp_s": 4.76,
-      "dp_deg": 125,
+      "dp_deg": 127,
       "sst_c": 25.7
     },
     {
@@ -530,39 +530,39 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 1.04,
-      "tp_s": 12.5,
-      "dp_deg": 250,
-      "sst_c": 12.9
+      "hs_m": 1.11,
+      "tp_s": 11.76,
+      "dp_deg": 254,
+      "sst_c": 12.8
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.84,
+      "hs_m": 0.88,
       "tp_s": 11.76,
-      "dp_deg": 251,
+      "dp_deg": 252,
       "sst_c": 12.9
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 1.36,
+      "hs_m": 1.23,
       "tp_s": 11.11,
-      "dp_deg": 270,
+      "dp_deg": 272,
       "sst_c": 12
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 6.2
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.26,
-      "tp_s": 3.7,
-      "dp_deg": 174,
+      "hs_m": 0.27,
+      "tp_s": 1.96,
+      "dp_deg": 331,
       "sst_c": 26.2
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 19
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.04,
-      "tp_s": 3.7,
-      "dp_deg": 25,
-      "sst_c": 19.4
+      "hs_m": 1.03,
+      "tp_s": 3.85,
+      "dp_deg": 29,
+      "sst_c": 19.3
     },
     {
       "timestamp": "01.01.2025-10:00:00",
@@ -830,16 +830,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1.53,
-      "tp_s": 6.67,
-      "dp_deg": 201,
-      "sst_c": 12.4
+      "hs_m": 1.5,
+      "tp_s": 6.25,
+      "dp_deg": 206,
+      "sst_c": 12.5
     },
     {
       "timestamp": "01.01.2025-10:00:00",
@@ -902,15 +902,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "01.01.2025-09:30:00",
+      "timestamp": "01.01.2025-10:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.11,
+      "hs_m": 1.1,
       "tp_s": 6.67,
-      "dp_deg": 140,
+      "dp_deg": 142,
       "sst_c": 10.3
     },
     {
