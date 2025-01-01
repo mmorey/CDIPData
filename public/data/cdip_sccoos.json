@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-01T14:33:26.828Z",
+  "last_updated": "2025-01-01T14:47:02.826Z",
   "data": [
     {
       "timestamp": "01.01.2025-13:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "01.01.2025-13:00:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.39,
-      "tp_s": 9.88,
-      "dp_deg": 22,
+      "hs_m": 1.3,
+      "tp_s": 10.53,
+      "dp_deg": 23,
       "sst_c": 28.6
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
       "hs_m": 0.62,
-      "tp_s": 5.26,
-      "dp_deg": 132,
+      "tp_s": 5.56,
+      "dp_deg": 133,
       "sst_c": 25.7
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "101",
       "station_name": "TORREY PINES INNER, CA",
       "latitude": 32.9297,
       "longitude": -117.2737,
       "depth_cm": 2000,
-      "hs_m": 0.82,
+      "hs_m": 0.83,
       "tp_s": 13.33,
-      "dp_deg": 256,
+      "dp_deg": 264,
       "sst_c": 14
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.58,
-      "tp_s": 13.33,
-      "dp_deg": 208,
+      "hs_m": 0.53,
+      "tp_s": 12.5,
+      "dp_deg": 227,
       "sst_c": 13.9
     },
     {
@@ -470,15 +470,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.24,
+      "hs_m": 2.26,
       "tp_s": 11.76,
-      "dp_deg": 297,
+      "dp_deg": 293,
       "sst_c": 13.5
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 1.17,
-      "tp_s": 11.76,
-      "dp_deg": 274,
+      "hs_m": 1.16,
+      "tp_s": 10.53,
+      "dp_deg": 284,
       "sst_c": 11.7
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.94,
-      "tp_s": 8.33,
-      "dp_deg": 227,
+      "hs_m": 1.95,
+      "tp_s": 7.69,
+      "dp_deg": 232,
       "sst_c": 9.4
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.78,
-      "tp_s": 3.45,
-      "dp_deg": 28,
-      "sst_c": 18.2
+      "hs_m": 0.72,
+      "tp_s": 3.57,
+      "dp_deg": 27,
+      "sst_c": 18.1
     },
     {
       "timestamp": "01.01.2025-14:00:00",
@@ -806,16 +806,16 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.95,
-      "tp_s": 4.55,
-      "dp_deg": 342,
-      "sst_c": 16.8
+      "hs_m": 0.96,
+      "tp_s": 4.17,
+      "dp_deg": 335,
+      "sst_c": 16.9
     },
     {
       "timestamp": "01.01.2025-14:00:00",
@@ -830,16 +830,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1.29,
-      "tp_s": 6.25,
-      "dp_deg": 213,
-      "sst_c": 12.6
+      "hs_m": 1.27,
+      "tp_s": 5.88,
+      "dp_deg": 214,
+      "sst_c": 12.4
     },
     {
       "timestamp": "01.01.2025-14:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 21.6
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75035,
       "longitude": -75.330002,
       "depth_cm": 1829,
-      "hs_m": 1.42,
-      "tp_s": 7.69,
-      "dp_deg": 161,
+      "hs_m": 1.44,
+      "tp_s": 9.09,
+      "dp_deg": 142,
       "sst_c": 10.6
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 7.6
     },
     {
-      "timestamp": "01.01.2025-13:30:00",
+      "timestamp": "01.01.2025-14:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
       "longitude": -76.5386,
       "depth_cm": 4220,
-      "hs_m": 0.12,
-      "tp_s": 3.33,
-      "dp_deg": 344,
+      "hs_m": 0.11,
+      "tp_s": 3.03,
+      "dp_deg": 347,
       "sst_c": 6.1
     },
     {
