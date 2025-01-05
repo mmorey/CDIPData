@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-05T08:34:27.028Z",
+  "last_updated": "2025-01-05T08:47:05.869Z",
   "data": [
     {
       "timestamp": "01.05.2025-07:00:00",
@@ -50,15 +50,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 1.53,
-      "tp_s": 11.76,
-      "dp_deg": 29,
+      "hs_m": 1.6,
+      "tp_s": 14.29,
+      "dp_deg": 24,
       "sst_c": 29.7
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.05,
-      "tp_s": 15.38,
-      "dp_deg": 14,
+      "hs_m": 2.02,
+      "tp_s": 14.29,
+      "dp_deg": 18,
       "sst_c": 28.7
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.53,
+      "hs_m": 0.56,
       "tp_s": 12.5,
-      "dp_deg": 165,
+      "dp_deg": 168,
       "sst_c": 25.7
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.91,
+      "hs_m": 0.98,
       "tp_s": 16.67,
-      "dp_deg": 221,
-      "sst_c": 13.7
+      "dp_deg": 220,
+      "sst_c": 13.8
     },
     {
       "timestamp": "01.05.2025-07:30:00",
@@ -470,28 +470,28 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.36,
-      "tp_s": 14.29,
-      "dp_deg": 303,
+      "hs_m": 3.38,
+      "tp_s": 13.33,
+      "dp_deg": 295,
       "sst_c": 13.8
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.28,
+      "hs_m": 2.52,
       "tp_s": 13.33,
-      "dp_deg": 260,
-      "sst_c": 12.5
+      "dp_deg": 264,
+      "sst_c": 12.8
     },
     {
       "timestamp": "01.05.2025-05:30:00",
@@ -518,16 +518,16 @@
       "sst_c": 12
     },
     {
-      "timestamp": "01.05.2025-07:00:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.06,
+      "hs_m": 2.02,
       "tp_s": 15.38,
-      "dp_deg": 238,
-      "sst_c": 12.6
+      "dp_deg": 235,
+      "sst_c": 12.5
     },
     {
       "timestamp": "01.05.2025-07:30:00",
@@ -542,15 +542,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1.71,
-      "tp_s": 15.38,
-      "dp_deg": 244,
+      "hs_m": 1.63,
+      "tp_s": 14.29,
+      "dp_deg": 246,
       "sst_c": 12.6
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 3.04,
-      "tp_s": 11.11,
-      "dp_deg": 280,
+      "hs_m": 3.32,
+      "tp_s": 9.88,
+      "dp_deg": 262,
       "sst_c": 11
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.76,
+      "hs_m": 1.61,
       "tp_s": 6.25,
-      "dp_deg": 154,
+      "dp_deg": 160,
       "sst_c": 18.9
     },
     {
@@ -902,15 +902,15 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.28,
+      "hs_m": 1.26,
       "tp_s": 15.38,
-      "dp_deg": 77,
+      "dp_deg": 76,
       "sst_c": 10.6
     },
     {
@@ -1010,15 +1010,15 @@
       "sst_c": 7
     },
     {
-      "timestamp": "01.05.2025-07:30:00",
+      "timestamp": "01.05.2025-08:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.76,
-      "tp_s": 3.03,
-      "dp_deg": 281,
+      "hs_m": 0.79,
+      "tp_s": 3.23,
+      "dp_deg": 270,
       "sst_c": 5.9
     },
     {
