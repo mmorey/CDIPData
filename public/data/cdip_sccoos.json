@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-07T03:36:26.827Z",
+  "last_updated": "2025-01-07T03:47:32.953Z",
   "data": [
     {
       "timestamp": "01.07.2025-02:30:00",
@@ -98,16 +98,16 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "01.07.2025-02:00:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.75,
+      "hs_m": 1.65,
       "tp_s": 15.38,
-      "dp_deg": 329,
-      "sst_c": 25.3
+      "dp_deg": 326,
+      "sst_c": 25.2
     },
     {
       "timestamp": "01.07.2025-03:00:00",
@@ -122,15 +122,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
       "longitude": -156.425,
       "depth_cm": 20000,
-      "hs_m": 2.81,
-      "tp_s": 15.38,
-      "dp_deg": 321,
+      "hs_m": 2.88,
+      "tp_s": 14.29,
+      "dp_deg": 322,
       "sst_c": 25.4
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 2.47,
-      "tp_s": 14.29,
-      "dp_deg": 314,
-      "sst_c": 26
+      "hs_m": 2.55,
+      "tp_s": 15.38,
+      "dp_deg": 320,
+      "sst_c": 25.9
     },
     {
       "timestamp": "01.07.2025-03:00:00",
@@ -206,16 +206,16 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "01.07.2025-02:00:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3.32,
+      "hs_m": 3.14,
       "tp_s": 15.38,
-      "dp_deg": 300,
-      "sst_c": 23.7
+      "dp_deg": 314,
+      "sst_c": 23.6
     },
     {
       "timestamp": "01.07.2025-02:30:00",
@@ -446,16 +446,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.99,
-      "tp_s": 20,
-      "dp_deg": 282,
-      "sst_c": 11.9
+      "hs_m": 2.88,
+      "tp_s": 18.18,
+      "dp_deg": 295,
+      "sst_c": 11.8
     },
     {
       "timestamp": "01.07.2025-03:00:00",
@@ -470,16 +470,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.32,
+      "hs_m": 2.05,
       "tp_s": 20,
-      "dp_deg": 257,
-      "sst_c": 13
+      "dp_deg": 265,
+      "sst_c": 13.6
     },
     {
       "timestamp": "01.07.2025-02:30:00",
@@ -530,16 +530,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1.38,
+      "hs_m": 1.41,
       "tp_s": 18.18,
-      "dp_deg": 232,
-      "sst_c": 12.7
+      "dp_deg": 226,
+      "sst_c": 12.6
     },
     {
       "timestamp": "01.07.2025-02:30:00",
@@ -662,15 +662,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.02,
-      "tp_s": 18.18,
-      "dp_deg": 278,
+      "hs_m": 1.97,
+      "tp_s": 16.67,
+      "dp_deg": 277,
       "sst_c": 9.9
     },
     {
@@ -698,27 +698,27 @@
       "sst_c": 6
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.49,
+      "hs_m": 0.48,
       "tp_s": 5.88,
-      "dp_deg": 91,
+      "dp_deg": 103,
       "sst_c": 24.5
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 2.45,
+      "hs_m": 2.37,
       "tp_s": 7.69,
-      "dp_deg": 302,
+      "dp_deg": 297,
       "sst_c": 22.6
     },
     {
@@ -878,16 +878,16 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.76,
-      "tp_s": 5.26,
-      "dp_deg": 2,
-      "sst_c": 9.2
+      "hs_m": 2.02,
+      "tp_s": 5.88,
+      "dp_deg": 6,
+      "sst_c": 9.3
     },
     {
       "timestamp": "01.07.2025-02:30:00",
@@ -926,15 +926,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "01.07.2025-02:30:00",
+      "timestamp": "01.07.2025-03:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 1.07,
-      "tp_s": 3.7,
-      "dp_deg": 349,
+      "hs_m": 1.12,
+      "tp_s": 4.76,
+      "dp_deg": 4,
       "sst_c": 6.6
     },
     {
