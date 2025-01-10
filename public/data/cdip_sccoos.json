@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-10T17:33:03.603Z",
+  "last_updated": "2025-01-10T17:46:54.086Z",
   "data": [
     {
       "timestamp": "01.10.2025-16:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
       "hs_m": 3.34,
-      "tp_s": 7.69,
-      "dp_deg": 354,
+      "tp_s": 8.33,
+      "dp_deg": 357,
       "sst_c": 29
     },
     {
@@ -134,27 +134,27 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.9,
-      "tp_s": 6.25,
-      "dp_deg": 140,
-      "sst_c": 25.4
+      "hs_m": 0.94,
+      "tp_s": 5.56,
+      "dp_deg": 135,
+      "sst_c": 25.3
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 2.05,
+      "hs_m": 2.34,
       "tp_s": 14.29,
-      "dp_deg": 312,
+      "dp_deg": 308,
       "sst_c": 25.8
     },
     {
@@ -302,16 +302,16 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.8,
+      "hs_m": 0.81,
       "tp_s": 14.29,
-      "dp_deg": 274,
-      "sst_c": 13.3
+      "dp_deg": 267,
+      "sst_c": 13.4
     },
     {
       "timestamp": "01.10.2025-17:00:00",
@@ -338,15 +338,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.63,
-      "tp_s": 13.33,
-      "dp_deg": 288,
+      "hs_m": 1.7,
+      "tp_s": 15.38,
+      "dp_deg": 285,
       "sst_c": 13.1
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.73,
+      "hs_m": 0.74,
       "tp_s": 14.29,
-      "dp_deg": 255,
+      "dp_deg": 241,
       "sst_c": 14.2
     },
     {
@@ -470,15 +470,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.45,
+      "hs_m": 1.37,
       "tp_s": 13.33,
-      "dp_deg": 264,
+      "dp_deg": 260,
       "sst_c": 11.6
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.07,
+      "hs_m": 1.06,
       "tp_s": 15.38,
-      "dp_deg": 236,
+      "dp_deg": 239,
       "sst_c": 12.1
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1.06,
-      "tp_s": 15.38,
-      "dp_deg": 239,
-      "sst_c": 12.2
+      "hs_m": 0.96,
+      "tp_s": 16.67,
+      "dp_deg": 232,
+      "sst_c": 12.3
     },
     {
       "timestamp": "01.10.2025-16:30:00",
@@ -554,15 +554,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 1.87,
+      "hs_m": 1.82,
       "tp_s": 13.33,
-      "dp_deg": 282,
+      "dp_deg": 275,
       "sst_c": 12.3
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.61,
+      "hs_m": 1.81,
       "tp_s": 15.38,
-      "dp_deg": 291,
+      "dp_deg": 281,
       "sst_c": 11.2
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
       "hs_m": 2.18,
-      "tp_s": 14.29,
-      "dp_deg": 271,
+      "tp_s": 12.5,
+      "dp_deg": 267,
       "sst_c": 10.9
     },
     {
@@ -878,16 +878,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 2.04,
+      "hs_m": 1.98,
       "tp_s": 8.33,
-      "dp_deg": 30,
-      "sst_c": 12.2
+      "dp_deg": 32,
+      "sst_c": 12.3
     },
     {
       "timestamp": "01.10.2025-17:00:00",
@@ -962,16 +962,16 @@
       "sst_c": 7.6
     },
     {
-      "timestamp": "01.10.2025-16:30:00",
+      "timestamp": "01.10.2025-17:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.62,
-      "tp_s": 4.55,
+      "hs_m": 0.57,
+      "tp_s": 3.85,
       "dp_deg": 9,
-      "sst_c": 4.4
+      "sst_c": 4.3
     },
     {
       "timestamp": "01.10.2025-17:00:00",
