@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-01-11T03:35:47.359Z",
+  "last_updated": "2025-01-11T03:46:57.474Z",
   "data": [
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 3.13,
+      "hs_m": 3.28,
       "tp_s": 16.67,
-      "dp_deg": 339,
-      "sst_c": 28.9
+      "dp_deg": 334,
+      "sst_c": 29
     },
     {
       "timestamp": "01.11.2025-03:00:00",
@@ -134,15 +134,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.69,
-      "tp_s": 8.33,
-      "dp_deg": 146,
+      "hs_m": 0.72,
+      "tp_s": 6.67,
+      "dp_deg": 148,
       "sst_c": 25.5
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.43,
-      "tp_s": 12.5,
-      "dp_deg": 314,
+      "hs_m": 2.34,
+      "tp_s": 13.33,
+      "dp_deg": 316,
       "sst_c": 23.5
     },
     {
@@ -254,15 +254,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.02,
-      "tp_s": 13.33,
-      "dp_deg": 259,
+      "hs_m": 1.18,
+      "tp_s": 14.29,
+      "dp_deg": 267,
       "sst_c": 14.8
     },
     {
@@ -326,14 +326,14 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.79,
-      "tp_s": 12.5,
+      "hs_m": 0.74,
+      "tp_s": 14.29,
       "dp_deg": 222,
       "sst_c": 14.6
     },
@@ -662,16 +662,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.28,
+      "hs_m": 3.18,
       "tp_s": 15.38,
-      "dp_deg": 255,
-      "sst_c": 8.8
+      "dp_deg": 257,
+      "sst_c": 8.7
     },
     {
       "timestamp": "01.11.2025-03:00:00",
@@ -722,15 +722,15 @@
       "sst_c": 24.3
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.73,
+      "hs_m": 1.84,
       "tp_s": 5.56,
-      "dp_deg": 158,
+      "dp_deg": 160,
       "sst_c": 22.1
     },
     {
@@ -746,27 +746,27 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 0.89,
-      "tp_s": 3.57,
-      "dp_deg": 23,
+      "hs_m": 0.87,
+      "tp_s": 9.09,
+      "dp_deg": 118,
       "sst_c": 16.2
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 2.18,
+      "hs_m": 2.4,
       "tp_s": 7.69,
-      "dp_deg": 211,
+      "dp_deg": 208,
       "sst_c": 18.2
     },
     {
@@ -1010,27 +1010,27 @@
       "sst_c": 8.3
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.17,
-      "tp_s": 5.26,
-      "dp_deg": 248,
-      "sst_c": 9
+      "hs_m": 1.07,
+      "tp_s": 4,
+      "dp_deg": 284,
+      "sst_c": 8.9
     },
     {
-      "timestamp": "01.11.2025-02:30:00",
+      "timestamp": "01.11.2025-03:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 0.7,
-      "tp_s": 5,
-      "dp_deg": 225,
+      "hs_m": 0.71,
+      "tp_s": 5.26,
+      "dp_deg": 227,
       "sst_c": 5.3
     },
     {
