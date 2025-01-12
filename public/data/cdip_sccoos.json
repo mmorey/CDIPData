@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-12T05:33:19.561Z",
+  "last_updated": "2025-01-12T05:46:58.525Z",
   "data": [
     {
       "timestamp": "01.12.2025-04:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.98,
-      "tp_s": 6.67,
-      "dp_deg": 91,
+      "hs_m": 1.86,
+      "tp_s": 8.33,
+      "dp_deg": 93,
       "sst_c": 28.5
     },
     {
@@ -86,16 +86,16 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.12,
-      "tp_s": 8.33,
-      "dp_deg": 14,
-      "sst_c": 28.8
+      "hs_m": 2.23,
+      "tp_s": 7.69,
+      "dp_deg": 26,
+      "sst_c": 28.7
     },
     {
       "timestamp": "01.12.2025-05:00:00",
@@ -134,15 +134,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.61,
-      "tp_s": 8.33,
-      "dp_deg": 134,
+      "hs_m": 0.64,
+      "tp_s": 7.14,
+      "dp_deg": 139,
       "sst_c": 25.5
     },
     {
@@ -230,27 +230,27 @@
       "sst_c": 7.3
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
       "hs_m": 1.37,
-      "tp_s": 15.38,
-      "dp_deg": 264,
+      "tp_s": 14.29,
+      "dp_deg": 274,
       "sst_c": null
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.41,
-      "tp_s": 15.38,
-      "dp_deg": 264,
+      "hs_m": 1.39,
+      "tp_s": 14.29,
+      "dp_deg": 267,
       "sst_c": 13.8
     },
     {
@@ -314,25 +314,25 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.89,
-      "tp_s": 15.38,
+      "hs_m": 0.82,
+      "tp_s": 14.29,
       "dp_deg": 254,
-      "sst_c": 14.1
+      "sst_c": 14
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.96,
+      "hs_m": 1.05,
       "tp_s": 15.38,
       "dp_deg": 259,
       "sst_c": 14
@@ -398,15 +398,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.86,
-      "tp_s": 15.38,
-      "dp_deg": 242,
+      "hs_m": 0.87,
+      "tp_s": 16.67,
+      "dp_deg": 250,
       "sst_c": 14.6
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.62,
-      "tp_s": 12.5,
-      "dp_deg": 249,
+      "hs_m": 1.58,
+      "tp_s": 13.33,
+      "dp_deg": 246,
       "sst_c": 12.1
     },
     {
@@ -542,15 +542,15 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 1.91,
-      "tp_s": 14.29,
-      "dp_deg": 275,
+      "hs_m": 1.98,
+      "tp_s": 12.5,
+      "dp_deg": 277,
       "sst_c": 12
     },
     {
@@ -746,28 +746,28 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 0.82,
-      "tp_s": 3.7,
-      "dp_deg": 155,
+      "hs_m": 0.96,
+      "tp_s": 4,
+      "dp_deg": 158,
       "sst_c": 15.9
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.75,
+      "hs_m": 0.68,
       "tp_s": 6.67,
-      "dp_deg": 248,
-      "sst_c": 13.9
+      "dp_deg": 242,
+      "sst_c": 13.6
     },
     {
       "timestamp": "01.12.2025-05:00:00",
@@ -914,15 +914,15 @@
       "sst_c": 7.1
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.7,
-      "tp_s": 4.76,
-      "dp_deg": 2,
+      "hs_m": 1.81,
+      "tp_s": 5.56,
+      "dp_deg": 8,
       "sst_c": 7
     },
     {
@@ -1034,19 +1034,19 @@
       "sst_c": 3.4
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.59,
+      "hs_m": 1.65,
       "tp_s": 5.56,
-      "dp_deg": 17,
+      "dp_deg": 13,
       "sst_c": 6.8
     },
     {
-      "timestamp": "01.12.2025-04:30:00",
+      "timestamp": "01.12.2025-05:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.50075,
@@ -1054,8 +1054,8 @@
       "depth_cm": 4220,
       "hs_m": 0.82,
       "tp_s": 4.35,
-      "dp_deg": 264,
-      "sst_c": 3.5
+      "dp_deg": 269,
+      "sst_c": 3.1
     },
     {
       "timestamp": "01.12.2025-05:00:00",
