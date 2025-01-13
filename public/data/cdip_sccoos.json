@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-13T05:34:53.624Z",
+  "last_updated": "2025-01-13T05:46:59.843Z",
   "data": [
     {
       "timestamp": "01.13.2025-04:30:00",
@@ -14,7 +14,7 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
@@ -22,19 +22,19 @@
       "depth_cm": 6000,
       "hs_m": 2.63,
       "tp_s": 15.38,
-      "dp_deg": 189,
-      "sst_c": 29.3
+      "dp_deg": 141,
+      "sst_c": 29.2
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "276",
       "station_name": "UTWE, KOSRAE, MICRONESIA",
       "latitude": 5.24042,
       "longitude": 163.00082,
       "depth_cm": 57000,
-      "hs_m": 2.09,
-      "tp_s": 7.14,
-      "dp_deg": 80,
+      "hs_m": 2.08,
+      "tp_s": 7.69,
+      "dp_deg": 73,
       "sst_c": 29.6
     },
     {
@@ -74,40 +74,40 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.19,
-      "tp_s": 7.69,
-      "dp_deg": 73,
+      "hs_m": 2.2,
+      "tp_s": 10.53,
+      "dp_deg": 332,
       "sst_c": 28.8
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.86,
+      "hs_m": 1.76,
       "tp_s": 10.53,
-      "dp_deg": 349,
+      "dp_deg": 331,
       "sst_c": 28.9
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2,
-      "tp_s": 9.09,
-      "dp_deg": 97,
-      "sst_c": 25
+      "hs_m": 2.04,
+      "tp_s": 8.33,
+      "dp_deg": 101,
+      "sst_c": 25.1
     },
     {
       "timestamp": "01.13.2025-05:00:00",
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.85,
+      "hs_m": 0.83,
       "tp_s": 12.5,
-      "dp_deg": 288,
+      "dp_deg": 291,
       "sst_c": 14.5
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.68,
-      "tp_s": 12.5,
-      "dp_deg": 246,
-      "sst_c": 14.3
+      "hs_m": 0.61,
+      "tp_s": 15.38,
+      "dp_deg": 243,
+      "sst_c": 14.2
     },
     {
       "timestamp": "01.13.2025-04:30:00",
@@ -470,15 +470,15 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.01,
-      "tp_s": 11.11,
-      "dp_deg": 276,
+      "hs_m": 2.02,
+      "tp_s": 11.76,
+      "dp_deg": 274,
       "sst_c": 11.4
     },
     {
@@ -530,15 +530,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
       "hs_m": 0.87,
-      "tp_s": 12.5,
-      "dp_deg": 247,
+      "tp_s": 14.29,
+      "dp_deg": 244,
       "sst_c": 12.1
     },
     {
@@ -746,28 +746,28 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 0.8,
-      "tp_s": 6.67,
-      "dp_deg": 159,
+      "hs_m": 0.82,
+      "tp_s": 5.26,
+      "dp_deg": 101,
       "sst_c": 16.4
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.42,
-      "tp_s": 5.88,
-      "dp_deg": 153,
-      "sst_c": 17.3
+      "hs_m": 1.52,
+      "tp_s": 6.25,
+      "dp_deg": 147,
+      "sst_c": 17.4
     },
     {
       "timestamp": "01.13.2025-05:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "01.13.2025-04:30:00",
+      "timestamp": "01.13.2025-05:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.07,
-      "tp_s": 9.09,
-      "dp_deg": 91,
+      "hs_m": 1.1,
+      "tp_s": 8.33,
+      "dp_deg": 101,
       "sst_c": 20.5
     },
     {
