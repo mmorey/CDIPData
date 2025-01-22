@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-22T20:22:02.186Z",
+  "last_updated": "2025-01-22T20:32:22.906Z",
   "data": [
     {
       "timestamp": "01.22.2025-19:30:00",
@@ -62,27 +62,27 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "01.22.2025-19:00:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
       "hs_m": 2.01,
-      "tp_s": 9.09,
-      "dp_deg": 104,
+      "tp_s": 9.88,
+      "dp_deg": 105,
       "sst_c": 28.2
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.97,
-      "tp_s": 9.09,
-      "dp_deg": 93,
+      "hs_m": 1.99,
+      "tp_s": 9.88,
+      "dp_deg": 79,
       "sst_c": 28.6
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.39,
+      "hs_m": 1.32,
       "tp_s": 15.38,
-      "dp_deg": 350,
+      "dp_deg": 355,
       "sst_c": 25.1
     },
     {
@@ -254,13 +254,13 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "01.22.2025-18:45:00",
+      "timestamp": "01.22.2025-19:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.52,
+      "hs_m": 0.59,
       "tp_s": 13.47,
       "dp_deg": null,
       "sst_c": null
@@ -326,15 +326,15 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.75,
+      "hs_m": 1.59,
       "tp_s": 15.38,
-      "dp_deg": 300,
+      "dp_deg": 295,
       "sst_c": 14.2
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.02,
-      "tp_s": 13.33,
-      "dp_deg": 268,
+      "hs_m": 1.01,
+      "tp_s": 14.29,
+      "dp_deg": 260,
       "sst_c": 13.5
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.34,
-      "tp_s": 12.5,
-      "dp_deg": 291,
+      "hs_m": 1.19,
+      "tp_s": 13.33,
+      "dp_deg": 284,
       "sst_c": 9.9
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 8.9
     },
     {
-      "timestamp": "01.22.2025-19:00:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.28,
+      "hs_m": 1.2,
       "tp_s": 13.33,
-      "dp_deg": 272,
-      "sst_c": 7.6
+      "dp_deg": 265,
+      "sst_c": 7.8
     },
     {
       "timestamp": "01.22.2025-19:30:00",
@@ -758,27 +758,27 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 0.55,
-      "tp_s": 3.7,
-      "dp_deg": 90,
+      "hs_m": 0.53,
+      "tp_s": 5.88,
+      "dp_deg": 145,
       "sst_c": 13.1
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
       "hs_m": 0.95,
-      "tp_s": 5.88,
-      "dp_deg": 73,
+      "tp_s": 5.56,
+      "dp_deg": 68,
       "sst_c": 18.5
     },
     {
@@ -794,27 +794,27 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 1.43,
-      "tp_s": 7.69,
-      "dp_deg": 79,
-      "sst_c": 14.9
+      "hs_m": 1.31,
+      "tp_s": 11.76,
+      "dp_deg": 83,
+      "sst_c": 15
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 2.46,
-      "tp_s": 11.11,
-      "dp_deg": 53,
+      "hs_m": 2.52,
+      "tp_s": 7.14,
+      "dp_deg": 35,
       "sst_c": 14.4
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 6.4
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.75,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 2.92,
-      "tp_s": 8.33,
-      "dp_deg": 34,
+      "hs_m": 2.75,
+      "tp_s": 7.14,
+      "dp_deg": 9,
       "sst_c": 6.9
     },
     {
@@ -974,28 +974,28 @@
       "sst_c": 1.6
     },
     {
-      "timestamp": "01.22.2025-19:00:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.8,
+      "hs_m": 0.74,
       "tp_s": 4.55,
-      "dp_deg": 29,
+      "dp_deg": 32,
       "sst_c": 6.9
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.95,
+      "hs_m": 0.88,
       "tp_s": 4.55,
-      "dp_deg": 16,
-      "sst_c": 6.9
+      "dp_deg": 6,
+      "sst_c": 7
     },
     {
       "timestamp": "01.22.2025-07:30:00",
@@ -1022,15 +1022,15 @@
       "sst_c": 2.8
     },
     {
-      "timestamp": "01.22.2025-19:30:00",
+      "timestamp": "01.22.2025-20:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.56,
-      "tp_s": 3.85,
-      "dp_deg": 29,
+      "hs_m": 0.57,
+      "tp_s": 9.88,
+      "dp_deg": 105,
       "sst_c": 6.1
     },
     {
