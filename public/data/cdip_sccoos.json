@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-01-27T03:34:23.965Z",
+  "last_updated": "2025-01-27T03:46:54.610Z",
   "data": [
     {
       "timestamp": "01.27.2025-02:30:00",
@@ -86,16 +86,16 @@
       "sst_c": 29
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
       "hs_m": 1.13,
-      "tp_s": 11.76,
-      "dp_deg": 47,
-      "sst_c": 29
+      "tp_s": 11.11,
+      "dp_deg": 40,
+      "sst_c": 29.1
     },
     {
       "timestamp": "01.27.2025-03:00:00",
@@ -122,15 +122,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.68,
+      "hs_m": 0.58,
       "tp_s": 8.33,
-      "dp_deg": 158,
+      "dp_deg": 153,
       "sst_c": 24.9
     },
     {
@@ -338,27 +338,27 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.6,
+      "hs_m": 0.59,
       "tp_s": 14.29,
       "dp_deg": 237,
-      "sst_c": 13.9
+      "sst_c": 13.8
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.7,
-      "tp_s": 12.5,
-      "dp_deg": 244,
+      "hs_m": 0.64,
+      "tp_s": 13.33,
+      "dp_deg": 249,
       "sst_c": 14.2
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.02,
-      "tp_s": 5.88,
-      "dp_deg": 262,
+      "hs_m": 1.01,
+      "tp_s": 13.33,
+      "dp_deg": 257,
       "sst_c": 14
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 13
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.57,
-      "tp_s": 10.53,
-      "dp_deg": 309,
+      "hs_m": 1.63,
+      "tp_s": 11.11,
+      "dp_deg": 310,
       "sst_c": 12.6
     },
     {
@@ -518,7 +518,7 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
@@ -526,19 +526,19 @@
       "depth_cm": 2350,
       "hs_m": 0.44,
       "tp_s": 12.5,
-      "dp_deg": 236,
+      "dp_deg": 240,
       "sst_c": 11.8
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 1,
-      "tp_s": 9.88,
-      "dp_deg": 286,
+      "hs_m": 0.99,
+      "tp_s": 11.11,
+      "dp_deg": 288,
       "sst_c": 11.3
     },
     {
@@ -554,16 +554,16 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.28,
+      "hs_m": 2.14,
       "tp_s": 9.09,
-      "dp_deg": 333,
-      "sst_c": 10.4
+      "dp_deg": 334,
+      "sst_c": 10.3
     },
     {
       "timestamp": "01.27.2025-02:30:00",
@@ -746,16 +746,16 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.81,
-      "tp_s": 5.88,
-      "dp_deg": 167,
-      "sst_c": 15.5
+      "hs_m": 0.76,
+      "tp_s": 5,
+      "dp_deg": 161,
+      "sst_c": 15.7
     },
     {
       "timestamp": "01.27.2025-03:00:00",
@@ -854,16 +854,16 @@
       "sst_c": 7.9
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.8,
+      "hs_m": 0.82,
       "tp_s": 5.56,
-      "dp_deg": 216,
-      "sst_c": 20
+      "dp_deg": 211,
+      "sst_c": 20.1
     },
     {
       "timestamp": "01.27.2025-03:00:00",
@@ -878,39 +878,39 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 0.46,
-      "tp_s": 10.53,
-      "dp_deg": 124,
-      "sst_c": 4.8
+      "hs_m": 0.5,
+      "tp_s": 5.26,
+      "dp_deg": 159,
+      "sst_c": 4.9
     },
     {
-      "timestamp": "01.27.2025-02:00:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.29,
+      "hs_m": 0.28,
       "tp_s": 9.09,
-      "dp_deg": 106,
-      "sst_c": 5.4
+      "dp_deg": 104,
+      "sst_c": 5.2
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.4,
-      "tp_s": 9.09,
-      "dp_deg": 119,
+      "hs_m": 0.41,
+      "tp_s": 5.56,
+      "dp_deg": 145,
       "sst_c": 5.3
     },
     {
@@ -926,16 +926,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.36,
+      "hs_m": 0.38,
       "tp_s": 9.09,
-      "dp_deg": 120,
-      "sst_c": 3.5
+      "dp_deg": 123,
+      "sst_c": 3.6
     },
     {
       "timestamp": "01.27.2025-03:00:00",
@@ -986,40 +986,40 @@
       "sst_c": 5
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.53,
+      "hs_m": 1.51,
       "tp_s": 6.67,
-      "dp_deg": 228,
+      "dp_deg": 226,
       "sst_c": 6.6
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.15,
-      "tp_s": 6.67,
+      "hs_m": 1.1,
+      "tp_s": 7.14,
       "dp_deg": 213,
       "sst_c": 4
     },
     {
-      "timestamp": "01.27.2025-02:30:00",
+      "timestamp": "01.27.2025-03:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.57,
-      "tp_s": 4,
-      "dp_deg": 342,
-      "sst_c": 2.8
+      "hs_m": 0.55,
+      "tp_s": 3.85,
+      "dp_deg": 340,
+      "sst_c": 2.6
     },
     {
       "timestamp": "01.27.2025-03:00:00",
