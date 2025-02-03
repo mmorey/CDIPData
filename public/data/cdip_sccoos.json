@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-03T13:33:33.920Z",
+  "last_updated": "2025-02-03T13:47:09.783Z",
   "data": [
     {
       "timestamp": "02.03.2025-12:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 3.1,
+      "hs_m": 3.09,
       "tp_s": 8.33,
-      "dp_deg": 71,
+      "dp_deg": 65,
       "sst_c": 29.1
     },
     {
@@ -74,39 +74,39 @@
       "sst_c": 28.1
     },
     {
-      "timestamp": "02.03.2025-11:00:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.9,
-      "tp_s": 13.33,
-      "dp_deg": 11,
+      "hs_m": 1.8,
+      "tp_s": 9.88,
+      "dp_deg": 45,
       "sst_c": 28.6
     },
     {
-      "timestamp": "02.03.2025-12:00:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.93,
+      "hs_m": 1.77,
       "tp_s": 12.5,
-      "dp_deg": 19,
+      "dp_deg": 23,
       "sst_c": 28.5
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.37,
-      "tp_s": 9.88,
-      "dp_deg": 58,
+      "hs_m": 2.55,
+      "tp_s": 12.5,
+      "dp_deg": 14,
       "sst_c": 25
     },
     {
@@ -134,7 +134,7 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
@@ -142,8 +142,8 @@
       "depth_cm": 28000,
       "hs_m": 0.97,
       "tp_s": 12.5,
-      "dp_deg": 295,
-      "sst_c": 25.1
+      "dp_deg": 299,
+      "sst_c": 25
     },
     {
       "timestamp": "02.03.2025-13:00:00",
@@ -230,13 +230,13 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.66,
+      "hs_m": 0.67,
       "tp_s": 11.11,
       "dp_deg": 271,
       "sst_c": 13.6
@@ -338,15 +338,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.47,
-      "tp_s": 10.53,
-      "dp_deg": 246,
+      "hs_m": 0.46,
+      "tp_s": 9.88,
+      "dp_deg": 252,
       "sst_c": 13.6
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.98,
-      "tp_s": 11.11,
-      "dp_deg": 276,
+      "hs_m": 1.04,
+      "tp_s": 10.53,
+      "dp_deg": 271,
       "sst_c": 13.4
     },
     {
@@ -422,15 +422,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.44,
-      "tp_s": 11.11,
-      "dp_deg": 230,
+      "hs_m": 0.41,
+      "tp_s": 9.88,
+      "dp_deg": 231,
       "sst_c": 14
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.13,
-      "tp_s": 8.33,
-      "dp_deg": 248,
+      "hs_m": 1.16,
+      "tp_s": 9.09,
+      "dp_deg": 249,
       "sst_c": 12
     },
     {
@@ -566,27 +566,27 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 3.05,
-      "tp_s": 13.33,
-      "dp_deg": 317,
+      "hs_m": 3.28,
+      "tp_s": 12.5,
+      "dp_deg": 313,
       "sst_c": 11.2
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 2.69,
-      "tp_s": 13.33,
-      "dp_deg": 324,
+      "hs_m": 2.8,
+      "tp_s": 12.5,
+      "dp_deg": 321,
       "sst_c": 10.6
     },
     {
@@ -710,19 +710,19 @@
       "sst_c": 4.8
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.82,
-      "tp_s": 5.88,
-      "dp_deg": 95,
+      "hs_m": 0.8,
+      "tp_s": 6.25,
+      "dp_deg": 96,
       "sst_c": 24
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.69999,
@@ -730,19 +730,19 @@
       "depth_cm": 8100,
       "hs_m": 0.39,
       "tp_s": 3.03,
-      "dp_deg": 36,
+      "dp_deg": 33,
       "sst_c": 22.5
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
       "hs_m": 0.28,
-      "tp_s": 7.14,
-      "dp_deg": 214,
+      "tp_s": 7.69,
+      "dp_deg": 208,
       "sst_c": 20.6
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.36,
-      "tp_s": 7.14,
-      "dp_deg": 156,
+      "hs_m": 0.38,
+      "tp_s": 6.25,
+      "dp_deg": 157,
       "sst_c": 15.3
     },
     {
@@ -866,16 +866,16 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.43,
+      "hs_m": 1.37,
       "tp_s": 9.88,
-      "dp_deg": 83,
-      "sst_c": 16.3
+      "dp_deg": 94,
+      "sst_c": 15.9
     },
     {
       "timestamp": "02.03.2025-13:00:00",
@@ -914,7 +914,7 @@
       "sst_c": 6.1
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
@@ -922,7 +922,7 @@
       "depth_cm": 2830,
       "hs_m": 1.12,
       "tp_s": 9.09,
-      "dp_deg": 65,
+      "dp_deg": 70,
       "sst_c": 7
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.93,
-      "tp_s": 6.25,
-      "dp_deg": 79,
+      "hs_m": 0.94,
+      "tp_s": 9.09,
+      "dp_deg": 87,
       "sst_c": 5.6
     },
     {
@@ -1010,16 +1010,16 @@
       "sst_c": 6.1
     },
     {
-      "timestamp": "02.03.2025-12:30:00",
+      "timestamp": "02.03.2025-13:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.23,
-      "tp_s": 6.67,
-      "dp_deg": 159,
-      "sst_c": 3.2
+      "hs_m": 1.14,
+      "tp_s": 6.25,
+      "dp_deg": 163,
+      "sst_c": 3.3
     },
     {
       "timestamp": "02.03.2025-12:30:00",
