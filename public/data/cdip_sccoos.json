@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-12T23:20:46.336Z",
+  "last_updated": "2025-02-12T23:32:19.114Z",
   "data": [
     {
       "timestamp": "02.12.2025-22:30:00",
@@ -254,13 +254,13 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "02.12.2025-21:45:00",
+      "timestamp": "02.12.2025-22:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.81,
+      "hs_m": 0.72,
       "tp_s": 12.8,
       "dp_deg": null,
       "sst_c": null
@@ -746,16 +746,16 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "02.12.2025-22:30:00",
+      "timestamp": "02.12.2025-23:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.76,
-      "tp_s": 4.17,
-      "dp_deg": 184,
-      "sst_c": 19.9
+      "hs_m": 0.78,
+      "tp_s": 4.35,
+      "dp_deg": 188,
+      "sst_c": 19.8
     },
     {
       "timestamp": "02.12.2025-22:30:00",
@@ -818,15 +818,15 @@
       "sst_c": 23.3
     },
     {
-      "timestamp": "02.12.2025-22:30:00",
+      "timestamp": "02.12.2025-23:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 1.16,
-      "tp_s": 4.35,
-      "dp_deg": 149,
+      "hs_m": 1.25,
+      "tp_s": 4.76,
+      "dp_deg": 139,
       "sst_c": 21
     },
     {
@@ -974,15 +974,15 @@
       "sst_c": 4.9
     },
     {
-      "timestamp": "02.12.2025-22:30:00",
+      "timestamp": "02.12.2025-23:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
-      "hs_m": 1.88,
-      "tp_s": 9.88,
-      "dp_deg": 89,
+      "hs_m": 1.93,
+      "tp_s": 8.33,
+      "dp_deg": 99,
       "sst_c": 4.2
     },
     {
