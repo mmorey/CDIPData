@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-13T22:33:53.615Z",
+  "last_updated": "2025-02-13T22:47:06.278Z",
   "data": [
     {
       "timestamp": "02.13.2025-21:30:00",
@@ -86,27 +86,27 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "02.13.2025-21:00:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.26,
-      "tp_s": 12.5,
-      "dp_deg": 6,
-      "sst_c": 28.1
+      "hs_m": 2.21,
+      "tp_s": 13.33,
+      "dp_deg": 7,
+      "sst_c": 28.2
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.21,
-      "tp_s": 9.88,
-      "dp_deg": 100,
+      "hs_m": 2.14,
+      "tp_s": 9.09,
+      "dp_deg": 113,
       "sst_c": 24.7
     },
     {
@@ -122,28 +122,28 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
       "hs_m": 0.61,
-      "tp_s": 13.33,
-      "dp_deg": 166,
-      "sst_c": 26.1
+      "tp_s": 14.29,
+      "dp_deg": 172,
+      "sst_c": 25.8
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.71,
-      "tp_s": 15.38,
-      "dp_deg": 268,
-      "sst_c": 25.7
+      "hs_m": 1.56,
+      "tp_s": 14.29,
+      "dp_deg": 257,
+      "sst_c": 26
     },
     {
       "timestamp": "02.13.2025-22:00:00",
@@ -194,16 +194,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.1,
+      "hs_m": 2.33,
       "tp_s": 14.29,
-      "dp_deg": 317,
-      "sst_c": 24
+      "dp_deg": 306,
+      "sst_c": 24.2
     },
     {
       "timestamp": "02.13.2025-21:30:00",
@@ -350,15 +350,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.09,
-      "tp_s": 8.33,
-      "dp_deg": 282,
+      "hs_m": 1.12,
+      "tp_s": 5.26,
+      "dp_deg": 179,
       "sst_c": 14.4
     },
     {
@@ -374,13 +374,13 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.48,
+      "hs_m": 1.43,
       "tp_s": 9.88,
       "dp_deg": 273,
       "sst_c": 14.1
@@ -422,14 +422,14 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 1.14,
-      "tp_s": 4.55,
+      "hs_m": 1.15,
+      "tp_s": 4.35,
       "dp_deg": 204,
       "sst_c": 13.9
     },
@@ -458,15 +458,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.53,
-      "tp_s": 6.67,
-      "dp_deg": 229,
+      "hs_m": 2.44,
+      "tp_s": 6.25,
+      "dp_deg": 203,
       "sst_c": 12.5
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.46,
-      "tp_s": 9.09,
-      "dp_deg": 170,
-      "sst_c": 20.3
+      "hs_m": 1.45,
+      "tp_s": 7.69,
+      "dp_deg": 166,
+      "sst_c": 20.2
     },
     {
       "timestamp": "02.13.2025-22:00:00",
@@ -806,16 +806,16 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.01,
+      "hs_m": 0.98,
       "tp_s": 4,
-      "dp_deg": 139,
-      "sst_c": 24
+      "dp_deg": 141,
+      "sst_c": 23.7
     },
     {
       "timestamp": "02.13.2025-22:00:00",
@@ -914,28 +914,28 @@
       "sst_c": 7.1
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.19,
-      "tp_s": 10.53,
-      "dp_deg": 80,
-      "sst_c": 6.3
+      "hs_m": 1.11,
+      "tp_s": 7.14,
+      "dp_deg": 111,
+      "sst_c": 6.4
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.27,
-      "tp_s": 6.67,
-      "dp_deg": 114,
-      "sst_c": 7
+      "hs_m": 1.29,
+      "tp_s": 9.88,
+      "dp_deg": 83,
+      "sst_c": 6.9
     },
     {
       "timestamp": "02.13.2025-21:30:00",
@@ -950,15 +950,15 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.27,
-      "tp_s": 7.14,
-      "dp_deg": 118,
+      "hs_m": 1.21,
+      "tp_s": 8.33,
+      "dp_deg": 102,
       "sst_c": 5.6
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 1.8
     },
     {
-      "timestamp": "02.13.2025-21:30:00",
+      "timestamp": "02.13.2025-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 2.95,
+      "hs_m": 3.16,
       "tp_s": 9.88,
-      "dp_deg": 113,
+      "dp_deg": 112,
       "sst_c": 5.4
     },
     {
