@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-14T15:33:09.893Z",
+  "last_updated": "2025-02-14T15:47:13.334Z",
   "data": [
     {
       "timestamp": "02.14.2025-14:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
       "hs_m": 2.44,
-      "tp_s": 15.38,
-      "dp_deg": 342,
+      "tp_s": 14.29,
+      "dp_deg": 330,
       "sst_c": 29.8
     },
     {
@@ -86,27 +86,27 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.06,
+      "hs_m": 1.94,
       "tp_s": 13.33,
-      "dp_deg": 23,
+      "dp_deg": 26,
       "sst_c": 28.1
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.64,
+      "hs_m": 1.67,
       "tp_s": 9.09,
-      "dp_deg": 93,
+      "dp_deg": 100,
       "sst_c": 24.5
     },
     {
@@ -122,28 +122,28 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.86,
-      "tp_s": 13.33,
-      "dp_deg": 164,
+      "hs_m": 0.82,
+      "tp_s": 12.5,
+      "dp_deg": 167,
       "sst_c": 24.9
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.51,
+      "hs_m": 1.71,
       "tp_s": 13.33,
-      "dp_deg": 265,
-      "sst_c": 25.3
+      "dp_deg": 243,
+      "sst_c": 25.2
     },
     {
       "timestamp": "02.14.2025-15:00:00",
@@ -218,16 +218,16 @@
       "sst_c": 7.1
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.65,
-      "tp_s": 13.33,
-      "dp_deg": 266,
-      "sst_c": 14.4
+      "hs_m": 1.62,
+      "tp_s": 9.88,
+      "dp_deg": 267,
+      "sst_c": 14.3
     },
     {
       "timestamp": "02.14.2025-14:30:00",
@@ -302,15 +302,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.05,
-      "tp_s": 14.29,
-      "dp_deg": 259,
+      "hs_m": 1.09,
+      "tp_s": 9.09,
+      "dp_deg": 270,
       "sst_c": 14
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.25,
+      "hs_m": 1.21,
       "tp_s": 8.33,
-      "dp_deg": 260,
+      "dp_deg": 261,
       "sst_c": 14.3
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "02.14.2025-14:00:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.19,
-      "tp_s": 7.69,
-      "dp_deg": 246,
+      "hs_m": 1.16,
+      "tp_s": 9.88,
+      "dp_deg": 249,
       "sst_c": 14.1
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
       "hs_m": 1.74,
-      "tp_s": 9.88,
-      "dp_deg": 261,
+      "tp_s": 8.33,
+      "dp_deg": 263,
       "sst_c": 13.8
     },
     {
@@ -458,15 +458,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "02.14.2025-14:00:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
       "hs_m": 3.99,
-      "tp_s": 11.76,
-      "dp_deg": 262,
+      "tp_s": 14.29,
+      "dp_deg": 254,
       "sst_c": 13.5
     },
     {
@@ -482,39 +482,39 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 2.17,
+      "hs_m": 2.22,
       "tp_s": 12.5,
-      "dp_deg": 349,
-      "sst_c": 12.3
+      "dp_deg": 348,
+      "sst_c": 12.4
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 4.49,
-      "tp_s": 14.29,
-      "dp_deg": 277,
+      "hs_m": 4.46,
+      "tp_s": 15.38,
+      "dp_deg": 279,
       "sst_c": 12
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 4.41,
-      "tp_s": 15.38,
-      "dp_deg": 238,
+      "hs_m": 3.92,
+      "tp_s": 14.29,
+      "dp_deg": 239,
       "sst_c": 12.7
     },
     {
@@ -542,14 +542,14 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 4.73,
-      "tp_s": 15.38,
+      "hs_m": 4.65,
+      "tp_s": 14.29,
       "dp_deg": 269,
       "sst_c": 11.6
     },
@@ -638,15 +638,15 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.38,
-      "tp_s": 14.29,
-      "dp_deg": 270,
+      "hs_m": 2.86,
+      "tp_s": 15.38,
+      "dp_deg": 272,
       "sst_c": 8.7
     },
     {
@@ -686,15 +686,15 @@
       "sst_c": 6.3
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.49,
-      "tp_s": 14.29,
-      "dp_deg": 309,
+      "hs_m": 0.43,
+      "tp_s": 13.33,
+      "dp_deg": 306,
       "sst_c": 7.2
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 16
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.99,
-      "tp_s": 4,
-      "dp_deg": 29,
-      "sst_c": 19.1
+      "hs_m": 1.07,
+      "tp_s": 4.17,
+      "dp_deg": 30,
+      "sst_c": 19.2
     },
     {
       "timestamp": "02.14.2025-15:00:00",
@@ -986,15 +986,15 @@
       "sst_c": 4.7
     },
     {
-      "timestamp": "02.14.2025-14:30:00",
+      "timestamp": "02.14.2025-15:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
       "hs_m": 0.65,
-      "tp_s": 9.88,
-      "dp_deg": 78,
+      "tp_s": 9.09,
+      "dp_deg": 91,
       "sst_c": 4.1
     },
     {
