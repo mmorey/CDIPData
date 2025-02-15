@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-15T22:33:51.629Z",
+  "last_updated": "2025-02-15T22:47:07.473Z",
   "data": [
     {
       "timestamp": "02.15.2025-21:00:00",
@@ -62,7 +62,7 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "02.15.2025-21:00:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
@@ -70,7 +70,7 @@
       "depth_cm": 20000,
       "hs_m": 1.49,
       "tp_s": 6.67,
-      "dp_deg": 87,
+      "dp_deg": 80,
       "sst_c": 28
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "02.15.2025-21:00:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.51,
-      "tp_s": 11.76,
-      "dp_deg": 15,
+      "hs_m": 1.54,
+      "tp_s": 11.11,
+      "dp_deg": 359,
       "sst_c": 28
     },
     {
@@ -158,15 +158,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.44,
-      "tp_s": 11.11,
-      "dp_deg": 343,
+      "hs_m": 1.41,
+      "tp_s": 11.76,
+      "dp_deg": 345,
       "sst_c": 24.6
     },
     {
@@ -182,27 +182,27 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "02.15.2025-20:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.95,
+      "hs_m": 2.45,
       "tp_s": 12.5,
-      "dp_deg": 323,
-      "sst_c": 25.1
+      "dp_deg": 327,
+      "sst_c": 25.2
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.86,
-      "tp_s": 12.5,
-      "dp_deg": 311,
+      "hs_m": 2.78,
+      "tp_s": 11.76,
+      "dp_deg": 310,
       "sst_c": 23
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.66,
-      "tp_s": 13.33,
-      "dp_deg": 277,
-      "sst_c": 15
+      "hs_m": 1.64,
+      "tp_s": 14.29,
+      "dp_deg": 272,
+      "sst_c": 14.9
     },
     {
       "timestamp": "02.15.2025-22:00:00",
@@ -494,16 +494,16 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 2.58,
+      "hs_m": 2.51,
       "tp_s": 11.11,
-      "dp_deg": 287,
-      "sst_c": 12.5
+      "dp_deg": 289,
+      "sst_c": 12.4
     },
     {
       "timestamp": "02.15.2025-21:30:00",
@@ -566,14 +566,14 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.21,
-      "tp_s": 11.76,
+      "hs_m": 2.08,
+      "tp_s": 11.11,
       "dp_deg": 289,
       "sst_c": 10.4
     },
@@ -710,15 +710,15 @@
       "sst_c": 4.7
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 1.95,
-      "tp_s": 7.14,
-      "dp_deg": 109,
+      "hs_m": 1.87,
+      "tp_s": 7.69,
+      "dp_deg": 104,
       "sst_c": 24.5
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.21,
-      "tp_s": 6.25,
-      "dp_deg": 178,
-      "sst_c": 19.7
+      "hs_m": 1.31,
+      "tp_s": 6.67,
+      "dp_deg": 176,
+      "sst_c": 19.5
     },
     {
       "timestamp": "02.15.2025-22:00:00",
@@ -914,16 +914,16 @@
       "sst_c": 7.9
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.88,
-      "tp_s": 5,
-      "dp_deg": 59,
-      "sst_c": 6.2
+      "hs_m": 0.85,
+      "tp_s": 5.26,
+      "dp_deg": 64,
+      "sst_c": 6.3
     },
     {
       "timestamp": "02.15.2025-21:30:00",
@@ -950,27 +950,27 @@
       "sst_c": 8.7
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.93,
-      "tp_s": 4.55,
-      "dp_deg": 97,
+      "hs_m": 0.98,
+      "tp_s": 4.35,
+      "dp_deg": 110,
       "sst_c": 5.6
     },
     {
-      "timestamp": "02.15.2025-21:30:00",
+      "timestamp": "02.15.2025-22:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.25,
-      "tp_s": 4.55,
-      "dp_deg": 114,
+      "hs_m": 0.26,
+      "tp_s": 4.76,
+      "dp_deg": 117,
       "sst_c": 4.8
     },
     {
