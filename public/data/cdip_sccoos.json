@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-18T05:34:34.047Z",
+  "last_updated": "2025-02-18T05:47:13.998Z",
   "data": [
     {
       "timestamp": "02.18.2025-04:30:00",
@@ -26,15 +26,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "276",
       "station_name": "UTWE, KOSRAE, MICRONESIA",
       "latitude": 5.24042,
       "longitude": 163.00082,
       "depth_cm": 57000,
-      "hs_m": 0.99,
-      "tp_s": 9.09,
-      "dp_deg": 119,
+      "hs_m": 0.94,
+      "tp_s": 9.88,
+      "dp_deg": 112,
       "sst_c": 29.4
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.75,
-      "tp_s": 12.5,
-      "dp_deg": 25,
+      "hs_m": 1.68,
+      "tp_s": 14.29,
+      "dp_deg": 28,
       "sst_c": 28.7
     },
     {
@@ -182,27 +182,27 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.44,
+      "hs_m": 2.86,
       "tp_s": 16.67,
       "dp_deg": 311,
       "sst_c": 25.2
     },
     {
-      "timestamp": "02.18.2025-04:00:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3.09,
-      "tp_s": 16.67,
-      "dp_deg": 310,
+      "hs_m": 2.53,
+      "tp_s": 15.38,
+      "dp_deg": 306,
       "sst_c": 23.2
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.19,
+      "hs_m": 1.16,
       "tp_s": 16.67,
-      "dp_deg": 264,
+      "dp_deg": 267,
       "sst_c": 14.3
     },
     {
@@ -302,27 +302,27 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.88,
-      "tp_s": 18.18,
-      "dp_deg": 244,
-      "sst_c": 14.9
+      "hs_m": 0.93,
+      "tp_s": 16.67,
+      "dp_deg": 259,
+      "sst_c": 14.8
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.9,
-      "tp_s": 13.33,
-      "dp_deg": 235,
+      "hs_m": 0.88,
+      "tp_s": 12.5,
+      "dp_deg": 264,
       "sst_c": 14.8
     },
     {
@@ -362,28 +362,28 @@
       "sst_c": 14.7
     },
     {
-      "timestamp": "02.18.2025-04:00:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.92,
-      "tp_s": 13.33,
-      "dp_deg": 258,
-      "sst_c": 14.1
+      "hs_m": 0.97,
+      "tp_s": 16.67,
+      "dp_deg": 251,
+      "sst_c": 14
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.21,
-      "tp_s": 14.29,
-      "dp_deg": 268,
-      "sst_c": 14
+      "hs_m": 1.29,
+      "tp_s": 16.67,
+      "dp_deg": 270,
+      "sst_c": 13.9
     },
     {
       "timestamp": "02.18.2025-05:00:00",
@@ -398,15 +398,15 @@
       "sst_c": 14.3
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 2.23,
+      "hs_m": 2.24,
       "tp_s": 16.67,
-      "dp_deg": 276,
+      "dp_deg": 271,
       "sst_c": 12.9
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.79,
-      "tp_s": 15.38,
-      "dp_deg": 292,
+      "hs_m": 3.99,
+      "tp_s": 14.29,
+      "dp_deg": 293,
       "sst_c": 13
     },
     {
@@ -530,27 +530,27 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 2.05,
+      "hs_m": 1.94,
       "tp_s": 15.38,
       "dp_deg": 249,
       "sst_c": 12.4
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78755,
       "longitude": -122.6313,
       "depth_cm": 1707,
-      "hs_m": 3.08,
-      "tp_s": 14.29,
-      "dp_deg": 272,
+      "hs_m": 2.79,
+      "tp_s": 15.38,
+      "dp_deg": 275,
       "sst_c": 11.9
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 3.45,
-      "tp_s": 13.33,
-      "dp_deg": 277,
+      "hs_m": 3.6,
+      "tp_s": 14.29,
+      "dp_deg": 282,
       "sst_c": 10.4
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.59,
+      "hs_m": 3.88,
       "tp_s": 14.29,
-      "dp_deg": 270,
-      "sst_c": 9.8
+      "dp_deg": 279,
+      "sst_c": 9.7
     },
     {
       "timestamp": "02.18.2025-05:00:00",
@@ -710,27 +710,27 @@
       "sst_c": 4.9
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 0.37,
+      "hs_m": 0.38,
       "tp_s": 5.56,
-      "dp_deg": 251,
+      "dp_deg": 254,
       "sst_c": 24.6
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 1.09,
-      "tp_s": 7.14,
-      "dp_deg": 314,
+      "hs_m": 1.22,
+      "tp_s": 6.25,
+      "dp_deg": 321,
       "sst_c": 23.3
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.65,
+      "hs_m": 0.68,
       "tp_s": 3.33,
-      "dp_deg": 68,
-      "sst_c": 18.1
+      "dp_deg": 61,
+      "sst_c": 18
     },
     {
       "timestamp": "02.18.2025-05:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "02.18.2025-04:30:00",
+      "timestamp": "02.18.2025-05:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.67,
-      "tp_s": 11.11,
-      "dp_deg": 115,
+      "hs_m": 0.69,
+      "tp_s": 10.53,
+      "dp_deg": 106,
       "sst_c": 14.8
     },
     {
