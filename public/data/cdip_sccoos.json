@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-19T22:33:27.138Z",
+  "last_updated": "2025-02-19T22:46:53.836Z",
   "data": [
     {
       "timestamp": "02.19.2025-21:30:00",
@@ -86,27 +86,27 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "02.19.2025-20:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.85,
-      "tp_s": 6.25,
-      "dp_deg": 355,
+      "hs_m": 2.15,
+      "tp_s": 11.11,
+      "dp_deg": 353,
       "sst_c": 28.1
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.26,
-      "tp_s": 13.33,
-      "dp_deg": 335,
+      "hs_m": 2.27,
+      "tp_s": 14.29,
+      "dp_deg": 339,
       "sst_c": 24.9
     },
     {
@@ -122,7 +122,7 @@
       "sst_c": 26
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
@@ -130,20 +130,20 @@
       "depth_cm": 3500,
       "hs_m": 0.76,
       "tp_s": 14.29,
-      "dp_deg": 167,
-      "sst_c": 25.5
+      "dp_deg": 168,
+      "sst_c": 25.3
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.6,
-      "tp_s": 14.29,
-      "dp_deg": 280,
-      "sst_c": 25.2
+      "hs_m": 1.63,
+      "tp_s": 15.38,
+      "dp_deg": 298,
+      "sst_c": 25.3
     },
     {
       "timestamp": "02.19.2025-22:00:00",
@@ -242,16 +242,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.31,
-      "tp_s": 13.33,
-      "dp_deg": 266,
-      "sst_c": 15
+      "hs_m": 1.34,
+      "tp_s": 12.5,
+      "dp_deg": 277,
+      "sst_c": 15.1
     },
     {
       "timestamp": "02.19.2025-21:45:00",
@@ -326,15 +326,15 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.1,
+      "hs_m": 2.4,
       "tp_s": 11.76,
-      "dp_deg": 289,
+      "dp_deg": 290,
       "sst_c": 12.9
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.85,
+      "hs_m": 0.92,
       "tp_s": 11.76,
-      "dp_deg": 261,
-      "sst_c": 15.2
+      "dp_deg": 264,
+      "sst_c": 15
     },
     {
       "timestamp": "02.19.2025-22:00:00",
@@ -374,16 +374,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.07,
+      "hs_m": 1.08,
       "tp_s": 12.5,
       "dp_deg": 270,
-      "sst_c": 14.8
+      "sst_c": 14.6
     },
     {
       "timestamp": "02.19.2025-22:00:00",
@@ -410,16 +410,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.97,
+      "hs_m": 1,
       "tp_s": 12.5,
-      "dp_deg": 256,
-      "sst_c": 14.7
+      "dp_deg": 261,
+      "sst_c": 14.8
     },
     {
       "timestamp": "02.19.2025-21:30:00",
@@ -446,14 +446,14 @@
       "sst_c": 12
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.89,
-      "tp_s": 10.53,
+      "hs_m": 1.92,
+      "tp_s": 16.67,
       "dp_deg": 288,
       "sst_c": 12.5
     },
@@ -530,16 +530,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.94,
+      "hs_m": 0.93,
       "tp_s": 16.67,
-      "dp_deg": 222,
-      "sst_c": 12.5
+      "dp_deg": 234,
+      "sst_c": 12.6
     },
     {
       "timestamp": "02.19.2025-21:30:00",
@@ -566,16 +566,16 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 2.35,
-      "tp_s": 9.09,
-      "dp_deg": 253,
-      "sst_c": 10.9
+      "hs_m": 2.64,
+      "tp_s": 16.67,
+      "dp_deg": 285,
+      "sst_c": 10.8
     },
     {
       "timestamp": "02.19.2025-21:30:00",
@@ -638,16 +638,16 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 3.16,
+      "hs_m": 3.1,
       "tp_s": 10.53,
       "dp_deg": 261,
-      "sst_c": 9.2
+      "sst_c": 9.4
     },
     {
       "timestamp": "02.19.2025-22:00:00",
@@ -674,15 +674,15 @@
       "sst_c": 7.2
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.39,
-      "tp_s": 9.09,
-      "dp_deg": 236,
+      "hs_m": 3.4,
+      "tp_s": 9.88,
+      "dp_deg": 250,
       "sst_c": 7.6
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 21
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6494,
       "longitude": -97.00575,
       "depth_cm": 2270,
-      "hs_m": 1.95,
-      "tp_s": 7.69,
-      "dp_deg": 76,
+      "hs_m": 1.79,
+      "tp_s": 6.67,
+      "dp_deg": 64,
       "sst_c": 15.6
     },
     {
@@ -878,15 +878,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 2.65,
-      "tp_s": 7.14,
-      "dp_deg": 21,
+      "hs_m": 2.62,
+      "tp_s": 7.69,
+      "dp_deg": 29,
       "sst_c": 20.2
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 8.8
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.72,
+      "hs_m": 1.66,
       "tp_s": 5.56,
-      "dp_deg": 7,
-      "sst_c": 7
+      "dp_deg": 13,
+      "sst_c": 6.8
     },
     {
       "timestamp": "02.19.2025-21:30:00",
@@ -950,27 +950,27 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "02.19.2025-21:00:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.98,
-      "tp_s": 4.35,
-      "dp_deg": 41,
+      "hs_m": 0.95,
+      "tp_s": 4.55,
+      "dp_deg": 40,
       "sst_c": 5.4
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.63,
-      "tp_s": 4.35,
-      "dp_deg": 3,
+      "hs_m": 0.6,
+      "tp_s": 3.23,
+      "dp_deg": 13,
       "sst_c": 4.4
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 4.8
     },
     {
-      "timestamp": "02.19.2025-21:30:00",
+      "timestamp": "02.19.2025-22:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.36,
+      "hs_m": 0.37,
       "tp_s": 10.53,
-      "dp_deg": 164,
+      "dp_deg": 122,
       "sst_c": 4.1
     },
     {
