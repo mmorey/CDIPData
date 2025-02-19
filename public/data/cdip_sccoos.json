@@ -1,16 +1,16 @@
 {
-  "last_updated": "2025-02-19T14:34:53.667Z",
+  "last_updated": "2025-02-19T14:47:09.667Z",
   "data": [
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 3.89,
-      "tp_s": 8.33,
-      "dp_deg": 321,
+      "hs_m": 3.62,
+      "tp_s": 9.09,
+      "dp_deg": 311,
       "sst_c": 29.7
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.4
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.54,
-      "tp_s": 5.26,
-      "dp_deg": 2,
+      "hs_m": 1.63,
+      "tp_s": 5.88,
+      "dp_deg": 14,
       "sst_c": 28.2
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.64,
-      "tp_s": 15.38,
-      "dp_deg": 171,
+      "hs_m": 0.65,
+      "tp_s": 14.29,
+      "dp_deg": 168,
       "sst_c": 25
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.9,
-      "tp_s": 14.29,
-      "dp_deg": 260,
+      "hs_m": 0.96,
+      "tp_s": 13.33,
+      "dp_deg": 270,
       "sst_c": 14.6
     },
     {
@@ -386,28 +386,28 @@
       "sst_c": 14
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.91,
-      "tp_s": 12.5,
-      "dp_deg": 240,
-      "sst_c": 14.1
+      "hs_m": 0.87,
+      "tp_s": 13.33,
+      "dp_deg": 247,
+      "sst_c": 14.2
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.37,
+      "hs_m": 1.38,
       "tp_s": 12.5,
-      "dp_deg": 269,
-      "sst_c": 13.9
+      "dp_deg": 265,
+      "sst_c": 13.8
     },
     {
       "timestamp": "02.19.2025-14:00:00",
@@ -434,16 +434,16 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.71,
-      "tp_s": 12.5,
-      "dp_deg": 289,
-      "sst_c": 11.7
+      "hs_m": 2.4,
+      "tp_s": 11.11,
+      "dp_deg": 290,
+      "sst_c": 12
     },
     {
       "timestamp": "02.19.2025-14:00:00",
@@ -458,16 +458,16 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.94,
-      "tp_s": 11.11,
-      "dp_deg": 267,
-      "sst_c": 10.9
+      "hs_m": 1.98,
+      "tp_s": 11.76,
+      "dp_deg": 265,
+      "sst_c": 11
     },
     {
       "timestamp": "02.19.2025-13:30:00",
@@ -626,15 +626,15 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 3.77,
-      "tp_s": 8.33,
-      "dp_deg": 209,
+      "hs_m": 3.68,
+      "tp_s": 9.09,
+      "dp_deg": 210,
       "sst_c": 9.4
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 4.59,
-      "tp_s": 9.09,
-      "dp_deg": 208,
+      "hs_m": 4.55,
+      "tp_s": 9.88,
+      "dp_deg": 205,
       "sst_c": 9.5
     },
     {
@@ -770,15 +770,15 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "02.19.2025-13:30:00",
+      "timestamp": "02.19.2025-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.68,
+      "hs_m": 1.86,
       "tp_s": 8.33,
-      "dp_deg": 173,
+      "dp_deg": 176,
       "sst_c": 18.6
     },
     {
