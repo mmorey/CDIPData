@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-21T14:33:56.787Z",
+  "last_updated": "2025-02-21T14:47:06.195Z",
   "data": [
     {
       "timestamp": "02.21.2025-13:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.79,
+      "hs_m": 2.87,
       "tp_s": 10.53,
-      "dp_deg": 344,
+      "dp_deg": 343,
       "sst_c": 28
     },
     {
@@ -110,27 +110,27 @@
       "sst_c": 24.7
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.07,
+      "hs_m": 1.06,
       "tp_s": 13.33,
-      "dp_deg": 262,
+      "dp_deg": 252,
       "sst_c": 25.5
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.84,
-      "tp_s": 13.33,
-      "dp_deg": 168,
+      "hs_m": 0.81,
+      "tp_s": 12.5,
+      "dp_deg": 173,
       "sst_c": 25.1
     },
     {
@@ -314,16 +314,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.81,
-      "tp_s": 13.33,
-      "dp_deg": 246,
-      "sst_c": 14.9
+      "hs_m": 0.73,
+      "tp_s": 14.29,
+      "dp_deg": 244,
+      "sst_c": 14.8
     },
     {
       "timestamp": "02.21.2025-14:00:00",
@@ -350,28 +350,28 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.73,
-      "tp_s": 15.38,
-      "dp_deg": 256,
+      "hs_m": 0.7,
+      "tp_s": 10.53,
+      "dp_deg": 265,
       "sst_c": 14.2
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.01,
+      "hs_m": 1.07,
       "tp_s": 8.33,
-      "dp_deg": 272,
-      "sst_c": 14.4
+      "dp_deg": 271,
+      "sst_c": 14.3
     },
     {
       "timestamp": "02.21.2025-14:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.26,
+      "hs_m": 2.36,
       "tp_s": 14.29,
-      "dp_deg": 289,
+      "dp_deg": 295,
       "sst_c": 13.1
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "02.21.2025-13:00:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.36,
-      "tp_s": 15.38,
-      "dp_deg": 238,
+      "hs_m": 1.32,
+      "tp_s": 14.29,
+      "dp_deg": 242,
       "sst_c": 12.8
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.95,
-      "tp_s": 13.33,
-      "dp_deg": 281,
+      "hs_m": 1.84,
+      "tp_s": 14.29,
+      "dp_deg": 277,
       "sst_c": 9.8
     },
     {
@@ -662,28 +662,28 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.66,
-      "tp_s": 14.29,
-      "dp_deg": 264,
+      "hs_m": 1.78,
+      "tp_s": 13.33,
+      "dp_deg": 260,
       "sst_c": 9.1
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.76,
-      "tp_s": 13.33,
-      "dp_deg": 277,
-      "sst_c": 7.7
+      "hs_m": 1.64,
+      "tp_s": 11.11,
+      "dp_deg": 263,
+      "sst_c": 7.6
     },
     {
       "timestamp": "02.21.2025-13:30:00",
@@ -770,15 +770,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 1.07,
+      "hs_m": 1.11,
       "tp_s": 4.17,
-      "dp_deg": 34,
+      "dp_deg": 29,
       "sst_c": 16.6
     },
     {
@@ -926,15 +926,15 @@
       "sst_c": 4.9
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.74,
+      "hs_m": 1.78,
       "tp_s": 6.25,
-      "dp_deg": 7,
+      "dp_deg": 8,
       "sst_c": 7
     },
     {
@@ -1010,16 +1010,16 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "02.21.2025-13:30:00",
+      "timestamp": "02.21.2025-14:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 2.23,
+      "hs_m": 1.99,
       "tp_s": 6.25,
-      "dp_deg": 271,
-      "sst_c": 5.1
+      "dp_deg": 264,
+      "sst_c": 5.2
     },
     {
       "timestamp": "02.21.2025-13:00:00",
