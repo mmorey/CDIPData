@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-24T22:34:16.722Z",
+  "last_updated": "2025-02-24T22:47:04.421Z",
   "data": [
     {
       "timestamp": "02.24.2025-21:30:00",
@@ -86,16 +86,16 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.81,
-      "tp_s": 10.53,
+      "hs_m": 1.88,
+      "tp_s": 9.88,
       "dp_deg": 15,
-      "sst_c": 28
+      "sst_c": 28.1
     },
     {
       "timestamp": "02.24.2025-22:00:00",
@@ -122,28 +122,28 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.77,
-      "tp_s": 4.55,
-      "dp_deg": 138,
+      "hs_m": 0.78,
+      "tp_s": 4.76,
+      "dp_deg": 141,
       "sst_c": 25.5
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 2.02,
+      "hs_m": 1.9,
       "tp_s": 13.33,
-      "dp_deg": 304,
-      "sst_c": 25.5
+      "dp_deg": 305,
+      "sst_c": 25.6
     },
     {
       "timestamp": "02.24.2025-22:00:00",
@@ -230,15 +230,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.03,
+      "hs_m": 1.09,
       "tp_s": 13.33,
-      "dp_deg": 273,
+      "dp_deg": 274,
       "sst_c": 15.2
     },
     {
@@ -276,6 +276,18 @@
       "tp_s": 11.76,
       "dp_deg": 291,
       "sst_c": 15.9
+    },
+    {
+      "timestamp": "02.24.2025-22:00:00",
+      "station_number": "201",
+      "station_name": "SCRIPPS NEARSHORE, CA",
+      "latitude": 32.86785,
+      "longitude": -117.26667,
+      "depth_cm": 4100,
+      "hs_m": 0.81,
+      "tp_s": 13.33,
+      "dp_deg": 292,
+      "sst_c": 16.1
     },
     {
       "timestamp": "02.24.2025-22:00:00",
@@ -326,15 +338,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.27,
-      "tp_s": 11.76,
-      "dp_deg": 282,
+      "hs_m": 2.28,
+      "tp_s": 13.33,
+      "dp_deg": 276,
       "sst_c": 13.5
     },
     {
@@ -350,16 +362,16 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.83,
-      "tp_s": 14.29,
-      "dp_deg": 239,
-      "sst_c": 15.3
+      "hs_m": 0.88,
+      "tp_s": 15.38,
+      "dp_deg": 207,
+      "sst_c": 15.4
     },
     {
       "timestamp": "02.24.2025-22:00:00",
@@ -470,16 +482,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 1.95,
-      "tp_s": 11.11,
-      "dp_deg": 290,
-      "sst_c": 12.8
+      "hs_m": 2.1,
+      "tp_s": 12.5,
+      "dp_deg": 284,
+      "sst_c": 12.7
     },
     {
       "timestamp": "02.24.2025-22:00:00",
@@ -662,15 +674,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.48,
-      "tp_s": 6.25,
-      "dp_deg": 198,
+      "hs_m": 3.73,
+      "tp_s": 9.09,
+      "dp_deg": 232,
       "sst_c": 9.4
     },
     {
@@ -722,15 +734,15 @@
       "sst_c": 24.3
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 1.73,
+      "hs_m": 1.68,
       "tp_s": 6.67,
-      "dp_deg": 117,
+      "dp_deg": 115,
       "sst_c": 22.4
     },
     {
@@ -758,19 +770,19 @@
       "sst_c": 19
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6494,
       "longitude": -97.00575,
       "depth_cm": 2270,
-      "hs_m": 0.47,
-      "tp_s": 6.25,
+      "hs_m": 0.44,
+      "tp_s": 7.14,
       "dp_deg": 92,
-      "sst_c": 15.7
+      "sst_c": 15.3
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
@@ -782,15 +794,15 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 0.82,
+      "hs_m": 0.83,
       "tp_s": 9.09,
-      "dp_deg": 142,
+      "dp_deg": 143,
       "sst_c": 18
     },
     {
@@ -806,15 +818,15 @@
       "sst_c": 17.3
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.24,
+      "hs_m": 1.28,
       "tp_s": 5,
-      "dp_deg": 114,
+      "dp_deg": 118,
       "sst_c": 22.1
     },
     {
@@ -998,15 +1010,15 @@
       "sst_c": 3.8
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.57,
-      "tp_s": 12.5,
-      "dp_deg": 101,
+      "hs_m": 0.6,
+      "tp_s": 11.76,
+      "dp_deg": 102,
       "sst_c": 4.8
     },
     {
@@ -1046,15 +1058,15 @@
       "sst_c": 1.7
     },
     {
-      "timestamp": "02.24.2025-21:30:00",
+      "timestamp": "02.24.2025-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.83,
-      "tp_s": 3.23,
-      "dp_deg": 176,
+      "hs_m": 1,
+      "tp_s": 3.85,
+      "dp_deg": 180,
       "sst_c": 5
     },
     {
