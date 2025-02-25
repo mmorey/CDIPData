@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-25T05:34:17.553Z",
+  "last_updated": "2025-02-25T05:47:02.243Z",
   "data": [
     {
       "timestamp": "02.25.2025-04:30:00",
@@ -74,39 +74,39 @@
       "sst_c": 28
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.29,
-      "tp_s": 8.33,
-      "dp_deg": 76,
+      "hs_m": 2.31,
+      "tp_s": 9.09,
+      "dp_deg": 55,
       "sst_c": 28.3
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.13,
-      "tp_s": 9.88,
+      "hs_m": 2.14,
+      "tp_s": 12.5,
       "dp_deg": 19,
       "sst_c": 28.1
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.17,
-      "tp_s": 11.76,
-      "dp_deg": 346,
+      "hs_m": 2.05,
+      "tp_s": 13.33,
+      "dp_deg": 331,
       "sst_c": 24.8
     },
     {
@@ -194,16 +194,16 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "02.25.2025-04:00:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.44,
+      "hs_m": 2.53,
       "tp_s": 13.33,
-      "dp_deg": 303,
-      "sst_c": 23.2
+      "dp_deg": 316,
+      "sst_c": 23.4
     },
     {
       "timestamp": "02.25.2025-04:30:00",
@@ -302,16 +302,16 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
       "hs_m": 0.88,
-      "tp_s": 13.33,
-      "dp_deg": 261,
-      "sst_c": 15.3
+      "tp_s": 12.5,
+      "dp_deg": 266,
+      "sst_c": 15.1
     },
     {
       "timestamp": "02.25.2025-05:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.93,
-      "tp_s": 14.29,
-      "dp_deg": 223,
-      "sst_c": 14.9
+      "hs_m": 0.86,
+      "tp_s": 12.5,
+      "dp_deg": 252,
+      "sst_c": 15
     },
     {
       "timestamp": "02.25.2025-05:00:00",
@@ -386,27 +386,27 @@
       "sst_c": 14.7
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.17,
-      "tp_s": 11.11,
-      "dp_deg": 267,
+      "hs_m": 1.25,
+      "tp_s": 11.76,
+      "dp_deg": 270,
       "sst_c": 15
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.79,
-      "tp_s": 14.29,
-      "dp_deg": 243,
+      "hs_m": 0.76,
+      "tp_s": 13.33,
+      "dp_deg": 237,
       "sst_c": 15
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 7.97,
-      "tp_s": 13.33,
-      "dp_deg": 268,
+      "hs_m": 7.85,
+      "tp_s": 14.29,
+      "dp_deg": 270,
       "sst_c": 10.1
     },
     {
@@ -662,27 +662,27 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 9.42,
-      "tp_s": 12.5,
-      "dp_deg": 206,
+      "hs_m": 8.94,
+      "tp_s": 13.33,
+      "dp_deg": 232,
       "sst_c": 9.9
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 7.58,
-      "tp_s": 11.11,
-      "dp_deg": 225,
+      "hs_m": 8.8,
+      "tp_s": 13.33,
+      "dp_deg": 229,
       "sst_c": 9.4
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6493,
       "depth_cm": 4600,
-      "hs_m": 0.75,
+      "hs_m": 0.72,
       "tp_s": 8.33,
-      "dp_deg": 153,
+      "dp_deg": 150,
       "sst_c": 14.9
     },
     {
@@ -818,15 +818,15 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "02.25.2025-04:30:00",
+      "timestamp": "02.25.2025-05:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.74,
-      "tp_s": 5.56,
-      "dp_deg": 93,
+      "hs_m": 1.7,
+      "tp_s": 6.25,
+      "dp_deg": 77,
       "sst_c": 22.1
     },
     {
