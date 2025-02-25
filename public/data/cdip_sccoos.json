@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-25T13:36:35.769Z",
+  "last_updated": "2025-02-25T13:47:11.455Z",
   "data": [
     {
       "timestamp": "02.25.2025-12:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 27.8
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.78,
+      "hs_m": 2.95,
       "tp_s": 6.67,
-      "dp_deg": 37,
+      "dp_deg": 17,
       "sst_c": 28.2
     },
     {
@@ -122,16 +122,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.66,
-      "tp_s": 7.69,
-      "dp_deg": 162,
-      "sst_c": 25.3
+      "hs_m": 0.63,
+      "tp_s": 7.14,
+      "dp_deg": 166,
+      "sst_c": 25.4
     },
     {
       "timestamp": "02.25.2025-12:30:00",
@@ -230,15 +230,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.37,
-      "tp_s": 11.76,
-      "dp_deg": 270,
+      "hs_m": 1.38,
+      "tp_s": 12.5,
+      "dp_deg": 264,
       "sst_c": 15
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "02.25.2025-12:00:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.04,
-      "tp_s": 7.14,
-      "dp_deg": 274,
-      "sst_c": 15.5
+      "hs_m": 1.09,
+      "tp_s": 6.67,
+      "dp_deg": 271,
+      "sst_c": 15.4
     },
     {
       "timestamp": "02.25.2025-13:00:00",
@@ -410,16 +410,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.66,
+      "hs_m": 1.62,
       "tp_s": 10.53,
-      "dp_deg": 274,
-      "sst_c": 13.3
+      "dp_deg": 267,
+      "sst_c": 13.4
     },
     {
       "timestamp": "02.25.2025-13:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.13,
+      "hs_m": 2.07,
       "tp_s": 10.53,
-      "dp_deg": 296,
+      "dp_deg": 290,
       "sst_c": 13.3
     },
     {
@@ -614,15 +614,15 @@
       "sst_c": 10
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 6.99,
+      "hs_m": 6.48,
       "tp_s": 15.38,
-      "dp_deg": 272,
+      "dp_deg": 270,
       "sst_c": 9.8
     },
     {
@@ -674,27 +674,27 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 9.77,
+      "hs_m": 8.03,
       "tp_s": 15.38,
-      "dp_deg": 258,
+      "dp_deg": 243,
       "sst_c": 9.4
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 7.76,
+      "hs_m": 7.6,
       "tp_s": 15.38,
-      "dp_deg": 234,
+      "dp_deg": 237,
       "sst_c": 9.1
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 5.2
     },
     {
-      "timestamp": "02.25.2025-12:30:00",
+      "timestamp": "02.25.2025-13:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4087,
       "longitude": -81.9675,
       "depth_cm": 10000,
-      "hs_m": 1.08,
-      "tp_s": 3.85,
-      "dp_deg": 265,
-      "sst_c": 24.6
+      "hs_m": 1.07,
+      "tp_s": 4.35,
+      "dp_deg": 262,
+      "sst_c": 24.5
     },
     {
       "timestamp": "02.25.2025-13:00:00",
