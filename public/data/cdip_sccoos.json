@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-27T14:35:15.544Z",
+  "last_updated": "2025-02-27T14:46:55.072Z",
   "data": [
     {
       "timestamp": "02.27.2025-13:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.28,
-      "tp_s": 13.33,
-      "dp_deg": 355,
+      "hs_m": 2.09,
+      "tp_s": 9.09,
+      "dp_deg": 43,
       "sst_c": 29.1
     },
     {
@@ -74,27 +74,27 @@
       "sst_c": 27.8
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.94,
+      "hs_m": 2.97,
       "tp_s": 9.88,
-      "dp_deg": 350,
+      "dp_deg": 349,
       "sst_c": 28.2
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.92,
-      "tp_s": 10.53,
-      "dp_deg": 356,
+      "hs_m": 2.67,
+      "tp_s": 9.88,
+      "dp_deg": 5,
       "sst_c": 28
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.1,
-      "tp_s": 14.29,
-      "dp_deg": 278,
+      "hs_m": 1.09,
+      "tp_s": 13.33,
+      "dp_deg": 248,
       "sst_c": 25.6
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.21,
-      "tp_s": 13.33,
-      "dp_deg": 350,
+      "hs_m": 1.2,
+      "tp_s": 10.53,
+      "dp_deg": 3,
       "sst_c": 25
     },
     {
@@ -314,27 +314,27 @@
       "sst_c": 15
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.01,
-      "tp_s": 14.29,
-      "dp_deg": 263,
-      "sst_c": 15
+      "hs_m": 0.92,
+      "tp_s": 15.38,
+      "dp_deg": 257,
+      "sst_c": 15.1
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.96,
+      "hs_m": 0.9,
       "tp_s": 14.29,
-      "dp_deg": 250,
+      "dp_deg": 264,
       "sst_c": 15.2
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.02,
-      "tp_s": 11.76,
-      "dp_deg": 271,
-      "sst_c": 15.2
+      "hs_m": 1.1,
+      "tp_s": 14.29,
+      "dp_deg": 265,
+      "sst_c": 15.1
     },
     {
       "timestamp": "02.27.2025-14:00:00",
@@ -602,15 +602,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.21,
-      "tp_s": 13.33,
-      "dp_deg": 267,
+      "hs_m": 3.17,
+      "tp_s": 11.76,
+      "dp_deg": 260,
       "sst_c": 9.9
     },
     {
@@ -734,16 +734,16 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
       "hs_m": 0.3,
-      "tp_s": 4.35,
-      "dp_deg": 313,
-      "sst_c": 22
+      "tp_s": 4.17,
+      "dp_deg": 323,
+      "sst_c": 22.1
     },
     {
       "timestamp": "02.27.2025-13:30:00",
@@ -794,16 +794,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 0.56,
-      "tp_s": 5,
-      "dp_deg": 210,
-      "sst_c": 16.9
+      "hs_m": 0.58,
+      "tp_s": 5.56,
+      "dp_deg": 215,
+      "sst_c": 17
     },
     {
       "timestamp": "02.27.2025-14:00:00",
@@ -1010,15 +1010,15 @@
       "sst_c": 4.2
     },
     {
-      "timestamp": "02.27.2025-13:30:00",
+      "timestamp": "02.27.2025-14:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 1.45,
+      "hs_m": 1.44,
       "tp_s": 11.11,
-      "dp_deg": 119,
+      "dp_deg": 102,
       "sst_c": 4.8
     },
     {
