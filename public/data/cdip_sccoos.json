@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-01T14:33:25.892Z",
+  "last_updated": "2025-03-01T14:47:05.787Z",
   "data": [
     {
       "timestamp": "03.01.2025-13:00:00",
@@ -26,15 +26,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "276",
       "station_name": "UTWE, KOSRAE, MICRONESIA",
       "latitude": 5.24042,
       "longitude": 163.00082,
       "depth_cm": 57000,
-      "hs_m": 2.07,
-      "tp_s": 9.88,
-      "dp_deg": 95,
+      "hs_m": 2.22,
+      "tp_s": 7.69,
+      "dp_deg": 103,
       "sst_c": 29.6
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.52,
+      "hs_m": 2.45,
       "tp_s": 8.33,
-      "dp_deg": 51,
+      "dp_deg": 53,
       "sst_c": 27.9
     },
     {
@@ -122,27 +122,27 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.7,
-      "tp_s": 4.55,
-      "dp_deg": 190,
+      "hs_m": 0.71,
+      "tp_s": 4.76,
+      "dp_deg": 185,
       "sst_c": 25.3
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 2,
+      "hs_m": 1.99,
       "tp_s": 14.29,
-      "dp_deg": 314,
+      "dp_deg": 311,
       "sst_c": 25.4
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.04,
-      "tp_s": 14.29,
-      "dp_deg": 242,
+      "hs_m": 1.11,
+      "tp_s": 13.33,
+      "dp_deg": 244,
       "sst_c": 15.2
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.64,
+      "hs_m": 1.61,
       "tp_s": 13.33,
-      "dp_deg": 239,
+      "dp_deg": 238,
       "sst_c": 12
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 3.2,
+      "hs_m": 3.18,
       "tp_s": 20,
-      "dp_deg": 282,
+      "dp_deg": 283,
       "sst_c": 11.4
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "03.01.2025-13:00:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 4.46,
+      "hs_m": 4.92,
       "tp_s": 18.18,
-      "dp_deg": 285,
+      "dp_deg": 284,
       "sst_c": 10.4
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.19,
+      "hs_m": 3.33,
       "tp_s": 18.18,
       "dp_deg": 255,
-      "sst_c": 8.9
+      "sst_c": 9
     },
     {
       "timestamp": "03.01.2025-13:30:00",
@@ -758,15 +758,15 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6494,
       "longitude": -97.00575,
       "depth_cm": 2270,
-      "hs_m": 0.65,
-      "tp_s": 5.26,
-      "dp_deg": 107,
+      "hs_m": 0.56,
+      "tp_s": 5.56,
+      "dp_deg": 96,
       "sst_c": 14.1
     },
     {
@@ -782,7 +782,7 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
@@ -790,8 +790,8 @@
       "depth_cm": 2000,
       "hs_m": 0.26,
       "tp_s": 3.12,
-      "dp_deg": 163,
-      "sst_c": 17.1
+      "dp_deg": 150,
+      "sst_c": 17.2
     },
     {
       "timestamp": "03.01.2025-14:00:00",
@@ -878,14 +878,14 @@
       "sst_c": 20.7
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.18,
-      "tp_s": 6.67,
+      "hs_m": 1.25,
+      "tp_s": 5.88,
       "dp_deg": 175,
       "sst_c": 7.9
     },
@@ -902,16 +902,16 @@
       "sst_c": 8.1
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.46,
-      "tp_s": 9.09,
+      "hs_m": 0.5,
+      "tp_s": 8.33,
       "dp_deg": 110,
-      "sst_c": 7.2
+      "sst_c": 7.3
     },
     {
       "timestamp": "03.01.2025-13:30:00",
@@ -974,15 +974,15 @@
       "sst_c": 5.4
     },
     {
-      "timestamp": "03.01.2025-13:30:00",
+      "timestamp": "03.01.2025-14:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.75,
-      "tp_s": 5.26,
-      "dp_deg": 157,
+      "hs_m": 0.73,
+      "tp_s": 4.76,
+      "dp_deg": 158,
       "sst_c": 4.8
     },
     {
