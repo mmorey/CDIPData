@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-03T15:34:33.263Z",
+  "last_updated": "2025-03-03T15:47:09.506Z",
   "data": [
     {
       "timestamp": "03.03.2025-14:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.8,
-      "tp_s": 11.76,
-      "dp_deg": 178,
+      "hs_m": 1.85,
+      "tp_s": 11.11,
+      "dp_deg": 184,
       "sst_c": 29.2
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.51,
-      "tp_s": 7.69,
-      "dp_deg": 57,
+      "hs_m": 2.47,
+      "tp_s": 9.09,
+      "dp_deg": 58,
       "sst_c": 27.9
     },
     {
@@ -122,27 +122,27 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.7,
-      "tp_s": 5.26,
-      "dp_deg": 132,
+      "hs_m": 0.8,
+      "tp_s": 5.56,
+      "dp_deg": 131,
       "sst_c": 25
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.97,
+      "hs_m": 0.98,
       "tp_s": 11.11,
-      "dp_deg": 302,
+      "dp_deg": 300,
       "sst_c": 25.1
     },
     {
@@ -194,16 +194,16 @@
       "sst_c": 25
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.64,
-      "tp_s": 11.76,
-      "dp_deg": 316,
-      "sst_c": 23.6
+      "hs_m": 1.58,
+      "tp_s": 10.53,
+      "dp_deg": 300,
+      "sst_c": 23.5
     },
     {
       "timestamp": "02.27.2025-08:30:00",
@@ -230,15 +230,15 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 3.38,
-      "tp_s": 9.09,
-      "dp_deg": 275,
+      "hs_m": 3.55,
+      "tp_s": 8.33,
+      "dp_deg": 277,
       "sst_c": 14.1
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 3.11,
+      "hs_m": 3.02,
       "tp_s": 8.33,
-      "dp_deg": 273,
+      "dp_deg": 275,
       "sst_c": 14.2
     },
     {
@@ -410,28 +410,28 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 2.86,
-      "tp_s": 7.14,
-      "dp_deg": 271,
+      "hs_m": 2.92,
+      "tp_s": 7.69,
+      "dp_deg": 267,
       "sst_c": 13
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 1.49,
-      "tp_s": 7.14,
-      "dp_deg": 247,
-      "sst_c": 12.8
+      "hs_m": 1.44,
+      "tp_s": 7.69,
+      "dp_deg": 245,
+      "sst_c": 12.9
     },
     {
       "timestamp": "03.03.2025-15:00:00",
@@ -458,16 +458,16 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.03.2025-14:00:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.55,
-      "tp_s": 10.53,
-      "dp_deg": 274,
-      "sst_c": 12
+      "hs_m": 2.68,
+      "tp_s": 14.29,
+      "dp_deg": 262,
+      "sst_c": 11.9
     },
     {
       "timestamp": "03.03.2025-14:30:00",
@@ -542,16 +542,16 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 2.73,
-      "tp_s": 10.53,
+      "hs_m": 2.82,
+      "tp_s": 11.76,
       "dp_deg": 277,
-      "sst_c": 11.6
+      "sst_c": 11.7
     },
     {
       "timestamp": "03.03.2025-15:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "03.03.2025-13:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.67,
-      "tp_s": 12.5,
-      "dp_deg": 282,
+      "hs_m": 3.22,
+      "tp_s": 13.33,
+      "dp_deg": 281,
       "sst_c": 10.1
     },
     {
@@ -638,16 +638,16 @@
       "sst_c": 10
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 3.49,
-      "tp_s": 13.33,
-      "dp_deg": 279,
-      "sst_c": 10
+      "hs_m": 3.64,
+      "tp_s": 12.5,
+      "dp_deg": 282,
+      "sst_c": 9.9
     },
     {
       "timestamp": "03.03.2025-15:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 2.84,
-      "tp_s": 14.29,
-      "dp_deg": 254,
+      "hs_m": 2.6,
+      "tp_s": 13.33,
+      "dp_deg": 253,
       "sst_c": 9.2
     },
     {
@@ -686,15 +686,15 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.88,
-      "tp_s": 11.11,
-      "dp_deg": 299,
+      "hs_m": 0.97,
+      "tp_s": 9.09,
+      "dp_deg": 302,
       "sst_c": 7.9
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6494,
       "longitude": -97.00575,
       "depth_cm": 2270,
-      "hs_m": 1.27,
-      "tp_s": 6.67,
-      "dp_deg": 104,
-      "sst_c": 15.5
+      "hs_m": 1.34,
+      "tp_s": 7.14,
+      "dp_deg": 101,
+      "sst_c": 15.6
     },
     {
       "timestamp": "03.03.2025-15:00:00",
@@ -842,16 +842,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.68,
-      "tp_s": 8.33,
-      "dp_deg": 111,
-      "sst_c": 11.2
+      "hs_m": 0.7,
+      "tp_s": 9.09,
+      "dp_deg": 118,
+      "sst_c": 11.3
     },
     {
       "timestamp": "03.03.2025-15:00:00",
@@ -866,27 +866,27 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.1,
-      "tp_s": 7.69,
-      "dp_deg": 73,
-      "sst_c": 13.6
+      "hs_m": 1.07,
+      "tp_s": 7.14,
+      "dp_deg": 59,
+      "sst_c": 13.7
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.88,
+      "hs_m": 0.86,
       "tp_s": 6.25,
-      "dp_deg": 35,
+      "dp_deg": 49,
       "sst_c": 8.4
     },
     {
@@ -902,15 +902,15 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.68,
-      "tp_s": 6.67,
-      "dp_deg": 59,
+      "hs_m": 0.66,
+      "tp_s": 5.88,
+      "dp_deg": 51,
       "sst_c": 6.9
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "03.03.2025-14:30:00",
+      "timestamp": "03.03.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.79,
-      "tp_s": 4.35,
-      "dp_deg": 5,
+      "hs_m": 0.69,
+      "tp_s": 4,
+      "dp_deg": 360,
       "sst_c": 4.7
     },
     {
