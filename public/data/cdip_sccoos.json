@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-04T13:37:13.813Z",
+  "last_updated": "2025-03-04T13:47:05.807Z",
   "data": [
     {
       "timestamp": "03.04.2025-12:30:00",
@@ -74,25 +74,25 @@
       "sst_c": 27.7
     },
     {
-      "timestamp": "03.04.2025-12:00:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.9,
-      "tp_s": 9.09,
-      "dp_deg": 63,
-      "sst_c": 28.1
+      "hs_m": 1.96,
+      "tp_s": 8.33,
+      "dp_deg": 72,
+      "sst_c": 28.2
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.84,
+      "hs_m": 1.75,
       "tp_s": 9.09,
       "dp_deg": 64,
       "sst_c": 27.9
@@ -158,15 +158,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 2.07,
-      "tp_s": 6.25,
-      "dp_deg": 72,
+      "hs_m": 2.21,
+      "tp_s": 6.67,
+      "dp_deg": 79,
       "sst_c": 24.4
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.56,
-      "tp_s": 15.38,
-      "dp_deg": 309,
+      "hs_m": 2.71,
+      "tp_s": 14.29,
+      "dp_deg": 316,
       "sst_c": 24.8
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.46,
-      "tp_s": 8.33,
-      "dp_deg": 287,
+      "hs_m": 1.5,
+      "tp_s": 7.69,
+      "dp_deg": 281,
       "sst_c": 15
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 2.14,
+      "hs_m": 1.91,
       "tp_s": 9.88,
-      "dp_deg": 265,
+      "dp_deg": 269,
       "sst_c": 13
     },
     {
@@ -530,15 +530,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.95,
+      "hs_m": 1,
       "tp_s": 12.5,
-      "dp_deg": 245,
+      "dp_deg": 246,
       "sst_c": 11.6
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "03.04.2025-12:00:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.45,
-      "tp_s": 10.53,
-      "dp_deg": 267,
+      "hs_m": 1.53,
+      "tp_s": 9.88,
+      "dp_deg": 274,
       "sst_c": 9.4
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.5,
-      "tp_s": 8.33,
-      "dp_deg": 116,
-      "sst_c": 11.3
+      "hs_m": 0.53,
+      "tp_s": 9.09,
+      "dp_deg": 129,
+      "sst_c": 11.5
     },
     {
       "timestamp": "03.04.2025-13:00:00",
@@ -878,16 +878,16 @@
       "sst_c": 17.8
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.66,
-      "tp_s": 8.33,
-      "dp_deg": 97,
-      "sst_c": 8.3
+      "hs_m": 0.64,
+      "tp_s": 5.88,
+      "dp_deg": 52,
+      "sst_c": 8.4
     },
     {
       "timestamp": "03.04.2025-13:00:00",
@@ -902,15 +902,15 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.52,
-      "tp_s": 9.09,
-      "dp_deg": 99,
+      "hs_m": 0.5,
+      "tp_s": 8.33,
+      "dp_deg": 90,
       "sst_c": 6.6
     },
     {
@@ -938,16 +938,16 @@
       "sst_c": 7
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.63,
-      "tp_s": 3.7,
-      "dp_deg": 137,
-      "sst_c": 6
+      "hs_m": 0.6,
+      "tp_s": 3.45,
+      "dp_deg": 152,
+      "sst_c": 6.1
     },
     {
       "timestamp": "03.04.2025-13:00:00",
@@ -998,15 +998,15 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.03,
-      "tp_s": 5,
-      "dp_deg": 246,
+      "hs_m": 1.04,
+      "tp_s": 5.26,
+      "dp_deg": 249,
       "sst_c": 4.9
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 2.1
     },
     {
-      "timestamp": "03.04.2025-12:30:00",
+      "timestamp": "03.04.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.94,
+      "hs_m": 0.98,
       "tp_s": 4.17,
-      "dp_deg": 218,
+      "dp_deg": 220,
       "sst_c": 5.1
     },
     {
