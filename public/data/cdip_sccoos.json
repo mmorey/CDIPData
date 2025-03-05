@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-05T22:34:44.750Z",
+  "last_updated": "2025-03-05T22:47:07.224Z",
   "data": [
     {
       "timestamp": "03.05.2025-21:30:00",
@@ -74,16 +74,16 @@
       "sst_c": 27.7
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.69,
+      "hs_m": 1.52,
       "tp_s": 9.09,
-      "dp_deg": 65,
-      "sst_c": 28.1
+      "dp_deg": 69,
+      "sst_c": 28.2
     },
     {
       "timestamp": "03.05.2025-21:00:00",
@@ -122,16 +122,16 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.04,
-      "tp_s": 7.14,
-      "dp_deg": 133,
-      "sst_c": 24.8
+      "hs_m": 1.11,
+      "tp_s": 6.67,
+      "dp_deg": 127,
+      "sst_c": 24.9
     },
     {
       "timestamp": "03.05.2025-21:30:00",
@@ -350,16 +350,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.61,
+      "hs_m": 0.63,
       "tp_s": 18.18,
-      "dp_deg": 189,
-      "sst_c": 14.3
+      "dp_deg": 193,
+      "sst_c": 14.2
     },
     {
       "timestamp": "03.05.2025-22:00:00",
@@ -446,27 +446,27 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.39,
-      "tp_s": 9.09,
-      "dp_deg": 288,
+      "hs_m": 1.31,
+      "tp_s": 12.5,
+      "dp_deg": 297,
       "sst_c": 13
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.23,
+      "hs_m": 1.28,
       "tp_s": 8.33,
-      "dp_deg": 275,
+      "dp_deg": 281,
       "sst_c": 11
     },
     {
@@ -494,15 +494,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.49,
-      "tp_s": 11.11,
-      "dp_deg": 291,
+      "hs_m": 1.67,
+      "tp_s": 11.76,
+      "dp_deg": 280,
       "sst_c": 11.5
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 19
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6494,
       "longitude": -97.00575,
       "depth_cm": 2270,
-      "hs_m": 1.05,
-      "tp_s": 8.33,
-      "dp_deg": 128,
-      "sst_c": 16.7
+      "hs_m": 1.12,
+      "tp_s": 9.09,
+      "dp_deg": 121,
+      "sst_c": 16.5
     },
     {
       "timestamp": "03.05.2025-22:00:00",
@@ -938,13 +938,13 @@
       "sst_c": 8.5
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 2.14,
+      "hs_m": 2.22,
       "tp_s": 7.14,
       "dp_deg": 155,
       "sst_c": 6.6
@@ -1034,15 +1034,15 @@
       "sst_c": 2.4
     },
     {
-      "timestamp": "03.05.2025-21:30:00",
+      "timestamp": "03.05.2025-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.33,
-      "tp_s": 5.88,
-      "dp_deg": 158,
+      "hs_m": 1.42,
+      "tp_s": 5,
+      "dp_deg": 164,
       "sst_c": 4.9
     },
     {
