@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-05T04:35:43.302Z",
+  "last_updated": "2025-03-05T04:47:28.669Z",
   "data": [
     {
       "timestamp": "03.05.2025-03:30:00",
@@ -62,39 +62,39 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.39,
-      "tp_s": 8.33,
-      "dp_deg": 82,
+      "hs_m": 2.34,
+      "tp_s": 7.69,
+      "dp_deg": 84,
       "sst_c": 27.8
     },
     {
-      "timestamp": "03.05.2025-03:00:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.32,
+      "hs_m": 2.47,
       "tp_s": 9.09,
-      "dp_deg": 59,
+      "dp_deg": 66,
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.8,
+      "hs_m": 1.79,
       "tp_s": 8.33,
-      "dp_deg": 55,
+      "dp_deg": 53,
       "sst_c": 28
     },
     {
@@ -122,16 +122,16 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.11,
+      "hs_m": 1.04,
       "tp_s": 5.88,
-      "dp_deg": 136,
-      "sst_c": 25
+      "dp_deg": 133,
+      "sst_c": 24.9
     },
     {
       "timestamp": "03.05.2025-03:30:00",
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.06,
+      "hs_m": 1.03,
       "tp_s": 8.33,
-      "dp_deg": 285,
+      "dp_deg": 282,
       "sst_c": 15.2
     },
     {
@@ -350,27 +350,27 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.88,
-      "tp_s": 12.5,
-      "dp_deg": 281,
-      "sst_c": 14.1
+      "hs_m": 0.83,
+      "tp_s": 11.76,
+      "dp_deg": 261,
+      "sst_c": 14
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.98,
-      "tp_s": 9.88,
-      "dp_deg": 271,
+      "hs_m": 0.89,
+      "tp_s": 11.76,
+      "dp_deg": 260,
       "sst_c": 13
     },
     {
@@ -482,15 +482,15 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 0.59,
-      "tp_s": 11.11,
-      "dp_deg": 346,
+      "hs_m": 0.56,
+      "tp_s": 10.53,
+      "dp_deg": 343,
       "sst_c": 12.5
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.69,
-      "tp_s": 12.5,
-      "dp_deg": 239,
+      "hs_m": 0.67,
+      "tp_s": 14.29,
+      "dp_deg": 236,
       "sst_c": 12.3
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 10
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.78,
-      "tp_s": 9.88,
-      "dp_deg": 258,
+      "hs_m": 3.13,
+      "tp_s": 11.76,
+      "dp_deg": 255,
       "sst_c": 9.8
     },
     {
@@ -782,13 +782,13 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "03.05.2025-03:30:00",
+      "timestamp": "03.05.2025-04:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
-      "hs_m": 2.5,
+      "hs_m": 2.27,
       "tp_s": 7.69,
       "dp_deg": 140,
       "sst_c": 18.9
