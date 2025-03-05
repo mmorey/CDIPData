@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-05T09:34:19.542Z",
+  "last_updated": "2025-03-05T09:47:00.928Z",
   "data": [
     {
       "timestamp": "03.05.2025-08:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.52,
-      "tp_s": 9.88,
-      "dp_deg": 77,
+      "hs_m": 2.32,
+      "tp_s": 8.33,
+      "dp_deg": 87,
       "sst_c": 27.8
     },
     {
@@ -86,28 +86,28 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.05.2025-08:00:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.85,
-      "tp_s": 7.69,
-      "dp_deg": 53,
+      "hs_m": 1.7,
+      "tp_s": 8.33,
+      "dp_deg": 57,
       "sst_c": 28
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.36,
+      "hs_m": 2.29,
       "tp_s": 9.09,
-      "dp_deg": 103,
-      "sst_c": 24.9
+      "dp_deg": 107,
+      "sst_c": 24.8
     },
     {
       "timestamp": "03.05.2025-09:00:00",
@@ -134,13 +134,13 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.34,
+      "hs_m": 1.37,
       "tp_s": 13.33,
       "dp_deg": 304,
       "sst_c": 25.1
@@ -290,15 +290,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.05.2025-08:00:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.88,
+      "hs_m": 0.83,
       "tp_s": 12.5,
-      "dp_deg": 273,
+      "dp_deg": 261,
       "sst_c": 14.5
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 0.72,
-      "tp_s": 11.76,
-      "dp_deg": 262,
+      "tp_s": 20,
+      "dp_deg": 190,
       "sst_c": 13.9
     },
     {
@@ -386,16 +386,16 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.53,
+      "hs_m": 0.56,
       "tp_s": 13.33,
-      "dp_deg": 244,
-      "sst_c": 13.1
+      "dp_deg": 250,
+      "sst_c": 13.2
     },
     {
       "timestamp": "03.05.2025-09:00:00",
@@ -506,15 +506,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.05.2025-08:00:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.64,
-      "tp_s": 14.29,
-      "dp_deg": 239,
+      "hs_m": 0.61,
+      "tp_s": 11.11,
+      "dp_deg": 252,
       "sst_c": 12
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 22.8
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.93,
-      "tp_s": 5.88,
-      "dp_deg": 155,
+      "hs_m": 1.89,
+      "tp_s": 6.25,
+      "dp_deg": 166,
       "sst_c": 21.2
     },
     {
@@ -806,16 +806,16 @@
       "sst_c": 22
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 1.78,
+      "hs_m": 1.81,
       "tp_s": 7.14,
-      "dp_deg": 117,
-      "sst_c": 20.3
+      "dp_deg": 124,
+      "sst_c": 20.4
     },
     {
       "timestamp": "03.05.2025-09:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 2.32,
+      "hs_m": 2.47,
       "tp_s": 6.25,
-      "dp_deg": 157,
+      "dp_deg": 161,
       "sst_c": 20.9
     },
     {
@@ -950,16 +950,16 @@
       "sst_c": 6.6
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.42,
-      "tp_s": 2.22,
-      "dp_deg": 170,
-      "sst_c": 6.7
+      "hs_m": 0.47,
+      "tp_s": 2.38,
+      "dp_deg": 168,
+      "sst_c": 6.8
     },
     {
       "timestamp": "03.05.2025-09:00:00",
@@ -1034,15 +1034,15 @@
       "sst_c": 2.2
     },
     {
-      "timestamp": "03.05.2025-08:30:00",
+      "timestamp": "03.05.2025-09:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.11,
-      "tp_s": 6.67,
-      "dp_deg": 158,
+      "hs_m": 1.1,
+      "tp_s": 6.25,
+      "dp_deg": 150,
       "sst_c": 4.9
     },
     {
