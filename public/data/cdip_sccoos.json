@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-06T13:37:15.938Z",
+  "last_updated": "2025-03-06T13:47:07.585Z",
   "data": [
     {
       "timestamp": "03.06.2025-12:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.52,
-      "tp_s": 9.09,
-      "dp_deg": 83,
+      "hs_m": 1.5,
+      "tp_s": 8.33,
+      "dp_deg": 89,
       "sst_c": 27.9
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
       "hs_m": 1.02,
-      "tp_s": 6.67,
-      "dp_deg": 126,
+      "tp_s": 7.14,
+      "dp_deg": 134,
       "sst_c": 24.7
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.39,
+      "hs_m": 2.44,
       "tp_s": 9.88,
-      "dp_deg": 44,
+      "dp_deg": 65,
       "sst_c": 24.8
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.98,
-      "tp_s": 9.09,
-      "dp_deg": 24,
+      "hs_m": 1.94,
+      "tp_s": 9.88,
+      "dp_deg": 23,
       "sst_c": 24.5
     },
     {
@@ -242,15 +242,15 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 2.08,
-      "tp_s": 6.67,
-      "dp_deg": 278,
+      "hs_m": 2.14,
+      "tp_s": 7.14,
+      "dp_deg": 274,
       "sst_c": 14.4
     },
     {
@@ -410,16 +410,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 2.11,
+      "hs_m": 2.12,
       "tp_s": 6.25,
-      "dp_deg": 275,
-      "sst_c": 11.3
+      "dp_deg": 271,
+      "sst_c": 11.6
     },
     {
       "timestamp": "03.06.2025-12:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.66,
-      "tp_s": 7.69,
-      "dp_deg": 274,
+      "hs_m": 1.69,
+      "tp_s": 8.33,
+      "dp_deg": 279,
       "sst_c": 11.5
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 3.06,
+      "hs_m": 3.16,
       "tp_s": 9.09,
-      "dp_deg": 302,
+      "dp_deg": 299,
       "sst_c": 22.6
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 5.6
     },
     {
-      "timestamp": "03.06.2025-12:30:00",
+      "timestamp": "03.06.2025-13:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 2.8,
-      "tp_s": 12.5,
-      "dp_deg": 154,
+      "hs_m": 2.9,
+      "tp_s": 11.76,
+      "dp_deg": 163,
       "sst_c": 4.2
     },
     {
