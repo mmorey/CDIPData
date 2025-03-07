@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-07T09:33:49.582Z",
+  "last_updated": "2025-03-07T09:46:53.368Z",
   "data": [
     {
       "timestamp": "03.07.2025-08:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 28
     },
     {
-      "timestamp": "03.07.2025-08:00:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.57,
-      "tp_s": 9.88,
-      "dp_deg": 13,
-      "sst_c": 28.4
+      "hs_m": 1.52,
+      "tp_s": 8.33,
+      "dp_deg": 68,
+      "sst_c": 28.3
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.45,
-      "tp_s": 9.88,
-      "dp_deg": 39,
+      "hs_m": 1.28,
+      "tp_s": 9.09,
+      "dp_deg": 48,
       "sst_c": 28.3
     },
     {
@@ -134,27 +134,27 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.17,
+      "hs_m": 1.18,
       "tp_s": 15.38,
-      "dp_deg": 310,
+      "dp_deg": 311,
       "sst_c": 25
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.68,
-      "tp_s": 10.53,
-      "dp_deg": 66,
+      "hs_m": 2.57,
+      "tp_s": 9.88,
+      "dp_deg": 63,
       "sst_c": 24.7
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "03.07.2025-08:00:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.12,
+      "hs_m": 1.2,
       "tp_s": 15.38,
-      "dp_deg": 203,
-      "sst_c": 12.6
+      "dp_deg": 189,
+      "sst_c": 12.5
     },
     {
       "timestamp": "03.07.2025-09:00:00",
@@ -506,15 +506,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.77,
-      "tp_s": 9.88,
-      "dp_deg": 259,
+      "hs_m": 1.73,
+      "tp_s": 11.76,
+      "dp_deg": 255,
       "sst_c": 11.8
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 10.3
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.25,
-      "tp_s": 10.53,
-      "dp_deg": 279,
+      "hs_m": 2.24,
+      "tp_s": 11.76,
+      "dp_deg": 286,
       "sst_c": 10.1
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.98,
+      "hs_m": 1.96,
       "tp_s": 11.11,
-      "dp_deg": 281,
+      "dp_deg": 278,
       "sst_c": 9.5
     },
     {
@@ -818,7 +818,7 @@
       "sst_c": 20.1
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
@@ -826,20 +826,20 @@
       "depth_cm": 2328,
       "hs_m": 0.59,
       "tp_s": 4.17,
-      "dp_deg": 0,
+      "dp_deg": 1,
       "sst_c": 16.4
     },
     {
-      "timestamp": "03.07.2025-08:30:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.4,
-      "tp_s": 2.63,
-      "dp_deg": 309,
-      "sst_c": 15.3
+      "hs_m": 0.39,
+      "tp_s": 2.56,
+      "dp_deg": 316,
+      "sst_c": 15.2
     },
     {
       "timestamp": "03.07.2025-09:00:00",
@@ -864,18 +864,6 @@
       "tp_s": 8.33,
       "dp_deg": 160,
       "sst_c": 11.2
-    },
-    {
-      "timestamp": "03.07.2025-08:30:00",
-      "station_number": "250",
-      "station_name": "CAPE HATTERAS EAST, NC",
-      "latitude": 35.258,
-      "longitude": -75.2851,
-      "depth_cm": 2895,
-      "hs_m": 2.3,
-      "tp_s": 7.69,
-      "dp_deg": 15,
-      "sst_c": 17.2
     },
     {
       "timestamp": "03.07.2025-09:00:00",
@@ -1034,15 +1022,15 @@
       "sst_c": 2.6
     },
     {
-      "timestamp": "03.07.2025-08:00:00",
+      "timestamp": "03.07.2025-09:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 2.64,
+      "hs_m": 2.8,
       "tp_s": 6.25,
-      "dp_deg": 292,
+      "dp_deg": 294,
       "sst_c": 5.1
     },
     {
