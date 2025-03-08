@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-08T06:34:43.040Z",
+  "last_updated": "2025-03-08T06:47:03.058Z",
   "data": [
     {
       "timestamp": "03.08.2025-05:30:00",
@@ -14,7 +14,7 @@
       "sst_c": 30.9
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
@@ -22,8 +22,8 @@
       "depth_cm": 6000,
       "hs_m": 1.56,
       "tp_s": 12.5,
-      "dp_deg": 338,
-      "sst_c": 30
+      "dp_deg": 347,
+      "sst_c": 29.7
     },
     {
       "timestamp": "03.08.2025-05:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.22,
-      "tp_s": 8.33,
-      "dp_deg": 81,
+      "hs_m": 2.32,
+      "tp_s": 7.69,
+      "dp_deg": 67,
       "sst_c": 29.3
     },
     {
@@ -74,27 +74,27 @@
       "sst_c": 28.1
     },
     {
-      "timestamp": "03.08.2025-05:00:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.31,
+      "hs_m": 1.51,
       "tp_s": 8.33,
-      "dp_deg": 66,
+      "dp_deg": 69,
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.13,
-      "tp_s": 9.09,
-      "dp_deg": 42,
+      "hs_m": 1.14,
+      "tp_s": 12.5,
+      "dp_deg": 31,
       "sst_c": 28.3
     },
     {
@@ -182,16 +182,16 @@
       "sst_c": 24.3
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.44,
-      "tp_s": 15.38,
-      "dp_deg": 320,
-      "sst_c": 24.6
+      "hs_m": 2.18,
+      "tp_s": 14.29,
+      "dp_deg": 307,
+      "sst_c": 24.5
     },
     {
       "timestamp": "03.08.2025-05:30:00",
@@ -230,15 +230,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.99,
-      "tp_s": 11.76,
-      "dp_deg": 273,
+      "hs_m": 2.12,
+      "tp_s": 9.88,
+      "dp_deg": 276,
       "sst_c": 13.2
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.47,
+      "hs_m": 1.42,
       "tp_s": 11.76,
-      "dp_deg": 284,
-      "sst_c": 13.6
+      "dp_deg": 275,
+      "sst_c": 13.7
     },
     {
       "timestamp": "03.08.2025-06:00:00",
@@ -446,28 +446,28 @@
       "sst_c": 11
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.01,
-      "tp_s": 10.53,
-      "dp_deg": 297,
-      "sst_c": 12.8
+      "hs_m": 2.86,
+      "tp_s": 9.88,
+      "dp_deg": 305,
+      "sst_c": 12.9
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.23,
+      "hs_m": 2.05,
       "tp_s": 10.53,
-      "dp_deg": 278,
-      "sst_c": 11
+      "dp_deg": 279,
+      "sst_c": 10.9
     },
     {
       "timestamp": "03.08.2025-05:30:00",
@@ -758,15 +758,15 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6494,
       "longitude": -97.00575,
       "depth_cm": 2270,
-      "hs_m": 1.25,
+      "hs_m": 1.32,
       "tp_s": 6.67,
-      "dp_deg": 138,
+      "dp_deg": 137,
       "sst_c": 16.7
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 2.5
     },
     {
-      "timestamp": "03.08.2025-05:30:00",
+      "timestamp": "03.08.2025-06:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 2.21,
+      "hs_m": 2.07,
       "tp_s": 5.88,
-      "dp_deg": 272,
+      "dp_deg": 273,
       "sst_c": 4.9
     },
     {
