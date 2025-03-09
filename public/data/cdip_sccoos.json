@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-09T19:02:40.127Z",
+  "last_updated": "2025-03-09T19:17:07.881Z",
   "data": [
     {
       "timestamp": "03.09.2025-18:00:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.7,
-      "tp_s": 11.11,
-      "dp_deg": 203,
+      "hs_m": 1.79,
+      "tp_s": 11.76,
+      "dp_deg": 200,
       "sst_c": 29.2
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.09.2025-17:30:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.92,
+      "hs_m": 1.98,
       "tp_s": 10.53,
-      "dp_deg": 350,
+      "dp_deg": 352,
       "sst_c": 28.1
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.53,
+      "hs_m": 2.68,
       "tp_s": 8.33,
-      "dp_deg": 11,
+      "dp_deg": 20,
       "sst_c": 24.9
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "03.09.2025-17:30:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.71,
-      "tp_s": 13.33,
-      "dp_deg": 313,
+      "hs_m": 2.63,
+      "tp_s": 14.29,
+      "dp_deg": 325,
       "sst_c": 24.4
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.57,
-      "tp_s": 12.5,
-      "dp_deg": 207,
-      "sst_c": 13.6
+      "hs_m": 0.64,
+      "tp_s": 16.67,
+      "dp_deg": 273,
+      "sst_c": 13.9
     },
     {
       "timestamp": "03.09.2025-18:30:00",
@@ -506,16 +506,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "03.09.2025-17:30:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.11,
+      "hs_m": 1.29,
       "tp_s": 14.29,
       "dp_deg": 243,
-      "sst_c": 12.1
+      "sst_c": 12.5
     },
     {
       "timestamp": "03.09.2025-18:00:00",
@@ -794,7 +794,7 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
@@ -802,8 +802,8 @@
       "depth_cm": 1676,
       "hs_m": 0.33,
       "tp_s": 9.88,
-      "dp_deg": 65,
-      "sst_c": 23.9
+      "dp_deg": 70,
+      "sst_c": 24.3
     },
     {
       "timestamp": "03.09.2025-18:30:00",
@@ -818,16 +818,16 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "03.09.2025-17:30:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.35,
+      "hs_m": 0.33,
       "tp_s": 9.88,
       "dp_deg": 94,
-      "sst_c": 16.6
+      "sst_c": 16.9
     },
     {
       "timestamp": "03.09.2025-18:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
       "hs_m": 1.44,
-      "tp_s": 7.69,
-      "dp_deg": 32,
-      "sst_c": 18.5
+      "tp_s": 7.14,
+      "dp_deg": 0,
+      "sst_c": null
     },
     {
       "timestamp": "03.09.2025-18:30:00",
@@ -902,16 +902,16 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.05,
-      "tp_s": 5.56,
-      "dp_deg": 34,
-      "sst_c": 9.1
+      "hs_m": 0.94,
+      "tp_s": 5,
+      "dp_deg": 27,
+      "sst_c": 9.2
     },
     {
       "timestamp": "03.09.2025-18:00:00",
@@ -938,15 +938,15 @@
       "sst_c": 7.6
     },
     {
-      "timestamp": "03.09.2025-18:00:00",
+      "timestamp": "03.09.2025-18:30:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.55,
+      "hs_m": 0.54,
       "tp_s": 4.35,
-      "dp_deg": 41,
+      "dp_deg": 44,
       "sst_c": 7.6
     },
     {
