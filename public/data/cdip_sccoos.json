@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-09T08:32:30.908Z",
+  "last_updated": "2025-03-09T08:47:04.820Z",
   "data": [
     {
       "timestamp": "03.09.2025-07:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.78,
-      "tp_s": 8.33,
-      "dp_deg": 348,
+      "hs_m": 2.73,
+      "tp_s": 7.69,
+      "dp_deg": 352,
       "sst_c": 29.2
     },
     {
@@ -86,16 +86,16 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
       "hs_m": 1.38,
-      "tp_s": 9.88,
-      "dp_deg": 8,
-      "sst_c": 28.4
+      "tp_s": 9.09,
+      "dp_deg": 356,
+      "sst_c": 28.3
     },
     {
       "timestamp": "03.09.2025-08:00:00",
@@ -230,16 +230,16 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1,
-      "tp_s": 10.53,
-      "dp_deg": 274,
-      "sst_c": 13.6
+      "hs_m": 1.03,
+      "tp_s": 11.11,
+      "dp_deg": 272,
+      "sst_c": 13.7
     },
     {
       "timestamp": "03.09.2025-08:00:00",
@@ -314,15 +314,15 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.67,
-      "tp_s": 10.53,
-      "dp_deg": 268,
+      "hs_m": 0.64,
+      "tp_s": 12.5,
+      "dp_deg": 240,
       "sst_c": 13
     },
     {
@@ -350,7 +350,7 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -358,8 +358,8 @@
       "depth_cm": 30300,
       "hs_m": 0.57,
       "tp_s": 13.33,
-      "dp_deg": 206,
-      "sst_c": 13.4
+      "dp_deg": 204,
+      "sst_c": 13.3
     },
     {
       "timestamp": "03.09.2025-08:00:00",
@@ -386,27 +386,27 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.63,
+      "hs_m": 0.58,
       "tp_s": 13.33,
-      "dp_deg": 216,
+      "dp_deg": 285,
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.87,
-      "tp_s": 9.88,
-      "dp_deg": 265,
+      "hs_m": 0.93,
+      "tp_s": 11.11,
+      "dp_deg": 278,
       "sst_c": 13.1
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.14,
+      "hs_m": 1.36,
       "tp_s": 15.38,
-      "dp_deg": 239,
-      "sst_c": 12.5
+      "dp_deg": 238,
+      "sst_c": 12.4
     },
     {
       "timestamp": "03.09.2025-07:30:00",
@@ -662,27 +662,27 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 2.76,
-      "tp_s": 13.33,
-      "dp_deg": 264,
+      "hs_m": 2.77,
+      "tp_s": 14.29,
+      "dp_deg": 268,
       "sst_c": 9.4
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.84,
-      "tp_s": 12.5,
-      "dp_deg": 278,
+      "hs_m": 3.1,
+      "tp_s": 15.38,
+      "dp_deg": 281,
       "sst_c": 9.3
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 22.7
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.68,
+      "hs_m": 0.66,
       "tp_s": 5.26,
-      "dp_deg": 221,
+      "dp_deg": 226,
       "sst_c": 21.6
     },
     {
@@ -878,14 +878,14 @@
       "sst_c": 18.7
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.4,
-      "tp_s": 5.26,
+      "hs_m": 1.39,
+      "tp_s": 5.56,
       "dp_deg": 14,
       "sst_c": 17.1
     },
@@ -902,15 +902,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.16,
-      "tp_s": 4.76,
-      "dp_deg": 21,
+      "hs_m": 1.12,
+      "tp_s": 5.26,
+      "dp_deg": 24,
       "sst_c": 8.4
     },
     {
@@ -938,27 +938,27 @@
       "sst_c": 7.1
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.99,
-      "tp_s": 4.55,
-      "dp_deg": 30,
+      "hs_m": 1.11,
+      "tp_s": 4.76,
+      "dp_deg": 33,
       "sst_c": 7.2
     },
     {
-      "timestamp": "03.09.2025-07:30:00",
+      "timestamp": "03.09.2025-08:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.61,
-      "tp_s": 3.85,
-      "dp_deg": 10,
+      "hs_m": 0.62,
+      "tp_s": 3.57,
+      "dp_deg": 2,
       "sst_c": 6.4
     },
     {
