@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-09T10:34:20.186Z",
+  "last_updated": "2025-03-09T10:47:09.198Z",
   "data": [
     {
       "timestamp": "03.09.2025-09:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.56,
+      "hs_m": 2.6,
       "tp_s": 7.69,
-      "dp_deg": 355,
+      "dp_deg": 340,
       "sst_c": 29.2
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.55,
-      "tp_s": 9.09,
-      "dp_deg": 5,
+      "hs_m": 1.61,
+      "tp_s": 9.88,
+      "dp_deg": 10,
       "sst_c": 28.2
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.72,
-      "tp_s": 12.5,
-      "dp_deg": 260,
-      "sst_c": 13.5
+      "hs_m": 0.69,
+      "tp_s": 11.76,
+      "dp_deg": 263,
+      "sst_c": 13.4
     },
     {
       "timestamp": "03.09.2025-10:00:00",
@@ -350,16 +350,16 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.55,
-      "tp_s": 13.33,
-      "dp_deg": 209,
-      "sst_c": 13.3
+      "hs_m": 0.51,
+      "tp_s": 11.76,
+      "dp_deg": 272,
+      "sst_c": 13.4
     },
     {
       "timestamp": "03.09.2025-10:00:00",
@@ -410,16 +410,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.74,
-      "tp_s": 10.53,
-      "dp_deg": 260,
-      "sst_c": 12.1
+      "hs_m": 0.7,
+      "tp_s": 11.11,
+      "dp_deg": 256,
+      "sst_c": 12
     },
     {
       "timestamp": "03.09.2025-09:30:00",
@@ -446,15 +446,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.31,
+      "hs_m": 2.4,
       "tp_s": 15.38,
-      "dp_deg": 306,
+      "dp_deg": 302,
       "sst_c": 13.1
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.24,
+      "hs_m": 1.23,
       "tp_s": 15.38,
-      "dp_deg": 236,
-      "sst_c": 12.5
+      "dp_deg": 233,
+      "sst_c": 12
     },
     {
       "timestamp": "03.09.2025-09:30:00",
@@ -554,16 +554,16 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.66,
+      "hs_m": 2.72,
       "tp_s": 13.33,
-      "dp_deg": 311,
-      "sst_c": 11.4
+      "dp_deg": 297,
+      "sst_c": 11.3
     },
     {
       "timestamp": "03.09.2025-09:30:00",
@@ -626,39 +626,39 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.09.2025-08:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.93,
-      "tp_s": 9.88,
-      "dp_deg": 277,
+      "hs_m": 3.1,
+      "tp_s": 14.29,
+      "dp_deg": 291,
       "sst_c": 10.1
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 3.01,
-      "tp_s": 16.67,
-      "dp_deg": 293,
+      "hs_m": 3.19,
+      "tp_s": 15.38,
+      "dp_deg": 287,
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 3.21,
+      "hs_m": 3.17,
       "tp_s": 13.33,
-      "dp_deg": 271,
+      "dp_deg": 291,
       "sst_c": 9.6
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 24.1
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.65,
+      "hs_m": 0.63,
       "tp_s": 5,
-      "dp_deg": 223,
+      "dp_deg": 227,
       "sst_c": 22.7
     },
     {
@@ -854,15 +854,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 1.08,
-      "tp_s": 4.76,
-      "dp_deg": 76,
+      "hs_m": 1.15,
+      "tp_s": 5,
+      "dp_deg": 72,
       "sst_c": 11.8
     },
     {
@@ -1010,15 +1010,15 @@
       "sst_c": 5.1
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.17,
-      "tp_s": 5,
-      "dp_deg": 235,
+      "hs_m": 1.12,
+      "tp_s": 4.35,
+      "dp_deg": 241,
       "sst_c": 4
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 4.9
     },
     {
-      "timestamp": "03.09.2025-09:30:00",
+      "timestamp": "03.09.2025-10:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 1.23,
+      "hs_m": 1.2,
       "tp_s": 9.09,
-      "dp_deg": 337,
+      "dp_deg": 347,
       "sst_c": 27.3
     }
   ]
