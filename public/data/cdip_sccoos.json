@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-09T16:32:37.233Z",
+  "last_updated": "2025-03-09T16:46:55.499Z",
   "data": [
     {
       "timestamp": "03.09.2025-15:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.94,
-      "tp_s": 10.53,
-      "dp_deg": 341,
+      "hs_m": 1.97,
+      "tp_s": 9.88,
+      "dp_deg": 337,
       "sst_c": 28.1
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.93,
+      "hs_m": 1.05,
       "tp_s": 16.67,
-      "dp_deg": 281,
+      "dp_deg": 277,
       "sst_c": 14.5
     },
     {
@@ -242,13 +242,13 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.11,
+      "hs_m": 1.15,
       "tp_s": 16.67,
       "dp_deg": 282,
       "sst_c": 14.1
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.67,
-      "tp_s": 9.88,
-      "dp_deg": 280,
+      "hs_m": 0.66,
+      "tp_s": 11.76,
+      "dp_deg": 289,
       "sst_c": 14.2
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.57,
-      "tp_s": 11.76,
-      "dp_deg": 260,
-      "sst_c": 13.1
+      "hs_m": 0.58,
+      "tp_s": 13.33,
+      "dp_deg": 263,
+      "sst_c": 13.2
     },
     {
       "timestamp": "03.09.2025-16:00:00",
@@ -326,14 +326,14 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.98,
-      "tp_s": 16.67,
+      "hs_m": 2.05,
+      "tp_s": 15.38,
       "dp_deg": 305,
       "sst_c": 13.4
     },
@@ -350,19 +350,19 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.6,
-      "tp_s": 10.53,
-      "dp_deg": 276,
+      "hs_m": 0.58,
+      "tp_s": 11.76,
+      "dp_deg": 243,
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
@@ -370,8 +370,8 @@
       "depth_cm": 6600,
       "hs_m": 0.64,
       "tp_s": 10.53,
-      "dp_deg": 268,
-      "sst_c": 13.2
+      "dp_deg": 272,
+      "sst_c": 13.4
     },
     {
       "timestamp": "03.09.2025-16:00:00",
@@ -386,16 +386,16 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.62,
-      "tp_s": 12.5,
-      "dp_deg": 230,
-      "sst_c": 12.9
+      "hs_m": 0.59,
+      "tp_s": 11.11,
+      "dp_deg": 233,
+      "sst_c": 13
     },
     {
       "timestamp": "03.09.2025-16:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.78,
-      "tp_s": 11.11,
-      "dp_deg": 275,
+      "hs_m": 0.79,
+      "tp_s": 10.53,
+      "dp_deg": 273,
       "sst_c": 12
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.12,
+      "hs_m": 1.3,
       "tp_s": 15.38,
-      "dp_deg": 233,
-      "sst_c": 11.8
+      "dp_deg": 235,
+      "sst_c": 11.9
     },
     {
       "timestamp": "03.09.2025-15:30:00",
@@ -602,15 +602,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 3.25,
-      "tp_s": 14.29,
-      "dp_deg": 291,
+      "hs_m": 3.3,
+      "tp_s": 13.33,
+      "dp_deg": 296,
       "sst_c": 10.1
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 3.68,
+      "hs_m": 3.62,
       "tp_s": 13.33,
-      "dp_deg": 277,
+      "dp_deg": 292,
       "sst_c": 9.7
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 24.3
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.83,
+      "hs_m": 0.86,
       "tp_s": 5.56,
-      "dp_deg": 230,
+      "dp_deg": 226,
       "sst_c": 22.9
     },
     {
@@ -782,16 +782,16 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
-      "hs_m": 0.56,
-      "tp_s": 6.25,
-      "dp_deg": 163,
-      "sst_c": 20
+      "hs_m": 0.57,
+      "tp_s": 7.14,
+      "dp_deg": 175,
+      "sst_c": 20.1
     },
     {
       "timestamp": "03.09.2025-16:00:00",
@@ -830,15 +830,15 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 1.1,
-      "tp_s": 3.85,
-      "dp_deg": 20,
+      "hs_m": 1.21,
+      "tp_s": 4.35,
+      "dp_deg": 17,
       "sst_c": 15.5
     },
     {
@@ -878,16 +878,16 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.59,
-      "tp_s": 6.67,
-      "dp_deg": 26,
-      "sst_c": 17.1
+      "hs_m": 1.44,
+      "tp_s": 7.14,
+      "dp_deg": 21,
+      "sst_c": 17.2
     },
     {
       "timestamp": "03.09.2025-16:00:00",
@@ -902,16 +902,16 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.09,
-      "tp_s": 6.25,
-      "dp_deg": 35,
-      "sst_c": 8.4
+      "hs_m": 1.16,
+      "tp_s": 5.88,
+      "dp_deg": 31,
+      "sst_c": 8.6
     },
     {
       "timestamp": "03.09.2025-15:30:00",
@@ -1010,7 +1010,7 @@
       "sst_c": 5.8
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
@@ -1018,7 +1018,7 @@
       "depth_cm": 2100,
       "hs_m": 1.38,
       "tp_s": 4.76,
-      "dp_deg": 245,
+      "dp_deg": 252,
       "sst_c": 3.9
     },
     {
@@ -1034,16 +1034,16 @@
       "sst_c": 2.6
     },
     {
-      "timestamp": "03.09.2025-15:30:00",
+      "timestamp": "03.09.2025-16:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.97,
-      "tp_s": 4.17,
-      "dp_deg": 245,
-      "sst_c": 4.9
+      "hs_m": 0.93,
+      "tp_s": 4.35,
+      "dp_deg": 241,
+      "sst_c": 4.8
     },
     {
       "timestamp": "03.09.2025-16:00:00",
