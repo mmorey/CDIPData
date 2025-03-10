@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-10T04:33:07.647Z",
+  "last_updated": "2025-03-10T04:47:11.367Z",
   "data": [
     {
       "timestamp": "03.10.2025-03:30:00",
@@ -86,27 +86,27 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.64,
+      "hs_m": 1.65,
       "tp_s": 9.09,
-      "dp_deg": 16,
-      "sst_c": 28.5
+      "dp_deg": 14,
+      "sst_c": 28.6
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.43,
-      "tp_s": 13.33,
-      "dp_deg": 343,
+      "hs_m": 2.29,
+      "tp_s": 12.5,
+      "dp_deg": 340,
       "sst_c": 25
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.32,
-      "tp_s": 12.5,
-      "dp_deg": 352,
+      "hs_m": 2.38,
+      "tp_s": 11.76,
+      "dp_deg": 349,
       "sst_c": 24.9
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 3.01,
-      "tp_s": 13.33,
-      "dp_deg": 311,
+      "hs_m": 2.84,
+      "tp_s": 8.33,
+      "dp_deg": 51,
       "sst_c": 22.8
     },
     {
@@ -266,16 +266,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.78,
-      "tp_s": 11.11,
-      "dp_deg": 294,
-      "sst_c": 14.9
+      "hs_m": 0.72,
+      "tp_s": 10.53,
+      "dp_deg": 289,
+      "sst_c": 14.8
     },
     {
       "timestamp": "03.10.2025-04:00:00",
@@ -350,15 +350,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.53,
-      "tp_s": 11.76,
-      "dp_deg": 255,
+      "hs_m": 0.55,
+      "tp_s": 14.29,
+      "dp_deg": 260,
       "sst_c": 14.3
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.94,
-      "tp_s": 14.29,
-      "dp_deg": 267,
+      "hs_m": 1.03,
+      "tp_s": 13.33,
+      "dp_deg": 260,
       "sst_c": 14.1
     },
     {
@@ -434,16 +434,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.28,
-      "tp_s": 13.33,
-      "dp_deg": 288,
-      "sst_c": 11
+      "hs_m": 2.35,
+      "tp_s": 15.38,
+      "dp_deg": 289,
+      "sst_c": 11.1
     },
     {
       "timestamp": "03.10.2025-04:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.59,
-      "tp_s": 15.38,
-      "dp_deg": 286,
+      "hs_m": 3.54,
+      "tp_s": 14.29,
+      "dp_deg": 295,
       "sst_c": 10.1
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.89,
+      "hs_m": 0.88,
       "tp_s": 7.14,
-      "dp_deg": 62,
+      "dp_deg": 60,
       "sst_c": 17.5
     },
     {
@@ -938,16 +938,16 @@
       "sst_c": 6.9
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.51,
-      "tp_s": 9.88,
-      "dp_deg": 109,
-      "sst_c": 7.2
+      "hs_m": 0.52,
+      "tp_s": 8.33,
+      "dp_deg": 107,
+      "sst_c": 7.4
     },
     {
       "timestamp": "03.10.2025-04:00:00",
@@ -1034,15 +1034,15 @@
       "sst_c": 2.5
     },
     {
-      "timestamp": "03.10.2025-03:30:00",
+      "timestamp": "03.10.2025-04:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.75,
-      "tp_s": 4,
-      "dp_deg": 262,
+      "hs_m": 0.67,
+      "tp_s": 3.7,
+      "dp_deg": 265,
       "sst_c": 4.9
     },
     {
