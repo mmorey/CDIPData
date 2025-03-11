@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-11T22:34:34.662Z",
+  "last_updated": "2025-03-11T22:46:59.285Z",
   "data": [
     {
       "timestamp": "03.11.2025-21:30:00",
@@ -86,27 +86,27 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.21,
+      "hs_m": 2.08,
       "tp_s": 9.09,
-      "dp_deg": 10,
+      "dp_deg": 15,
       "sst_c": 28
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.32,
+      "hs_m": 2.48,
       "tp_s": 8.33,
-      "dp_deg": 75,
+      "dp_deg": 76,
       "sst_c": 24.6
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.6,
-      "tp_s": 7.69,
-      "dp_deg": 59,
-      "sst_c": 24.5
+      "hs_m": 2.77,
+      "tp_s": 8.33,
+      "dp_deg": 70,
+      "sst_c": 24.6
     },
     {
       "timestamp": "03.11.2025-22:00:00",
@@ -194,15 +194,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.11.2025-20:00:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.38,
-      "tp_s": 7.69,
-      "dp_deg": 61,
+      "hs_m": 2.31,
+      "tp_s": 8.33,
+      "dp_deg": 65,
       "sst_c": 22.8
     },
     {
@@ -266,16 +266,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.04,
-      "tp_s": 10.53,
-      "dp_deg": 274,
-      "sst_c": 14.5
+      "hs_m": 1.05,
+      "tp_s": 14.29,
+      "dp_deg": 291,
+      "sst_c": 14.4
     },
     {
       "timestamp": "03.11.2025-22:00:00",
@@ -290,15 +290,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.75,
-      "tp_s": 13.33,
-      "dp_deg": 256,
+      "hs_m": 1.71,
+      "tp_s": 11.76,
+      "dp_deg": 254,
       "sst_c": 14.3
     },
     {
@@ -350,28 +350,28 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.69,
-      "tp_s": 7.69,
-      "dp_deg": 218,
-      "sst_c": 14.2
+      "hs_m": 1.72,
+      "tp_s": 6.67,
+      "dp_deg": 201,
+      "sst_c": 14.1
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.46,
-      "tp_s": 6.25,
-      "dp_deg": 162,
-      "sst_c": 13.9
+      "hs_m": 1.47,
+      "tp_s": 5.26,
+      "dp_deg": 155,
+      "sst_c": 13.8
     },
     {
       "timestamp": "03.11.2025-22:00:00",
@@ -674,14 +674,14 @@
       "sst_c": 9.4
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.19,
-      "tp_s": 11.76,
+      "hs_m": 2.2,
+      "tp_s": 10.53,
       "dp_deg": 278,
       "sst_c": 9.4
     },
@@ -914,16 +914,16 @@
       "sst_c": 9
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.65,
-      "tp_s": 8.33,
-      "dp_deg": 110,
-      "sst_c": 9.7
+      "hs_m": 1.57,
+      "tp_s": 9.09,
+      "dp_deg": 109,
+      "sst_c": 9.6
     },
     {
       "timestamp": "03.11.2025-21:30:00",
@@ -1022,16 +1022,16 @@
       "sst_c": 4.3
     },
     {
-      "timestamp": "03.11.2025-21:30:00",
+      "timestamp": "03.11.2025-22:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.47,
-      "tp_s": 2.94,
+      "hs_m": 0.4,
+      "tp_s": 2.7,
       "dp_deg": 200,
-      "sst_c": 3
+      "sst_c": 2.9
     },
     {
       "timestamp": "03.11.2025-22:00:00",
