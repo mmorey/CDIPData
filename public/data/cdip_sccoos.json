@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-11T23:32:30.267Z",
+  "last_updated": "2025-03-11T23:47:06.142Z",
   "data": [
     {
       "timestamp": "03.11.2025-22:30:00",
@@ -62,16 +62,16 @@
       "sst_c": 29
     },
     {
-      "timestamp": "03.11.2025-22:00:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.65,
-      "tp_s": 9.09,
-      "dp_deg": 90,
-      "sst_c": 27.9
+      "hs_m": 1.71,
+      "tp_s": 9.88,
+      "dp_deg": 87,
+      "sst_c": 27.8
     },
     {
       "timestamp": "03.11.2025-23:00:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.11.2025-22:00:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.08,
+      "hs_m": 2.18,
       "tp_s": 9.09,
-      "dp_deg": 15,
+      "dp_deg": 20,
       "sst_c": 28
     },
     {
@@ -194,16 +194,16 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.11.2025-22:00:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.31,
-      "tp_s": 8.33,
-      "dp_deg": 65,
-      "sst_c": 22.8
+      "hs_m": 2.28,
+      "tp_s": 9.09,
+      "dp_deg": 51,
+      "sst_c": 22.7
     },
     {
       "timestamp": "02.27.2025-08:30:00",
@@ -350,15 +350,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.77,
-      "tp_s": 7.14,
-      "dp_deg": 190,
+      "hs_m": 1.74,
+      "tp_s": 6.67,
+      "dp_deg": 179,
       "sst_c": 14.1
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.46,
-      "tp_s": 15.38,
-      "dp_deg": 268,
+      "hs_m": 1.47,
+      "tp_s": 14.29,
+      "dp_deg": 266,
       "sst_c": 13.8
     },
     {
@@ -410,16 +410,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.47,
-      "tp_s": 9.88,
-      "dp_deg": 251,
-      "sst_c": 12.5
+      "hs_m": 1.43,
+      "tp_s": 11.76,
+      "dp_deg": 260,
+      "sst_c": 12.4
     },
     {
       "timestamp": "03.11.2025-22:30:00",
@@ -506,13 +506,13 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.22,
+      "hs_m": 1.36,
       "tp_s": 13.33,
       "dp_deg": 249,
       "sst_c": 12.5
@@ -554,16 +554,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.51,
-      "tp_s": 13.33,
+      "hs_m": 2.5,
+      "tp_s": 11.76,
       "dp_deg": 294,
-      "sst_c": 11.4
+      "sst_c": 11.5
     },
     {
       "timestamp": "03.11.2025-22:30:00",
@@ -650,39 +650,39 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.07,
-      "tp_s": 11.11,
-      "dp_deg": 279,
+      "hs_m": 2.06,
+      "tp_s": 9.88,
+      "dp_deg": 281,
       "sst_c": 9.6
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.83,
-      "tp_s": 11.11,
+      "hs_m": 1.72,
+      "tp_s": 10.53,
       "dp_deg": 261,
       "sst_c": 9.6
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.1,
+      "hs_m": 2.19,
       "tp_s": 11.11,
-      "dp_deg": 286,
+      "dp_deg": 274,
       "sst_c": 9.2
     },
     {
@@ -713,8 +713,8 @@
       "timestamp": "03.09.2025-15:30:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
-      "latitude": 24.4087,
-      "longitude": -81.9675,
+      "latitude": 24.407,
+      "longitude": -81.967,
       "depth_cm": 10000,
       "hs_m": 0.52,
       "tp_s": 4.17,
@@ -725,8 +725,8 @@
       "timestamp": "03.11.2025-22:30:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
-      "latitude": 24.4087,
-      "longitude": -81.9675,
+      "latitude": 24.407,
+      "longitude": -81.967,
       "depth_cm": 10000,
       "hs_m": 0.7,
       "tp_s": 9.09,
@@ -758,15 +758,15 @@
       "sst_c": 21.5
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 1.03,
+      "hs_m": 1.08,
       "tp_s": 8.33,
-      "dp_deg": 261,
+      "dp_deg": 258,
       "sst_c": 18.7
     },
     {
@@ -986,16 +986,16 @@
       "sst_c": 7
     },
     {
-      "timestamp": "03.11.2025-22:30:00",
+      "timestamp": "03.11.2025-23:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.46,
+      "hs_m": 0.57,
       "tp_s": 8.33,
-      "dp_deg": 163,
-      "sst_c": 5.4
+      "dp_deg": 171,
+      "sst_c": 5.3
     },
     {
       "timestamp": "03.11.2025-23:00:00",
