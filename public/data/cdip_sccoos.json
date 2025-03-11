@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-11T15:35:05.265Z",
+  "last_updated": "2025-03-11T15:47:15.936Z",
   "data": [
     {
       "timestamp": "03.11.2025-14:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.35,
-      "tp_s": 9.09,
-      "dp_deg": 18,
+      "hs_m": 2.19,
+      "tp_s": 8.33,
+      "dp_deg": 12,
       "sst_c": 28.1
     },
     {
@@ -218,16 +218,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.81,
-      "tp_s": 13.33,
-      "dp_deg": 264,
-      "sst_c": 14.5
+      "hs_m": 1.86,
+      "tp_s": 15.38,
+      "dp_deg": 275,
+      "sst_c": 14.4
     },
     {
       "timestamp": "03.11.2025-14:30:00",
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.55,
+      "hs_m": 0.62,
       "tp_s": 13.33,
-      "dp_deg": 289,
+      "dp_deg": 288,
       "sst_c": 14.4
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.83,
-      "tp_s": 15.38,
-      "dp_deg": 274,
+      "hs_m": 0.84,
+      "tp_s": 12.5,
+      "dp_deg": 257,
       "sst_c": 14
     },
     {
@@ -434,27 +434,27 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 3.18,
+      "hs_m": 3.27,
       "tp_s": 13.33,
-      "dp_deg": 305,
-      "sst_c": 12.5
+      "dp_deg": 302,
+      "sst_c": 12.4
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.84,
-      "tp_s": 14.29,
-      "dp_deg": 306,
+      "hs_m": 2.76,
+      "tp_s": 11.11,
+      "dp_deg": 289,
       "sst_c": 13
     },
     {
@@ -494,27 +494,27 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 2.07,
-      "tp_s": 9.88,
-      "dp_deg": 251,
+      "hs_m": 2.2,
+      "tp_s": 11.76,
+      "dp_deg": 280,
       "sst_c": 11
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.35,
-      "tp_s": 13.33,
-      "dp_deg": 243,
+      "hs_m": 1.32,
+      "tp_s": 14.29,
+      "dp_deg": 239,
       "sst_c": 12.1
     },
     {
@@ -806,15 +806,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.74,
+      "hs_m": 0.73,
       "tp_s": 7.69,
-      "dp_deg": 63,
+      "dp_deg": 76,
       "sst_c": 20.7
     },
     {
@@ -830,16 +830,16 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.71,
-      "tp_s": 2.78,
-      "dp_deg": 308,
-      "sst_c": 15.2
+      "hs_m": 0.64,
+      "tp_s": 4.35,
+      "dp_deg": 27,
+      "sst_c": 15.3
     },
     {
       "timestamp": "03.11.2025-15:00:00",
@@ -1022,15 +1022,15 @@
       "sst_c": 3.6
     },
     {
-      "timestamp": "03.11.2025-14:30:00",
+      "timestamp": "03.11.2025-15:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.17,
-      "tp_s": 1.85,
-      "dp_deg": 171,
+      "hs_m": 0.27,
+      "tp_s": 2.17,
+      "dp_deg": 173,
       "sst_c": 2.8
     },
     {
