@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-12T05:34:31.540Z",
+  "last_updated": "2025-03-12T05:47:03.384Z",
   "data": [
     {
       "timestamp": "03.12.2025-04:30:00",
@@ -194,15 +194,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.42,
+      "hs_m": 2.36,
       "tp_s": 8.33,
-      "dp_deg": 58,
+      "dp_deg": 68,
       "sst_c": 22.6
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.6,
+      "hs_m": 1.56,
       "tp_s": 8.33,
-      "dp_deg": 214,
+      "dp_deg": 219,
       "sst_c": 13.2
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.61,
+      "hs_m": 1.52,
       "tp_s": 7.14,
-      "dp_deg": 179,
+      "dp_deg": 185,
       "sst_c": 13.9
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.51,
-      "tp_s": 12.5,
-      "dp_deg": 293,
+      "hs_m": 2.53,
+      "tp_s": 13.33,
+      "dp_deg": 290,
       "sst_c": 13.3
     },
     {
@@ -518,13 +518,13 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 1.36,
+      "hs_m": 1.12,
       "tp_s": 12.5,
       "dp_deg": 251,
       "sst_c": 12.1
@@ -626,15 +626,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.12.2025-00:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.09,
-      "tp_s": 11.76,
-      "dp_deg": 298,
+      "hs_m": 2.54,
+      "tp_s": 11.11,
+      "dp_deg": 288,
       "sst_c": 10
     },
     {
@@ -866,16 +866,16 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.75,
+      "hs_m": 1.72,
       "tp_s": 9.09,
-      "dp_deg": 100,
-      "sst_c": 19.5
+      "dp_deg": 97,
+      "sst_c": 19.4
     },
     {
       "timestamp": "03.12.2025-05:00:00",
@@ -938,16 +938,16 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.24,
+      "hs_m": 1.29,
       "tp_s": 9.09,
-      "dp_deg": 113,
-      "sst_c": 8
+      "dp_deg": 109,
+      "sst_c": 8.1
     },
     {
       "timestamp": "03.12.2025-05:00:00",
@@ -962,15 +962,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "03.12.2025-04:30:00",
+      "timestamp": "03.12.2025-05:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
-      "hs_m": 1.4,
+      "hs_m": 1.44,
       "tp_s": 9.09,
-      "dp_deg": 128,
+      "dp_deg": 130,
       "sst_c": 6.6
     },
     {
