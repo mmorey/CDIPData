@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-12T13:39:02.559Z",
+  "last_updated": "2025-03-12T13:47:25.582Z",
   "data": [
     {
       "timestamp": "03.12.2025-11:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.59,
-      "tp_s": 10.53,
-      "dp_deg": 20,
+      "hs_m": 2.46,
+      "tp_s": 11.11,
+      "dp_deg": 19,
       "sst_c": 28.2
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.04,
-      "tp_s": 6.25,
-      "dp_deg": 129,
+      "hs_m": 1.05,
+      "tp_s": 8.33,
+      "dp_deg": 143,
       "sst_c": 24.7
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.12,
-      "tp_s": 9.09,
-      "dp_deg": 263,
+      "hs_m": 1.21,
+      "tp_s": 9.88,
+      "dp_deg": 266,
       "sst_c": 13.9
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.18,
-      "tp_s": 11.11,
-      "dp_deg": 262,
+      "hs_m": 1.21,
+      "tp_s": 13.33,
+      "dp_deg": 250,
       "sst_c": 13.8
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.32,
+      "hs_m": 1.41,
       "tp_s": 8.33,
-      "dp_deg": 223,
+      "dp_deg": 228,
       "sst_c": 12.6
     },
     {
@@ -446,28 +446,28 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.09,
-      "tp_s": 12.5,
-      "dp_deg": 302,
-      "sst_c": 12.5
+      "hs_m": 1.91,
+      "tp_s": 9.88,
+      "dp_deg": 307,
+      "sst_c": 12.3
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.62,
-      "tp_s": 11.76,
-      "dp_deg": 265,
-      "sst_c": 11.4
+      "hs_m": 1.79,
+      "tp_s": 10.53,
+      "dp_deg": 267,
+      "sst_c": 11.3
     },
     {
       "timestamp": "03.12.2025-12:30:00",
@@ -494,16 +494,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.47,
-      "tp_s": 12.5,
-      "dp_deg": 280,
-      "sst_c": 11.9
+      "hs_m": 1.56,
+      "tp_s": 11.76,
+      "dp_deg": 290,
+      "sst_c": 11.8
     },
     {
       "timestamp": "03.12.2025-12:30:00",
@@ -890,15 +890,15 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 1.24,
+      "hs_m": 1.12,
       "tp_s": 9.09,
-      "dp_deg": 103,
+      "dp_deg": 100,
       "sst_c": 10.2
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.02,
-      "tp_s": 10.53,
-      "dp_deg": 114,
+      "hs_m": 1.09,
+      "tp_s": 9.09,
+      "dp_deg": 107,
       "sst_c": 7.9
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 2.8
     },
     {
-      "timestamp": "03.12.2025-12:30:00",
+      "timestamp": "03.12.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.76,
-      "tp_s": 3.7,
-      "dp_deg": 307,
+      "hs_m": 0.89,
+      "tp_s": 4,
+      "dp_deg": 335,
       "sst_c": 5.1
     },
     {
