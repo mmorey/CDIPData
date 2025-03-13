@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-13T07:32:19.979Z",
+  "last_updated": "2025-03-13T07:47:04.981Z",
   "data": [
     {
       "timestamp": "03.13.2025-06:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.55,
-      "tp_s": 9.88,
-      "dp_deg": 53,
-      "sst_c": 29.5
+      "hs_m": 1.45,
+      "tp_s": 10.53,
+      "dp_deg": 67,
+      "sst_c": 29.4
     },
     {
       "timestamp": "03.13.2025-05:30:00",
@@ -74,28 +74,28 @@
       "sst_c": 28
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.1,
+      "hs_m": 2.27,
       "tp_s": 11.11,
-      "dp_deg": 20,
+      "dp_deg": 28,
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.13.2025-06:00:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.81,
-      "tp_s": 13.33,
-      "dp_deg": 29,
-      "sst_c": 28.3
+      "hs_m": 2.68,
+      "tp_s": 10.53,
+      "dp_deg": 33,
+      "sst_c": 28.2
     },
     {
       "timestamp": "03.13.2025-07:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.42,
+      "hs_m": 2.38,
       "tp_s": 8.33,
-      "dp_deg": 70,
+      "dp_deg": 61,
       "sst_c": 24.5
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.84,
-      "tp_s": 10.53,
-      "dp_deg": 287,
+      "hs_m": 0.79,
+      "tp_s": 11.76,
+      "dp_deg": 292,
       "sst_c": 14.4
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
       "hs_m": 0.92,
-      "tp_s": 11.76,
-      "dp_deg": 263,
+      "tp_s": 8.33,
+      "dp_deg": 242,
       "sst_c": 14.2
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.94,
-      "tp_s": 7.69,
-      "dp_deg": 229,
-      "sst_c": 13.9
+      "hs_m": 1.01,
+      "tp_s": 7.14,
+      "dp_deg": 218,
+      "sst_c": 14
     },
     {
       "timestamp": "03.13.2025-06:30:00",
@@ -362,15 +362,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.05,
-      "tp_s": 12.5,
-      "dp_deg": 241,
+      "hs_m": 1.08,
+      "tp_s": 11.76,
+      "dp_deg": 257,
       "sst_c": 13.9
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.13.2025-06:00:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.92,
-      "tp_s": 11.76,
-      "dp_deg": 215,
+      "hs_m": 1.02,
+      "tp_s": 12.5,
+      "dp_deg": 232,
       "sst_c": 13.1
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
       "hs_m": 1.51,
-      "tp_s": 7.69,
-      "dp_deg": 239,
-      "sst_c": 11.9
+      "tp_s": 7.14,
+      "dp_deg": 232,
+      "sst_c": 11.8
     },
     {
       "timestamp": "03.13.2025-06:30:00",
@@ -722,19 +722,19 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.31,
+      "hs_m": 0.3,
       "tp_s": 6.67,
-      "dp_deg": 248,
+      "dp_deg": 252,
       "sst_c": 22.6
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
@@ -742,8 +742,8 @@
       "depth_cm": 9400,
       "hs_m": 0.29,
       "tp_s": 5.26,
-      "dp_deg": 264,
-      "sst_c": 21.7
+      "dp_deg": 266,
+      "sst_c": 21.6
     },
     {
       "timestamp": "03.13.2025-07:00:00",
@@ -806,25 +806,25 @@
       "sst_c": 21
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.67,
-      "tp_s": 9.88,
-      "dp_deg": 63,
+      "hs_m": 0.69,
+      "tp_s": 9.09,
+      "dp_deg": 62,
       "sst_c": 16.5
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.58,
+      "hs_m": 0.57,
       "tp_s": 9.88,
       "dp_deg": 80,
       "sst_c": 15.8
@@ -926,16 +926,16 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "03.13.2025-06:30:00",
+      "timestamp": "03.13.2025-07:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.89,
-      "tp_s": 9.09,
-      "dp_deg": 99,
-      "sst_c": 7.9
+      "hs_m": 0.86,
+      "tp_s": 9.88,
+      "dp_deg": 90,
+      "sst_c": 8
     },
     {
       "timestamp": "03.13.2025-07:00:00",
