@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-14T20:33:32.910Z",
+  "last_updated": "2025-03-14T20:47:01.976Z",
   "data": [
     {
       "timestamp": "03.14.2025-19:30:00",
@@ -86,28 +86,28 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.7,
+      "hs_m": 2.87,
       "tp_s": 15.38,
-      "dp_deg": 30,
+      "dp_deg": 23,
       "sst_c": 28.1
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.68,
-      "tp_s": 8.33,
-      "dp_deg": 87,
-      "sst_c": 24.3
+      "hs_m": 2.5,
+      "tp_s": 9.09,
+      "dp_deg": 93,
+      "sst_c": 24.4
     },
     {
       "timestamp": "03.14.2025-20:00:00",
@@ -122,15 +122,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.98,
-      "tp_s": 6.25,
-      "dp_deg": 136,
+      "hs_m": 1.07,
+      "tp_s": 8.33,
+      "dp_deg": 153,
       "sst_c": 25
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.14.2025-18:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.53,
+      "hs_m": 2.75,
       "tp_s": 16.67,
-      "dp_deg": 310,
+      "dp_deg": 299,
       "sst_c": 23
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.58,
-      "tp_s": 11.76,
-      "dp_deg": 264,
+      "hs_m": 1.41,
+      "tp_s": 13.33,
+      "dp_deg": 254,
       "sst_c": 14
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.38,
-      "tp_s": 12.5,
-      "dp_deg": 262,
+      "hs_m": 1.36,
+      "tp_s": 13.33,
+      "dp_deg": 266,
       "sst_c": 13.7
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.17,
-      "tp_s": 15.38,
-      "dp_deg": 235,
-      "sst_c": 11.8
+      "hs_m": 2.06,
+      "tp_s": 13.33,
+      "dp_deg": 243,
+      "sst_c": 11.9
     },
     {
       "timestamp": "03.14.2025-19:30:00",
@@ -746,16 +746,16 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
       "hs_m": 0.2,
-      "tp_s": 4.76,
-      "dp_deg": 213,
-      "sst_c": 21.4
+      "tp_s": 5,
+      "dp_deg": 197,
+      "sst_c": 21.2
     },
     {
       "timestamp": "03.14.2025-20:00:00",
@@ -926,15 +926,15 @@
       "sst_c": 8.5
     },
     {
-      "timestamp": "03.14.2025-19:30:00",
+      "timestamp": "03.14.2025-20:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.11,
-      "tp_s": 7.69,
-      "dp_deg": 73,
+      "hs_m": 1.14,
+      "tp_s": 7.14,
+      "dp_deg": 78,
       "sst_c": 7.9
     },
     {
