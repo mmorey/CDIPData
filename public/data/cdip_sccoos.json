@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-14T17:32:50.437Z",
+  "last_updated": "2025-03-14T17:47:04.473Z",
   "data": [
     {
       "timestamp": "03.14.2025-16:30:00",
@@ -86,28 +86,28 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 3.01,
+      "hs_m": 2.9,
       "tp_s": 15.38,
-      "dp_deg": 27,
+      "dp_deg": 24,
       "sst_c": 28.1
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.52,
-      "tp_s": 9.09,
-      "dp_deg": 92,
-      "sst_c": 24.2
+      "hs_m": 2.77,
+      "tp_s": 8.33,
+      "dp_deg": 85,
+      "sst_c": 24.4
     },
     {
       "timestamp": "03.14.2025-17:00:00",
@@ -146,7 +146,7 @@
       "sst_c": 25
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
@@ -154,7 +154,7 @@
       "depth_cm": 8500,
       "hs_m": 2.34,
       "tp_s": 8.33,
-      "dp_deg": 80,
+      "dp_deg": 65,
       "sst_c": 24.5
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.34,
+      "hs_m": 2.27,
       "tp_s": 16.67,
-      "dp_deg": 299,
+      "dp_deg": 307,
       "sst_c": 23
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.58,
-      "tp_s": 6.67,
-      "dp_deg": 267,
+      "hs_m": 1.46,
+      "tp_s": 9.09,
+      "dp_deg": 251,
       "sst_c": 14
     },
     {
@@ -350,27 +350,27 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.57,
-      "tp_s": 13.33,
-      "dp_deg": 255,
+      "hs_m": 1.49,
+      "tp_s": 11.76,
+      "dp_deg": 272,
       "sst_c": 13.6
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.62,
-      "tp_s": 12.5,
-      "dp_deg": 262,
+      "hs_m": 1.58,
+      "tp_s": 10.53,
+      "dp_deg": 278,
       "sst_c": 13
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.63,
-      "tp_s": 12.5,
-      "dp_deg": 246,
+      "hs_m": 1.6,
+      "tp_s": 14.29,
+      "dp_deg": 233,
       "sst_c": 11.7
     },
     {
@@ -662,14 +662,14 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.14.2025-16:00:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 2,
-      "tp_s": 12.5,
+      "hs_m": 2.05,
+      "tp_s": 14.29,
       "dp_deg": 265,
       "sst_c": 9.6
     },
@@ -770,40 +770,40 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
-      "hs_m": 0.78,
-      "tp_s": 5.56,
-      "dp_deg": 151,
-      "sst_c": 21.1
+      "hs_m": 0.82,
+      "tp_s": 5.26,
+      "dp_deg": 156,
+      "sst_c": 21.2
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.55,
-      "tp_s": 9.09,
-      "dp_deg": 55,
-      "sst_c": 22.2
+      "hs_m": 0.52,
+      "tp_s": 8.33,
+      "dp_deg": 62,
+      "sst_c": 23
     },
     {
-      "timestamp": "03.14.2025-16:30:00",
+      "timestamp": "03.14.2025-17:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
       "hs_m": 0.38,
-      "tp_s": 8.33,
-      "dp_deg": 84,
-      "sst_c": 21.5
+      "tp_s": 9.09,
+      "dp_deg": 83,
+      "sst_c": 21.6
     },
     {
       "timestamp": "03.14.2025-16:30:00",
