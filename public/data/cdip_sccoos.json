@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-15T05:33:44.032Z",
+  "last_updated": "2025-03-15T05:47:07.339Z",
   "data": [
     {
       "timestamp": "03.15.2025-04:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "03.15.2025-04:00:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.44,
-      "tp_s": 9.09,
-      "dp_deg": 72,
+      "hs_m": 2.33,
+      "tp_s": 9.88,
+      "dp_deg": 75,
       "sst_c": 28
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.7,
+      "hs_m": 2.44,
       "tp_s": 14.29,
-      "dp_deg": 33,
+      "dp_deg": 26,
       "sst_c": 28.3
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.03,
+      "hs_m": 0.96,
       "tp_s": 16.67,
-      "dp_deg": 271,
+      "dp_deg": 268,
       "sst_c": 25.2
     },
     {
@@ -182,7 +182,7 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
@@ -190,19 +190,19 @@
       "depth_cm": 20000,
       "hs_m": 1.58,
       "tp_s": 15.38,
-      "dp_deg": 300,
+      "dp_deg": 306,
       "sst_c": 24.6
     },
     {
-      "timestamp": "03.15.2025-04:00:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.04,
-      "tp_s": 15.38,
-      "dp_deg": 304,
+      "hs_m": 2.01,
+      "tp_s": 14.29,
+      "dp_deg": 286,
       "sst_c": 23.1
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
       "hs_m": 2.27,
-      "tp_s": 12.5,
-      "dp_deg": 282,
+      "tp_s": 15.38,
+      "dp_deg": 280,
       "sst_c": 14.3
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.78,
-      "tp_s": 15.38,
-      "dp_deg": 270,
+      "hs_m": 1.74,
+      "tp_s": 11.76,
+      "dp_deg": 271,
       "sst_c": 13.9
     },
     {
@@ -314,27 +314,27 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.47,
+      "hs_m": 1.55,
       "tp_s": 5.88,
-      "dp_deg": 232,
+      "dp_deg": 230,
       "sst_c": 14
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 3,
+      "hs_m": 2.76,
       "tp_s": 13.33,
-      "dp_deg": 295,
+      "dp_deg": 310,
       "sst_c": 13
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.43,
+      "hs_m": 1.4,
       "tp_s": 5.88,
-      "dp_deg": 224,
+      "dp_deg": 223,
       "sst_c": 13.6
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.06,
-      "tp_s": 15.38,
-      "dp_deg": 221,
+      "hs_m": 1.05,
+      "tp_s": 16.67,
+      "dp_deg": 239,
       "sst_c": 12.9
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.85,
-      "tp_s": 15.38,
-      "dp_deg": 299,
+      "hs_m": 3.02,
+      "tp_s": 11.76,
+      "dp_deg": 292,
       "sst_c": 12.6
     },
     {
@@ -482,16 +482,16 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.26,
+      "hs_m": 1.32,
       "tp_s": 10.53,
-      "dp_deg": 345,
-      "sst_c": 11.6
+      "dp_deg": 348,
+      "sst_c": 11.7
     },
     {
       "timestamp": "03.15.2025-05:00:00",
@@ -506,15 +506,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.96,
-      "tp_s": 10.53,
-      "dp_deg": 253,
+      "hs_m": 1.84,
+      "tp_s": 11.11,
+      "dp_deg": 250,
       "sst_c": 12
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 4.01,
-      "tp_s": 11.76,
-      "dp_deg": 280,
+      "hs_m": 4.8,
+      "tp_s": 11.11,
+      "dp_deg": 278,
       "sst_c": 10.3
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 4.11,
+      "hs_m": 4.33,
       "tp_s": 11.11,
-      "dp_deg": 257,
+      "dp_deg": 261,
       "sst_c": 9.9
     },
     {
@@ -674,27 +674,27 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.03,
-      "tp_s": 11.11,
-      "dp_deg": 250,
+      "hs_m": 1.9,
+      "tp_s": 10.53,
+      "dp_deg": 244,
       "sst_c": 8.9
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.61,
+      "hs_m": 0.56,
       "tp_s": 11.11,
-      "dp_deg": 300,
+      "dp_deg": 314,
       "sst_c": 8.4
     },
     {
@@ -710,16 +710,16 @@
       "sst_c": 5.1
     },
     {
-      "timestamp": "03.15.2025-04:30:00",
+      "timestamp": "03.15.2025-05:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 0.36,
-      "tp_s": 5.26,
+      "hs_m": 0.39,
+      "tp_s": 3.7,
       "dp_deg": 92,
-      "sst_c": 25.4
+      "sst_c": 25.2
     },
     {
       "timestamp": "03.15.2025-05:00:00",
