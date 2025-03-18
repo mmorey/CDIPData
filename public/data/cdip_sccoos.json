@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-18T20:34:01.397Z",
+  "last_updated": "2025-03-18T20:47:03.123Z",
   "data": [
     {
       "timestamp": "03.18.2025-19:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.22,
+      "hs_m": 1.26,
       "tp_s": 9.88,
-      "dp_deg": 55,
+      "dp_deg": 43,
       "sst_c": 28.2
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 2.24,
+      "hs_m": 2.42,
       "tp_s": 8.33,
-      "dp_deg": 280,
+      "dp_deg": 279,
       "sst_c": 14.2
     },
     {
@@ -326,15 +326,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 3.71,
+      "hs_m": 3.92,
       "tp_s": 9.88,
-      "dp_deg": 309,
+      "dp_deg": 306,
       "sst_c": 12.5
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.3
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.98,
+      "hs_m": 1.96,
       "tp_s": 12.5,
-      "dp_deg": 287,
+      "dp_deg": 282,
       "sst_c": 13.8
     },
     {
@@ -374,28 +374,28 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 2.23,
-      "tp_s": 12.5,
-      "dp_deg": 278,
-      "sst_c": 12.5
+      "hs_m": 2.26,
+      "tp_s": 14.29,
+      "dp_deg": 270,
+      "sst_c": 12.6
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.15,
-      "tp_s": 11.11,
-      "dp_deg": 240,
-      "sst_c": 13
+      "hs_m": 1.22,
+      "tp_s": 15.38,
+      "dp_deg": 244,
+      "sst_c": 13.1
     },
     {
       "timestamp": "03.18.2025-20:00:00",
@@ -434,27 +434,27 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 3.55,
-      "tp_s": 13.33,
-      "dp_deg": 295,
+      "hs_m": 3.42,
+      "tp_s": 12.5,
+      "dp_deg": 285,
       "sst_c": 12.7
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.69,
+      "hs_m": 3.91,
       "tp_s": 13.33,
-      "dp_deg": 296,
+      "dp_deg": 292,
       "sst_c": 12.5
     },
     {
@@ -482,40 +482,40 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.96,
-      "tp_s": 11.11,
-      "dp_deg": 346,
-      "sst_c": 12.4
+      "hs_m": 1.67,
+      "tp_s": 10.53,
+      "dp_deg": 343,
+      "sst_c": 12.5
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 3.08,
-      "tp_s": 12.5,
-      "dp_deg": 279,
-      "sst_c": 12.2
+      "hs_m": 3.02,
+      "tp_s": 11.76,
+      "dp_deg": 287,
+      "sst_c": 12.1
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.19,
+      "hs_m": 1.97,
       "tp_s": 13.33,
       "dp_deg": 248,
-      "sst_c": 12.6
+      "sst_c": 12.9
     },
     {
       "timestamp": "03.18.2025-19:30:00",
@@ -674,15 +674,15 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.29,
-      "tp_s": 13.33,
-      "dp_deg": 261,
+      "hs_m": 2.4,
+      "tp_s": 12.5,
+      "dp_deg": 264,
       "sst_c": 9.1
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 23
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.09,
-      "tp_s": 5.26,
-      "dp_deg": 1,
+      "hs_m": 1.02,
+      "tp_s": 4.76,
+      "dp_deg": 18,
       "sst_c": 21.2
     },
     {
@@ -962,15 +962,15 @@
       "sst_c": 7.6
     },
     {
-      "timestamp": "03.18.2025-19:30:00",
+      "timestamp": "03.18.2025-20:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.93,
-      "tp_s": 10.53,
-      "dp_deg": 85,
+      "hs_m": 0.9,
+      "tp_s": 9.88,
+      "dp_deg": 96,
       "sst_c": 7.9
     },
     {
