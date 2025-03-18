@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-18T07:32:51.215Z",
+  "last_updated": "2025-03-18T07:47:06.180Z",
   "data": [
     {
       "timestamp": "03.18.2025-06:30:00",
@@ -62,16 +62,16 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.52,
-      "tp_s": 9.88,
-      "dp_deg": 68,
-      "sst_c": 28.3
+      "hs_m": 1.43,
+      "tp_s": 9.09,
+      "dp_deg": 84,
+      "sst_c": 28.2
     },
     {
       "timestamp": "03.18.2025-07:00:00",
@@ -86,27 +86,27 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.33,
-      "tp_s": 11.76,
-      "dp_deg": 20,
-      "sst_c": 28.5
+      "hs_m": 1.27,
+      "tp_s": 10.53,
+      "dp_deg": 27,
+      "sst_c": 28.4
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.21,
-      "tp_s": 7.69,
-      "dp_deg": 68,
+      "hs_m": 2.31,
+      "tp_s": 8.33,
+      "dp_deg": 82,
       "sst_c": 24.5
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.95,
-      "tp_s": 7.69,
-      "dp_deg": 61,
+      "hs_m": 1.99,
+      "tp_s": 11.11,
+      "dp_deg": 359,
       "sst_c": 24.8
     },
     {
@@ -230,27 +230,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
-      "station_number": "155",
-      "station_name": "IMPERIAL BEACH NEARSHORE, CA",
-      "latitude": 32.56968,
-      "longitude": -117.16895,
-      "depth_cm": 2100,
-      "hs_m": 1.65,
-      "tp_s": 15.38,
-      "dp_deg": 272,
-      "sst_c": 14.3
-    },
-    {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 2.19,
-      "tp_s": 5.88,
-      "dp_deg": 282,
+      "hs_m": 2.37,
+      "tp_s": 15.38,
+      "dp_deg": 275,
       "sst_c": 14.3
     },
     {
@@ -338,16 +326,16 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 1.55,
-      "tp_s": 5.88,
-      "dp_deg": 269,
-      "sst_c": 14.2
+      "hs_m": 1.66,
+      "tp_s": 6.25,
+      "dp_deg": 273,
+      "sst_c": 14.1
     },
     {
       "timestamp": "03.18.2025-06:30:00",
@@ -506,16 +494,16 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.92,
-      "tp_s": 14.29,
-      "dp_deg": 242,
-      "sst_c": 12.4
+      "hs_m": 2.72,
+      "tp_s": 11.11,
+      "dp_deg": 256,
+      "sst_c": 12.3
     },
     {
       "timestamp": "03.18.2025-06:30:00",
@@ -590,28 +578,28 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.8,
-      "tp_s": 11.76,
-      "dp_deg": 282,
-      "sst_c": 10
+      "hs_m": 2.68,
+      "tp_s": 12.5,
+      "dp_deg": 288,
+      "sst_c": 9.9
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 2.47,
-      "tp_s": 13.33,
-      "dp_deg": 281,
-      "sst_c": 9.9
+      "hs_m": 2.26,
+      "tp_s": 12.5,
+      "dp_deg": 282,
+      "sst_c": 10
     },
     {
       "timestamp": "03.18.2025-07:00:00",
@@ -674,15 +662,15 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.26,
+      "hs_m": 2.2,
       "tp_s": 12.5,
-      "dp_deg": 277,
+      "dp_deg": 279,
       "sst_c": 9.2
     },
     {
@@ -830,15 +818,15 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1.17,
+      "hs_m": 1.14,
       "tp_s": 7.69,
-      "dp_deg": 198,
+      "dp_deg": 189,
       "sst_c": 13.7
     },
     {
@@ -1022,15 +1010,15 @@
       "sst_c": 3.4
     },
     {
-      "timestamp": "03.18.2025-06:30:00",
+      "timestamp": "03.18.2025-07:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.68,
-      "tp_s": 4.76,
-      "dp_deg": 16,
+      "hs_m": 1.66,
+      "tp_s": 9.88,
+      "dp_deg": 140,
       "sst_c": 5.4
     },
     {
