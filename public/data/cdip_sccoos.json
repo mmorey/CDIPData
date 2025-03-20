@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-20T13:38:32.811Z",
+  "last_updated": "2025-03-20T13:47:14.658Z",
   "data": [
     {
       "timestamp": "03.20.2025-12:30:00",
@@ -218,27 +218,27 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.32,
+      "hs_m": 1.26,
       "tp_s": 12.5,
-      "dp_deg": 277,
+      "dp_deg": 274,
       "sst_c": 14.3
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.12,
+      "hs_m": 1,
       "tp_s": 12.5,
-      "dp_deg": 270,
+      "dp_deg": 266,
       "sst_c": 13.4
     },
     {
@@ -374,28 +374,28 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.84,
+      "hs_m": 0.82,
       "tp_s": 12.5,
-      "dp_deg": 267,
+      "dp_deg": 264,
       "sst_c": 13.6
     },
     {
-      "timestamp": "03.20.2025-12:00:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.56,
-      "tp_s": 12.5,
-      "dp_deg": 243,
-      "sst_c": 13.4
+      "hs_m": 0.63,
+      "tp_s": 13.33,
+      "dp_deg": 236,
+      "sst_c": 13.2
     },
     {
       "timestamp": "03.20.2025-13:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.48,
-      "tp_s": 11.11,
-      "dp_deg": 299,
+      "hs_m": 1.4,
+      "tp_s": 10.53,
+      "dp_deg": 290,
       "sst_c": 12.4
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.55,
-      "tp_s": 10.53,
-      "dp_deg": 240,
+      "hs_m": 3.73,
+      "tp_s": 11.11,
+      "dp_deg": 239,
       "sst_c": 9.3
     },
     {
@@ -782,27 +782,27 @@
       "sst_c": 20
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.33,
-      "tp_s": 10.53,
-      "dp_deg": 45,
+      "hs_m": 1.28,
+      "tp_s": 11.76,
+      "dp_deg": 53,
       "sst_c": 21.7
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.77,
-      "tp_s": 13.33,
-      "dp_deg": 82,
+      "hs_m": 0.83,
+      "tp_s": 11.76,
+      "dp_deg": 73,
       "sst_c": 21
     },
     {
@@ -938,16 +938,16 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.17,
-      "tp_s": 10.53,
-      "dp_deg": 92,
-      "sst_c": 8.6
+      "hs_m": 1.14,
+      "tp_s": 11.76,
+      "dp_deg": 106,
+      "sst_c": 8.7
     },
     {
       "timestamp": "03.20.2025-13:00:00",
@@ -1034,15 +1034,15 @@
       "sst_c": 4.2
     },
     {
-      "timestamp": "03.20.2025-12:30:00",
+      "timestamp": "03.20.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.38,
+      "hs_m": 1.4,
       "tp_s": 9.88,
-      "dp_deg": 120,
+      "dp_deg": 128,
       "sst_c": 5.2
     },
     {
