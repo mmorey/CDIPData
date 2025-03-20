@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-20T09:34:23.267Z",
+  "last_updated": "2025-03-20T09:47:04.165Z",
   "data": [
     {
       "timestamp": "03.20.2025-08:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.9,
-      "tp_s": 9.88,
-      "dp_deg": 60,
-      "sst_c": 29.3
+      "hs_m": 1.88,
+      "tp_s": 11.76,
+      "dp_deg": 326,
+      "sst_c": 29.2
     },
     {
       "timestamp": "03.20.2025-06:30:00",
@@ -74,28 +74,28 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.98,
+      "hs_m": 2.15,
       "tp_s": 10.53,
-      "dp_deg": 11,
+      "dp_deg": 14,
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.47,
-      "tp_s": 10.53,
-      "dp_deg": 339,
-      "sst_c": 28.3
+      "hs_m": 1.44,
+      "tp_s": 9.88,
+      "dp_deg": 355,
+      "sst_c": 28.4
     },
     {
       "timestamp": "03.20.2025-09:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.99,
-      "tp_s": 7.14,
-      "dp_deg": 69,
+      "hs_m": 1.96,
+      "tp_s": 6.67,
+      "dp_deg": 66,
       "sst_c": 24.5
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.08,
+      "hs_m": 1.92,
       "tp_s": 14.29,
-      "dp_deg": 327,
+      "dp_deg": 320,
       "sst_c": 23.5
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.82,
+      "hs_m": 0.81,
       "tp_s": 11.76,
-      "dp_deg": 277,
+      "dp_deg": 281,
       "sst_c": 13.8
     },
     {
@@ -458,15 +458,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.19,
-      "tp_s": 12.5,
-      "dp_deg": 264,
+      "hs_m": 1.13,
+      "tp_s": 11.76,
+      "dp_deg": 269,
       "sst_c": 10.9
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.97,
-      "tp_s": 11.11,
-      "dp_deg": 265,
+      "hs_m": 3.79,
+      "tp_s": 11.76,
+      "dp_deg": 272,
       "sst_c": 9.9
     },
     {
@@ -638,15 +638,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 3.4,
+      "hs_m": 3.67,
       "tp_s": 11.76,
-      "dp_deg": 264,
+      "dp_deg": 262,
       "sst_c": 9.8
     },
     {
@@ -698,27 +698,27 @@
       "sst_c": 8.5
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 0.51,
-      "tp_s": 4.35,
-      "dp_deg": 327,
+      "hs_m": 0.52,
+      "tp_s": 4.76,
+      "dp_deg": 328,
       "sst_c": 4.9
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 0.88,
+      "hs_m": 0.87,
       "tp_s": 5.56,
-      "dp_deg": 91,
+      "dp_deg": 97,
       "sst_c": 25.3
     },
     {
@@ -974,15 +974,15 @@
       "sst_c": 7.4
     },
     {
-      "timestamp": "03.20.2025-08:30:00",
+      "timestamp": "03.20.2025-09:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.99,
-      "tp_s": 8.33,
-      "dp_deg": 79,
+      "hs_m": 0.98,
+      "tp_s": 9.09,
+      "dp_deg": 84,
       "sst_c": 7.9
     },
     {
