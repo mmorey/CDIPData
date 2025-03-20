@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-20T22:34:34.970Z",
+  "last_updated": "2025-03-20T22:47:03.428Z",
   "data": [
     {
       "timestamp": "03.20.2025-21:30:00",
@@ -62,40 +62,40 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "03.20.2025-21:00:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.97,
+      "hs_m": 1.72,
       "tp_s": 9.88,
-      "dp_deg": 94,
+      "dp_deg": 79,
       "sst_c": 28.1
     },
     {
-      "timestamp": "03.20.2025-21:30:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.79,
-      "tp_s": 9.09,
-      "dp_deg": 31,
+      "hs_m": 1.84,
+      "tp_s": 10.53,
+      "dp_deg": 55,
       "sst_c": 28.4
     },
     {
-      "timestamp": "03.20.2025-21:00:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.65,
-      "tp_s": 9.09,
-      "dp_deg": 19,
-      "sst_c": 28.2
+      "hs_m": 1.49,
+      "tp_s": 9.88,
+      "dp_deg": 46,
+      "sst_c": 28.3
     },
     {
       "timestamp": "03.20.2025-22:00:00",
@@ -218,16 +218,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.20.2025-21:30:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.39,
-      "tp_s": 12.5,
-      "dp_deg": 275,
-      "sst_c": 15
+      "hs_m": 1.42,
+      "tp_s": 11.76,
+      "dp_deg": 266,
+      "sst_c": 14.9
     },
     {
       "timestamp": "03.20.2025-21:30:00",
@@ -350,16 +350,16 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.20.2025-21:30:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.98,
-      "tp_s": 10.53,
+      "hs_m": 0.96,
+      "tp_s": 7.14,
       "dp_deg": 279,
-      "sst_c": 14.9
+      "sst_c": 15
     },
     {
       "timestamp": "03.20.2025-22:00:00",
@@ -674,15 +674,15 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.20.2025-21:30:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.21,
+      "hs_m": 3.3,
       "tp_s": 11.76,
-      "dp_deg": 255,
+      "dp_deg": 258,
       "sst_c": 9.1
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "03.20.2025-21:30:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 1.39,
-      "tp_s": 11.76,
-      "dp_deg": 115,
-      "sst_c": 13.1
+      "hs_m": 1.46,
+      "tp_s": 5,
+      "dp_deg": 190,
+      "sst_c": 13
     },
     {
       "timestamp": "03.20.2025-22:00:00",
@@ -986,16 +986,16 @@
       "sst_c": 7.4
     },
     {
-      "timestamp": "03.20.2025-21:30:00",
+      "timestamp": "03.20.2025-22:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 1.74,
+      "hs_m": 1.83,
       "tp_s": 11.11,
-      "dp_deg": 112,
-      "sst_c": 6.5
+      "dp_deg": 114,
+      "sst_c": 6.4
     },
     {
       "timestamp": "03.20.2025-22:00:00",
