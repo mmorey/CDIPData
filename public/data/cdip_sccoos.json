@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-21T13:37:49.231Z",
+  "last_updated": "2025-03-21T13:47:07.726Z",
   "data": [
     {
       "timestamp": "03.21.2025-12:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.94,
-      "tp_s": 11.11,
-      "dp_deg": 20,
+      "hs_m": 1.92,
+      "tp_s": 11.76,
+      "dp_deg": 357,
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.73,
+      "hs_m": 1.82,
       "tp_s": 10.53,
-      "dp_deg": 340,
+      "dp_deg": 352,
       "sst_c": 28.3
     },
     {
@@ -374,13 +374,13 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.07,
+      "hs_m": 1.05,
       "tp_s": 9.09,
       "dp_deg": 273,
       "sst_c": 13.5
@@ -566,16 +566,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 3.33,
+      "hs_m": 3.32,
       "tp_s": 11.76,
-      "dp_deg": 297,
-      "sst_c": 10.9
+      "dp_deg": 296,
+      "sst_c": 10.8
     },
     {
       "timestamp": "03.21.2025-12:00:00",
@@ -650,26 +650,26 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 4.02,
-      "tp_s": 11.76,
-      "dp_deg": 277,
+      "hs_m": 4.08,
+      "tp_s": 13.33,
+      "dp_deg": 289,
       "sst_c": 9.6
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.05,
-      "tp_s": 13.33,
+      "hs_m": 3.1,
+      "tp_s": 11.76,
       "dp_deg": 265,
       "sst_c": 9.8
     },
@@ -938,15 +938,15 @@
       "sst_c": 8.8
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.66,
+      "hs_m": 1.8,
       "tp_s": 4.76,
-      "dp_deg": 322,
+      "dp_deg": 321,
       "sst_c": 9.1
     },
     {
@@ -1034,16 +1034,16 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "03.21.2025-12:30:00",
+      "timestamp": "03.21.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.71,
-      "tp_s": 10.53,
-      "dp_deg": 113,
-      "sst_c": 5.4
+      "hs_m": 1.7,
+      "tp_s": 11.11,
+      "dp_deg": 120,
+      "sst_c": 5.3
     },
     {
       "timestamp": "03.21.2025-13:00:00",
