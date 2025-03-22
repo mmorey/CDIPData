@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-22T08:34:48.874Z",
+  "last_updated": "2025-03-22T08:47:12.862Z",
   "data": [
     {
       "timestamp": "03.22.2025-07:30:00",
@@ -62,39 +62,39 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "03.22.2025-06:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.72,
+      "hs_m": 1.6,
       "tp_s": 9.88,
-      "dp_deg": 93,
-      "sst_c": 28.1
+      "dp_deg": 76,
+      "sst_c": 28
     },
     {
-      "timestamp": "03.22.2025-07:00:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.93,
-      "tp_s": 12.5,
-      "dp_deg": 357,
-      "sst_c": 28.4
+      "hs_m": 1.89,
+      "tp_s": 9.88,
+      "dp_deg": 14,
+      "sst_c": 28.3
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.79,
+      "hs_m": 1.82,
       "tp_s": 11.76,
-      "dp_deg": 9,
+      "dp_deg": 11,
       "sst_c": 28.4
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.87,
+      "hs_m": 0.89,
       "tp_s": 16.67,
-      "dp_deg": 197,
+      "dp_deg": 198,
       "sst_c": 14.8
     },
     {
@@ -350,13 +350,13 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.83,
+      "hs_m": 0.82,
       "tp_s": 16.67,
       "dp_deg": 194,
       "sst_c": 13.7
@@ -386,15 +386,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.85,
-      "tp_s": 16.67,
-      "dp_deg": 202,
+      "hs_m": 0.84,
+      "tp_s": 15.38,
+      "dp_deg": 218,
       "sst_c": 13.5
     },
     {
@@ -470,15 +470,15 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 3.24,
+      "hs_m": 2.96,
       "tp_s": 13.33,
-      "dp_deg": 292,
+      "dp_deg": 291,
       "sst_c": 11.1
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.32,
+      "hs_m": 1.48,
       "tp_s": 14.29,
       "dp_deg": 243,
-      "sst_c": 12.9
+      "sst_c": 12.5
     },
     {
       "timestamp": "03.22.2025-07:30:00",
@@ -590,15 +590,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.03,
-      "tp_s": 12.5,
-      "dp_deg": 285,
+      "hs_m": 3.27,
+      "tp_s": 11.76,
+      "dp_deg": 289,
       "sst_c": 10
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.56,
+      "hs_m": 0.57,
       "tp_s": 11.11,
-      "dp_deg": 111,
+      "dp_deg": 107,
       "sst_c": 12.8
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 9
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.68,
+      "hs_m": 0.74,
       "tp_s": 10.53,
-      "dp_deg": 74,
+      "dp_deg": 77,
       "sst_c": 9.4
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 4
     },
     {
-      "timestamp": "03.22.2025-07:30:00",
+      "timestamp": "03.22.2025-08:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.15,
-      "tp_s": 5,
-      "dp_deg": 286,
+      "hs_m": 1.24,
+      "tp_s": 4.76,
+      "dp_deg": 283,
       "sst_c": 5.2
     },
     {
