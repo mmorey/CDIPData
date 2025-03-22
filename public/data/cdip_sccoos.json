@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-22T10:35:47.239Z",
+  "last_updated": "2025-03-22T10:47:08.521Z",
   "data": [
     {
       "timestamp": "03.22.2025-09:00:00",
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.51,
-      "tp_s": 10.53,
-      "dp_deg": 278,
+      "hs_m": 1.55,
+      "tp_s": 11.11,
+      "dp_deg": 277,
       "sst_c": 14.9
     },
     {
@@ -314,16 +314,16 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.94,
-      "tp_s": 11.11,
-      "dp_deg": 278,
-      "sst_c": 14.6
+      "hs_m": 0.97,
+      "tp_s": 16.67,
+      "dp_deg": 204,
+      "sst_c": 14.5
     },
     {
       "timestamp": "03.22.2025-10:00:00",
@@ -350,16 +350,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.85,
-      "tp_s": 16.67,
-      "dp_deg": 204,
-      "sst_c": 13.6
+      "hs_m": 0.89,
+      "tp_s": 15.38,
+      "dp_deg": 205,
+      "sst_c": 13.5
     },
     {
       "timestamp": "03.22.2025-10:00:00",
@@ -626,27 +626,27 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 3.02,
-      "tp_s": 13.33,
-      "dp_deg": 291,
+      "hs_m": 3.07,
+      "tp_s": 11.11,
+      "dp_deg": 284,
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.95,
-      "tp_s": 13.33,
-      "dp_deg": 282,
+      "hs_m": 2.84,
+      "tp_s": 12.5,
+      "dp_deg": 280,
       "sst_c": 9.7
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 8.5
     },
     {
-      "timestamp": "03.22.2025-09:00:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.02,
-      "tp_s": 12.5,
-      "dp_deg": 279,
+      "hs_m": 2.84,
+      "tp_s": 11.76,
+      "dp_deg": 277,
       "sst_c": 9.2
     },
     {
@@ -902,15 +902,15 @@
       "sst_c": 9.4
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.56,
-      "tp_s": 9.88,
-      "dp_deg": 82,
+      "hs_m": 0.52,
+      "tp_s": 10.53,
+      "dp_deg": 93,
       "sst_c": 8.9
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "03.22.2025-09:30:00",
+      "timestamp": "03.22.2025-10:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.56,
+      "hs_m": 0.58,
       "tp_s": 11.11,
-      "dp_deg": 100,
+      "dp_deg": 87,
       "sst_c": 8.6
     },
     {
