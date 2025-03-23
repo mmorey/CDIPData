@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-23T22:34:51.918Z",
+  "last_updated": "2025-03-23T22:47:07.695Z",
   "data": [
     {
       "timestamp": "03.23.2025-21:30:00",
@@ -38,13 +38,13 @@
       "sst_c": 29
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.26,
+      "hs_m": 2.4,
       "tp_s": 8.33,
       "dp_deg": 82,
       "sst_c": 29
@@ -122,16 +122,16 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
       "hs_m": 0.6,
-      "tp_s": 11.76,
-      "dp_deg": 163,
-      "sst_c": 24.9
+      "tp_s": 11.11,
+      "dp_deg": 157,
+      "sst_c": 25
     },
     {
       "timestamp": "03.23.2025-21:30:00",
@@ -194,16 +194,16 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.87,
-      "tp_s": 18.18,
-      "dp_deg": 314,
-      "sst_c": 24
+      "hs_m": 3.29,
+      "tp_s": 16.67,
+      "dp_deg": 310,
+      "sst_c": 24.1
     },
     {
       "timestamp": "02.27.2025-08:30:00",
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.61,
-      "tp_s": 11.76,
-      "dp_deg": 281,
+      "hs_m": 1.54,
+      "tp_s": 13.33,
+      "dp_deg": 274,
       "sst_c": 16.4
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.29,
-      "tp_s": 14.29,
-      "dp_deg": 223,
-      "sst_c": 15.5
+      "hs_m": 1.3,
+      "tp_s": 8.33,
+      "dp_deg": 282,
+      "sst_c": 15.7
     },
     {
       "timestamp": "03.23.2025-22:00:00",
@@ -350,16 +350,16 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.94,
-      "tp_s": 8.33,
-      "dp_deg": 282,
-      "sst_c": 15.6
+      "hs_m": 0.97,
+      "tp_s": 13.33,
+      "dp_deg": 207,
+      "sst_c": 15.9
     },
     {
       "timestamp": "03.23.2025-22:00:00",
@@ -386,15 +386,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1,
+      "hs_m": 1.08,
       "tp_s": 15.38,
-      "dp_deg": 198,
+      "dp_deg": 157,
       "sst_c": 15.1
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 4.14,
+      "hs_m": 4.29,
       "tp_s": 7.69,
-      "dp_deg": 226,
+      "dp_deg": 220,
       "sst_c": 9.7
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 10
     },
     {
-      "timestamp": "03.23.2025-21:00:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 3.03,
-      "tp_s": 15.38,
-      "dp_deg": 268,
+      "hs_m": 3.29,
+      "tp_s": 13.33,
+      "dp_deg": 281,
       "sst_c": 9.6
     },
     {
@@ -782,16 +782,16 @@
       "sst_c": 21
     },
     {
-      "timestamp": "03.23.2025-21:00:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.59,
+      "hs_m": 0.6,
       "tp_s": 9.88,
-      "dp_deg": 58,
-      "sst_c": 22.6
+      "dp_deg": 70,
+      "sst_c": 22.5
     },
     {
       "timestamp": "03.23.2025-22:00:00",
@@ -986,16 +986,16 @@
       "sst_c": 8
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.61,
-      "tp_s": 8.33,
-      "dp_deg": 159,
-      "sst_c": 6.7
+      "hs_m": 0.56,
+      "tp_s": 7.69,
+      "dp_deg": 170,
+      "sst_c": 6.6
     },
     {
       "timestamp": "03.23.2025-22:00:00",
@@ -1034,15 +1034,15 @@
       "sst_c": 4.2
     },
     {
-      "timestamp": "03.23.2025-21:30:00",
+      "timestamp": "03.23.2025-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.16,
-      "tp_s": 4.55,
-      "dp_deg": 306,
+      "hs_m": 1.18,
+      "tp_s": 4.35,
+      "dp_deg": 317,
       "sst_c": 5.3
     },
     {
