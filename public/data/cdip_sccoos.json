@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-26T09:34:40.140Z",
+  "last_updated": "2025-03-26T09:47:06.791Z",
   "data": [
     {
       "timestamp": "03.26.2025-08:00:00",
@@ -62,51 +62,51 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "03.26.2025-08:00:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.2,
+      "hs_m": 1.3,
       "tp_s": 6.67,
-      "dp_deg": 107,
+      "dp_deg": 110,
       "sst_c": 28
     },
     {
-      "timestamp": "03.26.2025-08:00:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.19,
+      "hs_m": 1.3,
       "tp_s": 9.09,
-      "dp_deg": 32,
+      "dp_deg": 28,
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.01,
-      "tp_s": 9.09,
-      "dp_deg": 13,
+      "hs_m": 1.05,
+      "tp_s": 8.33,
+      "dp_deg": 9,
       "sst_c": 28.4
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.52,
-      "tp_s": 12.5,
-      "dp_deg": 340,
+      "hs_m": 1.55,
+      "tp_s": 13.33,
+      "dp_deg": 342,
       "sst_c": 24.8
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.99,
-      "tp_s": 18.18,
-      "dp_deg": 275,
+      "hs_m": 1.22,
+      "tp_s": 16.67,
+      "dp_deg": 284,
       "sst_c": 15.6
     },
     {
@@ -242,15 +242,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.2,
-      "tp_s": 18.18,
-      "dp_deg": 271,
+      "hs_m": 1.15,
+      "tp_s": 16.67,
+      "dp_deg": 277,
       "sst_c": 15.5
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.57,
-      "tp_s": 18.18,
-      "dp_deg": 301,
+      "hs_m": 0.56,
+      "tp_s": 12.5,
+      "dp_deg": 291,
       "sst_c": 15.6
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.73,
-      "tp_s": 12.5,
-      "dp_deg": 215,
-      "sst_c": 14.6
+      "hs_m": 0.69,
+      "tp_s": 13.33,
+      "dp_deg": 223,
+      "sst_c": 14.5
     },
     {
       "timestamp": "03.26.2025-09:00:00",
@@ -374,15 +374,15 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.69,
+      "hs_m": 0.65,
       "tp_s": 18.18,
-      "dp_deg": 270,
+      "dp_deg": 264,
       "sst_c": 14.4
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.94,
+      "hs_m": 0.98,
       "tp_s": 16.67,
-      "dp_deg": 274,
+      "dp_deg": 261,
       "sst_c": 13.6
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.15,
+      "hs_m": 2.11,
       "tp_s": 16.67,
-      "dp_deg": 290,
+      "dp_deg": 292,
       "sst_c": 13
     },
     {
@@ -494,13 +494,13 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.68,
+      "hs_m": 1.9,
       "tp_s": 16.67,
       "dp_deg": 287,
       "sst_c": 12.1
@@ -626,26 +626,26 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.56,
+      "hs_m": 2.86,
       "tp_s": 15.38,
-      "dp_deg": 295,
+      "dp_deg": 285,
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.56,
-      "tp_s": 15.38,
+      "hs_m": 2.26,
+      "tp_s": 14.29,
       "dp_deg": 280,
       "sst_c": 10.2
     },
@@ -662,16 +662,16 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.85,
+      "hs_m": 1.73,
       "tp_s": 14.29,
       "dp_deg": 255,
-      "sst_c": 10.2
+      "sst_c": 10.1
     },
     {
       "timestamp": "03.26.2025-09:00:00",
@@ -806,15 +806,15 @@
       "sst_c": 21.6
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.39,
+      "hs_m": 0.42,
       "tp_s": 5.26,
-      "dp_deg": 70,
+      "dp_deg": 69,
       "sst_c": 19
     },
     {
@@ -1010,15 +1010,15 @@
       "sst_c": 6.9
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.37,
-      "tp_s": 8.33,
-      "dp_deg": 172,
+      "hs_m": 1.44,
+      "tp_s": 9.09,
+      "dp_deg": 179,
       "sst_c": 5.8
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "03.26.2025-08:30:00",
+      "timestamp": "03.26.2025-09:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.05,
-      "tp_s": 10.53,
-      "dp_deg": 133,
+      "hs_m": 1.06,
+      "tp_s": 11.11,
+      "dp_deg": 135,
       "sst_c": 5.1
     },
     {
