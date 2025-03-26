@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-26T19:34:04.861Z",
+  "last_updated": "2025-03-26T19:47:09.078Z",
   "data": [
     {
       "timestamp": "03.26.2025-18:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.2,
+      "hs_m": 1.16,
       "tp_s": 9.09,
-      "dp_deg": 42,
+      "dp_deg": 37,
       "sst_c": 28.5
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.68,
+      "hs_m": 0.75,
       "tp_s": 16.67,
-      "dp_deg": 246,
+      "dp_deg": 258,
       "sst_c": 14.3
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.01,
-      "tp_s": 15.38,
-      "dp_deg": 269,
+      "hs_m": 1.04,
+      "tp_s": 16.67,
+      "dp_deg": 257,
       "sst_c": 14
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.16,
-      "tp_s": 15.38,
-      "dp_deg": 295,
+      "hs_m": 1.82,
+      "tp_s": 16.67,
+      "dp_deg": 289,
       "sst_c": 12
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.45,
+      "hs_m": 1.67,
       "tp_s": 15.38,
-      "dp_deg": 242,
-      "sst_c": 13.1
+      "dp_deg": 240,
+      "sst_c": 13.2
     },
     {
       "timestamp": "03.26.2025-18:30:00",
@@ -650,15 +650,15 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.09,
+      "hs_m": 2.06,
       "tp_s": 14.29,
-      "dp_deg": 281,
+      "dp_deg": 288,
       "sst_c": 10.1
     },
     {
@@ -770,28 +770,28 @@
       "sst_c": 21.1
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
-      "hs_m": 0.25,
-      "tp_s": 5,
-      "dp_deg": 146,
-      "sst_c": 21.8
+      "hs_m": 0.28,
+      "tp_s": 6.67,
+      "dp_deg": 193,
+      "sst_c": 21.9
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.61,
-      "tp_s": 4,
-      "dp_deg": 352,
-      "sst_c": 23.3
+      "hs_m": 0.59,
+      "tp_s": 3.7,
+      "dp_deg": 357,
+      "sst_c": 23.4
     },
     {
       "timestamp": "03.26.2025-19:00:00",
@@ -878,16 +878,16 @@
       "sst_c": 20.4
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.88,
-      "tp_s": 5,
-      "dp_deg": 4,
-      "sst_c": 11.7
+      "hs_m": 0.82,
+      "tp_s": 4.55,
+      "dp_deg": 353,
+      "sst_c": 11.8
     },
     {
       "timestamp": "03.26.2025-19:00:00",
@@ -1010,28 +1010,28 @@
       "sst_c": 7.2
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.14,
+      "hs_m": 1.15,
       "tp_s": 8.33,
-      "dp_deg": 159,
-      "sst_c": 6.5
+      "dp_deg": 146,
+      "sst_c": 6.6
     },
     {
-      "timestamp": "03.26.2025-18:30:00",
+      "timestamp": "03.26.2025-19:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 0.82,
-      "tp_s": 9.09,
-      "dp_deg": 157,
-      "sst_c": 5.9
+      "hs_m": 0.93,
+      "tp_s": 7.69,
+      "dp_deg": 171,
+      "sst_c": 6.1
     },
     {
       "timestamp": "03.26.2025-18:30:00",
