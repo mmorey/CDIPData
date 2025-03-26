@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-26T21:32:42.033Z",
+  "last_updated": "2025-03-26T21:47:04.740Z",
   "data": [
     {
       "timestamp": "03.26.2025-20:30:00",
@@ -86,27 +86,27 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.13,
+      "hs_m": 1.06,
       "tp_s": 8.33,
-      "dp_deg": 19,
+      "dp_deg": 18,
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.38,
+      "hs_m": 1.4,
       "tp_s": 10.53,
-      "dp_deg": 350,
+      "dp_deg": 356,
       "sst_c": 24.9
     },
     {
@@ -182,28 +182,28 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.36,
+      "hs_m": 1.28,
       "tp_s": 11.76,
-      "dp_deg": 311,
-      "sst_c": 25.8
+      "dp_deg": 323,
+      "sst_c": 25.6
     },
     {
-      "timestamp": "03.26.2025-20:00:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.31,
+      "hs_m": 1.28,
       "tp_s": 8.33,
-      "dp_deg": 47,
-      "sst_c": 24
+      "dp_deg": 37,
+      "sst_c": 24.2
     },
     {
       "timestamp": "02.27.2025-08:30:00",
@@ -230,15 +230,15 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.95,
+      "hs_m": 1.02,
       "tp_s": 16.67,
-      "dp_deg": 267,
+      "dp_deg": 270,
       "sst_c": 15.7
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 15.3
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.63,
+      "hs_m": 0.68,
       "tp_s": 16.67,
-      "dp_deg": 249,
+      "dp_deg": 239,
       "sst_c": 15
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.7,
-      "tp_s": 16.67,
-      "dp_deg": 233,
-      "sst_c": 14.4
+      "hs_m": 0.68,
+      "tp_s": 13.33,
+      "dp_deg": 218,
+      "sst_c": 14.6
     },
     {
       "timestamp": "03.26.2025-21:00:00",
@@ -398,15 +398,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1,
-      "tp_s": 15.38,
-      "dp_deg": 267,
+      "hs_m": 0.94,
+      "tp_s": 16.67,
+      "dp_deg": 260,
       "sst_c": 14
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 20.5
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 0.46,
+      "hs_m": 0.45,
       "tp_s": 5.88,
-      "dp_deg": 173,
-      "sst_c": 21.5
+      "dp_deg": 184,
+      "sst_c": 21.4
     },
     {
       "timestamp": "03.26.2025-21:00:00",
@@ -806,15 +806,15 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
       "hs_m": 0.4,
-      "tp_s": 13.33,
-      "dp_deg": 100,
+      "tp_s": 3.23,
+      "dp_deg": 6,
       "sst_c": 19.5
     },
     {
@@ -938,16 +938,16 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.71,
-      "tp_s": 3.7,
-      "dp_deg": 300,
-      "sst_c": 10.8
+      "hs_m": 0.69,
+      "tp_s": 4,
+      "dp_deg": 282,
+      "sst_c": 10.7
     },
     {
       "timestamp": "03.25.2025-13:30:00",
@@ -962,15 +962,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.02535,
       "longitude": -76.14915,
       "depth_cm": 975,
-      "hs_m": 0.43,
-      "tp_s": 3.03,
-      "dp_deg": 270,
+      "hs_m": 0.52,
+      "tp_s": 3.23,
+      "dp_deg": 305,
       "sst_c": 11.1
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 4.8
     },
     {
-      "timestamp": "03.26.2025-20:30:00",
+      "timestamp": "03.26.2025-21:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
       "hs_m": 1.15,
-      "tp_s": 9.09,
-      "dp_deg": 137,
+      "tp_s": 11.11,
+      "dp_deg": 110,
       "sst_c": 5.2
     },
     {
