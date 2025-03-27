@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-27T09:35:07.501Z",
+  "last_updated": "2025-03-27T09:47:04.347Z",
   "data": [
     {
       "timestamp": "03.27.2025-08:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.13,
+      "hs_m": 1.18,
       "tp_s": 12.5,
-      "dp_deg": 18,
+      "dp_deg": 20,
       "sst_c": 28.4
     },
     {
@@ -182,16 +182,16 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.18,
-      "tp_s": 7.14,
-      "dp_deg": 37,
-      "sst_c": 25.9
+      "hs_m": 1.19,
+      "tp_s": 7.69,
+      "dp_deg": 40,
+      "sst_c": 25.7
     },
     {
       "timestamp": "03.27.2025-08:00:00",
@@ -350,15 +350,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.64,
+      "hs_m": 0.67,
       "tp_s": 15.38,
-      "dp_deg": 227,
+      "dp_deg": 232,
       "sst_c": 14.7
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.76,
+      "hs_m": 0.74,
       "tp_s": 15.38,
-      "dp_deg": 250,
+      "dp_deg": 240,
       "sst_c": 14
     },
     {
@@ -458,27 +458,27 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.27.2025-08:00:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.17,
-      "tp_s": 15.38,
-      "dp_deg": 257,
-      "sst_c": 12.8
+      "hs_m": 1.12,
+      "tp_s": 13.33,
+      "dp_deg": 271,
+      "sst_c": 13.5
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 1.79,
+      "hs_m": 1.53,
       "tp_s": 14.29,
-      "dp_deg": 291,
+      "dp_deg": 295,
       "sst_c": 12.4
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.18,
-      "tp_s": 15.38,
-      "dp_deg": 239,
-      "sst_c": 13.5
+      "hs_m": 1.09,
+      "tp_s": 14.29,
+      "dp_deg": 243,
+      "sst_c": 13.4
     },
     {
       "timestamp": "03.27.2025-08:30:00",
@@ -554,15 +554,15 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.1,
-      "tp_s": 12.5,
-      "dp_deg": 273,
+      "hs_m": 2.07,
+      "tp_s": 14.29,
+      "dp_deg": 290,
       "sst_c": 11.4
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.95,
+      "hs_m": 3.11,
       "tp_s": 9.09,
-      "dp_deg": 191,
-      "sst_c": 10.3
+      "dp_deg": 192,
+      "sst_c": 10.2
     },
     {
       "timestamp": "03.27.2025-09:00:00",
@@ -638,15 +638,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.17,
-      "tp_s": 13.33,
-      "dp_deg": 284,
+      "hs_m": 2.36,
+      "tp_s": 9.09,
+      "dp_deg": 208,
       "sst_c": 10.5
     },
     {
@@ -674,28 +674,28 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.06,
-      "tp_s": 7.69,
-      "dp_deg": 202,
-      "sst_c": 10.3
+      "hs_m": 2.03,
+      "tp_s": 8.33,
+      "dp_deg": 209,
+      "sst_c": 10.2
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.37,
-      "tp_s": 12.5,
-      "dp_deg": 303,
-      "sst_c": 8.7
+      "hs_m": 0.36,
+      "tp_s": 13.33,
+      "dp_deg": 295,
+      "sst_c": 8.9
     },
     {
       "timestamp": "03.27.2025-08:30:00",
@@ -818,15 +818,15 @@
       "sst_c": 19
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.52,
+      "hs_m": 0.5,
       "tp_s": 5.56,
-      "dp_deg": 63,
+      "dp_deg": 72,
       "sst_c": 18
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.56,
+      "hs_m": 0.6,
       "tp_s": 13.33,
-      "dp_deg": 135,
-      "sst_c": 14.1
+      "dp_deg": 101,
+      "sst_c": 14
     },
     {
       "timestamp": "03.27.2025-09:00:00",
@@ -866,25 +866,25 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.64,
+      "hs_m": 0.66,
       "tp_s": 13.33,
-      "dp_deg": 116,
-      "sst_c": 19.4
+      "dp_deg": 129,
+      "sst_c": 19.3
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.54,
+      "hs_m": 0.5,
       "tp_s": 13.33,
       "dp_deg": 92,
       "sst_c": 11.2
@@ -914,15 +914,15 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "03.27.2025-08:30:00",
+      "timestamp": "03.27.2025-09:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.45,
+      "hs_m": 0.44,
       "tp_s": 13.33,
-      "dp_deg": 108,
+      "dp_deg": 92,
       "sst_c": 10.4
     },
     {
