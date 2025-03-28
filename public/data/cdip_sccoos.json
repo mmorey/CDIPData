@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-28T14:35:36.898Z",
+  "last_updated": "2025-03-28T14:47:20.618Z",
   "data": [
     {
       "timestamp": "03.28.2025-13:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.59,
+      "hs_m": 1.56,
       "tp_s": 13.33,
-      "dp_deg": 8,
+      "dp_deg": 282,
       "sst_c": 29.4
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.23,
-      "tp_s": 6.25,
-      "dp_deg": 43,
+      "hs_m": 1.14,
+      "tp_s": 6.67,
+      "dp_deg": 53,
       "sst_c": 28.3
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "03.28.2025-12:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.39,
-      "tp_s": 11.11,
-      "dp_deg": 352,
+      "hs_m": 1.33,
+      "tp_s": 11.76,
+      "dp_deg": 19,
       "sst_c": 23.8
     },
     {
@@ -218,16 +218,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.99,
-      "tp_s": 15.38,
-      "dp_deg": 278,
-      "sst_c": 15.2
+      "hs_m": 2.31,
+      "tp_s": 16.67,
+      "dp_deg": 285,
+      "sst_c": 15.3
     },
     {
       "timestamp": "03.28.2025-13:30:00",
@@ -350,16 +350,16 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 1.31,
-      "tp_s": 15.38,
-      "dp_deg": 282,
-      "sst_c": 14.1
+      "tp_s": 14.29,
+      "dp_deg": 274,
+      "sst_c": 14.2
     },
     {
       "timestamp": "03.28.2025-14:00:00",
@@ -374,15 +374,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.68,
-      "tp_s": 14.29,
-      "dp_deg": 273,
+      "hs_m": 1.56,
+      "tp_s": 13.33,
+      "dp_deg": 264,
       "sst_c": 14.2
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 4.16,
-      "tp_s": 13.33,
-      "dp_deg": 282,
+      "hs_m": 4.33,
+      "tp_s": 15.38,
+      "dp_deg": 285,
       "sst_c": 11.8
     },
     {
@@ -470,15 +470,15 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 4.36,
+      "hs_m": 4.4,
       "tp_s": 15.38,
-      "dp_deg": 284,
+      "dp_deg": 285,
       "sst_c": 12.6
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 3.84,
-      "tp_s": 14.29,
-      "dp_deg": 240,
+      "hs_m": 3.97,
+      "tp_s": 15.38,
+      "dp_deg": 238,
       "sst_c": 13.3
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 4.58,
+      "hs_m": 4.44,
       "tp_s": 12.5,
-      "dp_deg": 247,
+      "dp_deg": 257,
       "sst_c": 10.2
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 3.68,
-      "tp_s": 9.88,
-      "dp_deg": 219,
+      "hs_m": 3.58,
+      "tp_s": 10.53,
+      "dp_deg": 222,
       "sst_c": 10.4
     },
     {
@@ -794,14 +794,14 @@
       "sst_c": 22.9
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 1.09,
-      "tp_s": 5.26,
+      "hs_m": 1.12,
+      "tp_s": 5.56,
       "dp_deg": 114,
       "sst_c": 22.2
     },
@@ -818,15 +818,15 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "03.28.2025-13:30:00",
+      "timestamp": "03.28.2025-14:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.73,
-      "tp_s": 7.14,
-      "dp_deg": 70,
+      "hs_m": 0.7,
+      "tp_s": 7.69,
+      "dp_deg": 72,
       "sst_c": 18
     },
     {
