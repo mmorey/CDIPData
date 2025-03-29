@@ -1,16 +1,16 @@
 {
-  "last_updated": "2025-03-29T10:36:05.990Z",
+  "last_updated": "2025-03-29T10:47:24.627Z",
   "data": [
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.24,
-      "tp_s": 12.5,
-      "dp_deg": 304,
+      "hs_m": 1.26,
+      "tp_s": 11.76,
+      "dp_deg": 310,
       "sst_c": 29.8
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.6,
-      "tp_s": 7.69,
-      "dp_deg": 52,
+      "hs_m": 1.49,
+      "tp_s": 8.33,
+      "dp_deg": 53,
       "sst_c": 28.3
     },
     {
@@ -182,28 +182,28 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.24,
-      "tp_s": 11.76,
-      "dp_deg": 3,
-      "sst_c": 26.2
+      "hs_m": 1.23,
+      "tp_s": 12.5,
+      "dp_deg": 351,
+      "sst_c": 26.1
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.36,
-      "tp_s": 11.76,
-      "dp_deg": 3,
-      "sst_c": 24
+      "hs_m": 1.41,
+      "tp_s": 10.53,
+      "dp_deg": 5,
+      "sst_c": 23.9
     },
     {
       "timestamp": "02.27.2025-08:30:00",
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.5,
-      "tp_s": 11.76,
-      "dp_deg": 295,
+      "hs_m": 1.62,
+      "tp_s": 6.67,
+      "dp_deg": 274,
       "sst_c": 15.1
     },
     {
@@ -314,16 +314,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
       "hs_m": 1.4,
-      "tp_s": 12.5,
-      "dp_deg": 266,
-      "sst_c": 15
+      "tp_s": 15.38,
+      "dp_deg": 253,
+      "sst_c": 14.9
     },
     {
       "timestamp": "03.29.2025-10:00:00",
@@ -350,27 +350,27 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.5,
+      "hs_m": 1.61,
       "tp_s": 15.38,
-      "dp_deg": 271,
+      "dp_deg": 279,
       "sst_c": 15.1
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.67,
-      "tp_s": 14.29,
-      "dp_deg": 258,
+      "hs_m": 1.62,
+      "tp_s": 13.33,
+      "dp_deg": 250,
       "sst_c": 13.9
     },
     {
@@ -878,15 +878,15 @@
       "sst_c": 20.9
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.98,
-      "tp_s": 5.56,
-      "dp_deg": 175,
+      "hs_m": 1.03,
+      "tp_s": 5.88,
+      "dp_deg": 168,
       "sst_c": 11.9
     },
     {
@@ -902,15 +902,15 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.57,
+      "hs_m": 0.53,
       "tp_s": 5.56,
-      "dp_deg": 139,
+      "dp_deg": 135,
       "sst_c": 10.6
     },
     {
@@ -1034,16 +1034,16 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "03.29.2025-09:30:00",
+      "timestamp": "03.29.2025-10:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.37,
-      "tp_s": 4.55,
-      "dp_deg": 61,
-      "sst_c": 5.3
+      "hs_m": 1.53,
+      "tp_s": 5,
+      "dp_deg": 64,
+      "sst_c": 5.2
     },
     {
       "timestamp": "03.29.2025-10:00:00",
