@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-29T05:34:00.315Z",
+  "last_updated": "2025-03-29T05:47:09.428Z",
   "data": [
     {
       "timestamp": "03.29.2025-04:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.47,
+      "hs_m": 1.51,
       "tp_s": 6.25,
-      "dp_deg": 76,
+      "dp_deg": 75,
       "sst_c": 28.6
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.64,
+      "hs_m": 1.49,
       "tp_s": 12.5,
-      "dp_deg": 263,
+      "dp_deg": 246,
       "sst_c": 15
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 1.63,
-      "tp_s": 15.38,
-      "dp_deg": 269,
+      "tp_s": 12.5,
+      "dp_deg": 273,
       "sst_c": 14.9
     },
     {
@@ -398,16 +398,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 2.71,
-      "tp_s": 15.38,
-      "dp_deg": 272,
-      "sst_c": 13.3
+      "hs_m": 2.91,
+      "tp_s": 13.33,
+      "dp_deg": 265,
+      "sst_c": 13.4
     },
     {
       "timestamp": "03.29.2025-05:00:00",
@@ -458,16 +458,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.29.2025-04:00:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.99,
+      "hs_m": 2.88,
       "tp_s": 14.29,
-      "dp_deg": 257,
-      "sst_c": 12
+      "dp_deg": 258,
+      "sst_c": 12.5
     },
     {
       "timestamp": "03.29.2025-04:00:00",
@@ -506,16 +506,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 2.7,
+      "hs_m": 2.59,
       "tp_s": 15.38,
-      "dp_deg": 242,
-      "sst_c": 13.8
+      "dp_deg": 239,
+      "sst_c": 13.7
     },
     {
       "timestamp": "03.29.2025-04:30:00",
@@ -578,27 +578,27 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 4.2,
+      "hs_m": 3.93,
       "tp_s": 13.33,
-      "dp_deg": 294,
-      "sst_c": 11
+      "dp_deg": 287,
+      "sst_c": 10.9
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.28,
-      "tp_s": 11.11,
-      "dp_deg": 260,
+      "hs_m": 3.52,
+      "tp_s": 11.76,
+      "dp_deg": 271,
       "sst_c": 10.3
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.68,
-      "tp_s": 9.88,
-      "dp_deg": 239,
+      "hs_m": 2.52,
+      "tp_s": 10.53,
+      "dp_deg": 234,
       "sst_c": 10.1
     },
     {
@@ -890,16 +890,16 @@
       "sst_c": 12
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
       "hs_m": 0.82,
-      "tp_s": 5.26,
-      "dp_deg": 163,
-      "sst_c": 11.8
+      "tp_s": 5.56,
+      "dp_deg": 165,
+      "sst_c": 11.6
     },
     {
       "timestamp": "03.29.2025-05:00:00",
@@ -914,15 +914,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.29.2025-04:30:00",
+      "timestamp": "03.29.2025-05:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.77,
-      "tp_s": 4.35,
-      "dp_deg": 149,
+      "hs_m": 0.73,
+      "tp_s": 3.7,
+      "dp_deg": 153,
       "sst_c": 11.7
     },
     {
