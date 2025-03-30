@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-30T15:32:43.872Z",
+  "last_updated": "2025-03-30T15:47:03.625Z",
   "data": [
     {
       "timestamp": "03.30.2025-14:00:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.67,
-      "tp_s": 7.69,
-      "dp_deg": 58,
+      "hs_m": 1.58,
+      "tp_s": 8.33,
+      "dp_deg": 49,
       "sst_c": 28.2
     },
     {
@@ -218,28 +218,28 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.30.2025-14:00:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.49,
-      "tp_s": 15.38,
-      "dp_deg": 204,
+      "hs_m": 1.39,
+      "tp_s": 16.67,
+      "dp_deg": 198,
       "sst_c": 15
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
       "hs_m": 1.21,
-      "tp_s": 7.14,
-      "dp_deg": 279,
-      "sst_c": 13.1
+      "tp_s": 10.53,
+      "dp_deg": 274,
+      "sst_c": 13.2
     },
     {
       "timestamp": "03.30.2025-15:00:00",
@@ -302,27 +302,27 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.04,
-      "tp_s": 15.38,
-      "dp_deg": 233,
-      "sst_c": 15.1
+      "hs_m": 1.2,
+      "tp_s": 12.5,
+      "dp_deg": 253,
+      "sst_c": 15.2
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.18,
-      "tp_s": 16.67,
-      "dp_deg": 198,
+      "hs_m": 1.01,
+      "tp_s": 15.38,
+      "dp_deg": 202,
       "sst_c": 14.4
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 1.06,
-      "tp_s": 15.38,
-      "dp_deg": 198,
+      "tp_s": 16.67,
+      "dp_deg": 202,
       "sst_c": 14.1
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.96,
+      "hs_m": 0.91,
       "tp_s": 16.67,
-      "dp_deg": 202,
+      "dp_deg": 191,
       "sst_c": 13.4
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.36,
-      "tp_s": 11.11,
-      "dp_deg": 263,
+      "hs_m": 1.28,
+      "tp_s": 16.67,
+      "dp_deg": 204,
       "sst_c": 13.9
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.01,
+      "hs_m": 2.25,
       "tp_s": 11.76,
-      "dp_deg": 307,
+      "dp_deg": 309,
       "sst_c": 12
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.82,
+      "hs_m": 0.84,
       "tp_s": 11.11,
-      "dp_deg": 243,
-      "sst_c": 13.2
+      "dp_deg": 246,
+      "sst_c": 13
     },
     {
       "timestamp": "03.30.2025-14:30:00",
@@ -530,16 +530,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 1,
-      "tp_s": 11.11,
-      "dp_deg": 237,
-      "sst_c": 12.8
+      "hs_m": 1.05,
+      "tp_s": 5.56,
+      "dp_deg": 205,
+      "sst_c": 12.9
     },
     {
       "timestamp": "03.30.2025-14:30:00",
@@ -674,15 +674,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.17,
+      "hs_m": 1.1,
       "tp_s": 9.09,
-      "dp_deg": 268,
+      "dp_deg": 265,
       "sst_c": 10.1
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 21.5
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.7,
-      "tp_s": 3.85,
-      "dp_deg": 160,
-      "sst_c": 20.7
+      "hs_m": 0.69,
+      "tp_s": 4.55,
+      "dp_deg": 170,
+      "sst_c": 20.6
     },
     {
       "timestamp": "03.30.2025-15:00:00",
@@ -878,16 +878,16 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "03.30.2025-14:30:00",
+      "timestamp": "03.30.2025-15:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.87,
+      "hs_m": 0.85,
       "tp_s": 9.09,
-      "dp_deg": 124,
-      "sst_c": 12.9
+      "dp_deg": 128,
+      "sst_c": 13
     },
     {
       "timestamp": "03.30.2025-15:00:00",
