@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-30T17:33:26.059Z",
+  "last_updated": "2025-03-30T17:47:03.939Z",
   "data": [
     {
       "timestamp": "03.30.2025-16:00:00",
@@ -62,14 +62,14 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.08,
-      "tp_s": 8.33,
+      "hs_m": 1.86,
+      "tp_s": 7.69,
       "dp_deg": 80,
       "sst_c": 28
     },
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.58,
+      "hs_m": 1.55,
       "tp_s": 8.33,
-      "dp_deg": 60,
+      "dp_deg": 59,
       "sst_c": 28.2
     },
     {
@@ -170,27 +170,27 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 1.28,
-      "tp_s": 11.11,
-      "dp_deg": 20,
+      "hs_m": 1.32,
+      "tp_s": 12.5,
+      "dp_deg": 14,
       "sst_c": 24.8
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.35,
-      "tp_s": 11.76,
-      "dp_deg": 10,
+      "hs_m": 1.48,
+      "tp_s": 12.5,
+      "dp_deg": 20,
       "sst_c": 25.5
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 14.3
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.05,
+      "hs_m": 0.96,
       "tp_s": 15.38,
-      "dp_deg": 201,
-      "sst_c": 14.2
+      "dp_deg": 199,
+      "sst_c": 14.4
     },
     {
       "timestamp": "03.30.2025-17:00:00",
@@ -386,27 +386,27 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.8,
-      "tp_s": 15.38,
-      "dp_deg": 211,
-      "sst_c": 13.6
+      "hs_m": 0.86,
+      "tp_s": 16.67,
+      "dp_deg": 202,
+      "sst_c": 13.7
     },
     {
-      "timestamp": "03.30.2025-16:00:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.14,
-      "tp_s": 15.38,
-      "dp_deg": 203,
+      "hs_m": 1.09,
+      "tp_s": 16.67,
+      "dp_deg": 206,
       "sst_c": 13.1
     },
     {
@@ -494,15 +494,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.78,
-      "tp_s": 6.25,
-      "dp_deg": 211,
+      "hs_m": 1.92,
+      "tp_s": 5.88,
+      "dp_deg": 213,
       "sst_c": 11.8
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 11
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.19,
+      "hs_m": 1.21,
       "tp_s": 8.33,
-      "dp_deg": 275,
-      "sst_c": 10.3
+      "dp_deg": 286,
+      "sst_c": 10.4
     },
     {
       "timestamp": "03.30.2025-17:00:00",
@@ -626,28 +626,28 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "03.30.2025-13:00:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.32,
-      "tp_s": 8.33,
-      "dp_deg": 289,
-      "sst_c": 10.4
+      "hs_m": 1.14,
+      "tp_s": 9.09,
+      "dp_deg": 284,
+      "sst_c": 10.5
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1,
+      "hs_m": 1.01,
       "tp_s": 8.33,
-      "dp_deg": 277,
-      "sst_c": 10.3
+      "dp_deg": 274,
+      "sst_c": 10.5
     },
     {
       "timestamp": "03.30.2025-17:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "03.30.2025-16:30:00",
+      "timestamp": "03.30.2025-17:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.95,
+      "hs_m": 1,
       "tp_s": 9.09,
-      "dp_deg": 137,
+      "dp_deg": 149,
       "sst_c": 19.7
     },
     {
