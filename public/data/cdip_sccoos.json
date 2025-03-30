@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-30T05:34:04.334Z",
+  "last_updated": "2025-03-30T05:47:06.687Z",
   "data": [
     {
       "timestamp": "03.30.2025-04:00:00",
@@ -14,16 +14,16 @@
       "sst_c": 30
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.46,
-      "tp_s": 12.5,
-      "dp_deg": 186,
-      "sst_c": 30
+      "hs_m": 1.44,
+      "tp_s": 11.11,
+      "dp_deg": 198,
+      "sst_c": 29.8
     },
     {
       "timestamp": "03.30.2025-04:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.12,
+      "hs_m": 2.02,
       "tp_s": 8.33,
-      "dp_deg": 89,
+      "dp_deg": 79,
       "sst_c": 28.1
     },
     {
@@ -98,16 +98,16 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.94,
-      "tp_s": 12.5,
-      "dp_deg": 16,
-      "sst_c": 25
+      "hs_m": 2.18,
+      "tp_s": 13.33,
+      "dp_deg": 17,
+      "sst_c": 24.9
     },
     {
       "timestamp": "03.30.2025-05:00:00",
@@ -146,16 +146,16 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 1.4,
-      "tp_s": 12.5,
-      "dp_deg": 17,
-      "sst_c": 25.3
+      "hs_m": 1.44,
+      "tp_s": 13.33,
+      "dp_deg": 42,
+      "sst_c": 25.4
     },
     {
       "timestamp": "03.30.2025-05:00:00",
@@ -182,16 +182,16 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.4,
-      "tp_s": 13.33,
-      "dp_deg": 9,
-      "sst_c": 25.7
+      "hs_m": 1.19,
+      "tp_s": 11.76,
+      "dp_deg": 358,
+      "sst_c": 25.6
     },
     {
       "timestamp": "03.30.2025-05:00:00",
@@ -230,16 +230,16 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.5,
-      "tp_s": 14.29,
-      "dp_deg": 269,
-      "sst_c": 14.7
+      "hs_m": 1.49,
+      "tp_s": 13.33,
+      "dp_deg": 271,
+      "sst_c": 14.6
     },
     {
       "timestamp": "03.30.2025-05:00:00",
@@ -314,15 +314,15 @@
       "sst_c": 15.3
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 1.34,
+      "hs_m": 1.31,
       "tp_s": 16.67,
-      "dp_deg": 199,
+      "dp_deg": 198,
       "sst_c": 14.9
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.21,
-      "tp_s": 12.5,
-      "dp_deg": 253,
+      "hs_m": 1.31,
+      "tp_s": 16.67,
+      "dp_deg": 191,
       "sst_c": 14.5
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.4,
-      "tp_s": 11.76,
-      "dp_deg": 300,
+      "hs_m": 2.2,
+      "tp_s": 11.11,
+      "dp_deg": 313,
       "sst_c": 13.2
     },
     {
@@ -506,14 +506,14 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.36,
-      "tp_s": 11.76,
+      "hs_m": 1.39,
+      "tp_s": 11.11,
       "dp_deg": 253,
       "sst_c": 13.8
     },
@@ -590,16 +590,16 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.04,
+      "hs_m": 2.22,
       "tp_s": 9.88,
-      "dp_deg": 281,
-      "sst_c": 10.5
+      "dp_deg": 284,
+      "sst_c": 10.4
     },
     {
       "timestamp": "03.30.2025-05:00:00",
@@ -962,16 +962,16 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
-      "hs_m": 0.98,
+      "hs_m": 1,
       "tp_s": 5.88,
       "dp_deg": 152,
-      "sst_c": 9.5
+      "sst_c": 9.6
     },
     {
       "timestamp": "03.30.2025-05:00:00",
@@ -986,15 +986,15 @@
       "sst_c": 9
     },
     {
-      "timestamp": "03.30.2025-04:30:00",
+      "timestamp": "03.30.2025-05:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 2.15,
+      "hs_m": 2.02,
       "tp_s": 6.67,
-      "dp_deg": 60,
+      "dp_deg": 70,
       "sst_c": 7.1
     },
     {
