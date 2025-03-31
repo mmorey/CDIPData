@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-31T05:35:08.612Z",
+  "last_updated": "2025-03-31T05:47:03.452Z",
   "data": [
     {
       "timestamp": "03.31.2025-04:00:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.84,
-      "tp_s": 7.69,
-      "dp_deg": 61,
+      "hs_m": 1.73,
+      "tp_s": 8.33,
+      "dp_deg": 59,
       "sst_c": 28.3
     },
     {
@@ -218,16 +218,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.31.2025-04:00:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.08,
+      "hs_m": 1.01,
       "tp_s": 15.38,
-      "dp_deg": 198,
-      "sst_c": 15.6
+      "dp_deg": 204,
+      "sst_c": 15.7
     },
     {
       "timestamp": "03.31.2025-04:30:00",
@@ -242,15 +242,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.96,
-      "tp_s": 15.38,
-      "dp_deg": 197,
+      "hs_m": 1.03,
+      "tp_s": 14.29,
+      "dp_deg": 205,
       "sst_c": 15.9
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.8,
+      "hs_m": 0.76,
       "tp_s": 15.38,
-      "dp_deg": 198,
+      "dp_deg": 193,
       "sst_c": 15.1
     },
     {
@@ -374,28 +374,28 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.66,
-      "tp_s": 10.53,
-      "dp_deg": 273,
-      "sst_c": 14.4
+      "hs_m": 0.63,
+      "tp_s": 11.11,
+      "dp_deg": 260,
+      "sst_c": 14.6
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.68,
+      "hs_m": 0.73,
       "tp_s": 15.38,
-      "dp_deg": 160,
-      "sst_c": 14
+      "dp_deg": 198,
+      "sst_c": 13.9
     },
     {
       "timestamp": "03.31.2025-05:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.47,
+      "hs_m": 2.58,
       "tp_s": 9.88,
-      "dp_deg": 268,
+      "dp_deg": 281,
       "sst_c": 13
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.98,
-      "tp_s": 9.88,
+      "hs_m": 1.77,
+      "tp_s": 11.11,
       "dp_deg": 242,
-      "sst_c": 12.9
+      "sst_c": 12.8
     },
     {
       "timestamp": "03.31.2025-04:30:00",
@@ -542,15 +542,15 @@
       "sst_c": 13
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 2.07,
-      "tp_s": 11.11,
-      "dp_deg": 256,
+      "hs_m": 2.14,
+      "tp_s": 10.53,
+      "dp_deg": 249,
       "sst_c": 12.5
     },
     {
@@ -602,16 +602,16 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.69,
+      "hs_m": 1.9,
       "tp_s": 5.26,
-      "dp_deg": 209,
-      "sst_c": 10.4
+      "dp_deg": 210,
+      "sst_c": 10.3
     },
     {
       "timestamp": "03.31.2025-01:30:00",
@@ -938,16 +938,16 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.87,
+      "hs_m": 0.92,
       "tp_s": 9.09,
-      "dp_deg": 121,
-      "sst_c": 11.4
+      "dp_deg": 123,
+      "sst_c": 11.5
     },
     {
       "timestamp": "03.31.2025-05:00:00",
@@ -974,28 +974,28 @@
       "sst_c": 9.3
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 1.41,
-      "tp_s": 5,
-      "dp_deg": 167,
+      "hs_m": 1.39,
+      "tp_s": 5.26,
+      "dp_deg": 174,
       "sst_c": 6.9
     },
     {
-      "timestamp": "03.31.2025-04:30:00",
+      "timestamp": "03.31.2025-05:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.02,
+      "hs_m": 0.99,
       "tp_s": 7.14,
       "dp_deg": 187,
-      "sst_c": 5.2
+      "sst_c": 5.3
     },
     {
       "timestamp": "03.31.2025-04:30:00",
