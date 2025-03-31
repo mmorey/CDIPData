@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-31T20:34:47.054Z",
+  "last_updated": "2025-03-31T20:47:05.438Z",
   "data": [
     {
       "timestamp": "03.31.2025-19:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 28.1
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.87,
+      "hs_m": 1.72,
       "tp_s": 9.09,
-      "dp_deg": 100,
+      "dp_deg": 117,
       "sst_c": 24.7
     },
     {
@@ -122,16 +122,16 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.57,
+      "hs_m": 0.6,
       "tp_s": 15.38,
       "dp_deg": 163,
-      "sst_c": 25.9
+      "sst_c": 25.8
     },
     {
       "timestamp": "03.31.2025-19:30:00",
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.33,
-      "tp_s": 9.88,
-      "dp_deg": 277,
+      "hs_m": 1.26,
+      "tp_s": 18.18,
+      "dp_deg": 183,
       "sst_c": 15.6
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.95,
-      "tp_s": 14.29,
-      "dp_deg": 226,
+      "hs_m": 0.96,
+      "tp_s": 9.88,
+      "dp_deg": 268,
       "sst_c": 14.4
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.05,
-      "tp_s": 14.29,
-      "dp_deg": 199,
+      "hs_m": 1.18,
+      "tp_s": 18.18,
+      "dp_deg": 201,
       "sst_c": 14.9
     },
     {
@@ -386,16 +386,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.04,
+      "hs_m": 1.05,
       "tp_s": 15.38,
-      "dp_deg": 226,
-      "sst_c": 13.9
+      "dp_deg": 214,
+      "sst_c": 14
     },
     {
       "timestamp": "03.31.2025-18:30:00",
@@ -518,15 +518,15 @@
       "sst_c": 13
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 1.61,
-      "tp_s": 9.09,
-      "dp_deg": 244,
+      "hs_m": 1.55,
+      "tp_s": 9.88,
+      "dp_deg": 243,
       "sst_c": 12.9
     },
     {
@@ -554,16 +554,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.2,
+      "hs_m": 2.14,
       "tp_s": 10.53,
-      "dp_deg": 248,
-      "sst_c": 11.9
+      "dp_deg": 262,
+      "sst_c": 12
     },
     {
       "timestamp": "03.31.2025-19:30:00",
@@ -590,15 +590,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "03.31.2025-19:30:00",
+      "timestamp": "03.31.2025-20:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.1,
+      "hs_m": 2.87,
       "tp_s": 9.88,
-      "dp_deg": 220,
+      "dp_deg": 216,
       "sst_c": 10.4
     },
     {
