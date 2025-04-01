@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-01T17:34:27.656Z",
+  "last_updated": "2025-04-01T17:47:03.180Z",
   "data": [
     {
       "timestamp": "04.01.2025-16:30:00",
@@ -122,27 +122,27 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.26,
-      "tp_s": 5.88,
-      "dp_deg": 157,
+      "hs_m": 1.22,
+      "tp_s": 6.25,
+      "dp_deg": 158,
       "sst_c": 25.5
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.12,
+      "hs_m": 1.18,
       "tp_s": 6.67,
-      "dp_deg": 180,
+      "dp_deg": 176,
       "sst_c": 25.8
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 0.92,
-      "tp_s": 11.76,
-      "dp_deg": 356,
+      "hs_m": 0.86,
+      "tp_s": 12.5,
+      "dp_deg": 1,
       "sst_c": 25.6
     },
     {
@@ -218,14 +218,14 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 2.27,
-      "tp_s": 6.25,
+      "hs_m": 2.32,
+      "tp_s": 7.14,
       "dp_deg": 289,
       "sst_c": 14.4
     },
@@ -350,15 +350,15 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.75,
-      "tp_s": 6.25,
-      "dp_deg": 264,
+      "hs_m": 1.81,
+      "tp_s": 6.67,
+      "dp_deg": 273,
       "sst_c": 13.9
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "04.01.2025-16:00:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.64,
+      "hs_m": 1.6,
       "tp_s": 16.67,
-      "dp_deg": 195,
+      "dp_deg": 213,
       "sst_c": 13.5
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 4.23,
-      "tp_s": 11.11,
-      "dp_deg": 277,
+      "hs_m": 4.36,
+      "tp_s": 11.76,
+      "dp_deg": 275,
       "sst_c": 11.3
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 17
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.93,
-      "tp_s": 9.09,
-      "dp_deg": 131,
-      "sst_c": 16.6
+      "hs_m": 0.91,
+      "tp_s": 9.88,
+      "dp_deg": 140,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.01.2025-17:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.8,
+      "hs_m": 1.83,
       "tp_s": 9.09,
-      "dp_deg": 138,
-      "sst_c": 19.8
+      "dp_deg": 143,
+      "sst_c": 19.7
     },
     {
       "timestamp": "04.01.2025-17:00:00",
@@ -902,13 +902,13 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.53,
+      "hs_m": 1.57,
       "tp_s": 5.26,
       "dp_deg": 17,
       "sst_c": 10.5
@@ -962,13 +962,13 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.91,
+      "hs_m": 0.87,
       "tp_s": 9.88,
       "dp_deg": 117,
       "sst_c": 9.1
@@ -998,15 +998,15 @@
       "sst_c": 5.7
     },
     {
-      "timestamp": "04.01.2025-16:30:00",
+      "timestamp": "04.01.2025-17:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.61,
-      "tp_s": 9.09,
-      "dp_deg": 172,
+      "hs_m": 1.63,
+      "tp_s": 9.88,
+      "dp_deg": 174,
       "sst_c": 5.7
     },
     {
