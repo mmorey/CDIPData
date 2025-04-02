@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-02T17:34:14.218Z",
+  "last_updated": "2025-04-02T17:47:05.572Z",
   "data": [
     {
       "timestamp": "04.02.2025-16:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.05,
+      "hs_m": 1.96,
       "tp_s": 9.88,
-      "dp_deg": 50,
+      "dp_deg": 51,
       "sst_c": 28.2
     },
     {
@@ -314,27 +314,27 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 2.49,
-      "tp_s": 8.33,
+      "hs_m": 2.11,
+      "tp_s": 7.69,
       "dp_deg": 271,
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 3.58,
+      "hs_m": 3.54,
       "tp_s": 11.76,
-      "dp_deg": 307,
+      "dp_deg": 309,
       "sst_c": 11.8
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 2.15,
-      "tp_s": 8.33,
-      "dp_deg": 277,
+      "hs_m": 2.06,
+      "tp_s": 7.69,
+      "dp_deg": 281,
       "sst_c": 12.1
     },
     {
@@ -446,28 +446,28 @@
       "sst_c": 12
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.79,
-      "tp_s": 9.88,
+      "hs_m": 4.09,
+      "tp_s": 11.76,
       "dp_deg": 313,
       "sst_c": 12.8
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.69,
-      "tp_s": 10.53,
-      "dp_deg": 278,
-      "sst_c": 12
+      "hs_m": 2.56,
+      "tp_s": 11.11,
+      "dp_deg": 272,
+      "sst_c": 11.6
     },
     {
       "timestamp": "04.02.2025-16:30:00",
@@ -494,15 +494,15 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 2.7,
+      "hs_m": 2.86,
       "tp_s": 11.76,
-      "dp_deg": 283,
+      "dp_deg": 287,
       "sst_c": 11.9
     },
     {
@@ -638,15 +638,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.38,
+      "hs_m": 2.36,
       "tp_s": 9.88,
-      "dp_deg": 296,
+      "dp_deg": 300,
       "sst_c": 10.3
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 26.8
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.77,
-      "tp_s": 4,
-      "dp_deg": 136,
+      "hs_m": 0.81,
+      "tp_s": 3.7,
+      "dp_deg": 105,
       "sst_c": 24.4
     },
     {
@@ -938,14 +938,14 @@
       "sst_c": 10.3
     },
     {
-      "timestamp": "04.02.2025-16:30:00",
+      "timestamp": "04.02.2025-17:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.15,
-      "tp_s": 4.17,
+      "hs_m": 1.14,
+      "tp_s": 4.55,
       "dp_deg": 96,
       "sst_c": 11.5
     },
