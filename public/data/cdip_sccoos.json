@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-04T23:32:39.298Z",
+  "last_updated": "2025-04-04T23:47:05.301Z",
   "data": [
     {
       "timestamp": "04.04.2025-22:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 30.3
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.97,
-      "tp_s": 15.38,
-      "dp_deg": 182,
+      "hs_m": 1.9,
+      "tp_s": 16.67,
+      "dp_deg": 191,
       "sst_c": 30
     },
     {
@@ -74,26 +74,26 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "04.04.2025-22:00:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.61,
-      "tp_s": 14.29,
-      "dp_deg": 48,
+      "hs_m": 1.81,
+      "tp_s": 13.33,
+      "dp_deg": 52,
       "sst_c": 28.5
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.75,
-      "tp_s": 13.33,
+      "hs_m": 1.78,
+      "tp_s": 14.29,
       "dp_deg": 44,
       "sst_c": 28.3
     },
@@ -126,7 +126,7 @@
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.018,
-      "longitude": -156.42,
+      "longitude": -156.421,
       "depth_cm": 20000,
       "hs_m": 1.78,
       "tp_s": 11.11,
@@ -194,15 +194,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "04.04.2025-22:00:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.85,
+      "hs_m": 3.26,
       "tp_s": 13.33,
-      "dp_deg": 331,
+      "dp_deg": 344,
       "sst_c": 25.6
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.72,
+      "hs_m": 0.71,
       "tp_s": 15.38,
-      "dp_deg": 178,
-      "sst_c": 13.9
+      "dp_deg": 183,
+      "sst_c": 13.8
     },
     {
       "timestamp": "04.04.2025-23:00:00",
@@ -398,15 +398,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.87,
+      "hs_m": 0.93,
       "tp_s": 15.38,
-      "dp_deg": 198,
+      "dp_deg": 240,
       "sst_c": 12.8
     },
     {
@@ -494,15 +494,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 0.62,
-      "tp_s": 8.33,
-      "dp_deg": 332,
+      "hs_m": 0.64,
+      "tp_s": 9.09,
+      "dp_deg": 338,
       "sst_c": 13.5
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
       "hs_m": 0.74,
-      "tp_s": 7.14,
-      "dp_deg": 273,
+      "tp_s": 8.33,
+      "dp_deg": 267,
       "sst_c": 13.6
     },
     {
@@ -674,14 +674,14 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 0.79,
-      "tp_s": 8.33,
+      "hs_m": 0.72,
+      "tp_s": 7.69,
       "dp_deg": 291,
       "sst_c": 10.9
     },
@@ -818,15 +818,15 @@
       "sst_c": 24.1
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.01,
-      "tp_s": 6.25,
-      "dp_deg": 107,
+      "hs_m": 1,
+      "tp_s": 9.09,
+      "dp_deg": 90,
       "sst_c": 22.2
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.88,
+      "hs_m": 0.94,
       "tp_s": 6.67,
-      "dp_deg": 177,
+      "dp_deg": 172,
       "sst_c": 18.4
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 9.4
     },
     {
-      "timestamp": "04.04.2025-22:30:00",
+      "timestamp": "04.04.2025-23:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.33,
-      "tp_s": 7.14,
-      "dp_deg": 181,
+      "hs_m": 1.3,
+      "tp_s": 7.69,
+      "dp_deg": 184,
       "sst_c": 5.6
     },
     {
