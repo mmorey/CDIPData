@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-04T05:35:06.012Z",
+  "last_updated": "2025-04-04T05:47:01.668Z",
   "data": [
     {
       "timestamp": "04.04.2025-04:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 30.3
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.48,
+      "hs_m": 1.63,
       "tp_s": 18.18,
-      "dp_deg": 148,
+      "dp_deg": 164,
       "sst_c": 29.8
     },
     {
@@ -86,16 +86,16 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2,
+      "hs_m": 1.94,
       "tp_s": 14.29,
       "dp_deg": 42,
-      "sst_c": 28.6
+      "sst_c": 28.7
     },
     {
       "timestamp": "04.04.2025-05:00:00",
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.03,
-      "tp_s": 9.09,
-      "dp_deg": 288,
-      "sst_c": 12.9
+      "hs_m": 1.05,
+      "tp_s": 8.33,
+      "dp_deg": 287,
+      "sst_c": 13
     },
     {
       "timestamp": "04.04.2025-05:00:00",
@@ -302,15 +302,15 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.01,
-      "tp_s": 9.09,
-      "dp_deg": 282,
+      "hs_m": 0.96,
+      "tp_s": 10.53,
+      "dp_deg": 275,
       "sst_c": 13.5
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.02,
-      "tp_s": 6.67,
-      "dp_deg": 269,
-      "sst_c": 13.3
+      "hs_m": 1.04,
+      "tp_s": 8.33,
+      "dp_deg": 275,
+      "sst_c": 13.1
     },
     {
       "timestamp": "04.04.2025-05:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.41,
-      "tp_s": 9.88,
-      "dp_deg": 278,
+      "hs_m": 1.43,
+      "tp_s": 7.14,
+      "dp_deg": 268,
       "sst_c": 12.4
     },
     {
@@ -482,15 +482,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.3353,
       "longitude": -122.10389,
       "depth_cm": 36900,
-      "hs_m": 2.3,
+      "hs_m": 2.23,
       "tp_s": 8.33,
-      "dp_deg": 318,
+      "dp_deg": 314,
       "sst_c": 12.2
     },
     {
@@ -566,14 +566,14 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.22,
-      "tp_s": 7.69,
+      "hs_m": 2.2,
+      "tp_s": 8.33,
       "dp_deg": 320,
       "sst_c": 11.2
     },
@@ -638,15 +638,15 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.4,
-      "tp_s": 9.09,
-      "dp_deg": 303,
+      "hs_m": 1.35,
+      "tp_s": 8.33,
+      "dp_deg": 305,
       "sst_c": 10.9
     },
     {
@@ -686,16 +686,16 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.28,
+      "hs_m": 1.33,
       "tp_s": 8.33,
-      "dp_deg": 288,
-      "sst_c": 11
+      "dp_deg": 292,
+      "sst_c": 10.9
     },
     {
       "timestamp": "04.04.2025-04:30:00",
@@ -794,16 +794,16 @@
       "sst_c": 23.8
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.25,
-      "tp_s": 6.25,
-      "dp_deg": 79,
-      "sst_c": 23.8
+      "hs_m": 1.28,
+      "tp_s": 5.56,
+      "dp_deg": 82,
+      "sst_c": 23.6
     },
     {
       "timestamp": "04.04.2025-05:00:00",
@@ -818,15 +818,15 @@
       "sst_c": 23.4
     },
     {
-      "timestamp": "04.04.2025-04:30:00",
+      "timestamp": "04.04.2025-05:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.23,
-      "tp_s": 5.56,
-      "dp_deg": 113,
+      "hs_m": 1.19,
+      "tp_s": 5.26,
+      "dp_deg": 110,
       "sst_c": 21.4
     },
     {
