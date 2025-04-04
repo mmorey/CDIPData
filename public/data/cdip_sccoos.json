@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-04T20:34:13.898Z",
+  "last_updated": "2025-04-04T20:47:05.421Z",
   "data": [
     {
       "timestamp": "04.04.2025-19:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.74,
+      "hs_m": 1.93,
       "tp_s": 16.67,
-      "dp_deg": 192,
+      "dp_deg": 177,
       "sst_c": 29.8
     },
     {
@@ -62,39 +62,39 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.91,
-      "tp_s": 13.33,
-      "dp_deg": 66,
+      "hs_m": 1.75,
+      "tp_s": 14.29,
+      "dp_deg": 60,
       "sst_c": 28.2
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.66,
-      "tp_s": 13.33,
-      "dp_deg": 45,
+      "hs_m": 1.7,
+      "tp_s": 14.29,
+      "dp_deg": 60,
       "sst_c": 28.5
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.8,
-      "tp_s": 13.33,
-      "dp_deg": 45,
+      "hs_m": 1.76,
+      "tp_s": 14.29,
+      "dp_deg": 48,
       "sst_c": 28.2
     },
     {
@@ -362,7 +362,7 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -370,8 +370,8 @@
       "depth_cm": 30300,
       "hs_m": 0.77,
       "tp_s": 15.38,
-      "dp_deg": 185,
-      "sst_c": 14.1
+      "dp_deg": 184,
+      "sst_c": 13.7
     },
     {
       "timestamp": "04.04.2025-19:30:00",
@@ -410,16 +410,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.07,
-      "tp_s": 15.38,
-      "dp_deg": 202,
-      "sst_c": 13.4
+      "hs_m": 1.03,
+      "tp_s": 7.14,
+      "dp_deg": 269,
+      "sst_c": 13.6
     },
     {
       "timestamp": "04.04.2025-20:00:00",
@@ -446,16 +446,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.62,
+      "hs_m": 1.67,
       "tp_s": 9.09,
-      "dp_deg": 307,
-      "sst_c": 11.4
+      "dp_deg": 309,
+      "sst_c": 11.5
     },
     {
       "timestamp": "04.04.2025-20:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
       "hs_m": 0.7,
-      "tp_s": 6.67,
-      "dp_deg": 271,
-      "sst_c": 14.1
+      "tp_s": 8.33,
+      "dp_deg": 266,
+      "sst_c": 14
     },
     {
       "timestamp": "04.04.2025-19:30:00",
@@ -602,16 +602,16 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 0.93,
+      "hs_m": 0.95,
       "tp_s": 8.33,
-      "dp_deg": 310,
-      "sst_c": 10.9
+      "dp_deg": 308,
+      "sst_c": 11
     },
     {
       "timestamp": "04.04.2025-20:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 0.94,
-      "tp_s": 8.33,
-      "dp_deg": 312,
+      "hs_m": 0.92,
+      "tp_s": 7.69,
+      "dp_deg": 313,
       "sst_c": 11.1
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.28,
-      "tp_s": 5.26,
+      "hs_m": 1.37,
+      "tp_s": 5.56,
       "dp_deg": 147,
-      "sst_c": 23.1
+      "sst_c": 23.2
     },
     {
       "timestamp": "04.04.2025-20:00:00",
@@ -878,15 +878,15 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
       "hs_m": 0.98,
-      "tp_s": 13.33,
-      "dp_deg": 118,
+      "tp_s": 8.33,
+      "dp_deg": 127,
       "sst_c": 20.2
     },
     {
@@ -1034,16 +1034,16 @@
       "sst_c": 6.6
     },
     {
-      "timestamp": "04.04.2025-19:30:00",
+      "timestamp": "04.04.2025-20:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.75,
-      "tp_s": 7.14,
-      "dp_deg": 141,
-      "sst_c": 6.2
+      "hs_m": 0.76,
+      "tp_s": 7.69,
+      "dp_deg": 128,
+      "sst_c": 6.1
     },
     {
       "timestamp": "04.04.2025-20:00:00",
