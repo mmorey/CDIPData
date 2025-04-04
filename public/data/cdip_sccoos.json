@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-04T09:34:21.466Z",
+  "last_updated": "2025-04-04T09:47:04.067Z",
   "data": [
     {
       "timestamp": "04.04.2025-08:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 30
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.72,
-      "tp_s": 18.18,
-      "dp_deg": 161,
-      "sst_c": 30
+      "hs_m": 1.7,
+      "tp_s": 12.5,
+      "dp_deg": 167,
+      "sst_c": 29.8
     },
     {
       "timestamp": "04.04.2025-08:30:00",
@@ -86,39 +86,39 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 2.13,
+      "hs_m": 2.02,
       "tp_s": 14.29,
-      "dp_deg": 41,
+      "dp_deg": 50,
       "sst_c": 28.4
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.75,
+      "hs_m": 1.77,
       "tp_s": 9.09,
-      "dp_deg": 110,
+      "dp_deg": 120,
       "sst_c": 25
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
       "hs_m": 1.02,
-      "tp_s": 10.53,
-      "dp_deg": 269,
+      "tp_s": 14.29,
+      "dp_deg": 220,
       "sst_c": 25.8
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 0.99,
-      "tp_s": 9.09,
-      "dp_deg": 3,
+      "hs_m": 1.03,
+      "tp_s": 9.88,
+      "dp_deg": 6,
       "sst_c": 24.7
     },
     {
@@ -242,16 +242,16 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.9,
-      "tp_s": 7.69,
-      "dp_deg": 275,
-      "sst_c": 12
+      "hs_m": 0.91,
+      "tp_s": 6.67,
+      "dp_deg": 272,
+      "sst_c": 12.1
     },
     {
       "timestamp": "04.04.2025-09:00:00",
@@ -326,27 +326,27 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.73,
+      "hs_m": 0.76,
       "tp_s": 15.38,
-      "dp_deg": 215,
+      "dp_deg": 209,
       "sst_c": 13.6
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.08,
+      "hs_m": 1.99,
       "tp_s": 8.33,
-      "dp_deg": 302,
+      "dp_deg": 292,
       "sst_c": 12.4
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.8,
+      "hs_m": 0.87,
       "tp_s": 16.67,
-      "dp_deg": 181,
-      "sst_c": 12.9
+      "dp_deg": 175,
+      "sst_c": 12.7
     },
     {
       "timestamp": "04.04.2025-09:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.27,
-      "tp_s": 9.88,
-      "dp_deg": 305,
+      "hs_m": 2.15,
+      "tp_s": 9.09,
+      "dp_deg": 306,
       "sst_c": 11.3
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.32,
+      "hs_m": 1.35,
       "tp_s": 8.33,
-      "dp_deg": 294,
+      "dp_deg": 293,
       "sst_c": 12
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.29,
-      "tp_s": 4.55,
-      "dp_deg": 350,
+      "hs_m": 1.24,
+      "tp_s": 9.09,
+      "dp_deg": 302,
       "sst_c": 10.6
     },
     {
@@ -794,15 +794,15 @@
       "sst_c": 23.8
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.45,
-      "tp_s": 5.26,
-      "dp_deg": 100,
+      "hs_m": 1.35,
+      "tp_s": 5.88,
+      "dp_deg": 73,
       "sst_c": 23.3
     },
     {
@@ -902,16 +902,16 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 1.2,
+      "hs_m": 1.22,
       "tp_s": 6.25,
-      "dp_deg": 139,
-      "sst_c": 14
+      "dp_deg": 151,
+      "sst_c": 13.9
     },
     {
       "timestamp": "04.04.2025-09:00:00",
@@ -986,15 +986,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 1.36,
+      "hs_m": 1.56,
       "tp_s": 6.67,
-      "dp_deg": 145,
+      "dp_deg": 156,
       "sst_c": 7.9
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 5.5
     },
     {
-      "timestamp": "04.04.2025-08:30:00",
+      "timestamp": "04.04.2025-09:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.11,
-      "tp_s": 7.14,
-      "dp_deg": 148,
+      "hs_m": 1,
+      "tp_s": 6.67,
+      "dp_deg": 147,
       "sst_c": 5.2
     },
     {
