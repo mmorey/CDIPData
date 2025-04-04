@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-04T13:36:51.096Z",
+  "last_updated": "2025-04-04T13:47:16.623Z",
   "data": [
     {
       "timestamp": "04.04.2025-12:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.65,
+      "hs_m": 1.64,
       "tp_s": 9.09,
-      "dp_deg": 117,
+      "dp_deg": 113,
       "sst_c": 24.9
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.55,
-      "tp_s": 11.11,
-      "dp_deg": 337,
+      "hs_m": 2.31,
+      "tp_s": 9.88,
+      "dp_deg": 316,
       "sst_c": 24
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.06,
-      "tp_s": 16.67,
-      "dp_deg": 190,
-      "sst_c": 14
+      "hs_m": 1.09,
+      "tp_s": 15.38,
+      "dp_deg": 195,
+      "sst_c": 13.9
     },
     {
       "timestamp": "04.04.2025-12:45:00",
@@ -338,15 +338,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.02,
-      "tp_s": 7.14,
-      "dp_deg": 297,
+      "hs_m": 1.92,
+      "tp_s": 9.09,
+      "dp_deg": 296,
       "sst_c": 12.3
     },
     {
@@ -386,28 +386,28 @@
       "sst_c": 12
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.96,
-      "tp_s": 7.69,
-      "dp_deg": 273,
+      "hs_m": 0.85,
+      "tp_s": 7.14,
+      "dp_deg": 271,
       "sst_c": 11.8
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.87,
+      "hs_m": 0.85,
       "tp_s": 16.67,
-      "dp_deg": 195,
-      "sst_c": 12.7
+      "dp_deg": 46,
+      "sst_c": 12.6
     },
     {
       "timestamp": "04.04.2025-13:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.46,
-      "tp_s": 9.09,
-      "dp_deg": 317,
+      "hs_m": 2.31,
+      "tp_s": 7.69,
+      "dp_deg": 320,
       "sst_c": 12.2
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.21,
-      "tp_s": 7.69,
-      "dp_deg": 298,
+      "hs_m": 1.22,
+      "tp_s": 8.33,
+      "dp_deg": 296,
       "sst_c": 11.9
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.13,
-      "tp_s": 9.09,
-      "dp_deg": 287,
+      "hs_m": 1.07,
+      "tp_s": 16.67,
+      "dp_deg": 235,
       "sst_c": 12.4
     },
     {
@@ -578,13 +578,13 @@
       "sst_c": 11
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2919,
       "longitude": -124.7481,
       "depth_cm": 34800,
-      "hs_m": 1.78,
+      "hs_m": 1.8,
       "tp_s": 7.69,
       "dp_deg": 344,
       "sst_c": 10.9
@@ -638,15 +638,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.28,
+      "hs_m": 1.1,
       "tp_s": 8.33,
-      "dp_deg": 306,
+      "dp_deg": 299,
       "sst_c": 10.9
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.12,
+      "hs_m": 1.08,
       "tp_s": 8.33,
-      "dp_deg": 313,
+      "dp_deg": 315,
       "sst_c": 10.4
     },
     {
@@ -686,16 +686,16 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "04.04.2025-12:00:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.09,
-      "tp_s": 8.33,
-      "dp_deg": 298,
-      "sst_c": 10.4
+      "hs_m": 1.12,
+      "tp_s": 7.69,
+      "dp_deg": 299,
+      "sst_c": 10.3
     },
     {
       "timestamp": "04.04.2025-12:30:00",
@@ -710,27 +710,27 @@
       "sst_c": 8.8
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 0.42,
-      "tp_s": 3.12,
+      "hs_m": 0.43,
+      "tp_s": 2.86,
       "dp_deg": 85,
       "sst_c": 5.2
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 2.15,
-      "tp_s": 7.69,
-      "dp_deg": 114,
+      "hs_m": 1.92,
+      "tp_s": 8.33,
+      "dp_deg": 106,
       "sst_c": 26.3
     },
     {
@@ -1010,40 +1010,40 @@
       "sst_c": 5.3
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.4,
-      "tp_s": 7.69,
-      "dp_deg": 181,
+      "hs_m": 1.51,
+      "tp_s": 7.14,
+      "dp_deg": 186,
       "sst_c": 5.9
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
       "hs_m": 0.13,
-      "tp_s": 7.69,
-      "dp_deg": 357,
-      "sst_c": 5.5
+      "tp_s": 1.75,
+      "dp_deg": 267,
+      "sst_c": 5.6
     },
     {
-      "timestamp": "04.04.2025-12:30:00",
+      "timestamp": "04.04.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.94,
-      "tp_s": 7.69,
+      "hs_m": 0.93,
+      "tp_s": 7.14,
       "dp_deg": 143,
-      "sst_c": 5.4
+      "sst_c": 5.3
     },
     {
       "timestamp": "04.04.2025-13:00:00",
