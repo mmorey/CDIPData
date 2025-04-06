@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-06T13:34:32.692Z",
+  "last_updated": "2025-04-06T13:47:02.087Z",
   "data": [
     {
       "timestamp": "04.06.2025-12:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.64,
-      "tp_s": 11.76,
-      "dp_deg": 160,
+      "hs_m": 1.82,
+      "tp_s": 9.88,
+      "dp_deg": 106,
       "sst_c": 29.8
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.49,
-      "tp_s": 12.5,
-      "dp_deg": 41,
+      "hs_m": 1.62,
+      "tp_s": 11.76,
+      "dp_deg": 39,
       "sst_c": 28.3
     },
     {
@@ -230,28 +230,28 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.76,
-      "tp_s": 13.33,
-      "dp_deg": 198,
+      "hs_m": 0.74,
+      "tp_s": 12.5,
+      "dp_deg": 185,
       "sst_c": 15
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.65,
+      "hs_m": 0.68,
       "tp_s": 4.76,
-      "dp_deg": 281,
-      "sst_c": 13.2
+      "dp_deg": 282,
+      "sst_c": 13.1
     },
     {
       "timestamp": "04.06.2025-13:00:00",
@@ -374,16 +374,16 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "04.06.2025-12:00:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.68,
-      "tp_s": 13.33,
-      "dp_deg": 154,
-      "sst_c": 12.2
+      "hs_m": 0.64,
+      "tp_s": 5,
+      "dp_deg": 274,
+      "sst_c": 12.3
     },
     {
       "timestamp": "04.06.2025-13:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.1,
-      "tp_s": 5.56,
-      "dp_deg": 320,
+      "hs_m": 1.07,
+      "tp_s": 13.33,
+      "dp_deg": 177,
       "sst_c": 11.7
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.52,
+      "hs_m": 0.51,
       "tp_s": 22.22,
-      "dp_deg": 232,
+      "dp_deg": 231,
       "sst_c": 13.4
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": 11
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.6,
-      "tp_s": 14.29,
-      "dp_deg": 265,
-      "sst_c": 11.4
+      "hs_m": 1.73,
+      "tp_s": 13.33,
+      "dp_deg": 267,
+      "sst_c": 11.5
     },
     {
       "timestamp": "04.06.2025-13:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.95,
-      "tp_s": 18.18,
-      "dp_deg": 282,
+      "hs_m": 2.09,
+      "tp_s": 13.33,
+      "dp_deg": 279,
       "sst_c": 10.6
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 5.3
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 1.85,
+      "hs_m": 1.84,
       "tp_s": 7.69,
-      "dp_deg": 100,
+      "dp_deg": 101,
       "sst_c": 25.9
     },
     {
@@ -890,16 +890,16 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.58,
-      "tp_s": 5.88,
-      "dp_deg": 169,
-      "sst_c": 16.4
+      "hs_m": 1.51,
+      "tp_s": 5.26,
+      "dp_deg": 173,
+      "sst_c": 16.5
     },
     {
       "timestamp": "04.06.2025-13:00:00",
@@ -974,7 +974,7 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "04.06.2025-12:30:00",
+      "timestamp": "04.06.2025-13:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
@@ -982,7 +982,7 @@
       "depth_cm": 1060,
       "hs_m": 1.02,
       "tp_s": 6.25,
-      "dp_deg": 117,
+      "dp_deg": 123,
       "sst_c": 11
     },
     {
