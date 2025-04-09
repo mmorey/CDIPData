@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-09T23:32:34.638Z",
+  "last_updated": "2025-04-09T23:47:18.338Z",
   "data": [
     {
       "timestamp": "04.09.2025-22:30:00",
@@ -86,37 +86,37 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.95,
-      "tp_s": 9.88,
-      "dp_deg": 51,
-      "sst_c": 28.4
+      "hs_m": 0.97,
+      "tp_s": 11.11,
+      "dp_deg": 47,
+      "sst_c": 28.5
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.22,
+      "hs_m": 2.05,
       "tp_s": 11.76,
-      "dp_deg": 359,
-      "sst_c": 26.2
+      "dp_deg": 353,
+      "sst_c": 26.5
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.85,
+      "hs_m": 0.79,
       "tp_s": 15.38,
       "dp_deg": 188,
       "sst_c": 25.3
@@ -134,15 +134,15 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.95,
+      "hs_m": 0.77,
       "tp_s": 15.38,
-      "dp_deg": 167,
+      "dp_deg": 165,
       "sst_c": 25.1
     },
     {
@@ -158,15 +158,15 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.17,
-      "tp_s": 12.5,
-      "dp_deg": 355,
+      "hs_m": 2.09,
+      "tp_s": 7.14,
+      "dp_deg": 18,
       "sst_c": 25
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2,
-      "tp_s": 12.5,
-      "dp_deg": 334,
+      "hs_m": 2.05,
+      "tp_s": 11.76,
+      "dp_deg": 337,
       "sst_c": 23
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 1.04,
-      "tp_s": 12.5,
-      "dp_deg": 296,
-      "sst_c": 19.7
+      "hs_m": 1.07,
+      "tp_s": 10.53,
+      "dp_deg": 292,
+      "sst_c": 19.1
     },
     {
       "timestamp": "04.09.2025-23:00:00",
@@ -302,16 +302,16 @@
       "sst_c": 18
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.06,
-      "tp_s": 13.33,
-      "dp_deg": 257,
-      "sst_c": 16.5
+      "hs_m": 1.05,
+      "tp_s": 12.5,
+      "dp_deg": 270,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.09.2025-23:00:00",
@@ -338,16 +338,16 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
       "hs_m": 2.27,
-      "tp_s": 13.33,
-      "dp_deg": 289,
-      "sst_c": 12.9
+      "tp_s": 11.76,
+      "dp_deg": 302,
+      "sst_c": 13
     },
     {
       "timestamp": "04.09.2025-22:30:00",
@@ -362,16 +362,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.85,
+      "hs_m": 0.89,
       "tp_s": 13.33,
-      "dp_deg": 254,
-      "sst_c": 16.9
+      "dp_deg": 236,
+      "sst_c": 16.4
     },
     {
       "timestamp": "04.09.2025-23:00:00",
@@ -386,16 +386,16 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.17,
-      "tp_s": 11.76,
-      "dp_deg": 274,
-      "sst_c": 15
+      "hs_m": 1.14,
+      "tp_s": 12.5,
+      "dp_deg": 268,
+      "sst_c": 14.5
     },
     {
       "timestamp": "04.09.2025-23:00:00",
@@ -470,16 +470,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "04.09.2025-22:00:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.43,
+      "hs_m": 1.51,
       "tp_s": 12.5,
-      "dp_deg": 268,
-      "sst_c": 11.9
+      "dp_deg": 271,
+      "sst_c": 12.1
     },
     {
       "timestamp": "04.09.2025-22:30:00",
@@ -494,16 +494,16 @@
       "sst_c": 12
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.24,
-      "tp_s": 10.53,
-      "dp_deg": 348,
-      "sst_c": 15.2
+      "hs_m": 1.13,
+      "tp_s": 11.11,
+      "dp_deg": 345,
+      "sst_c": 15.5
     },
     {
       "timestamp": "04.09.2025-23:00:00",
@@ -518,7 +518,7 @@
       "sst_c": 12
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
@@ -527,7 +527,7 @@
       "hs_m": 1.25,
       "tp_s": 12.5,
       "dp_deg": 253,
-      "sst_c": 14.6
+      "sst_c": 14.8
     },
     {
       "timestamp": "04.09.2025-22:30:00",
@@ -602,16 +602,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.73,
-      "tp_s": 11.11,
-      "dp_deg": 282,
-      "sst_c": 12
+      "hs_m": 1.88,
+      "tp_s": 10.53,
+      "dp_deg": 285,
+      "sst_c": 12.5
     },
     {
       "timestamp": "04.09.2025-23:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.59,
-      "tp_s": 11.11,
-      "dp_deg": 281,
+      "hs_m": 1.55,
+      "tp_s": 10.53,
+      "dp_deg": 286,
       "sst_c": 11.4
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 5.8
     },
     {
-      "timestamp": "04.09.2025-22:30:00",
+      "timestamp": "04.09.2025-23:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.57,
-      "tp_s": 9.88,
-      "dp_deg": 116,
+      "hs_m": 0.61,
+      "tp_s": 11.11,
+      "dp_deg": 103,
       "sst_c": 5.1
     },
     {
