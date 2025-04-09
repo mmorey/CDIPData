@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-09T05:35:24.508Z",
+  "last_updated": "2025-04-09T05:47:12.715Z",
   "data": [
     {
       "timestamp": "04.09.2025-04:30:00",
@@ -62,16 +62,16 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "04.09.2025-04:00:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.35,
-      "tp_s": 9.09,
-      "dp_deg": 84,
-      "sst_c": 28.7
+      "hs_m": 1.39,
+      "tp_s": 10.53,
+      "dp_deg": 73,
+      "sst_c": 28.8
     },
     {
       "timestamp": "04.09.2025-05:00:00",
@@ -86,7 +86,7 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
@@ -94,8 +94,8 @@
       "depth_cm": 48768,
       "hs_m": 1.12,
       "tp_s": 12.5,
-      "dp_deg": 40,
-      "sst_c": 29
+      "dp_deg": 42,
+      "sst_c": 28.9
     },
     {
       "timestamp": "04.09.2025-05:00:00",
@@ -194,25 +194,25 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.22,
-      "tp_s": 12.5,
-      "dp_deg": 347,
+      "hs_m": 2.01,
+      "tp_s": 13.33,
+      "dp_deg": 345,
       "sst_c": 25
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.02,
+      "hs_m": 2.17,
       "tp_s": 12.5,
       "dp_deg": 338,
       "sst_c": 23
@@ -230,16 +230,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.27,
+      "hs_m": 1.41,
       "tp_s": 14.29,
-      "dp_deg": 260,
-      "sst_c": 15.4
+      "dp_deg": 232,
+      "sst_c": 15.2
     },
     {
       "timestamp": "04.09.2025-04:30:00",
@@ -326,16 +326,16 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.87,
-      "tp_s": 11.11,
-      "dp_deg": 271,
-      "sst_c": 16.8
+      "hs_m": 0.89,
+      "tp_s": 14.29,
+      "dp_deg": 215,
+      "sst_c": 16.5
     },
     {
       "timestamp": "04.09.2025-05:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.79,
+      "hs_m": 0.89,
       "tp_s": 14.29,
-      "dp_deg": 263,
-      "sst_c": 15.4
+      "dp_deg": 255,
+      "sst_c": 15.3
     },
     {
       "timestamp": "04.09.2025-05:00:00",
@@ -638,27 +638,27 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "04.09.2025-02:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 3,
-      "tp_s": 8.33,
-      "dp_deg": 229,
+      "hs_m": 2.84,
+      "tp_s": 11.11,
+      "dp_deg": 271,
       "sst_c": 10.8
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.25,
-      "tp_s": 9.88,
-      "dp_deg": 263,
+      "hs_m": 2.11,
+      "tp_s": 12.5,
+      "dp_deg": 278,
       "sst_c": 11
     },
     {
@@ -746,15 +746,15 @@
       "sst_c": 24.3
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.74,
+      "hs_m": 1.63,
       "tp_s": 7.69,
-      "dp_deg": 264,
+      "dp_deg": 266,
       "sst_c": 22.8
     },
     {
@@ -830,15 +830,15 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.54,
+      "hs_m": 0.56,
       "tp_s": 9.09,
-      "dp_deg": 114,
+      "dp_deg": 107,
       "sst_c": 20.5
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "04.09.2025-04:30:00",
+      "timestamp": "04.09.2025-05:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1,
+      "hs_m": 1.07,
       "tp_s": 4.35,
-      "dp_deg": 26,
+      "dp_deg": 31,
       "sst_c": 11.8
     },
     {
