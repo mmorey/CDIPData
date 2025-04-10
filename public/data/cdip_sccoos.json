@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-10T15:34:54.393Z",
+  "last_updated": "2025-04-10T15:47:12.011Z",
   "data": [
     {
       "timestamp": "04.10.2025-14:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.03,
-      "tp_s": 6.67,
-      "dp_deg": 77,
+      "hs_m": 1.95,
+      "tp_s": 7.14,
+      "dp_deg": 70,
       "sst_c": 29
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.95,
+      "hs_m": 0.94,
       "tp_s": 9.09,
-      "dp_deg": 43,
+      "dp_deg": 37,
       "sst_c": 28.4
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.92,
+      "hs_m": 0.84,
       "tp_s": 9.88,
-      "dp_deg": 257,
+      "dp_deg": 253,
       "sst_c": 13.9
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 1.75,
-      "tp_s": 9.88,
-      "dp_deg": 297,
+      "hs_m": 1.58,
+      "tp_s": 11.11,
+      "dp_deg": 294,
       "sst_c": 11.5
     },
     {
@@ -638,16 +638,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.26,
+      "hs_m": 1.28,
       "tp_s": 10.53,
-      "dp_deg": 289,
-      "sst_c": 11.5
+      "dp_deg": 305,
+      "sst_c": 11.4
     },
     {
       "timestamp": "04.10.2025-14:30:00",
@@ -674,16 +674,16 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.14,
-      "tp_s": 9.88,
-      "dp_deg": 261,
-      "sst_c": 10.6
+      "hs_m": 1.06,
+      "tp_s": 10.53,
+      "dp_deg": 278,
+      "sst_c": 10.8
     },
     {
       "timestamp": "04.10.2025-15:00:00",
@@ -734,28 +734,28 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.93,
-      "tp_s": 5.26,
-      "dp_deg": 347,
+      "hs_m": 0.86,
+      "tp_s": 5,
+      "dp_deg": 349,
       "sst_c": 23.9
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.64,
-      "tp_s": 4,
-      "dp_deg": 358,
-      "sst_c": 22.6
+      "hs_m": 0.61,
+      "tp_s": 4.17,
+      "dp_deg": 5,
+      "sst_c": 22.7
     },
     {
       "timestamp": "04.10.2025-15:00:00",
@@ -794,16 +794,16 @@
       "sst_c": 22.3
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 2.08,
-      "tp_s": 10.53,
-      "dp_deg": 59,
-      "sst_c": 20.7
+      "hs_m": 2.02,
+      "tp_s": 11.76,
+      "dp_deg": 44,
+      "sst_c": 20.8
     },
     {
       "timestamp": "04.10.2025-15:00:00",
@@ -950,15 +950,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.81,
-      "tp_s": 4.17,
-      "dp_deg": 96,
+      "hs_m": 0.83,
+      "tp_s": 4.35,
+      "dp_deg": 86,
       "sst_c": 12.2
     },
     {
@@ -1034,15 +1034,15 @@
       "sst_c": 5.9
     },
     {
-      "timestamp": "04.10.2025-14:30:00",
+      "timestamp": "04.10.2025-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.48,
-      "tp_s": 3.85,
-      "dp_deg": 24,
+      "hs_m": 0.47,
+      "tp_s": 9.88,
+      "dp_deg": 119,
       "sst_c": 5.2
     },
     {
