@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-10T17:34:26.207Z",
+  "last_updated": "2025-04-10T17:47:04.388Z",
   "data": [
     {
       "timestamp": "04.10.2025-16:30:00",
@@ -86,39 +86,39 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.91,
+      "hs_m": 0.94,
       "tp_s": 9.88,
-      "dp_deg": 47,
+      "dp_deg": 44,
       "sst_c": 28.4
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.87,
+      "hs_m": 1.77,
       "tp_s": 11.11,
-      "dp_deg": 3,
+      "dp_deg": 359,
       "sst_c": 25.1
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.06,
-      "tp_s": 14.29,
-      "dp_deg": 182,
+      "hs_m": 1,
+      "tp_s": 11.11,
+      "dp_deg": 227,
       "sst_c": 25
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.86,
+      "hs_m": 0.84,
       "tp_s": 14.29,
-      "dp_deg": 167,
+      "dp_deg": 166,
       "sst_c": 25.1
     },
     {
@@ -170,15 +170,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 2.01,
-      "tp_s": 7.14,
-      "dp_deg": 30,
+      "hs_m": 1.95,
+      "tp_s": 7.69,
+      "dp_deg": 25,
       "sst_c": 24.5
     },
     {
@@ -278,7 +278,7 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
@@ -300,6 +300,18 @@
       "tp_s": 11.11,
       "dp_deg": 278,
       "sst_c": 16.5
+    },
+    {
+      "timestamp": "04.10.2025-17:00:00",
+      "station_number": "153",
+      "station_name": "DEL MAR NEARSHORE, CA",
+      "latitude": 32.95654,
+      "longitude": -117.27956,
+      "depth_cm": 1700,
+      "hs_m": 0.96,
+      "tp_s": 16.67,
+      "dp_deg": 239,
+      "sst_c": 15.4
     },
     {
       "timestamp": "04.10.2025-17:00:00",
@@ -350,16 +362,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.72,
-      "tp_s": 12.5,
-      "dp_deg": 252,
-      "sst_c": 15.3
+      "hs_m": 0.74,
+      "tp_s": 16.67,
+      "dp_deg": 201,
+      "sst_c": 15.4
     },
     {
       "timestamp": "04.10.2025-17:00:00",
@@ -458,16 +470,16 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "04.10.2025-16:00:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.62,
-      "tp_s": 11.76,
-      "dp_deg": 274,
-      "sst_c": 10.9
+      "hs_m": 1.63,
+      "tp_s": 11.11,
+      "dp_deg": 275,
+      "sst_c": 10.6
     },
     {
       "timestamp": "04.10.2025-16:30:00",
@@ -650,16 +662,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.44,
-      "tp_s": 11.11,
-      "dp_deg": 300,
-      "sst_c": 10.8
+      "hs_m": 1.64,
+      "tp_s": 9.09,
+      "dp_deg": 270,
+      "sst_c": 10.6
     },
     {
       "timestamp": "04.10.2025-17:00:00",
@@ -902,16 +914,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.10.2025-16:30:00",
+      "timestamp": "04.10.2025-17:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.94,
-      "tp_s": 5,
-      "dp_deg": 66,
-      "sst_c": 13.1
+      "hs_m": 0.93,
+      "tp_s": 4.55,
+      "dp_deg": 78,
+      "sst_c": 13.2
     },
     {
       "timestamp": "04.10.2025-16:30:00",
