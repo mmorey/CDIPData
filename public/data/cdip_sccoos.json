@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-11T20:34:19.302Z",
+  "last_updated": "2025-04-11T20:47:02.939Z",
   "data": [
     {
       "timestamp": "04.11.2025-19:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.27,
-      "tp_s": 10.53,
-      "dp_deg": 66,
+      "hs_m": 1.24,
+      "tp_s": 9.09,
+      "dp_deg": 76,
       "sst_c": 28.4
     },
     {
@@ -86,28 +86,28 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.11,
+      "hs_m": 1.08,
       "tp_s": 10.53,
-      "dp_deg": 43,
+      "dp_deg": 36,
       "sst_c": 28.6
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.23,
-      "tp_s": 8.33,
-      "dp_deg": 37,
-      "sst_c": 25.2
+      "hs_m": 2.32,
+      "tp_s": 9.88,
+      "dp_deg": 3,
+      "sst_c": 25.5
     },
     {
       "timestamp": "04.11.2025-20:00:00",
@@ -158,27 +158,27 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.58,
-      "tp_s": 9.09,
-      "dp_deg": 30,
+      "hs_m": 2.85,
+      "tp_s": 8.33,
+      "dp_deg": 40,
       "sst_c": 25
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 2.63,
+      "hs_m": 2.6,
       "tp_s": 8.33,
-      "dp_deg": 51,
+      "dp_deg": 45,
       "sst_c": 24.4
     },
     {
@@ -278,14 +278,14 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.8,
-      "tp_s": 10.53,
+      "hs_m": 0.77,
+      "tp_s": 9.09,
       "dp_deg": 288,
       "sst_c": 16.1
     },
@@ -362,7 +362,7 @@
       "sst_c": 17
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -370,8 +370,8 @@
       "depth_cm": 30300,
       "hs_m": 0.87,
       "tp_s": 18.18,
-      "dp_deg": 178,
-      "sst_c": 16.8
+      "dp_deg": 184,
+      "sst_c": 16.6
     },
     {
       "timestamp": "04.11.2025-20:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.73,
+      "hs_m": 0.87,
       "tp_s": 11.76,
-      "dp_deg": 248,
-      "sst_c": 14.4
+      "dp_deg": 252,
+      "sst_c": 14.2
     },
     {
       "timestamp": "04.11.2025-19:30:00",
@@ -722,15 +722,15 @@
       "sst_c": 5.1
     },
     {
-      "timestamp": "04.11.2025-19:30:00",
+      "timestamp": "04.11.2025-20:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 0.51,
-      "tp_s": 3.03,
-      "dp_deg": 302,
+      "hs_m": 0.48,
+      "tp_s": 5,
+      "dp_deg": 218,
       "sst_c": 25
     },
     {
