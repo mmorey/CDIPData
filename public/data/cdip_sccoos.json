@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-11T09:34:29.455Z",
+  "last_updated": "2025-04-11T09:47:02.063Z",
   "data": [
     {
       "timestamp": "04.11.2025-08:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.95,
+      "hs_m": 0.97,
       "tp_s": 11.76,
-      "dp_deg": 33,
+      "dp_deg": 26,
       "sst_c": 28.7
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.06,
+      "hs_m": 1.02,
       "tp_s": 6.25,
-      "dp_deg": 140,
+      "dp_deg": 145,
       "sst_c": 25.1
     },
     {
@@ -158,13 +158,13 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41485,
       "longitude": -157.678817,
       "depth_cm": 8500,
-      "hs_m": 2.92,
+      "hs_m": 2.84,
       "tp_s": 9.09,
       "dp_deg": 30,
       "sst_c": 25
@@ -254,16 +254,16 @@
       "sst_c": 14.7
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.11,
-      "tp_s": 15.38,
-      "dp_deg": 212,
-      "sst_c": 16.7
+      "hs_m": 1.22,
+      "tp_s": 20,
+      "dp_deg": 195,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.11.2025-08:45:00",
@@ -326,28 +326,28 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.179416,
       "longitude": -117.471283,
       "depth_cm": 22200,
-      "hs_m": 0.79,
+      "hs_m": 0.81,
       "tp_s": 15.38,
-      "dp_deg": 205,
+      "dp_deg": 204,
       "sst_c": 15.5
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.1,
-      "tp_s": 10.53,
-      "dp_deg": 292,
-      "sst_c": 12.6
+      "hs_m": 2.08,
+      "tp_s": 11.11,
+      "dp_deg": 289,
+      "sst_c": 12.8
     },
     {
       "timestamp": "04.11.2025-08:00:00",
@@ -362,27 +362,27 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.75,
-      "tp_s": 20,
-      "dp_deg": 193,
+      "hs_m": 0.79,
+      "tp_s": 15.38,
+      "dp_deg": 197,
       "sst_c": 15.7
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
       "hs_m": 1.03,
-      "tp_s": 11.76,
-      "dp_deg": 258,
+      "tp_s": 5.88,
+      "dp_deg": 265,
       "sst_c": 13.5
     },
     {
@@ -566,16 +566,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 1.46,
-      "tp_s": 11.76,
-      "dp_deg": 304,
-      "sst_c": 11.4
+      "hs_m": 1.5,
+      "tp_s": 11.11,
+      "dp_deg": 320,
+      "sst_c": 11.5
     },
     {
       "timestamp": "04.10.2025-15:30:00",
@@ -734,15 +734,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.83,
-      "tp_s": 4.35,
-      "dp_deg": 352,
+      "hs_m": 0.82,
+      "tp_s": 4.76,
+      "dp_deg": 10,
       "sst_c": 23.8
     },
     {
@@ -818,13 +818,13 @@
       "sst_c": 22.8
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.37,
+      "hs_m": 1.42,
       "tp_s": 9.88,
       "dp_deg": 76,
       "sst_c": 21.1
@@ -998,16 +998,16 @@
       "sst_c": 7.1
     },
     {
-      "timestamp": "04.11.2025-08:30:00",
+      "timestamp": "04.11.2025-09:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.8,
-      "tp_s": 3.23,
-      "dp_deg": 118,
-      "sst_c": 5.5
+      "hs_m": 0.86,
+      "tp_s": 3.7,
+      "dp_deg": 129,
+      "sst_c": 5.4
     },
     {
       "timestamp": "04.11.2025-08:30:00",
