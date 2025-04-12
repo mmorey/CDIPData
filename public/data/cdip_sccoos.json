@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-12T14:33:36.929Z",
+  "last_updated": "2025-04-12T14:47:03.376Z",
   "data": [
     {
       "timestamp": "04.12.2025-13:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.52,
+      "hs_m": 2.65,
       "tp_s": 8.33,
-      "dp_deg": 91,
-      "sst_c": 29.4
+      "dp_deg": 96,
+      "sst_c": 29.5
     },
     {
       "timestamp": "04.12.2025-13:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.33,
-      "tp_s": 10.53,
-      "dp_deg": 65,
+      "hs_m": 1.36,
+      "tp_s": 9.88,
+      "dp_deg": 83,
       "sst_c": 28.6
     },
     {
@@ -86,27 +86,27 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.85,
-      "tp_s": 7.69,
-      "dp_deg": 42,
+      "hs_m": 0.86,
+      "tp_s": 10.53,
+      "dp_deg": 48,
       "sst_c": 28.6
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.28,
+      "hs_m": 2.17,
       "tp_s": 9.09,
-      "dp_deg": 28,
+      "dp_deg": 34,
       "sst_c": 25.4
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.43,
+      "hs_m": 1.53,
       "tp_s": 16.67,
-      "dp_deg": 198,
-      "sst_c": 16.1
+      "dp_deg": 190,
+      "sst_c": 16.2
     },
     {
       "timestamp": "04.12.2025-13:45:00",
@@ -290,7 +290,7 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
@@ -298,8 +298,8 @@
       "depth_cm": 57196,
       "hs_m": 1.54,
       "tp_s": 16.67,
-      "dp_deg": 194,
-      "sst_c": 15.4
+      "dp_deg": 204,
+      "sst_c": 15.5
     },
     {
       "timestamp": "04.12.2025-14:00:00",
@@ -338,16 +338,16 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.17846,
       "longitude": -117.47215,
       "depth_cm": 22300,
-      "hs_m": 1.45,
-      "tp_s": 15.38,
-      "dp_deg": 191,
-      "sst_c": 16.6
+      "hs_m": 1.39,
+      "tp_s": 16.67,
+      "dp_deg": 195,
+      "sst_c": 16.5
     },
     {
       "timestamp": "04.12.2025-14:00:00",
@@ -374,15 +374,15 @@
       "sst_c": 14.7
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.35,
+      "hs_m": 1.31,
       "tp_s": 16.67,
-      "dp_deg": 198,
+      "dp_deg": 187,
       "sst_c": 15.5
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.38,
-      "tp_s": 16.67,
-      "dp_deg": 205,
+      "hs_m": 1.4,
+      "tp_s": 18.18,
+      "dp_deg": 298,
       "sst_c": 15.5
     },
     {
@@ -470,15 +470,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.8,
-      "tp_s": 9.88,
-      "dp_deg": 313,
+      "hs_m": 4.02,
+      "tp_s": 9.09,
+      "dp_deg": 312,
       "sst_c": 12.7
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.32,
+      "hs_m": 1.39,
       "tp_s": 10.53,
-      "dp_deg": 257,
-      "sst_c": 13.9
+      "dp_deg": 260,
+      "sst_c": 13.8
     },
     {
       "timestamp": "04.12.2025-13:30:00",
@@ -614,15 +614,15 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "04.12.2025-13:30:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.64,
+      "hs_m": 2.42,
       "tp_s": 9.88,
-      "dp_deg": 303,
+      "dp_deg": 299,
       "sst_c": 10.9
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 5.6
     },
     {
-      "timestamp": "04.12.2025-13:00:00",
+      "timestamp": "04.12.2025-14:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 2.31,
+      "hs_m": 2.42,
       "tp_s": 6.67,
-      "dp_deg": 117,
+      "dp_deg": 116,
       "sst_c": 5.1
     },
     {
