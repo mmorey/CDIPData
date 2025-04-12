@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-12T21:32:33.152Z",
+  "last_updated": "2025-04-12T21:46:53.435Z",
   "data": [
     {
       "timestamp": "04.12.2025-20:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.54,
-      "tp_s": 13.33,
-      "dp_deg": 193,
+      "hs_m": 2.77,
+      "tp_s": 8.33,
+      "dp_deg": 101,
       "sst_c": 29.6
     },
     {
@@ -62,15 +62,15 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.15,
+      "hs_m": 1.12,
       "tp_s": 9.88,
-      "dp_deg": 84,
+      "dp_deg": 75,
       "sst_c": 28.5
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.74,
-      "tp_s": 9.09,
-      "dp_deg": 46,
+      "hs_m": 0.75,
+      "tp_s": 10.53,
+      "dp_deg": 50,
       "sst_c": 28.5
     },
     {
@@ -230,13 +230,13 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.8,
+      "hs_m": 1.9,
       "tp_s": 15.38,
       "dp_deg": 192,
       "sst_c": 16.6
@@ -254,15 +254,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.76,
+      "hs_m": 1.84,
       "tp_s": 15.38,
-      "dp_deg": 194,
+      "dp_deg": 198,
       "sst_c": 16.4
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.23,
+      "hs_m": 1.19,
       "tp_s": 15.38,
-      "dp_deg": 240,
+      "dp_deg": 233,
       "sst_c": 16.2
     },
     {
@@ -374,16 +374,16 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.14,
-      "tp_s": 16.67,
-      "dp_deg": 177,
-      "sst_c": 16.8
+      "hs_m": 1.1,
+      "tp_s": 15.38,
+      "dp_deg": 184,
+      "sst_c": 16.7
     },
     {
       "timestamp": "04.12.2025-21:00:00",
@@ -398,28 +398,28 @@
       "sst_c": 15.3
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.31,
-      "tp_s": 7.69,
-      "dp_deg": 273,
-      "sst_c": 15.2
+      "hs_m": 1.26,
+      "tp_s": 9.88,
+      "dp_deg": 268,
+      "sst_c": 15
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.23,
+      "hs_m": 1.52,
       "tp_s": 15.38,
-      "dp_deg": 271,
-      "sst_c": 15.8
+      "dp_deg": 202,
+      "sst_c": 16.1
     },
     {
       "timestamp": "04.12.2025-20:30:00",
@@ -458,15 +458,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 3.47,
+      "hs_m": 3.37,
       "tp_s": 10.53,
-      "dp_deg": 312,
+      "dp_deg": 305,
       "sst_c": 11.5
     },
     {
@@ -518,27 +518,27 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 2.55,
-      "tp_s": 10.53,
+      "hs_m": 2.48,
+      "tp_s": 9.88,
       "dp_deg": 294,
       "sst_c": 11.5
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.76,
-      "tp_s": 11.76,
-      "dp_deg": 252,
+      "hs_m": 1.72,
+      "tp_s": 11.11,
+      "dp_deg": 256,
       "sst_c": 13.8
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 4.05,
+      "hs_m": 4.44,
       "tp_s": 9.88,
-      "dp_deg": 311,
+      "dp_deg": 315,
       "sst_c": 10.2
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.73,
-      "tp_s": 11.11,
-      "dp_deg": 280,
+      "hs_m": 1.68,
+      "tp_s": 12.5,
+      "dp_deg": 284,
       "sst_c": 11.4
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "04.12.2025-20:30:00",
+      "timestamp": "04.12.2025-21:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.73,
-      "tp_s": 5,
-      "dp_deg": 41,
+      "hs_m": 0.74,
+      "tp_s": 4.76,
+      "dp_deg": 46,
       "sst_c": 21
     },
     {
