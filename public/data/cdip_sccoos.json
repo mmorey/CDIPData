@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-13T10:36:21.670Z",
+  "last_updated": "2025-04-13T10:47:05.824Z",
   "data": [
     {
       "timestamp": "04.13.2025-09:00:00",
@@ -98,15 +98,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.37,
+      "hs_m": 2.43,
       "tp_s": 9.09,
-      "dp_deg": 52,
+      "dp_deg": 62,
       "sst_c": 25.5
     },
     {
@@ -146,14 +146,14 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.56,
-      "tp_s": 7.14,
+      "hs_m": 1.45,
+      "tp_s": 7.69,
       "dp_deg": 165,
       "sst_c": 25.3
     },
@@ -254,16 +254,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.7,
+      "hs_m": 1.67,
       "tp_s": 15.38,
-      "dp_deg": 209,
-      "sst_c": 16
+      "dp_deg": 205,
+      "sst_c": 15.9
     },
     {
       "timestamp": "04.13.2025-09:45:00",
@@ -374,15 +374,15 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.09,
+      "hs_m": 1.08,
       "tp_s": 15.38,
-      "dp_deg": 195,
+      "dp_deg": 194,
       "sst_c": 15.9
     },
     {
@@ -398,7 +398,7 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
@@ -406,8 +406,8 @@
       "depth_cm": 47652,
       "hs_m": 1.59,
       "tp_s": 11.11,
-      "dp_deg": 273,
-      "sst_c": 14.4
+      "dp_deg": 277,
+      "sst_c": 14.3
     },
     {
       "timestamp": "04.13.2025-09:30:00",
@@ -698,15 +698,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "04.13.2025-09:00:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.42,
-      "tp_s": 10.53,
-      "dp_deg": 279,
+      "hs_m": 1.45,
+      "tp_s": 9.09,
+      "dp_deg": 285,
       "sst_c": 10.8
     },
     {
@@ -1022,16 +1022,16 @@
       "sst_c": 5.4
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 1.19,
-      "tp_s": 4.76,
-      "dp_deg": 42,
-      "sst_c": 6.3
+      "hs_m": 1.22,
+      "tp_s": 5,
+      "dp_deg": 40,
+      "sst_c": 6.2
     },
     {
       "timestamp": "04.13.2025-09:30:00",
@@ -1046,15 +1046,15 @@
       "sst_c": 5.8
     },
     {
-      "timestamp": "04.13.2025-09:30:00",
+      "timestamp": "04.13.2025-10:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 2.64,
+      "hs_m": 2.91,
       "tp_s": 9.09,
-      "dp_deg": 96,
+      "dp_deg": 98,
       "sst_c": 5
     },
     {
