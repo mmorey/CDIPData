@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-14T16:37:58.934Z",
+  "last_updated": "2025-04-14T16:50:27.256Z",
   "data": [
     {
       "timestamp": "04.14.2025-15:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.88,
-      "tp_s": 10.53,
-      "dp_deg": 31,
+      "hs_m": 0.91,
+      "tp_s": 7.69,
+      "dp_deg": 30,
       "sst_c": 28.6
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.15,
-      "tp_s": 7.69,
-      "dp_deg": 143,
+      "hs_m": 1.14,
+      "tp_s": 6.67,
+      "dp_deg": 146,
       "sst_c": 25
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
       "hs_m": 1.32,
-      "tp_s": 8.33,
-      "dp_deg": 41,
+      "tp_s": 16.67,
+      "dp_deg": 316,
       "sst_c": 24.8
     },
     {
@@ -230,16 +230,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.14.2025-15:00:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.47,
+      "hs_m": 1.3,
       "tp_s": 14.29,
-      "dp_deg": 199,
-      "sst_c": 15.5
+      "dp_deg": 192,
+      "sst_c": 15.4
     },
     {
       "timestamp": "04.14.2025-15:30:00",
@@ -374,15 +374,15 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.05,
+      "hs_m": 1.03,
       "tp_s": 14.29,
-      "dp_deg": 195,
+      "dp_deg": 194,
       "sst_c": 15.7
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
       "hs_m": 0.6,
-      "tp_s": 10.53,
-      "dp_deg": 345,
+      "tp_s": 11.76,
+      "dp_deg": 348,
       "sst_c": 13.1
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
       "hs_m": 0.7,
-      "tp_s": 13.33,
-      "dp_deg": 213,
+      "tp_s": 10.53,
+      "dp_deg": 252,
       "sst_c": 13.3
     },
     {
@@ -638,27 +638,27 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.8,
-      "tp_s": 9.09,
-      "dp_deg": 282,
-      "sst_c": 10.8
+      "hs_m": 1.69,
+      "tp_s": 9.88,
+      "dp_deg": 284,
+      "sst_c": 10.9
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.38,
+      "hs_m": 1.41,
       "tp_s": 10.53,
-      "dp_deg": 281,
+      "dp_deg": 280,
       "sst_c": 11.1
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 5.1
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
       "hs_m": 0.8,
-      "tp_s": 5.56,
+      "tp_s": 6.25,
       "dp_deg": 92,
-      "sst_c": 25.6
+      "sst_c": 25.7
     },
     {
       "timestamp": "04.14.2025-16:00:00",
@@ -794,16 +794,16 @@
       "sst_c": 22.5
     },
     {
-      "timestamp": "04.14.2025-15:30:00",
+      "timestamp": "04.14.2025-16:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.65,
-      "tp_s": 10.53,
-      "dp_deg": 52,
-      "sst_c": 22.6
+      "hs_m": 0.67,
+      "tp_s": 9.88,
+      "dp_deg": 44,
+      "sst_c": 22.8
     },
     {
       "timestamp": "04.14.2025-16:00:00",
