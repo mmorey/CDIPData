@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-14T17:34:33.965Z",
+  "last_updated": "2025-04-14T17:47:02.519Z",
   "data": [
     {
       "timestamp": "04.14.2025-16:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.53,
-      "tp_s": 5.56,
-      "dp_deg": 82,
+      "hs_m": 1.54,
+      "tp_s": 5.88,
+      "dp_deg": 86,
       "sst_c": 28.7
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.81,
-      "tp_s": 6.67,
-      "dp_deg": 172,
+      "hs_m": 0.82,
+      "tp_s": 7.69,
+      "dp_deg": 174,
       "sst_c": 25.3
     },
     {
@@ -278,27 +278,27 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.73,
-      "tp_s": 6.67,
-      "dp_deg": 274,
+      "hs_m": 0.72,
+      "tp_s": 11.76,
+      "dp_deg": 287,
       "sst_c": 16.5
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.04,
+      "hs_m": 1.08,
       "tp_s": 14.29,
-      "dp_deg": 209,
+      "dp_deg": 201,
       "sst_c": 15.9
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.94,
+      "hs_m": 0.99,
       "tp_s": 14.29,
-      "dp_deg": 188,
-      "sst_c": 15.7
+      "dp_deg": 192,
+      "sst_c": 15.8
     },
     {
       "timestamp": "04.14.2025-16:30:00",
@@ -386,15 +386,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.97,
-      "tp_s": 11.76,
-      "dp_deg": 266,
+      "hs_m": 0.87,
+      "tp_s": 9.88,
+      "dp_deg": 278,
       "sst_c": 14.1
     },
     {
@@ -518,16 +518,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.81,
-      "tp_s": 11.11,
-      "dp_deg": 253,
-      "sst_c": 13.4
+      "hs_m": 0.82,
+      "tp_s": 10.53,
+      "dp_deg": 259,
+      "sst_c": 13.2
     },
     {
       "timestamp": "04.14.2025-16:30:00",
@@ -602,15 +602,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.56,
-      "tp_s": 10.53,
-      "dp_deg": 278,
+      "hs_m": 1.52,
+      "tp_s": 9.09,
+      "dp_deg": 282,
       "sst_c": 10.9
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "04.14.2025-16:00:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.69,
-      "tp_s": 9.88,
-      "dp_deg": 284,
+      "hs_m": 1.49,
+      "tp_s": 10.53,
+      "dp_deg": 281,
       "sst_c": 10.9
     },
     {
@@ -818,16 +818,16 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
       "hs_m": 0.36,
-      "tp_s": 9.09,
-      "dp_deg": 77,
-      "sst_c": 21.5
+      "tp_s": 11.11,
+      "dp_deg": 72,
+      "sst_c": 22.4
     },
     {
       "timestamp": "04.14.2025-17:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 18.7
     },
     {
-      "timestamp": "04.14.2025-16:30:00",
+      "timestamp": "04.14.2025-17:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.85,
+      "hs_m": 0.92,
       "tp_s": 7.69,
-      "dp_deg": 55,
-      "sst_c": 12.8
+      "dp_deg": 53,
+      "sst_c": 12.9
     },
     {
       "timestamp": "04.14.2025-17:00:00",
