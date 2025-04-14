@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-14T22:35:22.433Z",
+  "last_updated": "2025-04-14T22:47:06.764Z",
   "data": [
     {
       "timestamp": "04.14.2025-21:30:00",
@@ -86,14 +86,14 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.02,
-      "tp_s": 7.69,
+      "hs_m": 1.03,
+      "tp_s": 9.09,
       "dp_deg": 38,
       "sst_c": 28.5
     },
@@ -278,14 +278,14 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.67,
-      "tp_s": 9.88,
+      "hs_m": 0.66,
+      "tp_s": 10.53,
       "dp_deg": 291,
       "sst_c": 16.9
     },
@@ -362,16 +362,16 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.03,
-      "tp_s": 14.29,
-      "dp_deg": 177,
-      "sst_c": 16.8
+      "hs_m": 1.04,
+      "tp_s": 18.18,
+      "dp_deg": 165,
+      "sst_c": 16.6
     },
     {
       "timestamp": "04.14.2025-22:00:00",
@@ -386,16 +386,16 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "04.14.2025-21:00:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.96,
-      "tp_s": 9.09,
-      "dp_deg": 268,
-      "sst_c": 14.8
+      "hs_m": 0.9,
+      "tp_s": 18.18,
+      "dp_deg": 166,
+      "sst_c": 15
     },
     {
       "timestamp": "04.14.2025-22:00:00",
@@ -446,16 +446,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.68,
-      "tp_s": 14.29,
-      "dp_deg": 174,
-      "sst_c": 12.1
+      "hs_m": 1.61,
+      "tp_s": 10.53,
+      "dp_deg": 303,
+      "sst_c": 12.2
     },
     {
       "timestamp": "04.14.2025-22:00:00",
@@ -518,15 +518,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.82,
+      "hs_m": 0.84,
       "tp_s": 11.11,
-      "dp_deg": 255,
+      "dp_deg": 256,
       "sst_c": 13.5
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.2,
+      "hs_m": 2.01,
       "tp_s": 11.11,
-      "dp_deg": 290,
+      "dp_deg": 293,
       "sst_c": 10.4
     },
     {
@@ -674,28 +674,28 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "04.14.2025-21:00:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.2,
-      "tp_s": 10.53,
-      "dp_deg": 274,
-      "sst_c": 10.9
+      "hs_m": 1.27,
+      "tp_s": 9.88,
+      "dp_deg": 277,
+      "sst_c": 11
     },
     {
-      "timestamp": "04.14.2025-21:30:00",
+      "timestamp": "04.14.2025-22:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.53,
-      "tp_s": 9.09,
-      "dp_deg": 294,
-      "sst_c": 9.8
+      "hs_m": 0.55,
+      "tp_s": 9.88,
+      "dp_deg": 297,
+      "sst_c": 9.7
     },
     {
       "timestamp": "04.14.2025-21:30:00",
