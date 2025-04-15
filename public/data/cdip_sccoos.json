@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-15T22:35:25.715Z",
+  "last_updated": "2025-04-15T22:46:55.247Z",
   "data": [
     {
       "timestamp": "04.15.2025-21:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.15.2025-21:00:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.44,
+      "hs_m": 1.51,
       "tp_s": 12.5,
-      "dp_deg": 310,
+      "dp_deg": 318,
       "sst_c": 28.6
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
       "hs_m": 1.4,
-      "tp_s": 8.33,
-      "dp_deg": 166,
+      "tp_s": 7.14,
+      "dp_deg": 170,
       "sst_c": 25.6
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.79,
+      "hs_m": 0.77,
       "tp_s": 15.38,
-      "dp_deg": 177,
+      "dp_deg": 171,
       "sst_c": 16.4
     },
     {
@@ -446,16 +446,16 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.35,
+      "hs_m": 1.28,
       "tp_s": 15.38,
-      "dp_deg": 178,
-      "sst_c": 12.2
+      "dp_deg": 188,
+      "sst_c": 12.4
     },
     {
       "timestamp": "04.15.2025-22:00:00",
@@ -506,28 +506,28 @@
       "sst_c": 12
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.12,
-      "tp_s": 9.09,
-      "dp_deg": 290,
+      "hs_m": 1.1,
+      "tp_s": 9.88,
+      "dp_deg": 289,
       "sst_c": 11.4
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.66,
+      "hs_m": 0.67,
       "tp_s": 14.29,
-      "dp_deg": 240,
-      "sst_c": 13.2
+      "dp_deg": 245,
+      "sst_c": 13.4
     },
     {
       "timestamp": "04.15.2025-21:30:00",
@@ -686,16 +686,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.98,
-      "tp_s": 10.53,
-      "dp_deg": 288,
-      "sst_c": 10.2
+      "hs_m": 1.43,
+      "tp_s": 9.88,
+      "dp_deg": 285,
+      "sst_c": 10.3
     },
     {
       "timestamp": "04.15.2025-21:30:00",
@@ -782,16 +782,16 @@
       "sst_c": 23
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.45,
-      "tp_s": 9.88,
-      "dp_deg": 73,
-      "sst_c": 23.2
+      "hs_m": 0.47,
+      "tp_s": 8.33,
+      "dp_deg": 65,
+      "sst_c": 23.3
     },
     {
       "timestamp": "04.15.2025-22:00:00",
@@ -911,7 +911,7 @@
       "hs_m": 0.61,
       "tp_s": 8.33,
       "dp_deg": 83,
-      "sst_c": null
+      "sst_c": 13
     },
     {
       "timestamp": "04.15.2025-21:30:00",
@@ -1034,16 +1034,16 @@
       "sst_c": 6.1
     },
     {
-      "timestamp": "04.15.2025-21:30:00",
+      "timestamp": "04.15.2025-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.93,
-      "tp_s": 3.57,
-      "dp_deg": 175,
-      "sst_c": 5.1
+      "hs_m": 1.07,
+      "tp_s": 4,
+      "dp_deg": 168,
+      "sst_c": 5.2
     },
     {
       "timestamp": "04.15.2025-22:00:00",
