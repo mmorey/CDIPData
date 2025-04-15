@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-15T14:36:46.629Z",
+  "last_updated": "2025-04-15T14:48:36.451Z",
   "data": [
     {
       "timestamp": "04.15.2025-13:30:00",
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 0.46,
-      "tp_s": 13.33,
-      "dp_deg": 278,
+      "tp_s": 9.88,
+      "dp_deg": 289,
       "sst_c": 16.2
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.86,
+      "hs_m": 0.91,
       "tp_s": 15.38,
-      "dp_deg": 195,
+      "dp_deg": 191,
       "sst_c": 15.8
     },
     {
@@ -398,16 +398,16 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.17,
+      "hs_m": 1.04,
       "tp_s": 16.67,
-      "dp_deg": 319,
-      "sst_c": 15.2
+      "dp_deg": 178,
+      "sst_c": 15.3
     },
     {
       "timestamp": "04.15.2025-14:00:00",
@@ -470,16 +470,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.08,
+      "hs_m": 1.1,
       "tp_s": 11.11,
-      "dp_deg": 264,
-      "sst_c": 11.3
+      "dp_deg": 255,
+      "sst_c": 11.2
     },
     {
       "timestamp": "04.15.2025-13:30:00",
@@ -506,15 +506,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.16,
+      "hs_m": 1.2,
       "tp_s": 10.53,
-      "dp_deg": 290,
+      "dp_deg": 289,
       "sst_c": 10.6
     },
     {
@@ -770,15 +770,15 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
-      "hs_m": 0.58,
-      "tp_s": 2.94,
-      "dp_deg": 293,
+      "hs_m": 0.73,
+      "tp_s": 3.23,
+      "dp_deg": 299,
       "sst_c": 22.2
     },
     {
@@ -866,27 +866,27 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.93,
-      "tp_s": 7.69,
-      "dp_deg": 202,
-      "sst_c": 14.1
+      "hs_m": 1.83,
+      "tp_s": 7.14,
+      "dp_deg": 203,
+      "sst_c": 14.3
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
       "hs_m": 1.18,
-      "tp_s": 8.33,
-      "dp_deg": 156,
+      "tp_s": 7.69,
+      "dp_deg": 165,
       "sst_c": 13.1
     },
     {
@@ -998,16 +998,16 @@
       "sst_c": 5.6
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.3871,
       "longitude": -71.032,
       "depth_cm": 2100,
-      "hs_m": 0.54,
-      "tp_s": 3.85,
-      "dp_deg": 197,
-      "sst_c": 6.8
+      "hs_m": 0.55,
+      "tp_s": 3.57,
+      "dp_deg": 191,
+      "sst_c": 6.7
     },
     {
       "timestamp": "04.15.2025-11:30:00",
@@ -1022,15 +1022,15 @@
       "sst_c": 6
     },
     {
-      "timestamp": "04.15.2025-13:30:00",
+      "timestamp": "04.15.2025-14:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.66,
-      "tp_s": 4,
-      "dp_deg": 158,
+      "hs_m": 0.68,
+      "tp_s": 3.7,
+      "dp_deg": 159,
       "sst_c": 5.1
     },
     {
