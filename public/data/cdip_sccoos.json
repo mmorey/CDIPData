@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-15T17:34:36.623Z",
+  "last_updated": "2025-04-15T17:46:55.054Z",
   "data": [
     {
       "timestamp": "04.15.2025-16:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.18,
+      "hs_m": 1.25,
       "tp_s": 12.5,
-      "dp_deg": 319,
+      "dp_deg": 314,
       "sst_c": 28.6
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.17,
-      "tp_s": 6.67,
-      "dp_deg": 144,
+      "hs_m": 1.13,
+      "tp_s": 7.14,
+      "dp_deg": 146,
       "sst_c": 25
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.58,
+      "hs_m": 1.54,
       "tp_s": 13.33,
-      "dp_deg": 317,
+      "dp_deg": 313,
       "sst_c": 24.9
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.98,
-      "tp_s": 15.38,
-      "dp_deg": 185,
+      "hs_m": 0.77,
+      "tp_s": 14.29,
+      "dp_deg": 188,
       "sst_c": 15.9
     },
     {
@@ -506,27 +506,27 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.16,
+      "hs_m": 1.18,
       "tp_s": 9.88,
-      "dp_deg": 291,
-      "sst_c": 10.8
+      "dp_deg": 293,
+      "sst_c": 10.7
     },
     {
-      "timestamp": "04.15.2025-16:00:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.83,
-      "tp_s": 15.38,
-      "dp_deg": 239,
+      "hs_m": 0.75,
+      "tp_s": 14.29,
+      "dp_deg": 242,
       "sst_c": 12.9
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.77,
+      "hs_m": 3.03,
       "tp_s": 11.76,
-      "dp_deg": 275,
+      "dp_deg": 277,
       "sst_c": 10.9
     },
     {
@@ -806,27 +806,27 @@
       "sst_c": 22.6
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
       "hs_m": 0.59,
-      "tp_s": 3.12,
-      "dp_deg": 270,
-      "sst_c": 21.6
+      "tp_s": 3.03,
+      "dp_deg": 263,
+      "sst_c": 21.7
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
       "hs_m": 0.58,
-      "tp_s": 2.63,
-      "dp_deg": 253,
+      "tp_s": 2.78,
+      "dp_deg": 245,
       "sst_c": 20.9
     },
     {
@@ -938,16 +938,16 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.58,
+      "hs_m": 0.55,
       "tp_s": 8.33,
-      "dp_deg": 131,
-      "sst_c": 14.6
+      "dp_deg": 134,
+      "sst_c": 14.1
     },
     {
       "timestamp": "04.15.2025-17:00:00",
@@ -986,16 +986,16 @@
       "sst_c": 6.9
     },
     {
-      "timestamp": "04.15.2025-16:30:00",
+      "timestamp": "04.15.2025-17:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.68,
-      "tp_s": 3.45,
-      "dp_deg": 211,
-      "sst_c": 5.6
+      "hs_m": 0.69,
+      "tp_s": 3.33,
+      "dp_deg": 214,
+      "sst_c": 5.7
     },
     {
       "timestamp": "04.15.2025-16:30:00",
