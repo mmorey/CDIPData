@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-17T20:34:22.367Z",
+  "last_updated": "2025-04-17T20:47:12.712Z",
   "data": [
     {
       "timestamp": "04.17.2025-19:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 2.15,
+      "hs_m": 1.78,
       "tp_s": 11.76,
-      "dp_deg": 339,
+      "dp_deg": 335,
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.63,
+      "hs_m": 1.69,
       "tp_s": 11.76,
-      "dp_deg": 4,
+      "dp_deg": 358,
       "sst_c": 28.5
     },
     {
@@ -242,27 +242,27 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.73,
-      "tp_s": 14.29,
-      "dp_deg": 263,
-      "sst_c": 15.6
+      "hs_m": 0,
+      "tp_s": 40,
+      "dp_deg": null,
+      "sst_c": null
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.82,
+      "hs_m": 0.89,
       "tp_s": 14.29,
-      "dp_deg": 226,
+      "dp_deg": 254,
       "sst_c": 15.9
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 0.69,
-      "tp_s": 14.29,
-      "dp_deg": 195,
-      "sst_c": 16.9
+      "tp_s": 15.38,
+      "dp_deg": 192,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.17.2025-20:00:00",
@@ -398,15 +398,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.88,
+      "hs_m": 0.82,
       "tp_s": 14.29,
-      "dp_deg": 199,
+      "dp_deg": 206,
       "sst_c": 15.3
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.92,
-      "tp_s": 12.5,
-      "dp_deg": 252,
+      "hs_m": 0.89,
+      "tp_s": 13.33,
+      "dp_deg": 248,
       "sst_c": 13.4
     },
     {
@@ -542,16 +542,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.87,
+      "hs_m": 0.78,
       "tp_s": 13.33,
-      "dp_deg": 248,
-      "sst_c": 14.3
+      "dp_deg": 247,
+      "sst_c": 14.1
     },
     {
       "timestamp": "04.17.2025-19:30:00",
@@ -818,16 +818,16 @@
       "sst_c": 22.9
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.38,
-      "tp_s": 6.67,
-      "dp_deg": 70,
-      "sst_c": 22.8
+      "hs_m": 0.39,
+      "tp_s": 8.33,
+      "dp_deg": 82,
+      "sst_c": 22.5
     },
     {
       "timestamp": "04.17.2025-20:00:00",
@@ -854,15 +854,15 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2108,
       "longitude": -76.9438,
       "depth_cm": 3048,
-      "hs_m": 0.43,
-      "tp_s": 5.88,
-      "dp_deg": 135,
+      "hs_m": 0.42,
+      "tp_s": 6.25,
+      "dp_deg": 119,
       "sst_c": 21
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 5.6
     },
     {
-      "timestamp": "04.17.2025-19:30:00",
+      "timestamp": "04.17.2025-20:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
       "hs_m": 0.98,
-      "tp_s": 10.53,
-      "dp_deg": 358,
+      "tp_s": 9.88,
+      "dp_deg": 2,
       "sst_c": 27.9
     }
   ]
