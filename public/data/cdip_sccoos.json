@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-17T17:35:10.938Z",
+  "last_updated": "2025-04-17T17:46:57.450Z",
   "data": [
     {
       "timestamp": "04.17.2025-16:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.73,
-      "tp_s": 8.33,
-      "dp_deg": 89,
+      "hs_m": 1.8,
+      "tp_s": 7.69,
+      "dp_deg": 91,
       "sst_c": 28.3
     },
     {
@@ -86,27 +86,27 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.17.2025-16:00:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.58,
-      "tp_s": 11.76,
-      "dp_deg": 344,
+      "hs_m": 1.56,
+      "tp_s": 11.11,
+      "dp_deg": 337,
       "sst_c": 28.5
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.37,
-      "tp_s": 8.33,
-      "dp_deg": 85,
+      "hs_m": 1.4,
+      "tp_s": 7.69,
+      "dp_deg": 90,
       "sst_c": 25.2
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.91,
-      "tp_s": 14.29,
-      "dp_deg": 264,
+      "hs_m": 0.99,
+      "tp_s": 15.38,
+      "dp_deg": 230,
       "sst_c": 16
     },
     {
@@ -278,40 +278,40 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.44,
-      "tp_s": 11.11,
-      "dp_deg": 291,
-      "sst_c": 15.6
+      "hs_m": 0.43,
+      "tp_s": 14.29,
+      "dp_deg": 292,
+      "sst_c": 15.8
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 0.8,
-      "tp_s": 15.38,
-      "dp_deg": 226,
-      "sst_c": 16.2
+      "hs_m": 0.85,
+      "tp_s": 14.29,
+      "dp_deg": 260,
+      "sst_c": 16.3
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.61,
+      "hs_m": 0.65,
       "tp_s": 14.29,
       "dp_deg": 270,
-      "sst_c": 15.5
+      "sst_c": 15.4
     },
     {
       "timestamp": "04.17.2025-17:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.73,
+      "hs_m": 0.7,
       "tp_s": 14.29,
       "dp_deg": 199,
-      "sst_c": 16
+      "sst_c": 16.1
     },
     {
       "timestamp": "04.17.2025-17:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.9,
+      "hs_m": 0.96,
       "tp_s": 13.33,
-      "dp_deg": 250,
-      "sst_c": 13
+      "dp_deg": 249,
+      "sst_c": 13.1
     },
     {
       "timestamp": "04.17.2025-16:30:00",
@@ -626,16 +626,16 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.21,
+      "hs_m": 2.24,
       "tp_s": 11.11,
-      "dp_deg": 303,
-      "sst_c": 10.3
+      "dp_deg": 315,
+      "sst_c": 10.4
     },
     {
       "timestamp": "04.17.2025-16:30:00",
@@ -1022,15 +1022,15 @@
       "sst_c": 6
     },
     {
-      "timestamp": "04.17.2025-16:30:00",
+      "timestamp": "04.17.2025-17:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.31,
-      "tp_s": 3.33,
-      "dp_deg": 332,
+      "hs_m": 0.3,
+      "tp_s": 3.57,
+      "dp_deg": 333,
       "sst_c": 7.6
     },
     {
