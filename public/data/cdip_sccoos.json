@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-18T13:38:19.476Z",
+  "last_updated": "2025-04-18T13:47:12.739Z",
   "data": [
     {
       "timestamp": "04.18.2025-12:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.6,
+      "hs_m": 1.52,
       "tp_s": 10.53,
-      "dp_deg": 351,
+      "dp_deg": 1,
       "sst_c": 28.6
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.81,
+      "hs_m": 0.84,
       "tp_s": 13.33,
-      "dp_deg": 268,
-      "sst_c": 15.4
+      "dp_deg": 267,
+      "sst_c": 15.3
     },
     {
       "timestamp": "04.18.2025-13:00:00",
@@ -386,15 +386,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.9,
+      "hs_m": 0.97,
       "tp_s": 12.5,
-      "dp_deg": 245,
+      "dp_deg": 248,
       "sst_c": 15
     },
     {
@@ -410,16 +410,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.76,
-      "tp_s": 15.38,
-      "dp_deg": 180,
-      "sst_c": 14.9
+      "hs_m": 0.8,
+      "tp_s": 13.33,
+      "dp_deg": 219,
+      "sst_c": 14.8
     },
     {
       "timestamp": "04.18.2025-12:30:00",
@@ -578,15 +578,15 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 1.94,
-      "tp_s": 11.11,
-      "dp_deg": 307,
+      "hs_m": 1.89,
+      "tp_s": 11.76,
+      "dp_deg": 287,
       "sst_c": 10.6
     },
     {
@@ -962,27 +962,27 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.754166,
       "longitude": -75.325,
       "depth_cm": 1637,
       "hs_m": 0.48,
-      "tp_s": 3.23,
-      "dp_deg": 190,
-      "sst_c": 10.8
+      "tp_s": 10.53,
+      "dp_deg": 147,
+      "sst_c": 10.9
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.32,
-      "tp_s": 2.13,
-      "dp_deg": 172,
+      "hs_m": 0.38,
+      "tp_s": 2.38,
+      "dp_deg": 174,
       "sst_c": 9.9
     },
     {
@@ -998,16 +998,16 @@
       "sst_c": 7.4
     },
     {
-      "timestamp": "04.18.2025-12:30:00",
+      "timestamp": "04.18.2025-13:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.63,
-      "tp_s": 5,
+      "hs_m": 0.65,
+      "tp_s": 5.26,
       "dp_deg": 218,
-      "sst_c": 6.3
+      "sst_c": 6.4
     },
     {
       "timestamp": "04.18.2025-12:30:00",
