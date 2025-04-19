@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-19T04:35:50.790Z",
+  "last_updated": "2025-04-19T04:47:56.501Z",
   "data": [
     {
       "timestamp": "04.19.2025-02:30:00",
@@ -74,19 +74,19 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.49,
-      "tp_s": 9.09,
-      "dp_deg": 30,
+      "hs_m": 1.4,
+      "tp_s": 9.88,
+      "dp_deg": 18,
       "sst_c": 29
     },
     {
-      "timestamp": "04.19.2025-03:00:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
@@ -94,8 +94,8 @@
       "depth_cm": 48768,
       "hs_m": 1.38,
       "tp_s": 9.88,
-      "dp_deg": 7,
-      "sst_c": 28.7
+      "dp_deg": 31,
+      "sst_c": 28.8
     },
     {
       "timestamp": "04.19.2025-03:30:00",
@@ -170,27 +170,27 @@
       "sst_c": 25
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.81,
+      "hs_m": 1.69,
       "tp_s": 12.5,
-      "dp_deg": 349,
+      "dp_deg": 350,
       "sst_c": 24.9
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.59,
-      "tp_s": 12.5,
-      "dp_deg": 343,
+      "hs_m": 1.49,
+      "tp_s": 11.76,
+      "dp_deg": 338,
       "sst_c": 24
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.94,
-      "tp_s": 11.76,
-      "dp_deg": 270,
-      "sst_c": 15.5
+      "hs_m": 0.9,
+      "tp_s": 11.11,
+      "dp_deg": 279,
+      "sst_c": 15.3
     },
     {
       "timestamp": "04.19.2025-04:00:00",
@@ -290,15 +290,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.76,
-      "tp_s": 11.76,
-      "dp_deg": 294,
+      "hs_m": 0.75,
+      "tp_s": 10.53,
+      "dp_deg": 289,
       "sst_c": 15.9
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.63,
+      "hs_m": 0.65,
       "tp_s": 14.29,
-      "dp_deg": 199,
+      "dp_deg": 191,
       "sst_c": 15
     },
     {
@@ -458,15 +458,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
       "hs_m": 1.35,
-      "tp_s": 11.11,
-      "dp_deg": 320,
+      "tp_s": 11.76,
+      "dp_deg": 295,
       "sst_c": 14.6
     },
     {
@@ -482,16 +482,16 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.01,
+      "hs_m": 0.95,
       "tp_s": 10.53,
-      "dp_deg": 278,
-      "sst_c": 11.4
+      "dp_deg": 274,
+      "sst_c": 13.6
     },
     {
       "timestamp": "04.19.2025-03:30:00",
@@ -530,15 +530,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "04.19.2025-03:30:00",
+      "timestamp": "04.19.2025-04:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.83,
-      "tp_s": 11.11,
-      "dp_deg": 253,
+      "hs_m": 0.85,
+      "tp_s": 10.53,
+      "dp_deg": 256,
       "sst_c": 13.5
     },
     {
