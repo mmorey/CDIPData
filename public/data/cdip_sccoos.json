@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-21T21:32:56.428Z",
+  "last_updated": "2025-04-21T21:47:01.530Z",
   "data": [
     {
       "timestamp": "04.21.2025-20:30:00",
@@ -74,27 +74,27 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "04.21.2025-20:00:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.1,
-      "tp_s": 9.88,
-      "dp_deg": 65,
+      "hs_m": 1.19,
+      "tp_s": 10.53,
+      "dp_deg": 58,
       "sst_c": 28.9
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.05,
+      "hs_m": 1.03,
       "tp_s": 9.88,
-      "dp_deg": 48,
+      "dp_deg": 53,
       "sst_c": 28.7
     },
     {
@@ -158,15 +158,15 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.51,
+      "hs_m": 1.58,
       "tp_s": 8.33,
-      "dp_deg": 50,
+      "dp_deg": 52,
       "sst_c": 25.1
     },
     {
@@ -230,28 +230,28 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 0.87,
-      "tp_s": 11.11,
-      "dp_deg": 266,
-      "sst_c": 16.9
+      "hs_m": 0.81,
+      "tp_s": 11.76,
+      "dp_deg": 267,
+      "sst_c": 17
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.78,
-      "tp_s": 11.76,
-      "dp_deg": 275,
-      "sst_c": 15.1
+      "hs_m": 0.74,
+      "tp_s": 11.11,
+      "dp_deg": 280,
+      "sst_c": 15.2
     },
     {
       "timestamp": "04.21.2025-21:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.8,
-      "tp_s": 11.11,
-      "dp_deg": 276,
-      "sst_c": 17
+      "hs_m": 0.78,
+      "tp_s": 13.33,
+      "dp_deg": 208,
+      "sst_c": 17.1
     },
     {
       "timestamp": "04.21.2025-21:00:00",
@@ -398,28 +398,28 @@
       "sst_c": 15
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.63,
-      "tp_s": 14.29,
-      "dp_deg": 206,
+      "hs_m": 0.6,
+      "tp_s": 13.33,
+      "dp_deg": 221,
       "sst_c": 14
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.91,
-      "tp_s": 11.76,
-      "dp_deg": 267,
-      "sst_c": 14.2
+      "hs_m": 0.92,
+      "tp_s": 12.5,
+      "dp_deg": 240,
+      "sst_c": 14.4
     },
     {
       "timestamp": "04.21.2025-21:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.82,
-      "tp_s": 11.76,
-      "dp_deg": 314,
+      "hs_m": 1.81,
+      "tp_s": 10.53,
+      "dp_deg": 316,
       "sst_c": 14.5
     },
     {
@@ -518,16 +518,16 @@
       "sst_c": 14
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.76,
-      "tp_s": 7.69,
-      "dp_deg": 271,
-      "sst_c": 13.8
+      "hs_m": 0.74,
+      "tp_s": 7.14,
+      "dp_deg": 273,
+      "sst_c": 13.6
     },
     {
       "timestamp": "04.21.2025-20:30:00",
@@ -818,16 +818,16 @@
       "sst_c": 23.2
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.86,
+      "hs_m": 0.85,
       "tp_s": 8.33,
-      "dp_deg": 115,
-      "sst_c": 22.4
+      "dp_deg": 114,
+      "sst_c": 22.3
     },
     {
       "timestamp": "04.21.2025-21:00:00",
@@ -878,15 +878,15 @@
       "sst_c": 20.5
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.03,
+      "hs_m": 0.99,
       "tp_s": 7.14,
-      "dp_deg": 68,
+      "dp_deg": 71,
       "sst_c": 21.5
     },
     {
@@ -962,27 +962,27 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
       "hs_m": 0.65,
-      "tp_s": 3.7,
-      "dp_deg": 122,
+      "tp_s": 4,
+      "dp_deg": 126,
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.21.2025-20:30:00",
+      "timestamp": "04.21.2025-21:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.77,
+      "hs_m": 0.82,
       "tp_s": 4,
-      "dp_deg": 76,
+      "dp_deg": 85,
       "sst_c": 8.9
     },
     {
