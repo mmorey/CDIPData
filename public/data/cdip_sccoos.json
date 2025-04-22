@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-22T15:35:04.762Z",
+  "last_updated": "2025-04-22T15:47:27.671Z",
   "data": [
     {
       "timestamp": "04.22.2025-14:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "04.22.2025-14:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.54,
-      "tp_s": 11.11,
-      "dp_deg": 136,
+      "hs_m": 2.45,
+      "tp_s": 11.76,
+      "dp_deg": 122,
       "sst_c": 29.5
     },
     {
@@ -86,16 +86,16 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.22.2025-14:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.91,
-      "tp_s": 9.09,
-      "dp_deg": 46,
-      "sst_c": 28.8
+      "hs_m": 0.97,
+      "tp_s": 10.53,
+      "dp_deg": 52,
+      "sst_c": 28.7
     },
     {
       "timestamp": "04.20.2025-06:30:00",
@@ -362,7 +362,7 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "04.22.2025-14:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -370,7 +370,7 @@
       "depth_cm": 30300,
       "hs_m": 0.65,
       "tp_s": 16.67,
-      "dp_deg": 204,
+      "dp_deg": 205,
       "sst_c": 16.2
     },
     {
@@ -398,16 +398,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.22.2025-14:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.57,
-      "tp_s": 13.33,
-      "dp_deg": 185,
-      "sst_c": 13.7
+      "hs_m": 0.53,
+      "tp_s": 20,
+      "dp_deg": 208,
+      "sst_c": 13.8
     },
     {
       "timestamp": "04.22.2025-15:00:00",
@@ -470,16 +470,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "04.22.2025-14:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.25,
+      "hs_m": 1.16,
       "tp_s": 10.53,
-      "dp_deg": 283,
-      "sst_c": 11.5
+      "dp_deg": 295,
+      "sst_c": 11.9
     },
     {
       "timestamp": "04.22.2025-14:30:00",
@@ -626,16 +626,16 @@
       "sst_c": 9.3
     },
     {
-      "timestamp": "04.22.2025-13:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.81,
-      "tp_s": 9.09,
-      "dp_deg": 312,
-      "sst_c": 9.6
+      "hs_m": 1.77,
+      "tp_s": 7.69,
+      "dp_deg": 310,
+      "sst_c": 9.4
     },
     {
       "timestamp": "04.22.2025-14:30:00",
@@ -818,16 +818,16 @@
       "sst_c": 23.3
     },
     {
-      "timestamp": "04.22.2025-14:00:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.72,
-      "tp_s": 8.33,
+      "hs_m": 0.73,
+      "tp_s": 7.69,
       "dp_deg": 108,
-      "sst_c": 22.5
+      "sst_c": 22.6
     },
     {
       "timestamp": "04.22.2025-15:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 20.2
     },
     {
-      "timestamp": "04.22.2025-14:30:00",
+      "timestamp": "04.22.2025-15:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
       "hs_m": 0.82,
-      "tp_s": 4.17,
-      "dp_deg": 195,
-      "sst_c": 22.4
+      "tp_s": 4.35,
+      "dp_deg": 201,
+      "sst_c": 22.5
     },
     {
       "timestamp": "04.22.2025-15:00:00",
