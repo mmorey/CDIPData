@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-25T15:34:41.918Z",
+  "last_updated": "2025-04-25T15:47:14.023Z",
   "data": [
     {
       "timestamp": "04.25.2025-14:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
       "hs_m": 1.18,
-      "tp_s": 14.29,
-      "dp_deg": 359,
+      "tp_s": 13.33,
+      "dp_deg": 14,
       "sst_c": 28.9
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
       "hs_m": 1.01,
-      "tp_s": 16.67,
-      "dp_deg": 186,
+      "tp_s": 12.5,
+      "dp_deg": 182,
       "sst_c": 25.5
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.17,
+      "hs_m": 1.23,
       "tp_s": 15.38,
-      "dp_deg": 192,
+      "dp_deg": 201,
       "sst_c": 16.5
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.99,
-      "tp_s": 15.38,
-      "dp_deg": 201,
+      "hs_m": 0.92,
+      "tp_s": 14.29,
+      "dp_deg": 199,
       "sst_c": 16.6
     },
     {
@@ -422,15 +422,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.17,
+      "hs_m": 1.12,
       "tp_s": 15.38,
-      "dp_deg": 199,
+      "dp_deg": 198,
       "sst_c": 15.5
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.53,
-      "tp_s": 13.33,
-      "dp_deg": 238,
+      "hs_m": 0.6,
+      "tp_s": 12.5,
+      "dp_deg": 240,
       "sst_c": 13.2
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 1.15,
+      "hs_m": 1.13,
       "tp_s": 11.76,
-      "dp_deg": 293,
+      "dp_deg": 295,
       "sst_c": 9.6
     },
     {
@@ -866,16 +866,16 @@
       "sst_c": 22
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.15,
+      "hs_m": 1.09,
       "tp_s": 9.09,
-      "dp_deg": 119,
-      "sst_c": 22.1
+      "dp_deg": 116,
+      "sst_c": 22.3
     },
     {
       "timestamp": "04.25.2025-15:00:00",
@@ -974,27 +974,27 @@
       "sst_c": 13
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.59,
+      "hs_m": 0.64,
       "tp_s": 8.33,
-      "dp_deg": 129,
-      "sst_c": 10.6
+      "dp_deg": 126,
+      "sst_c": 10.8
     },
     {
-      "timestamp": "04.25.2025-14:30:00",
+      "timestamp": "04.25.2025-15:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.92,
-      "tp_s": 8.33,
-      "dp_deg": 141,
+      "hs_m": 0.91,
+      "tp_s": 9.09,
+      "dp_deg": 146,
       "sst_c": 8.9
     },
     {
