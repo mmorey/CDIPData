@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-25T13:37:22.979Z",
+  "last_updated": "2025-04-25T13:47:38.208Z",
   "data": [
     {
       "timestamp": "04.25.2025-12:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.18,
-      "tp_s": 10.53,
-      "dp_deg": 19,
+      "hs_m": 1.13,
+      "tp_s": 14.29,
+      "dp_deg": 355,
       "sst_c": 28.9
     },
     {
@@ -158,15 +158,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.46,
-      "tp_s": 9.09,
-      "dp_deg": 53,
+      "hs_m": 1.39,
+      "tp_s": 7.69,
+      "dp_deg": 56,
       "sst_c": 25.3
     },
     {
@@ -254,15 +254,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
       "hs_m": 0.99,
-      "tp_s": 16.67,
-      "dp_deg": 212,
+      "tp_s": 15.38,
+      "dp_deg": 201,
       "sst_c": 16.6
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.83,
-      "tp_s": 5.56,
-      "dp_deg": 293,
+      "hs_m": 0.87,
+      "tp_s": 5.88,
+      "dp_deg": 288,
       "sst_c": 16
     },
     {
@@ -398,16 +398,16 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.74,
-      "tp_s": 15.38,
-      "dp_deg": 201,
-      "sst_c": 14.7
+      "hs_m": 0.75,
+      "tp_s": 14.29,
+      "dp_deg": 221,
+      "sst_c": 14.5
     },
     {
       "timestamp": "04.25.2025-13:00:00",
@@ -422,13 +422,13 @@
       "sst_c": 14
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.11,
+      "hs_m": 1.14,
       "tp_s": 15.38,
       "dp_deg": 199,
       "sst_c": 15.5
@@ -650,15 +650,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.8,
-      "tp_s": 9.88,
-      "dp_deg": 296,
+      "hs_m": 1.85,
+      "tp_s": 6.25,
+      "dp_deg": 319,
       "sst_c": 10.9
     },
     {
@@ -674,14 +674,14 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.68,
-      "tp_s": 9.09,
+      "hs_m": 1.53,
+      "tp_s": 7.69,
       "dp_deg": 292,
       "sst_c": 9.9
     },
@@ -770,15 +770,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
-      "hs_m": 0.97,
-      "tp_s": 5.26,
-      "dp_deg": 160,
+      "hs_m": 0.93,
+      "tp_s": 6.67,
+      "dp_deg": 165,
       "sst_c": 25.4
     },
     {
@@ -806,15 +806,15 @@
       "sst_c": 23.6
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.89,
+      "hs_m": 0.87,
       "tp_s": 9.09,
-      "dp_deg": 97,
+      "dp_deg": 90,
       "sst_c": 23.6
     },
     {
@@ -1010,15 +1010,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "04.25.2025-12:30:00",
+      "timestamp": "04.25.2025-13:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
       "hs_m": 0.2,
-      "tp_s": 2.44,
-      "dp_deg": 244,
+      "tp_s": 2.33,
+      "dp_deg": 251,
       "sst_c": 7.5
     },
     {
