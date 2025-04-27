@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-27T20:33:52.964Z",
+  "last_updated": "2025-04-27T20:47:06.991Z",
   "data": [
     {
       "timestamp": "04.27.2025-19:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 1.09,
+      "hs_m": 1.15,
       "tp_s": 11.76,
-      "dp_deg": 1,
+      "dp_deg": 2,
       "sst_c": 28.7
     },
     {
@@ -158,16 +158,16 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.18,
-      "tp_s": 8.33,
-      "dp_deg": 80,
-      "sst_c": 26.4
+      "hs_m": 1.12,
+      "tp_s": 7.69,
+      "dp_deg": 72,
+      "sst_c": 26.5
     },
     {
       "timestamp": "04.27.2025-20:00:00",
@@ -230,15 +230,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.46,
+      "hs_m": 1.56,
       "tp_s": 16.67,
-      "dp_deg": 199,
+      "dp_deg": 188,
       "sst_c": 16.7
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.92,
-      "tp_s": 8.33,
-      "dp_deg": 270,
-      "sst_c": 16.7
+      "hs_m": 1,
+      "tp_s": 7.69,
+      "dp_deg": 268,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.27.2025-20:00:00",
@@ -326,16 +326,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 1.22,
+      "hs_m": 1.27,
       "tp_s": 16.67,
-      "dp_deg": 195,
-      "sst_c": 16.8
+      "dp_deg": 191,
+      "sst_c": 16.9
     },
     {
       "timestamp": "04.27.2025-20:00:00",
@@ -410,16 +410,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.31,
-      "tp_s": 16.67,
-      "dp_deg": 198,
-      "sst_c": 14.6
+      "hs_m": 1.32,
+      "tp_s": 9.88,
+      "dp_deg": 276,
+      "sst_c": 14.7
     },
     {
       "timestamp": "04.27.2025-20:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.25,
-      "tp_s": 9.09,
-      "dp_deg": 299,
+      "hs_m": 2.21,
+      "tp_s": 10.53,
+      "dp_deg": 314,
       "sst_c": 12.5
     },
     {
@@ -554,26 +554,26 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.89,
-      "tp_s": 10.53,
-      "dp_deg": 287,
-      "sst_c": 12.2
+      "hs_m": 1.87,
+      "tp_s": 16.67,
+      "dp_deg": 234,
+      "sst_c": 12.1
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.77,
-      "tp_s": 9.09,
+      "hs_m": 2.94,
+      "tp_s": 9.88,
       "dp_deg": 315,
       "sst_c": 10.8
     },
@@ -602,16 +602,16 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.83,
+      "hs_m": 1.62,
       "tp_s": 9.09,
-      "dp_deg": 338,
-      "sst_c": 10.6
+      "dp_deg": 341,
+      "sst_c": 10.8
     },
     {
       "timestamp": "04.27.2025-20:00:00",
@@ -818,15 +818,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "04.27.2025-19:30:00",
+      "timestamp": "04.27.2025-20:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.74,
-      "tp_s": 9.09,
-      "dp_deg": 93,
+      "hs_m": 0.8,
+      "tp_s": 8.33,
+      "dp_deg": 97,
       "sst_c": 25.2
     },
     {
