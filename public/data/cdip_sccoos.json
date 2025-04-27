@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-27T09:32:56.409Z",
+  "last_updated": "2025-04-27T09:47:06.625Z",
   "data": [
     {
       "timestamp": "04.27.2025-08:30:00",
@@ -62,28 +62,28 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.25,
-      "tp_s": 6.67,
-      "dp_deg": 94,
+      "hs_m": 1.18,
+      "tp_s": 6.25,
+      "dp_deg": 96,
       "sst_c": 28.8
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.18,
-      "tp_s": 12.5,
-      "dp_deg": 14,
-      "sst_c": 29.1
+      "hs_m": 1.21,
+      "tp_s": 7.14,
+      "dp_deg": 66,
+      "sst_c": 29
     },
     {
       "timestamp": "04.27.2025-08:00:00",
@@ -110,15 +110,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.99,
-      "tp_s": 15.38,
-      "dp_deg": 242,
+      "hs_m": 1.05,
+      "tp_s": 14.29,
+      "dp_deg": 264,
       "sst_c": 26.2
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.03,
-      "tp_s": 18.18,
-      "dp_deg": 190,
+      "hs_m": 1.23,
+      "tp_s": 16.67,
+      "dp_deg": 196,
       "sst_c": 16
     },
     {
@@ -518,16 +518,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
       "hs_m": 1,
-      "tp_s": 7.69,
-      "dp_deg": 266,
-      "sst_c": 13.6
+      "tp_s": 9.09,
+      "dp_deg": 260,
+      "sst_c": 13.7
     },
     {
       "timestamp": "04.27.2025-08:30:00",
@@ -602,16 +602,16 @@
       "sst_c": 9.3
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.21,
-      "tp_s": 8.33,
-      "dp_deg": 320,
-      "sst_c": 10.1
+      "hs_m": 2.2,
+      "tp_s": 9.88,
+      "dp_deg": 323,
+      "sst_c": 10
     },
     {
       "timestamp": "04.27.2025-09:00:00",
@@ -650,27 +650,27 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.27,
+      "hs_m": 2.05,
       "tp_s": 9.09,
-      "dp_deg": 310,
-      "sst_c": 10.3
+      "dp_deg": 313,
+      "sst_c": 10.2
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.27,
-      "tp_s": 9.88,
-      "dp_deg": 315,
+      "hs_m": 2.3,
+      "tp_s": 9.09,
+      "dp_deg": 316,
       "sst_c": 10.4
     },
     {
@@ -890,28 +890,28 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 2.05,
-      "tp_s": 5.26,
-      "dp_deg": 356,
+      "hs_m": 2,
+      "tp_s": 5.88,
+      "dp_deg": 357,
       "sst_c": 16.9
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 2.15,
+      "hs_m": 2.01,
       "tp_s": 5.56,
-      "dp_deg": 348,
-      "sst_c": 15.8
+      "dp_deg": 350,
+      "sst_c": 15.7
     },
     {
       "timestamp": "04.27.2025-09:00:00",
@@ -986,15 +986,15 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 1.56,
-      "tp_s": 4.55,
-      "dp_deg": 316,
+      "hs_m": 1.57,
+      "tp_s": 4.35,
+      "dp_deg": 310,
       "sst_c": 10.4
     },
     {
@@ -1034,16 +1034,16 @@
       "sst_c": 7.5
     },
     {
-      "timestamp": "04.27.2025-08:30:00",
+      "timestamp": "04.27.2025-09:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.48,
-      "tp_s": 7.14,
-      "dp_deg": 151,
-      "sst_c": 7.3
+      "hs_m": 1.38,
+      "tp_s": 6.67,
+      "dp_deg": 152,
+      "sst_c": 7.2
     },
     {
       "timestamp": "04.27.2025-09:00:00",
