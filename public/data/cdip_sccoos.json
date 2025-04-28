@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-28T23:33:08.011Z",
+  "last_updated": "2025-04-28T23:46:55.364Z",
   "data": [
     {
       "timestamp": "04.28.2025-22:30:00",
@@ -86,16 +86,16 @@
       "sst_c": 29
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
-      "hs_m": 0.99,
+      "hs_m": 1.01,
       "tp_s": 7.69,
-      "dp_deg": 53,
-      "sst_c": 28.7
+      "dp_deg": 60,
+      "sst_c": 28.8
     },
     {
       "timestamp": "04.20.2025-06:30:00",
@@ -146,28 +146,28 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.04,
-      "tp_s": 10.53,
-      "dp_deg": 296,
-      "sst_c": 26
+      "hs_m": 1.09,
+      "tp_s": 11.11,
+      "dp_deg": 302,
+      "sst_c": 26.1
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.05,
+      "hs_m": 1.08,
       "tp_s": 8.33,
-      "dp_deg": 80,
-      "sst_c": 26.5
+      "dp_deg": 77,
+      "sst_c": 26.6
     },
     {
       "timestamp": "04.28.2025-23:00:00",
@@ -302,14 +302,14 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.22,
-      "tp_s": 18.18,
+      "hs_m": 1.17,
+      "tp_s": 15.38,
       "dp_deg": 239,
       "sst_c": 16.9
     },
@@ -362,16 +362,16 @@
       "sst_c": 17
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.29,
+      "hs_m": 1.34,
       "tp_s": 18.18,
-      "dp_deg": 188,
-      "sst_c": 16.9
+      "dp_deg": 190,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.28.2025-23:00:00",
@@ -614,7 +614,7 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
@@ -622,8 +622,8 @@
       "depth_cm": 19100,
       "hs_m": 1.18,
       "tp_s": 14.29,
-      "dp_deg": 271,
-      "sst_c": 10.5
+      "dp_deg": 284,
+      "sst_c": 10.8
     },
     {
       "timestamp": "04.28.2025-23:00:00",
@@ -782,16 +782,16 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
-      "longitude": -89.6493,
+      "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.57,
-      "tp_s": 3.7,
-      "dp_deg": 159,
-      "sst_c": 27.7
+      "hs_m": 0.55,
+      "tp_s": 2.94,
+      "dp_deg": 154,
+      "sst_c": 27.9
     },
     {
       "timestamp": "04.28.2025-23:00:00",
@@ -998,27 +998,27 @@
       "sst_c": 14
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.42,
-      "tp_s": 8.33,
-      "dp_deg": 120,
-      "sst_c": 13
+      "hs_m": 0.47,
+      "tp_s": 9.88,
+      "dp_deg": 60,
+      "sst_c": 12.5
     },
     {
-      "timestamp": "04.28.2025-22:30:00",
+      "timestamp": "04.28.2025-23:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.45,
-      "tp_s": 14.29,
-      "dp_deg": 95,
+      "hs_m": 0.44,
+      "tp_s": 13.33,
+      "dp_deg": 105,
       "sst_c": 12
     },
     {
