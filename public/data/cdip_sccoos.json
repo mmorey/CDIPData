@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-30T07:33:12.187Z",
+  "last_updated": "2025-04-30T07:47:07.635Z",
   "data": [
     {
       "timestamp": "04.30.2025-06:30:00",
@@ -158,15 +158,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.28,
+      "hs_m": 1.41,
       "tp_s": 8.33,
-      "dp_deg": 82,
+      "dp_deg": 85,
       "sst_c": 25.6
     },
     {
@@ -194,16 +194,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "04.30.2025-06:00:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 0.81,
-      "tp_s": 10.53,
-      "dp_deg": 314,
-      "sst_c": 26.7
+      "hs_m": 0.82,
+      "tp_s": 11.76,
+      "dp_deg": 325,
+      "sst_c": 26.6
     },
     {
       "timestamp": "04.30.2025-06:30:00",
@@ -230,15 +230,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.14,
-      "tp_s": 15.38,
-      "dp_deg": 199,
+      "hs_m": 1.19,
+      "tp_s": 16.67,
+      "dp_deg": 187,
       "sst_c": 16.8
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.08,
-      "tp_s": 16.67,
-      "dp_deg": 190,
-      "sst_c": 16.7
+      "hs_m": 1.2,
+      "tp_s": 15.38,
+      "dp_deg": 183,
+      "sst_c": 16.6
     },
     {
       "timestamp": "04.30.2025-07:00:00",
@@ -386,15 +386,15 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.83,
+      "hs_m": 0.84,
       "tp_s": 15.38,
-      "dp_deg": 173,
+      "dp_deg": 187,
       "sst_c": 16.5
     },
     {
@@ -446,27 +446,27 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2,
-      "tp_s": 16.67,
-      "dp_deg": 185,
+      "hs_m": 1.85,
+      "tp_s": 14.29,
+      "dp_deg": 219,
       "sst_c": 12.4
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.9,
+      "hs_m": 1.96,
       "tp_s": 9.09,
-      "dp_deg": 321,
+      "dp_deg": 320,
       "sst_c": 11.9
     },
     {
@@ -518,16 +518,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.8,
+      "hs_m": 0.82,
       "tp_s": 13.33,
-      "dp_deg": 249,
-      "sst_c": 13.9
+      "dp_deg": 242,
+      "sst_c": 14
     },
     {
       "timestamp": "04.30.2025-06:30:00",
@@ -542,16 +542,16 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.66,
-      "tp_s": 13.33,
-      "dp_deg": 243,
-      "sst_c": 13.6
+      "hs_m": 0.63,
+      "tp_s": 14.29,
+      "dp_deg": 227,
+      "sst_c": 13.7
     },
     {
       "timestamp": "04.30.2025-06:30:00",
@@ -578,15 +578,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.292152,
       "longitude": -124.74785,
       "depth_cm": 38400,
-      "hs_m": 1.8,
-      "tp_s": 16.67,
-      "dp_deg": 170,
+      "hs_m": 1.88,
+      "tp_s": 15.38,
+      "dp_deg": 194,
       "sst_c": 10.6
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.57,
-      "tp_s": 12.5,
-      "dp_deg": 289,
-      "sst_c": 10.6
+      "hs_m": 1.6,
+      "tp_s": 11.11,
+      "dp_deg": 295,
+      "sst_c": 10.5
     },
     {
       "timestamp": "04.30.2025-07:00:00",
@@ -650,16 +650,16 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.75,
-      "tp_s": 10.53,
-      "dp_deg": 292,
-      "sst_c": 10.9
+      "hs_m": 1.79,
+      "tp_s": 11.76,
+      "dp_deg": 286,
+      "sst_c": 10.8
     },
     {
       "timestamp": "04.30.2025-06:30:00",
@@ -734,15 +734,15 @@
       "sst_c": 5.9
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
       "hs_m": 1.19,
-      "tp_s": 5,
-      "dp_deg": 92,
+      "tp_s": 5.88,
+      "dp_deg": 83,
       "sst_c": 26.5
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.97,
-      "tp_s": 5.26,
-      "dp_deg": 161,
+      "hs_m": 0.93,
+      "tp_s": 5.88,
+      "dp_deg": 154,
       "sst_c": 26.3
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 24.1
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.07,
-      "tp_s": 7.69,
-      "dp_deg": 91,
+      "hs_m": 1.14,
+      "tp_s": 8.33,
+      "dp_deg": 84,
       "sst_c": 24
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "04.30.2025-06:30:00",
+      "timestamp": "04.30.2025-07:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.68,
+      "hs_m": 0.65,
       "tp_s": 9.09,
-      "dp_deg": 89,
+      "dp_deg": 85,
       "sst_c": 15.8
     },
     {
