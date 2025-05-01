@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-01T14:35:07.178Z",
+  "last_updated": "2025-05-01T14:47:05.083Z",
   "data": [
     {
       "timestamp": "05.01.2025-13:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.22,
+      "hs_m": 1.31,
       "tp_s": 7.69,
-      "dp_deg": 69,
+      "dp_deg": 77,
       "sst_c": 29
     },
     {
@@ -122,13 +122,13 @@
       "sst_c": 26
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.0185,
       "longitude": -156.4215,
       "depth_cm": 20000,
-      "hs_m": 1.61,
+      "hs_m": 1.58,
       "tp_s": 9.09,
       "dp_deg": 86,
       "sst_c": 25.3
@@ -194,15 +194,15 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "05.01.2025-13:00:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.11,
+      "hs_m": 1.22,
       "tp_s": 16.67,
-      "dp_deg": 332,
+      "dp_deg": 324,
       "sst_c": 25.9
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.96,
-      "tp_s": 14.29,
-      "dp_deg": 197,
-      "sst_c": 16.6
+      "hs_m": 1.05,
+      "tp_s": 15.38,
+      "dp_deg": 194,
+      "sst_c": 16.5
     },
     {
       "timestamp": "05.01.2025-13:45:00",
@@ -314,15 +314,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.54,
+      "hs_m": 0.53,
       "tp_s": 14.29,
-      "dp_deg": 226,
+      "dp_deg": 228,
       "sst_c": 17
     },
     {
@@ -362,27 +362,27 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 0.83,
-      "tp_s": 14.29,
-      "dp_deg": 192,
+      "tp_s": 15.38,
+      "dp_deg": 190,
       "sst_c": 16.5
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.71,
+      "hs_m": 0.75,
       "tp_s": 15.38,
-      "dp_deg": 185,
+      "dp_deg": 179,
       "sst_c": 16
     },
     {
@@ -542,15 +542,15 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.6,
-      "tp_s": 12.5,
-      "dp_deg": 230,
+      "hs_m": 0.62,
+      "tp_s": 11.76,
+      "dp_deg": 242,
       "sst_c": 14.3
     },
     {
@@ -614,15 +614,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.12,
-      "tp_s": 9.09,
-      "dp_deg": 317,
+      "hs_m": 1.11,
+      "tp_s": 15.38,
+      "dp_deg": 203,
       "sst_c": 9.9
     },
     {
@@ -698,16 +698,16 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.01,
+      "hs_m": 0.95,
       "tp_s": 8.33,
-      "dp_deg": 271,
-      "sst_c": 10.6
+      "dp_deg": 275,
+      "sst_c": 10.5
     },
     {
       "timestamp": "05.01.2025-13:30:00",
@@ -782,15 +782,15 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.05,
+      "hs_m": 1.01,
       "tp_s": 6.25,
-      "dp_deg": 157,
+      "dp_deg": 159,
       "sst_c": 26.3
     },
     {
@@ -878,16 +878,16 @@
       "sst_c": 21.1
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.56,
-      "tp_s": 6.67,
-      "dp_deg": 139,
-      "sst_c": 20.8
+      "hs_m": 0.57,
+      "tp_s": 4.17,
+      "dp_deg": 174,
+      "sst_c": 20.9
     },
     {
       "timestamp": "05.01.2025-14:00:00",
@@ -938,15 +938,15 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "05.01.2025-13:30:00",
+      "timestamp": "05.01.2025-14:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.45,
+      "hs_m": 0.42,
       "tp_s": 9.09,
-      "dp_deg": 104,
+      "dp_deg": 100,
       "sst_c": 15.4
     },
     {
