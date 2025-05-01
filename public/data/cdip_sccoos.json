@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-01T21:32:35.175Z",
+  "last_updated": "2025-05-01T21:47:06.788Z",
   "data": [
     {
       "timestamp": "05.01.2025-20:30:00",
@@ -62,14 +62,14 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.53,
-      "tp_s": 7.69,
+      "hs_m": 1.52,
+      "tp_s": 8.33,
       "dp_deg": 97,
       "sst_c": 28.6
     },
@@ -158,16 +158,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.86,
+      "hs_m": 1.75,
       "tp_s": 8.33,
-      "dp_deg": 87,
-      "sst_c": 25.5
+      "dp_deg": 84,
+      "sst_c": 25.6
     },
     {
       "timestamp": "05.01.2025-21:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.77,
-      "tp_s": 14.29,
-      "dp_deg": 190,
-      "sst_c": 17.1
+      "hs_m": 0.8,
+      "tp_s": 15.38,
+      "dp_deg": 180,
+      "sst_c": 17.2
     },
     {
       "timestamp": "05.01.2025-21:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.38,
-      "tp_s": 11.76,
-      "dp_deg": 282,
+      "hs_m": 1.4,
+      "tp_s": 14.29,
+      "dp_deg": 185,
       "sst_c": 12.5
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.16,
-      "tp_s": 9.09,
-      "dp_deg": 306,
+      "hs_m": 1.04,
+      "tp_s": 20,
+      "dp_deg": 287,
       "sst_c": 10.5
     },
     {
@@ -746,15 +746,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.96,
+      "hs_m": 0.97,
       "tp_s": 6.25,
-      "dp_deg": 141,
+      "dp_deg": 138,
       "sst_c": 25
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.98,
+      "hs_m": 0.92,
       "tp_s": 6.25,
-      "dp_deg": 160,
-      "sst_c": 27.6
+      "dp_deg": 161,
+      "sst_c": 27.4
     },
     {
       "timestamp": "05.01.2025-21:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.82,
+      "hs_m": 0.87,
       "tp_s": 8.33,
-      "dp_deg": 110,
+      "dp_deg": 100,
       "sst_c": 24.5
     },
     {
@@ -962,16 +962,16 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "05.01.2025-20:00:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.6,
-      "tp_s": 8.33,
-      "dp_deg": 107,
-      "sst_c": 17.4
+      "hs_m": 0.67,
+      "tp_s": 5.56,
+      "dp_deg": 156,
+      "sst_c": 17
     },
     {
       "timestamp": "04.29.2025-22:30:00",
@@ -986,7 +986,7 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "05.01.2025-20:30:00",
+      "timestamp": "05.01.2025-21:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
@@ -994,8 +994,8 @@
       "depth_cm": 1060,
       "hs_m": 0.54,
       "tp_s": 9.09,
-      "dp_deg": 122,
-      "sst_c": 13.9
+      "dp_deg": 106,
+      "sst_c": 13.7
     },
     {
       "timestamp": "05.01.2025-21:00:00",
