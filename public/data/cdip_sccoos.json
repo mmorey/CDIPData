@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-01T11:32:28.346Z",
+  "last_updated": "2025-05-01T11:47:00.839Z",
   "data": [
     {
       "timestamp": "05.01.2025-10:30:00",
@@ -158,28 +158,28 @@
       "sst_c": 26.1
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.72,
+      "hs_m": 1.69,
       "tp_s": 9.09,
       "dp_deg": 82,
       "sst_c": 25.4
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.4,
+      "hs_m": 1.55,
       "tp_s": 9.09,
-      "dp_deg": 79,
-      "sst_c": 25.2
+      "dp_deg": 75,
+      "sst_c": 25.3
     },
     {
       "timestamp": "05.01.2025-11:00:00",
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.46,
-      "tp_s": 15.38,
-      "dp_deg": 281,
+      "hs_m": 0.45,
+      "tp_s": 11.76,
+      "dp_deg": 284,
       "sst_c": 17
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.71,
+      "hs_m": 0.62,
       "tp_s": 14.29,
-      "dp_deg": 235,
+      "dp_deg": 236,
       "sst_c": 17
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.78,
+      "hs_m": 0.8,
       "tp_s": 14.29,
-      "dp_deg": 193,
+      "dp_deg": 195,
       "sst_c": 16.6
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.77,
-      "tp_s": 11.11,
-      "dp_deg": 259,
+      "hs_m": 0.78,
+      "tp_s": 11.76,
+      "dp_deg": 252,
       "sst_c": 13.5
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 10
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 2.15,
-      "tp_s": 7.14,
-      "dp_deg": 336,
-      "sst_c": 9.5
+      "hs_m": 0,
+      "tp_s": 40,
+      "dp_deg": null,
+      "sst_c": null
     },
     {
       "timestamp": "04.28.2025-16:30:00",
@@ -614,14 +614,14 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.3,
-      "tp_s": 10.53,
+      "hs_m": 1.26,
+      "tp_s": 9.88,
       "dp_deg": 315,
       "sst_c": 10
     },
@@ -698,15 +698,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 0.92,
+      "hs_m": 0.97,
       "tp_s": 8.33,
-      "dp_deg": 292,
+      "dp_deg": 296,
       "sst_c": 10.6
     },
     {
@@ -782,16 +782,16 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.07,
-      "tp_s": 6.25,
-      "dp_deg": 166,
-      "sst_c": 26.3
+      "hs_m": 1.19,
+      "tp_s": 5.88,
+      "dp_deg": 164,
+      "sst_c": 26.2
     },
     {
       "timestamp": "05.01.2025-11:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.89,
-      "tp_s": 7.69,
-      "dp_deg": 84,
+      "hs_m": 0.86,
+      "tp_s": 8.33,
+      "dp_deg": 79,
       "sst_c": 24
     },
     {
@@ -902,16 +902,16 @@
       "sst_c": 21
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.87,
-      "tp_s": 4.76,
+      "hs_m": 0.92,
+      "tp_s": 5,
       "dp_deg": 204,
-      "sst_c": 21.2
+      "sst_c": 21.1
     },
     {
       "timestamp": "05.01.2025-11:00:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "05.01.2025-10:30:00",
+      "timestamp": "05.01.2025-11:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.67,
-      "tp_s": 9.09,
-      "dp_deg": 116,
+      "hs_m": 0.73,
+      "tp_s": 8.33,
+      "dp_deg": 131,
       "sst_c": 7.1
     },
     {
