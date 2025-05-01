@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-01T17:34:21.046Z",
+  "last_updated": "2025-05-01T17:46:59.301Z",
   "data": [
     {
       "timestamp": "05.01.2025-16:30:00",
@@ -62,27 +62,27 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "05.01.2025-16:00:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.54,
-      "tp_s": 7.69,
-      "dp_deg": 87,
-      "sst_c": 28.7
+      "hs_m": 1.53,
+      "tp_s": 8.33,
+      "dp_deg": 94,
+      "sst_c": 28.6
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.57,
-      "tp_s": 8.33,
-      "dp_deg": 79,
+      "hs_m": 1.47,
+      "tp_s": 7.14,
+      "dp_deg": 80,
       "sst_c": 29
     },
     {
@@ -158,25 +158,25 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.95,
+      "hs_m": 2.01,
       "tp_s": 8.33,
       "dp_deg": 83,
       "sst_c": 25.4
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.62,
+      "hs_m": 1.66,
       "tp_s": 9.09,
       "dp_deg": 73,
       "sst_c": 25
@@ -206,15 +206,15 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "05.01.2025-16:00:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.45,
-      "tp_s": 15.38,
-      "dp_deg": 327,
+      "hs_m": 1.37,
+      "tp_s": 16.67,
+      "dp_deg": 328,
       "sst_c": 23.6
     },
     {
@@ -242,16 +242,16 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.66,
+      "hs_m": 0.63,
       "tp_s": 13.33,
-      "dp_deg": 248,
-      "sst_c": 15.4
+      "dp_deg": 235,
+      "sst_c": 15.3
     },
     {
       "timestamp": "05.01.2025-17:00:00",
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.5,
+      "hs_m": 0.54,
       "tp_s": 8.33,
-      "dp_deg": 278,
+      "dp_deg": 281,
       "sst_c": 17
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.82,
-      "tp_s": 15.38,
-      "dp_deg": 183,
-      "sst_c": 16.6
+      "hs_m": 0.8,
+      "tp_s": 14.29,
+      "dp_deg": 189,
+      "sst_c": 16.7
     },
     {
       "timestamp": "05.01.2025-17:00:00",
@@ -398,16 +398,16 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.81,
+      "hs_m": 0.87,
       "tp_s": 15.38,
-      "dp_deg": 260,
-      "sst_c": 15.2
+      "dp_deg": 201,
+      "sst_c": 15.4
     },
     {
       "timestamp": "05.01.2025-17:00:00",
@@ -446,15 +446,15 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.52,
-      "tp_s": 15.38,
-      "dp_deg": 191,
+      "hs_m": 1.49,
+      "tp_s": 12.5,
+      "dp_deg": 241,
       "sst_c": 11.8
     },
     {
@@ -602,16 +602,16 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.14,
+      "hs_m": 1.05,
       "tp_s": 8.33,
-      "dp_deg": 309,
-      "sst_c": 10
+      "dp_deg": 308,
+      "sst_c": 9.8
     },
     {
       "timestamp": "05.01.2025-17:00:00",
@@ -674,16 +674,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 0.83,
-      "tp_s": 14.29,
+      "hs_m": 0.89,
+      "tp_s": 15.38,
       "dp_deg": 219,
-      "sst_c": 11.5
+      "sst_c": 11.8
     },
     {
       "timestamp": "05.01.2025-16:30:00",
@@ -722,15 +722,15 @@
       "sst_c": 5.9
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 1.16,
+      "hs_m": 1.14,
       "tp_s": 6.25,
-      "dp_deg": 96,
+      "dp_deg": 103,
       "sst_c": 26.4
     },
     {
@@ -770,27 +770,27 @@
       "sst_c": 25
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.93,
-      "tp_s": 5.88,
-      "dp_deg": 167,
+      "hs_m": 1,
+      "tp_s": 6.25,
+      "dp_deg": 164,
       "sst_c": 26.8
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
       "longitude": -92.5049,
       "depth_cm": 2200,
-      "hs_m": 1.2,
+      "hs_m": 1.25,
       "tp_s": 7.14,
-      "dp_deg": 155,
+      "dp_deg": 149,
       "sst_c": 25.4
     },
     {
@@ -998,16 +998,16 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "05.01.2025-16:30:00",
+      "timestamp": "05.01.2025-17:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.66,
-      "tp_s": 5.88,
+      "hs_m": 0.64,
+      "tp_s": 5.56,
       "dp_deg": 185,
-      "sst_c": 12
+      "sst_c": 12.1
     },
     {
       "timestamp": "05.01.2025-17:00:00",
