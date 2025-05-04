@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04T19:32:14.389Z",
+  "last_updated": "2025-05-04T19:47:05.111Z",
   "data": [
     {
       "timestamp": "05.04.2025-14:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "05.04.2025-15:00:00",
+      "timestamp": "05.04.2025-15:30:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.12,
+      "hs_m": 1.02,
       "tp_s": 8.33,
-      "dp_deg": 68,
+      "dp_deg": 62,
       "sst_c": 29
     },
     {
@@ -458,15 +458,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "05.04.2025-15:00:00",
+      "timestamp": "05.04.2025-15:30:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.87,
-      "tp_s": 11.76,
-      "dp_deg": 275,
+      "hs_m": 2.69,
+      "tp_s": 12.5,
+      "dp_deg": 268,
       "sst_c": 11.6
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "05.04.2025-15:00:00",
+      "timestamp": "05.04.2025-15:30:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.14,
-      "tp_s": 11.76,
-      "dp_deg": 282,
+      "hs_m": 2,
+      "tp_s": 12.5,
+      "dp_deg": 270,
       "sst_c": 11.5
     },
     {
@@ -674,16 +674,16 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "05.04.2025-15:00:00",
+      "timestamp": "05.04.2025-15:30:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.96,
-      "tp_s": 11.76,
-      "dp_deg": 274,
-      "sst_c": null
+      "hs_m": 1.81,
+      "tp_s": 12.5,
+      "dp_deg": 278,
+      "sst_c": 11.1
     },
     {
       "timestamp": "05.04.2025-15:00:00",
@@ -722,15 +722,15 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "05.04.2025-15:00:00",
+      "timestamp": "05.04.2025-15:30:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.6,
+      "hs_m": 0.58,
       "tp_s": 4.17,
-      "dp_deg": 153,
+      "dp_deg": 167,
       "sst_c": 25.2
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "05.04.2025-14:30:00",
+      "timestamp": "05.04.2025-15:30:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.98,
+      "hs_m": 0.92,
       "tp_s": 6.67,
-      "dp_deg": 128,
-      "sst_c": null
+      "dp_deg": 132,
+      "sst_c": 14.6
     },
     {
       "timestamp": "05.04.2025-15:00:00",
@@ -995,7 +995,7 @@
       "hs_m": 1.08,
       "tp_s": 5.88,
       "dp_deg": 185,
-      "sst_c": 0
+      "sst_c": 11.8
     },
     {
       "timestamp": "05.04.2025-15:30:00",
