@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04T15:47:04.081Z",
+  "last_updated": "2025-05-04T16:03:34.083Z",
   "data": [
     {
       "timestamp": "05.04.2025-14:30:00",
@@ -251,7 +251,7 @@
       "hs_m": 2.16,
       "tp_s": 9.09,
       "dp_deg": 292,
-      "sst_c": 16.3
+      "sst_c": null
     },
     {
       "timestamp": "05.04.2025-05:45:00",
@@ -563,7 +563,7 @@
       "hs_m": 4.89,
       "tp_s": 9.09,
       "dp_deg": 315,
-      "sst_c": 9.9
+      "sst_c": null
     },
     {
       "timestamp": "05.04.2025-14:30:00",
@@ -626,16 +626,16 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "05.04.2025-06:00:00",
+      "timestamp": "05.04.2025-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.35,
+      "hs_m": 2.33,
       "tp_s": 11.76,
-      "dp_deg": 291,
-      "sst_c": 11.6
+      "dp_deg": 292,
+      "sst_c": 10.9
     },
     {
       "timestamp": "05.04.2025-14:30:00",
@@ -911,7 +911,7 @@
       "hs_m": 1.73,
       "tp_s": 6.67,
       "dp_deg": 162,
-      "sst_c": 18
+      "sst_c": null
     },
     {
       "timestamp": "05.04.2025-14:30:00",
