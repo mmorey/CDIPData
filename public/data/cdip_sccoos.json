@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04T17:33:16.142Z",
+  "last_updated": "2025-05-04T17:47:06.293Z",
   "data": [
     {
       "timestamp": "05.04.2025-14:30:00",
@@ -50,16 +50,16 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "05.04.2025-05:30:00",
+      "timestamp": "05.04.2025-11:30:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 1.18,
-      "tp_s": 8.33,
-      "dp_deg": 59,
-      "sst_c": 30
+      "hs_m": 0.89,
+      "tp_s": 7.14,
+      "dp_deg": 68,
+      "sst_c": 29.9
     },
     {
       "timestamp": "05.04.2025-15:00:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "05.04.2025-14:30:00",
+      "timestamp": "05.04.2025-15:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.04,
-      "tp_s": 9.09,
-      "dp_deg": 73,
+      "hs_m": 1.12,
+      "tp_s": 8.33,
+      "dp_deg": 68,
       "sst_c": 29
     },
     {
@@ -110,15 +110,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.04.2025-14:30:00",
+      "timestamp": "05.04.2025-15:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.0185,
       "longitude": -156.4215,
       "depth_cm": 20000,
-      "hs_m": 1.92,
-      "tp_s": 7.14,
-      "dp_deg": 77,
+      "hs_m": 1.96,
+      "tp_s": 7.69,
+      "dp_deg": 74,
       "sst_c": 25.2
     },
     {
@@ -254,14 +254,14 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "05.04.2025-05:45:00",
+      "timestamp": "05.04.2025-16:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.75,
-      "tp_s": 7.76,
+      "hs_m": 2.22,
+      "tp_s": 9.48,
       "dp_deg": null,
       "sst_c": null
     },
@@ -287,7 +287,7 @@
       "hs_m": 2.39,
       "tp_s": 8.33,
       "dp_deg": 273,
-      "sst_c": 16.6
+      "sst_c": null
     },
     {
       "timestamp": "05.04.2025-15:00:00",
@@ -610,7 +610,7 @@
       "depth_cm": 7200,
       "hs_m": 1.8,
       "tp_s": 12.5,
-      "dp_deg": 292,
+      "dp_deg": 0,
       "sst_c": null
     },
     {
@@ -626,13 +626,13 @@
       "sst_c": 10.8
     },
     {
-      "timestamp": "05.04.2025-14:00:00",
+      "timestamp": "05.04.2025-15:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.33,
+      "hs_m": 1.97,
       "tp_s": 11.76,
       "dp_deg": 292,
       "sst_c": 10.9
@@ -818,15 +818,15 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "05.04.2025-14:30:00",
+      "timestamp": "05.04.2025-15:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.05,
+      "hs_m": 0.96,
       "tp_s": 5.88,
-      "dp_deg": 120,
+      "dp_deg": 117,
       "sst_c": 24.4
     },
     {
@@ -950,16 +950,16 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "05.04.2025-14:30:00",
+      "timestamp": "05.04.2025-15:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.29,
-      "tp_s": 6.25,
-      "dp_deg": 154,
-      "sst_c": null
+      "hs_m": 1.26,
+      "tp_s": 6.67,
+      "dp_deg": 145,
+      "sst_c": 15.8
     },
     {
       "timestamp": "04.29.2025-22:30:00",
