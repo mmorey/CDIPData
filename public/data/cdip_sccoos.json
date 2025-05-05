@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-05T05:36:22.359Z",
+  "last_updated": "2025-05-05T05:47:36.510Z",
   "data": [
     {
       "timestamp": "05.05.2025-04:30:00",
@@ -62,27 +62,27 @@
       "sst_c": 30
     },
     {
-      "timestamp": "05.05.2025-04:30:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.46,
-      "tp_s": 7.69,
-      "dp_deg": 91,
+      "hs_m": 1.36,
+      "tp_s": 9.88,
+      "dp_deg": 90,
       "sst_c": 28.8
     },
     {
-      "timestamp": "05.05.2025-04:30:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.21,
-      "tp_s": 7.69,
-      "dp_deg": 76,
+      "hs_m": 1.26,
+      "tp_s": 9.09,
+      "dp_deg": 59,
       "sst_c": 29.1
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 26.1
     },
     {
-      "timestamp": "05.05.2025-04:30:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
       "hs_m": 1.85,
-      "tp_s": 7.69,
-      "dp_deg": 85,
-      "sst_c": 25.5
+      "tp_s": 7.14,
+      "dp_deg": 84,
+      "sst_c": 25.4
     },
     {
       "timestamp": "05.05.2025-05:00:00",
@@ -194,14 +194,14 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.05.2025-04:00:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.51,
-      "tp_s": 8.33,
+      "hs_m": 1.45,
+      "tp_s": 7.69,
       "dp_deg": 62,
       "sst_c": 23.6
     },
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.05.2025-04:30:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.78,
-      "tp_s": 12.5,
-      "dp_deg": 268,
+      "hs_m": 1.7,
+      "tp_s": 14.29,
+      "dp_deg": 226,
       "sst_c": 16.6
     },
     {
@@ -338,28 +338,28 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "05.05.2025-04:30:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 1.04,
+      "hs_m": 1.11,
       "tp_s": 15.38,
-      "dp_deg": 216,
+      "dp_deg": 219,
       "sst_c": 16.5
     },
     {
-      "timestamp": "05.05.2025-04:30:00",
+      "timestamp": "05.05.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.34,
-      "tp_s": 20,
-      "dp_deg": 204,
-      "sst_c": 15.9
+      "hs_m": 1.21,
+      "tp_s": 15.38,
+      "dp_deg": 207,
+      "sst_c": 16
     },
     {
       "timestamp": "05.05.2025-05:00:00",
