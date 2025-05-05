@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-05T15:35:14.533Z",
+  "last_updated": "2025-05-05T15:47:23.256Z",
   "data": [
     {
       "timestamp": "05.05.2025-14:30:00",
@@ -122,16 +122,16 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.02,
-      "tp_s": 6.67,
-      "dp_deg": 144,
-      "sst_c": 25.9
+      "hs_m": 1.04,
+      "tp_s": 14.29,
+      "dp_deg": 161,
+      "sst_c": 25.8
     },
     {
       "timestamp": "05.05.2025-14:30:00",
@@ -146,15 +146,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.91,
-      "tp_s": 7.69,
-      "dp_deg": 77,
+      "hs_m": 1.97,
+      "tp_s": 6.67,
+      "dp_deg": 73,
       "sst_c": 25.3
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.91,
-      "tp_s": 7.69,
-      "dp_deg": 72,
+      "hs_m": 1.86,
+      "tp_s": 7.14,
+      "dp_deg": 64,
       "sst_c": 23.6
     },
     {
@@ -242,15 +242,15 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.46,
-      "tp_s": 11.76,
-      "dp_deg": 285,
+      "hs_m": 1.58,
+      "tp_s": 18.18,
+      "dp_deg": 204,
       "sst_c": 16.1
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.47,
-      "tp_s": 12.5,
-      "dp_deg": 274,
+      "hs_m": 1.52,
+      "tp_s": 11.76,
+      "dp_deg": 277,
       "sst_c": 17.1
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.24,
+      "hs_m": 1.16,
       "tp_s": 18.18,
-      "dp_deg": 197,
+      "dp_deg": 206,
       "sst_c": 16
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.42,
+      "hs_m": 1.3,
       "tp_s": 18.18,
-      "dp_deg": 195,
+      "dp_deg": 199,
       "sst_c": 16.2
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 8.7
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.58,
+      "hs_m": 1.67,
       "tp_s": 10.53,
-      "dp_deg": 293,
+      "dp_deg": 284,
       "sst_c": 9.7
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.38,
-      "tp_s": 3.03,
-      "dp_deg": 355,
+      "hs_m": 0.33,
+      "tp_s": 5.56,
+      "dp_deg": 169,
       "sst_c": 25.8
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 21.6
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2108,
       "longitude": -76.9438,
       "depth_cm": 3048,
-      "hs_m": 1.58,
-      "tp_s": 6.67,
-      "dp_deg": 162,
+      "hs_m": 1.51,
+      "tp_s": 7.14,
+      "dp_deg": 157,
       "sst_c": 21.5
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 20.6
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 1.36,
-      "tp_s": 5.88,
-      "dp_deg": 128,
+      "hs_m": 1.46,
+      "tp_s": 6.67,
+      "dp_deg": 131,
       "sst_c": 15.5
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "05.05.2025-14:30:00",
+      "timestamp": "05.05.2025-15:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 1.31,
+      "hs_m": 1.3,
       "tp_s": 7.14,
-      "dp_deg": 132,
+      "dp_deg": 145,
       "sst_c": 15.6
     },
     {
