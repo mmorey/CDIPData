@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-09T23:32:44.194Z",
+  "last_updated": "2025-05-09T23:47:01.451Z",
   "data": [
     {
       "timestamp": "05.09.2025-22:30:00",
@@ -98,16 +98,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.73,
+      "hs_m": 0.75,
       "tp_s": 13.33,
-      "dp_deg": 185,
-      "sst_c": 26.5
+      "dp_deg": 203,
+      "sst_c": 26.4
     },
     {
       "timestamp": "05.09.2025-23:00:00",
@@ -122,15 +122,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.84,
-      "tp_s": 7.69,
-      "dp_deg": 147,
+      "hs_m": 0.87,
+      "tp_s": 6.25,
+      "dp_deg": 151,
       "sst_c": 25.8
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.09,
-      "tp_s": 11.11,
-      "dp_deg": 1,
+      "hs_m": 2.2,
+      "tp_s": 10.53,
+      "dp_deg": 350,
       "sst_c": 25.8
     },
     {
@@ -350,28 +350,28 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "05.09.2025-21:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.92,
+      "hs_m": 1.06,
       "tp_s": 15.38,
-      "dp_deg": 190,
+      "dp_deg": 186,
       "sst_c": 17
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.96,
-      "tp_s": 15.38,
-      "dp_deg": 188,
-      "sst_c": 17
+      "hs_m": 1.01,
+      "tp_s": 11.76,
+      "dp_deg": 264,
+      "sst_c": 16.9
     },
     {
       "timestamp": "05.09.2025-23:00:00",
@@ -386,28 +386,28 @@
       "sst_c": 17
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.11,
+      "hs_m": 1.06,
       "tp_s": 15.38,
-      "dp_deg": 192,
+      "dp_deg": 235,
       "sst_c": 16
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.05,
+      "hs_m": 1.01,
       "tp_s": 15.38,
-      "dp_deg": 191,
-      "sst_c": 16.3
+      "dp_deg": 196,
+      "sst_c": 16.1
     },
     {
       "timestamp": "05.09.2025-23:00:00",
@@ -458,16 +458,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.41,
-      "tp_s": 15.38,
-      "dp_deg": 202,
-      "sst_c": 14.9
+      "hs_m": 1.35,
+      "tp_s": 12.5,
+      "dp_deg": 258,
+      "sst_c": 15.1
     },
     {
       "timestamp": "05.09.2025-22:30:00",
@@ -506,15 +506,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.19,
+      "hs_m": 1.14,
       "tp_s": 11.76,
-      "dp_deg": 253,
+      "dp_deg": 255,
       "sst_c": 15.6
     },
     {
@@ -554,16 +554,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 1.91,
-      "tp_s": 11.11,
-      "dp_deg": 291,
-      "sst_c": 11.9
+      "hs_m": 1.72,
+      "tp_s": 11.76,
+      "dp_deg": 296,
+      "sst_c": 12
     },
     {
       "timestamp": "05.09.2025-23:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.81,
+      "hs_m": 1.63,
       "tp_s": 11.11,
-      "dp_deg": 299,
+      "dp_deg": 291,
       "sst_c": 11.5
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "05.09.2025-22:00:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.31,
+      "hs_m": 1.36,
       "tp_s": 10.53,
       "dp_deg": 267,
-      "sst_c": 13.2
+      "sst_c": 11.2
     },
     {
       "timestamp": "05.09.2025-23:00:00",
@@ -722,14 +722,14 @@
       "sst_c": 27.9
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.6,
-      "tp_s": 4.35,
+      "hs_m": 0.59,
+      "tp_s": 4.55,
       "dp_deg": 126,
       "sst_c": 26.5
     },
@@ -758,15 +758,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.59,
+      "hs_m": 0.63,
       "tp_s": 6.67,
-      "dp_deg": 192,
+      "dp_deg": 191,
       "sst_c": 24.5
     },
     {
@@ -818,28 +818,28 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.83,
-      "tp_s": 3.7,
-      "dp_deg": 148,
-      "sst_c": 24.6
+      "hs_m": 0.88,
+      "tp_s": 9.88,
+      "dp_deg": 101,
+      "sst_c": 24.5
     },
     {
-      "timestamp": "05.09.2025-22:30:00",
+      "timestamp": "05.09.2025-23:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.81,
-      "tp_s": 10.53,
-      "dp_deg": 84,
-      "sst_c": 25.3
+      "hs_m": 0.79,
+      "tp_s": 9.88,
+      "dp_deg": 80,
+      "sst_c": 25.2
     },
     {
       "timestamp": "05.09.2025-23:00:00",
@@ -1061,8 +1061,8 @@
       "timestamp": "05.09.2025-23:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
-      "latitude": 46.9735,
-      "longitude": -86.5681,
+      "latitude": 46.9727,
+      "longitude": -86.5682,
       "depth_cm": 16000,
       "hs_m": 0.22,
       "tp_s": 2.17,
