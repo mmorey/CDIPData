@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-09T17:34:24.603Z",
+  "last_updated": "2025-05-09T17:46:57.123Z",
   "data": [
     {
       "timestamp": "05.09.2025-16:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.53,
-      "tp_s": 7.14,
-      "dp_deg": 93,
+      "hs_m": 1.52,
+      "tp_s": 8.33,
+      "dp_deg": 94,
       "sst_c": 28.8
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.78,
+      "hs_m": 0.81,
       "tp_s": 14.29,
-      "dp_deg": 195,
+      "dp_deg": 192,
       "sst_c": 25.8
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.74,
-      "tp_s": 5.88,
-      "dp_deg": 141,
+      "hs_m": 0.77,
+      "tp_s": 6.25,
+      "dp_deg": 145,
       "sst_c": 25.6
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.08,
-      "tp_s": 9.09,
-      "dp_deg": 23,
+      "hs_m": 2.21,
+      "tp_s": 11.11,
+      "dp_deg": 1,
       "sst_c": 25.6
     },
     {
@@ -266,7 +266,7 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
@@ -274,7 +274,7 @@
       "depth_cm": 4100,
       "hs_m": 0.72,
       "tp_s": 12.5,
-      "dp_deg": 288,
+      "dp_deg": 291,
       "sst_c": 18.1
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.91,
+      "hs_m": 1.09,
       "tp_s": 15.38,
-      "dp_deg": 194,
+      "dp_deg": 195,
       "sst_c": 17.2
     },
     {
@@ -350,7 +350,7 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -358,8 +358,8 @@
       "depth_cm": 30300,
       "hs_m": 0.96,
       "tp_s": 15.38,
-      "dp_deg": 194,
-      "sst_c": 16.7
+      "dp_deg": 198,
+      "sst_c": 16.8
     },
     {
       "timestamp": "05.09.2025-17:00:00",
@@ -374,16 +374,16 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.99,
+      "hs_m": 0.92,
       "tp_s": 12.5,
-      "dp_deg": 280,
-      "sst_c": 16.8
+      "dp_deg": 268,
+      "sst_c": 16.9
     },
     {
       "timestamp": "05.09.2025-17:00:00",
@@ -410,7 +410,7 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
@@ -418,8 +418,8 @@
       "depth_cm": 38700,
       "hs_m": 0.97,
       "tp_s": 15.38,
-      "dp_deg": 205,
-      "sst_c": 16.5
+      "dp_deg": 192,
+      "sst_c": 16.6
     },
     {
       "timestamp": "05.09.2025-16:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.93,
+      "hs_m": 1.94,
       "tp_s": 11.11,
-      "dp_deg": 293,
+      "dp_deg": 292,
       "sst_c": 11
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.8,
-      "tp_s": 11.11,
-      "dp_deg": 296,
+      "hs_m": 1.78,
+      "tp_s": 11.76,
+      "dp_deg": 284,
       "sst_c": 9.9
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.91,
-      "tp_s": 11.76,
-      "dp_deg": 296,
+      "hs_m": 1.76,
+      "tp_s": 9.88,
+      "dp_deg": 285,
       "sst_c": 12.2
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.77,
+      "hs_m": 0.73,
       "tp_s": 7.14,
-      "dp_deg": 200,
-      "sst_c": 24.2
+      "dp_deg": 198,
+      "sst_c": 24.3
     },
     {
       "timestamp": "05.09.2025-17:00:00",
@@ -1034,15 +1034,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "05.09.2025-16:30:00",
+      "timestamp": "05.09.2025-17:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 2.07,
+      "hs_m": 2.01,
       "tp_s": 7.14,
-      "dp_deg": 61,
+      "dp_deg": 54,
       "sst_c": 8.1
     },
     {
