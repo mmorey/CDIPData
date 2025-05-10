@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-10T19:32:14.471Z",
+  "last_updated": "2025-05-10T19:47:00.009Z",
   "data": [
     {
       "timestamp": "05.10.2025-18:30:00",
@@ -98,15 +98,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.92,
-      "tp_s": 16.67,
-      "dp_deg": 188,
+      "hs_m": 0.98,
+      "tp_s": 18.18,
+      "dp_deg": 186,
       "sst_c": 25.7
     },
     {
@@ -146,28 +146,28 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.10.2025-18:00:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
       "hs_m": 2.09,
-      "tp_s": 7.14,
-      "dp_deg": 41,
+      "tp_s": 7.69,
+      "dp_deg": 38,
       "sst_c": 25.6
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.92,
-      "tp_s": 11.11,
-      "dp_deg": 355,
-      "sst_c": 24.8
+      "hs_m": 1.88,
+      "tp_s": 9.88,
+      "dp_deg": 342,
+      "sst_c": 24.7
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -194,15 +194,15 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "05.10.2025-17:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
       "hs_m": 1.88,
-      "tp_s": 7.69,
-      "dp_deg": 34,
+      "tp_s": 10.53,
+      "dp_deg": 351,
       "sst_c": 23.3
     },
     {
@@ -242,16 +242,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.84,
-      "tp_s": 14.29,
+      "hs_m": 0.89,
+      "tp_s": 18.18,
       "dp_deg": 180,
-      "sst_c": 17.6
+      "sst_c": 17.7
     },
     {
       "timestamp": "05.10.2025-18:45:00",
@@ -266,16 +266,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.62,
-      "tp_s": 11.11,
+      "hs_m": 0.55,
+      "tp_s": 11.76,
       "dp_deg": 284,
-      "sst_c": 19
+      "sst_c": 19.5
     },
     {
       "timestamp": "05.10.2025-18:30:00",
@@ -290,15 +290,15 @@
       "sst_c": 18
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.68,
-      "tp_s": 11.11,
-      "dp_deg": 277,
+      "hs_m": 0.69,
+      "tp_s": 14.29,
+      "dp_deg": 243,
       "sst_c": 18
     },
     {
@@ -350,52 +350,52 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.92,
+      "hs_m": 0.89,
       "tp_s": 18.18,
-      "dp_deg": 186,
-      "sst_c": 18.5
+      "dp_deg": 182,
+      "sst_c": 18.2
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.82,
+      "hs_m": 0.81,
       "tp_s": 18.18,
-      "dp_deg": 184,
-      "sst_c": 18.1
+      "dp_deg": 154,
+      "sst_c": 18
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.87,
-      "tp_s": 18.18,
-      "dp_deg": 167,
-      "sst_c": 17.7
+      "hs_m": 0.85,
+      "tp_s": 11.76,
+      "dp_deg": 263,
+      "sst_c": 17.5
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.09,
+      "hs_m": 1.08,
       "tp_s": 18.18,
-      "dp_deg": 233,
-      "sst_c": 16.8
+      "dp_deg": 295,
+      "sst_c": 16.5
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -410,16 +410,16 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.8,
+      "hs_m": 0.84,
       "tp_s": 18.18,
-      "dp_deg": 188,
-      "sst_c": 18.3
+      "dp_deg": 195,
+      "sst_c": 18
     },
     {
       "timestamp": "05.10.2025-18:30:00",
@@ -434,7 +434,7 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
@@ -442,8 +442,8 @@
       "depth_cm": 55000,
       "hs_m": 2.1,
       "tp_s": 12.5,
-      "dp_deg": 320,
-      "sst_c": 12.8
+      "dp_deg": 313,
+      "sst_c": 12.9
     },
     {
       "timestamp": "05.10.2025-18:30:00",
@@ -482,40 +482,40 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "158",
       "station_name": "CABRILLO POINT NEARSHORE, CA",
       "latitude": 36.6263,
       "longitude": -121.9071,
       "depth_cm": 1700,
-      "hs_m": 1.11,
+      "hs_m": 1.1,
       "tp_s": 11.11,
-      "dp_deg": 339,
+      "dp_deg": 346,
       "sst_c": 15.2
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.51,
-      "tp_s": 11.76,
-      "dp_deg": 287,
-      "sst_c": 13.2
+      "hs_m": 1.47,
+      "tp_s": 11.11,
+      "dp_deg": 284,
+      "sst_c": 13.4
     },
     {
-      "timestamp": "05.10.2025-18:00:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.94,
-      "tp_s": 11.11,
-      "dp_deg": 249,
-      "sst_c": 15.4
+      "hs_m": 1.01,
+      "tp_s": 5.88,
+      "dp_deg": 278,
+      "sst_c": 16
     },
     {
       "timestamp": "05.10.2025-18:30:00",
@@ -542,28 +542,28 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.35,
-      "tp_s": 9.88,
-      "dp_deg": 285,
+      "hs_m": 1.37,
+      "tp_s": 11.11,
+      "dp_deg": 286,
       "sst_c": 12.6
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.12,
-      "tp_s": 11.76,
-      "dp_deg": 308,
-      "sst_c": 11.7
+      "hs_m": 2.09,
+      "tp_s": 11.11,
+      "dp_deg": 314,
+      "sst_c": 11.8
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -590,16 +590,16 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.41,
+      "hs_m": 1.39,
       "tp_s": 10.53,
-      "dp_deg": 298,
-      "sst_c": 11.2
+      "dp_deg": 297,
+      "sst_c": 11.3
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -650,28 +650,28 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.25,
-      "tp_s": 11.11,
-      "dp_deg": 284,
+      "hs_m": 1.21,
+      "tp_s": 9.09,
+      "dp_deg": 292,
       "sst_c": 12.5
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.18,
+      "hs_m": 1.17,
       "tp_s": 10.53,
-      "dp_deg": 275,
-      "sst_c": 10.4
+      "dp_deg": 278,
+      "sst_c": 10.6
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -758,16 +758,16 @@
       "sst_c": 26.9
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.8,
+      "hs_m": 0.78,
       "tp_s": 5.88,
-      "dp_deg": 184,
-      "sst_c": 24.8
+      "dp_deg": 177,
+      "sst_c": 24.9
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -806,15 +806,15 @@
       "sst_c": 26.5
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.94,
+      "hs_m": 1.03,
       "tp_s": 9.09,
-      "dp_deg": 69,
+      "dp_deg": 66,
       "sst_c": 24.5
     },
     {
@@ -926,16 +926,16 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.94,
-      "tp_s": 8.33,
-      "dp_deg": 96,
-      "sst_c": 18.7
+      "hs_m": 1.02,
+      "tp_s": 9.09,
+      "dp_deg": 86,
+      "sst_c": 19.1
     },
     {
       "timestamp": "05.10.2025-18:30:00",
@@ -986,16 +986,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.91,
+      "hs_m": 0.85,
       "tp_s": 9.09,
       "dp_deg": 125,
-      "sst_c": 13.1
+      "sst_c": 13.2
     },
     {
       "timestamp": "05.10.2025-19:00:00",
@@ -1034,16 +1034,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "05.10.2025-18:30:00",
+      "timestamp": "05.10.2025-19:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 1.46,
-      "tp_s": 8.33,
-      "dp_deg": 128,
-      "sst_c": 8
+      "hs_m": 1.51,
+      "tp_s": 6.67,
+      "dp_deg": 60,
+      "sst_c": 8.1
     },
     {
       "timestamp": "05.10.2025-19:00:00",
