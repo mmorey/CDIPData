@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-11T10:35:28.170Z",
+  "last_updated": "2025-05-11T10:46:59.669Z",
   "data": [
     {
       "timestamp": "05.11.2025-09:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "05.11.2025-08:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.4,
-      "tp_s": 11.11,
-      "dp_deg": 65,
+      "hs_m": 1.48,
+      "tp_s": 10.53,
+      "dp_deg": 60,
       "sst_c": 29
     },
     {
@@ -146,7 +146,7 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
@@ -154,7 +154,7 @@
       "depth_cm": 8100,
       "hs_m": 2.28,
       "tp_s": 7.69,
-      "dp_deg": 54,
+      "dp_deg": 57,
       "sst_c": 25.5
     },
     {
@@ -182,28 +182,28 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.84,
+      "hs_m": 1.82,
       "tp_s": 9.88,
-      "dp_deg": 347,
+      "dp_deg": 349,
       "sst_c": 25.4
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.1,
-      "tp_s": 9.09,
-      "dp_deg": 17,
-      "sst_c": 23.3
+      "hs_m": 2.09,
+      "tp_s": 8.33,
+      "dp_deg": 23,
+      "sst_c": 23.2
     },
     {
       "timestamp": "02.27.2025-08:30:00",
@@ -242,15 +242,15 @@
       "sst_c": 16
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.99,
+      "hs_m": 1.09,
       "tp_s": 16.67,
-      "dp_deg": 190,
+      "dp_deg": 184,
       "sst_c": 17.8
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.76,
-      "tp_s": 4.76,
-      "dp_deg": 280,
+      "hs_m": 0.75,
+      "tp_s": 11.11,
+      "dp_deg": 294,
       "sst_c": 18.4
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 17.3
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.99,
+      "hs_m": 1.03,
       "tp_s": 16.67,
-      "dp_deg": 186,
+      "dp_deg": 187,
       "sst_c": 17.4
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.04,
+      "hs_m": 1.01,
       "tp_s": 16.67,
-      "dp_deg": 187,
+      "dp_deg": 201,
       "sst_c": 16.5
     },
     {
@@ -458,15 +458,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.79,
-      "tp_s": 16.67,
-      "dp_deg": 198,
+      "hs_m": 1.68,
+      "tp_s": 7.69,
+      "dp_deg": 293,
       "sst_c": 11
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.35,
+      "hs_m": 1.37,
       "tp_s": 9.88,
-      "dp_deg": 286,
+      "dp_deg": 288,
       "sst_c": 12
     },
     {
@@ -626,28 +626,28 @@
       "sst_c": 9.3
     },
     {
-      "timestamp": "05.11.2025-07:00:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.35,
-      "tp_s": 10.53,
-      "dp_deg": 288,
-      "sst_c": 9.6
+      "hs_m": 1.38,
+      "tp_s": 9.88,
+      "dp_deg": 272,
+      "sst_c": 9.4
     },
     {
-      "timestamp": "05.11.2025-09:30:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.29,
+      "hs_m": 1.26,
       "tp_s": 9.88,
-      "dp_deg": 282,
-      "sst_c": 11.2
+      "dp_deg": 281,
+      "sst_c": 11.1
     },
     {
       "timestamp": "05.11.2025-10:00:00",
@@ -758,16 +758,16 @@
       "sst_c": 26.7
     },
     {
-      "timestamp": "05.11.2025-09:00:00",
+      "timestamp": "05.11.2025-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.68,
-      "tp_s": 5.26,
-      "dp_deg": 243,
-      "sst_c": 24.7
+      "hs_m": 0.55,
+      "tp_s": 5.56,
+      "dp_deg": 195,
+      "sst_c": 24.6
     },
     {
       "timestamp": "05.11.2025-10:00:00",
