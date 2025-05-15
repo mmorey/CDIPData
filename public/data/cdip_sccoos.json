@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-15T07:33:50.320Z",
+  "last_updated": "2025-05-15T07:47:02.657Z",
   "data": [
     {
       "timestamp": "05.15.2025-06:30:00",
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.74,
-      "tp_s": 8.33,
-      "dp_deg": 75,
+      "hs_m": 1.75,
+      "tp_s": 6.67,
+      "dp_deg": 76,
       "sst_c": 25.3
     },
     {
@@ -230,27 +230,27 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.25,
-      "tp_s": 6.25,
-      "dp_deg": 282,
+      "hs_m": 1.18,
+      "tp_s": 5.56,
+      "dp_deg": 278,
       "sst_c": 16.9
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.38,
-      "tp_s": 14.29,
-      "dp_deg": 233,
+      "hs_m": 1.35,
+      "tp_s": 13.33,
+      "dp_deg": 201,
       "sst_c": 17
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 18
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.13,
+      "hs_m": 1.16,
       "tp_s": 14.29,
-      "dp_deg": 206,
+      "dp_deg": 204,
       "sst_c": 17.4
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "05.15.2025-06:00:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.87,
+      "hs_m": 2.8,
       "tp_s": 9.88,
-      "dp_deg": 317,
+      "dp_deg": 314,
       "sst_c": 14
     },
     {
@@ -506,16 +506,16 @@
       "sst_c": 13
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.1,
+      "hs_m": 1.08,
       "tp_s": 9.88,
-      "dp_deg": 262,
-      "sst_c": 14.4
+      "dp_deg": 260,
+      "sst_c": 14.5
     },
     {
       "timestamp": "05.15.2025-06:30:00",
@@ -590,28 +590,28 @@
       "sst_c": 10.3
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.91,
+      "hs_m": 1.67,
       "tp_s": 8.33,
       "dp_deg": 328,
-      "sst_c": 12.7
+      "sst_c": 12.6
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.77,
+      "hs_m": 1.61,
       "tp_s": 8.33,
-      "dp_deg": 329,
-      "sst_c": 12.5
+      "dp_deg": 323,
+      "sst_c": 12.7
     },
     {
       "timestamp": "05.15.2025-07:00:00",
@@ -626,16 +626,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "05.15.2025-05:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.83,
+      "hs_m": 1.65,
       "tp_s": 8.33,
       "dp_deg": 317,
-      "sst_c": 12.5
+      "sst_c": 12.7
     },
     {
       "timestamp": "05.15.2025-06:30:00",
@@ -770,19 +770,19 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.39,
+      "hs_m": 1.41,
       "tp_s": 6.67,
-      "dp_deg": 221,
+      "dp_deg": 214,
       "sst_c": 25.1
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "255",
       "station_name": "TRINITY SHOAL, LA",
       "latitude": 29.0878,
@@ -790,20 +790,20 @@
       "depth_cm": 2200,
       "hs_m": 1.72,
       "tp_s": 7.69,
-      "dp_deg": 208,
+      "dp_deg": 217,
       "sst_c": 25.1
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.643,
       "depth_cm": 2000,
       "hs_m": 1.02,
-      "tp_s": 4,
-      "dp_deg": 195,
-      "sst_c": 26
+      "tp_s": 4.55,
+      "dp_deg": 186,
+      "sst_c": 25.9
     },
     {
       "timestamp": "05.15.2025-07:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "05.15.2025-06:30:00",
+      "timestamp": "05.15.2025-07:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.76,
-      "tp_s": 7.69,
-      "dp_deg": 93,
+      "hs_m": 0.73,
+      "tp_s": 7.14,
+      "dp_deg": 96,
       "sst_c": 24.6
     },
     {
