@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-17T20:34:04.136Z",
+  "last_updated": "2025-05-17T20:47:09.254Z",
   "data": [
     {
       "timestamp": "05.17.2025-19:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.67,
-      "tp_s": 7.69,
-      "dp_deg": 97,
+      "hs_m": 1.6,
+      "tp_s": 7.14,
+      "dp_deg": 89,
       "sst_c": 28.8
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.91,
-      "tp_s": 8.33,
-      "dp_deg": 77,
+      "hs_m": 2.01,
+      "tp_s": 9.09,
+      "dp_deg": 79,
       "sst_c": 25.6
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.27,
+      "hs_m": 1.31,
       "tp_s": 16.67,
-      "dp_deg": 178,
+      "dp_deg": 185,
       "sst_c": 17.4
     },
     {
@@ -470,7 +470,7 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
@@ -479,7 +479,7 @@
       "hs_m": 1.24,
       "tp_s": 6.67,
       "dp_deg": 281,
-      "sst_c": 13.5
+      "sst_c": 13.7
     },
     {
       "timestamp": "05.17.2025-19:30:00",
@@ -554,15 +554,15 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.6,
-      "tp_s": 16.67,
-      "dp_deg": 236,
+      "hs_m": 1.65,
+      "tp_s": 18.18,
+      "dp_deg": 229,
       "sst_c": 12.9
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.54,
-      "tp_s": 10.53,
-      "dp_deg": 285,
+      "hs_m": 1.49,
+      "tp_s": 9.88,
+      "dp_deg": 278,
       "sst_c": 13.2
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.46,
-      "tp_s": 3.33,
-      "dp_deg": 184,
-      "sst_c": 28.2
+      "hs_m": 0.42,
+      "tp_s": 3.45,
+      "dp_deg": 179,
+      "sst_c": 28.4
     },
     {
       "timestamp": "05.17.2025-20:00:00",
@@ -782,16 +782,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.65,
+      "hs_m": 0.63,
       "tp_s": 6.25,
-      "dp_deg": 192,
-      "sst_c": 27.5
+      "dp_deg": 186,
+      "sst_c": 27.6
     },
     {
       "timestamp": "05.16.2025-02:30:00",
@@ -986,16 +986,16 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "05.17.2025-19:30:00",
+      "timestamp": "05.17.2025-20:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.88,
-      "tp_s": 3.57,
-      "dp_deg": 199,
-      "sst_c": 20.6
+      "hs_m": 0.87,
+      "tp_s": 3.7,
+      "dp_deg": 213,
+      "sst_c": 20.5
     },
     {
       "timestamp": "05.17.2025-20:00:00",
