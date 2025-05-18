@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-18T13:37:39.291Z",
+  "last_updated": "2025-05-18T13:46:55.391Z",
   "data": [
     {
       "timestamp": "05.18.2025-12:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.6,
+      "hs_m": 1.5,
       "tp_s": 7.69,
-      "dp_deg": 89,
+      "dp_deg": 107,
       "sst_c": 28.8
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
       "hs_m": 0.93,
-      "tp_s": 7.14,
-      "dp_deg": 150,
+      "tp_s": 7.69,
+      "dp_deg": 153,
       "sst_c": 25.7
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.11,
+      "hs_m": 2.22,
       "tp_s": 9.09,
-      "dp_deg": 87,
+      "dp_deg": 80,
       "sst_c": 25.5
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 17.7
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.23,
+      "hs_m": 1.17,
       "tp_s": 15.38,
-      "dp_deg": 179,
-      "sst_c": 17.3
+      "dp_deg": 176,
+      "sst_c": 17.2
     },
     {
       "timestamp": "05.18.2025-13:00:00",
@@ -554,7 +554,7 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
@@ -650,16 +650,16 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.86,
+      "hs_m": 1.78,
       "tp_s": 8.33,
-      "dp_deg": 276,
-      "sst_c": 12.3
+      "dp_deg": 274,
+      "sst_c": 12.2
     },
     {
       "timestamp": "05.18.2025-13:00:00",
@@ -686,16 +686,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 2.22,
-      "tp_s": 7.69,
-      "dp_deg": 285,
-      "sst_c": 11.9
+      "hs_m": 2.29,
+      "tp_s": 8.33,
+      "dp_deg": 281,
+      "sst_c": 12
     },
     {
       "timestamp": "05.18.2025-12:30:00",
@@ -782,16 +782,16 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.58,
-      "tp_s": 5,
-      "dp_deg": 194,
-      "sst_c": 26.5
+      "hs_m": 0.54,
+      "tp_s": 5.26,
+      "dp_deg": 190,
+      "sst_c": 26.6
     },
     {
       "timestamp": "05.16.2025-02:30:00",
@@ -818,16 +818,16 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.29,
+      "hs_m": 0.28,
       "tp_s": 3.33,
-      "dp_deg": 101,
-      "sst_c": 27.8
+      "dp_deg": 104,
+      "sst_c": 27.7
     },
     {
       "timestamp": "05.18.2025-13:00:00",
@@ -950,16 +950,16 @@
       "sst_c": 20
     },
     {
-      "timestamp": "05.18.2025-12:30:00",
+      "timestamp": "05.18.2025-13:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.46,
-      "tp_s": 6.25,
-      "dp_deg": 132,
-      "sst_c": 20.8
+      "hs_m": 0.44,
+      "tp_s": 7.14,
+      "dp_deg": 120,
+      "sst_c": 21
     },
     {
       "timestamp": "05.18.2025-12:30:00",
