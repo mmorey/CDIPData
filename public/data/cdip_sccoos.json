@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-18T07:03:07.193Z",
+  "last_updated": "2025-05-18T07:21:35.804Z",
   "data": [
     {
       "timestamp": "05.18.2025-06:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.2,
+      "hs_m": 2.21,
       "tp_s": 8.33,
-      "dp_deg": 71,
+      "dp_deg": 74,
       "sst_c": 25.6
     },
     {
@@ -242,26 +242,26 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.48,
+      "hs_m": 1.45,
       "tp_s": 15.38,
-      "dp_deg": 183,
-      "sst_c": 17.4
+      "dp_deg": 187,
+      "sst_c": 17.3
     },
     {
-      "timestamp": "05.18.2025-05:45:00",
+      "timestamp": "05.18.2025-06:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.8,
-      "tp_s": 8,
+      "hs_m": 0.87,
+      "tp_s": 4.92,
       "dp_deg": null,
       "sst_c": null
     },
@@ -362,27 +362,27 @@
       "sst_c": 17.8
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.99,
+      "hs_m": 1.01,
       "tp_s": 15.38,
-      "dp_deg": 189,
+      "dp_deg": 183,
       "sst_c": 17.5
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.18,
+      "hs_m": 1.22,
       "tp_s": 15.38,
-      "dp_deg": 177,
+      "dp_deg": 179,
       "sst_c": 16.6
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.34,
+      "hs_m": 1.29,
       "tp_s": 15.38,
-      "dp_deg": 202,
+      "dp_deg": 188,
       "sst_c": 16.8
     },
     {
@@ -518,16 +518,16 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.94,
-      "tp_s": 9.88,
-      "dp_deg": 257,
-      "sst_c": 13.5
+      "hs_m": 0.99,
+      "tp_s": 4,
+      "dp_deg": 280,
+      "sst_c": 14.1
     },
     {
       "timestamp": "05.18.2025-06:00:00",
@@ -602,15 +602,15 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.7,
+      "hs_m": 1.65,
       "tp_s": 7.14,
-      "dp_deg": 291,
+      "dp_deg": 288,
       "sst_c": 13.1
     },
     {
@@ -734,7 +734,7 @@
       "sst_c": 27.4
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
@@ -743,7 +743,7 @@
       "hs_m": 0.36,
       "tp_s": 5.26,
       "dp_deg": 193,
-      "sst_c": 27.5
+      "sst_c": 27.4
     },
     {
       "timestamp": "05.18.2025-06:00:00",
@@ -782,16 +782,16 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.63,
-      "tp_s": 5.26,
-      "dp_deg": 198,
-      "sst_c": 26.5
+      "hs_m": 0.65,
+      "tp_s": 5.56,
+      "dp_deg": 203,
+      "sst_c": 26.4
     },
     {
       "timestamp": "05.16.2025-02:30:00",
@@ -878,14 +878,14 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1.3,
-      "tp_s": 6.25,
+      "hs_m": 1.34,
+      "tp_s": 5.88,
       "dp_deg": 203,
       "sst_c": 23.6
     },
@@ -938,13 +938,13 @@
       "sst_c": 20.5
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 0.92,
+      "hs_m": 0.98,
       "tp_s": 6.25,
       "dp_deg": 158,
       "sst_c": 19.9
@@ -1058,16 +1058,16 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "05.18.2025-06:00:00",
+      "timestamp": "05.18.2025-06:30:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.97,
+      "hs_m": 1,
       "tp_s": 7.69,
-      "dp_deg": 141,
-      "sst_c": 11.5
+      "dp_deg": 140,
+      "sst_c": 11.1
     },
     {
       "timestamp": "05.18.2025-06:30:00",
