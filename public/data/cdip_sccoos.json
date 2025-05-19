@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-19T11:32:42.854Z",
+  "last_updated": "2025-05-19T11:46:57.778Z",
   "data": [
     {
       "timestamp": "05.19.2025-10:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 1.4,
-      "tp_s": 6.67,
-      "dp_deg": 69,
+      "hs_m": 1.45,
+      "tp_s": 7.14,
+      "dp_deg": 68,
       "sst_c": 29.1
     },
     {
@@ -146,7 +146,7 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.19.2025-10:00:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
@@ -154,31 +154,31 @@
       "depth_cm": 8100,
       "hs_m": 1.93,
       "tp_s": 9.09,
-      "dp_deg": 79,
-      "sst_c": 25.6
+      "dp_deg": 82,
+      "sst_c": 25.5
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.76,
+      "hs_m": 1.72,
       "tp_s": 9.09,
-      "dp_deg": 75,
+      "dp_deg": 72,
       "sst_c": 24.9
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 1.66,
+      "hs_m": 1.81,
       "tp_s": 9.09,
-      "dp_deg": 78,
+      "dp_deg": 72,
       "sst_c": 25
     },
     {
@@ -266,16 +266,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.95,
+      "hs_m": 0.88,
       "tp_s": 7.69,
-      "dp_deg": 281,
-      "sst_c": 18
+      "dp_deg": 284,
+      "sst_c": 18.2
     },
     {
       "timestamp": "05.19.2025-11:00:00",
@@ -350,15 +350,15 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.81,
-      "tp_s": 15.38,
-      "dp_deg": 187,
+      "hs_m": 0.85,
+      "tp_s": 14.29,
+      "dp_deg": 185,
       "sst_c": 17.8
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 1.17,
-      "tp_s": 6.67,
-      "dp_deg": 275,
+      "hs_m": 1.13,
+      "tp_s": 15.38,
+      "dp_deg": 169,
       "sst_c": 17.4
     },
     {
@@ -446,14 +446,14 @@
       "sst_c": 12
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.64,
-      "tp_s": 10.53,
+      "hs_m": 3.94,
+      "tp_s": 9.88,
       "dp_deg": 321,
       "sst_c": 13.2
     },
@@ -554,14 +554,14 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.41,
-      "tp_s": 7.14,
+      "hs_m": 2.38,
+      "tp_s": 7.69,
       "dp_deg": 315,
       "sst_c": 9.8
     },
@@ -590,16 +590,16 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.92,
+      "hs_m": 2,
       "tp_s": 5,
-      "dp_deg": 215,
-      "sst_c": 12.8
+      "dp_deg": 206,
+      "sst_c": 12.7
     },
     {
       "timestamp": "05.19.2025-11:00:00",
@@ -662,16 +662,16 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.89,
-      "tp_s": 4.76,
-      "dp_deg": 196,
-      "sst_c": 12
+      "hs_m": 1.96,
+      "tp_s": 5.26,
+      "dp_deg": 195,
+      "sst_c": 11.8
     },
     {
       "timestamp": "05.19.2025-11:00:00",
@@ -770,15 +770,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.7,
-      "tp_s": 4.55,
-      "dp_deg": 198,
+      "hs_m": 0.68,
+      "tp_s": 5.56,
+      "dp_deg": 202,
       "sst_c": 26.9
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 20.9
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 0.44,
-      "tp_s": 9.88,
-      "dp_deg": 120,
+      "hs_m": 0.47,
+      "tp_s": 9.09,
+      "dp_deg": 134,
       "sst_c": 20.1
     },
     {
@@ -962,26 +962,26 @@
       "sst_c": 19
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.58,
-      "tp_s": 8.33,
-      "dp_deg": 123,
-      "sst_c": 18.8
+      "hs_m": 0.59,
+      "tp_s": 3.12,
+      "dp_deg": 322,
+      "sst_c": 18.9
     },
     {
-      "timestamp": "05.19.2025-10:30:00",
+      "timestamp": "05.19.2025-11:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5373,
       "longitude": -75.043849,
       "depth_cm": 1060,
-      "hs_m": 0.47,
-      "tp_s": 8.33,
+      "hs_m": 0.42,
+      "tp_s": 7.69,
       "dp_deg": 126,
       "sst_c": 16.4
     },
