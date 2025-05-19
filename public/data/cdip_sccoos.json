@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-19T23:33:33.758Z",
+  "last_updated": "2025-05-19T23:47:05.723Z",
   "data": [
     {
       "timestamp": "05.19.2025-22:30:00",
@@ -50,15 +50,15 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 1.54,
-      "tp_s": 7.14,
-      "dp_deg": 78,
+      "hs_m": 1.53,
+      "tp_s": 7.69,
+      "dp_deg": 80,
       "sst_c": 29.8
     },
     {
@@ -146,7 +146,7 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
@@ -154,7 +154,7 @@
       "depth_cm": 8100,
       "hs_m": 1.65,
       "tp_s": 9.09,
-      "dp_deg": 79,
+      "dp_deg": 73,
       "sst_c": 25.7
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.89,
-      "tp_s": 10.53,
-      "dp_deg": 294,
+      "hs_m": 0.93,
+      "tp_s": 9.88,
+      "dp_deg": 292,
       "sst_c": 19.1
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.02,
+      "hs_m": 1.06,
       "tp_s": 9.88,
-      "dp_deg": 273,
-      "sst_c": 18.8
+      "dp_deg": 277,
+      "sst_c": 18.9
     },
     {
       "timestamp": "05.19.2025-23:00:00",
@@ -350,7 +350,7 @@
       "sst_c": 18.7
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -358,8 +358,8 @@
       "depth_cm": 30300,
       "hs_m": 0.79,
       "tp_s": 14.29,
-      "dp_deg": 183,
-      "sst_c": 18.1
+      "dp_deg": 181,
+      "sst_c": 18
     },
     {
       "timestamp": "05.19.2025-23:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 13
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.73,
-      "tp_s": 7.69,
-      "dp_deg": 286,
+      "hs_m": 1.84,
+      "tp_s": 7.14,
+      "dp_deg": 278,
       "sst_c": 13.6
     },
     {
@@ -758,28 +758,28 @@
       "sst_c": 29
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6405,
       "longitude": -97.0113,
       "depth_cm": 2270,
-      "hs_m": 1.92,
+      "hs_m": 1.93,
       "tp_s": 7.69,
-      "dp_deg": 131,
+      "dp_deg": 123,
       "sst_c": 26.3
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.07,
-      "tp_s": 5.88,
-      "dp_deg": 192,
-      "sst_c": 27.8
+      "hs_m": 1.06,
+      "tp_s": 6.25,
+      "dp_deg": 199,
+      "sst_c": 27.7
     },
     {
       "timestamp": "05.19.2025-23:00:00",
@@ -830,16 +830,16 @@
       "sst_c": 24.1
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.4,
+      "hs_m": 0.42,
       "tp_s": 9.09,
-      "dp_deg": 94,
-      "sst_c": 26.4
+      "dp_deg": 96,
+      "sst_c": 26.3
     },
     {
       "timestamp": "05.19.2025-23:00:00",
@@ -998,39 +998,39 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.97,
-      "tp_s": 7.14,
-      "dp_deg": 198,
+      "hs_m": 0.92,
+      "tp_s": 5.26,
+      "dp_deg": 243,
       "sst_c": 13.5
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.96,
-      "tp_s": 5.56,
-      "dp_deg": 222,
+      "hs_m": 0.92,
+      "tp_s": 5.26,
+      "dp_deg": 223,
       "sst_c": 13.7
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 1.12,
-      "tp_s": 4.76,
-      "dp_deg": 330,
+      "hs_m": 1.36,
+      "tp_s": 5,
+      "dp_deg": 333,
       "sst_c": 11.9
     },
     {
@@ -1073,8 +1073,8 @@
       "timestamp": "05.19.2025-22:30:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
-      "latitude": 45.8032,
-      "longitude": -84.7921,
+      "latitude": 45.8035,
+      "longitude": -84.7916,
       "depth_cm": 1980,
       "hs_m": 0.13,
       "tp_s": 2.22,
@@ -1082,15 +1082,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "05.19.2025-22:30:00",
+      "timestamp": "05.19.2025-23:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
       "latitude": 46.9727,
       "longitude": -86.5682,
       "depth_cm": 16000,
-      "hs_m": 0.8,
-      "tp_s": 5.26,
-      "dp_deg": 12,
+      "hs_m": 0.78,
+      "tp_s": 5,
+      "dp_deg": 18,
       "sst_c": 2.8
     },
     {
