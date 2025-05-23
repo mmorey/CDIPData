@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-23T13:39:05.464Z",
+  "last_updated": "2025-05-23T13:48:21.635Z",
   "data": [
     {
       "timestamp": "05.23.2025-12:30:00",
@@ -62,15 +62,15 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "05.23.2025-12:00:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.26,
-      "tp_s": 9.09,
-      "dp_deg": 70,
+      "hs_m": 1.29,
+      "tp_s": 9.88,
+      "dp_deg": 79,
       "sst_c": 29.2
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.92,
-      "tp_s": 6.67,
-      "dp_deg": 71,
+      "hs_m": 1.89,
+      "tp_s": 9.09,
+      "dp_deg": 76,
       "sst_c": 25.3
     },
     {
@@ -170,27 +170,27 @@
       "sst_c": 25
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 1.6,
+      "hs_m": 1.68,
       "tp_s": 9.09,
-      "dp_deg": 65,
+      "dp_deg": 70,
       "sst_c": 25.1
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
       "hs_m": 1.25,
-      "tp_s": 6.67,
-      "dp_deg": 39,
+      "tp_s": 7.69,
+      "dp_deg": 37,
       "sst_c": 25.4
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.73,
-      "tp_s": 9.09,
-      "dp_deg": 274,
+      "hs_m": 0.77,
+      "tp_s": 14.29,
+      "dp_deg": 242,
       "sst_c": 19.8
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.1,
-      "tp_s": 18.18,
-      "dp_deg": 358,
+      "hs_m": 1.03,
+      "tp_s": 20,
+      "dp_deg": 142,
       "sst_c": 17.5
     },
     {
@@ -458,15 +458,15 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.6,
-      "tp_s": 7.69,
-      "dp_deg": 320,
+      "hs_m": 2.55,
+      "tp_s": 7.14,
+      "dp_deg": 326,
       "sst_c": 12.8
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 1.51,
-      "tp_s": 7.69,
-      "dp_deg": 285,
+      "hs_m": 1.62,
+      "tp_s": 5.56,
+      "dp_deg": 336,
       "sst_c": 11
     },
     {
@@ -638,27 +638,27 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.06,
-      "tp_s": 8.33,
-      "dp_deg": 258,
-      "sst_c": 11.2
+      "hs_m": 0.99,
+      "tp_s": 7.14,
+      "dp_deg": 305,
+      "sst_c": 11.3
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 0.87,
+      "hs_m": 0.88,
       "tp_s": 8.33,
-      "dp_deg": 277,
+      "dp_deg": 274,
       "sst_c": 11.9
     },
     {
@@ -674,16 +674,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 0.87,
+      "hs_m": 0.88,
       "tp_s": 8.33,
-      "dp_deg": 263,
-      "sst_c": 13
+      "dp_deg": 264,
+      "sst_c": 13.1
     },
     {
       "timestamp": "05.23.2025-13:00:00",
@@ -782,16 +782,16 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.37,
-      "tp_s": 5,
-      "dp_deg": 156,
-      "sst_c": 27.4
+      "tp_s": 5.88,
+      "dp_deg": 199,
+      "sst_c": 27.6
     },
     {
       "timestamp": "05.23.2025-13:00:00",
@@ -818,13 +818,13 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.4,
+      "hs_m": 0.41,
       "tp_s": 9.09,
       "dp_deg": 73,
       "sst_c": 25.9
@@ -914,15 +914,15 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.29,
-      "tp_s": 8.33,
-      "dp_deg": 40,
+      "hs_m": 1.26,
+      "tp_s": 9.09,
+      "dp_deg": 51,
       "sst_c": 19.1
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 4.19,
-      "tp_s": 11.11,
-      "dp_deg": 93,
+      "hs_m": 3.91,
+      "tp_s": 10.53,
+      "dp_deg": 92,
       "sst_c": 7.9
     },
     {
@@ -1082,16 +1082,16 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "05.23.2025-12:30:00",
+      "timestamp": "05.23.2025-13:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.55,
-      "tp_s": 3.7,
-      "dp_deg": 282,
-      "sst_c": 8.1
+      "hs_m": 0.6,
+      "tp_s": 3.85,
+      "dp_deg": 279,
+      "sst_c": 8.2
     },
     {
       "timestamp": "05.23.2025-13:00:00",
