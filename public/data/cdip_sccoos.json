@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-24T22:35:09.652Z",
+  "last_updated": "2025-05-24T22:47:08.316Z",
   "data": [
     {
       "timestamp": "05.24.2025-21:30:00",
@@ -62,27 +62,27 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.05,
-      "tp_s": 9.09,
-      "dp_deg": 69,
+      "hs_m": 1.12,
+      "tp_s": 9.88,
+      "dp_deg": 66,
       "sst_c": 29.2
     },
     {
-      "timestamp": "05.24.2025-20:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 0.99,
-      "tp_s": 9.09,
-      "dp_deg": 53,
+      "hs_m": 1.07,
+      "tp_s": 9.88,
+      "dp_deg": 65,
       "sst_c": 29.5
     },
     {
@@ -146,27 +146,27 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.92,
+      "hs_m": 1.83,
       "tp_s": 8.33,
-      "dp_deg": 70,
+      "dp_deg": 74,
       "sst_c": 25.6
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.65,
-      "tp_s": 8.33,
-      "dp_deg": 69,
+      "hs_m": 1.64,
+      "tp_s": 9.09,
+      "dp_deg": 68,
       "sst_c": 25
     },
     {
@@ -194,16 +194,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.79,
-      "tp_s": 9.09,
-      "dp_deg": 68,
-      "sst_c": 23.4
+      "hs_m": 1.78,
+      "tp_s": 8.33,
+      "dp_deg": 58,
+      "sst_c": 23.5
     },
     {
       "timestamp": "05.24.2025-21:30:00",
@@ -362,15 +362,15 @@
       "sst_c": 20.2
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.09,
-      "tp_s": 15.38,
-      "dp_deg": 191,
+      "hs_m": 1.23,
+      "tp_s": 16.67,
+      "dp_deg": 186,
       "sst_c": 18.9
     },
     {
@@ -422,16 +422,16 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.04,
-      "tp_s": 15.38,
-      "dp_deg": 194,
-      "sst_c": 19.1
+      "hs_m": 0.99,
+      "tp_s": 14.29,
+      "dp_deg": 199,
+      "sst_c": 19.2
     },
     {
       "timestamp": "05.24.2025-21:30:00",
@@ -506,14 +506,14 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.69,
-      "tp_s": 8.33,
+      "hs_m": 1.66,
+      "tp_s": 7.69,
       "dp_deg": 290,
       "sst_c": 11.3
     },
@@ -602,15 +602,15 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
       "hs_m": 0.75,
-      "tp_s": 16.67,
-      "dp_deg": 206,
+      "tp_s": 15.38,
+      "dp_deg": 217,
       "sst_c": 13.4
     },
     {
@@ -686,16 +686,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.06,
-      "tp_s": 13.33,
-      "dp_deg": 278,
-      "sst_c": 13.4
+      "hs_m": 1.08,
+      "tp_s": 12.5,
+      "dp_deg": 284,
+      "sst_c": 13.5
     },
     {
       "timestamp": "05.24.2025-21:30:00",
@@ -782,16 +782,16 @@
       "sst_c": 28
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.36,
-      "tp_s": 3.7,
-      "dp_deg": 199,
-      "sst_c": 30
+      "hs_m": 0.37,
+      "tp_s": 4,
+      "dp_deg": 177,
+      "sst_c": 29.9
     },
     {
       "timestamp": "05.24.2025-22:00:00",
@@ -962,28 +962,28 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.74,
+      "hs_m": 0.68,
       "tp_s": 9.88,
-      "dp_deg": 73,
-      "sst_c": 17.7
+      "dp_deg": 69,
+      "sst_c": 17.6
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.45,
-      "tp_s": 9.09,
-      "dp_deg": 96,
-      "sst_c": 19.6
+      "hs_m": 0.42,
+      "tp_s": 10.53,
+      "dp_deg": 73,
+      "sst_c": 19.3
     },
     {
       "timestamp": "05.24.2025-22:00:00",
@@ -1082,15 +1082,15 @@
       "sst_c": 6.9
     },
     {
-      "timestamp": "05.24.2025-21:30:00",
+      "timestamp": "05.24.2025-22:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.53,
+      "hs_m": 0.5,
       "tp_s": 3.85,
-      "dp_deg": 285,
+      "dp_deg": 286,
       "sst_c": 9.3
     },
     {
