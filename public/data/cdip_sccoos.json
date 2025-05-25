@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-25T15:33:30.019Z",
+  "last_updated": "2025-05-25T15:46:59.945Z",
   "data": [
     {
       "timestamp": "05.25.2025-14:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.12,
+      "hs_m": 1.05,
       "tp_s": 9.09,
-      "dp_deg": 52,
+      "dp_deg": 46,
       "sst_c": 29.5
     },
     {
@@ -98,16 +98,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.81,
-      "tp_s": 14.29,
-      "dp_deg": 182,
-      "sst_c": 26.4
+      "hs_m": 0.79,
+      "tp_s": 13.33,
+      "dp_deg": 185,
+      "sst_c": 26.3
     },
     {
       "timestamp": "05.25.2025-15:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.82,
-      "tp_s": 8.33,
-      "dp_deg": 75,
+      "hs_m": 1.71,
+      "tp_s": 7.69,
+      "dp_deg": 69,
       "sst_c": 25.4
     },
     {
@@ -182,27 +182,27 @@
       "sst_c": 25
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.33,
-      "tp_s": 6.25,
-      "dp_deg": 20,
-      "sst_c": 25.5
+      "hs_m": 1.37,
+      "tp_s": 5.88,
+      "dp_deg": 26,
+      "sst_c": 25.4
     },
     {
-      "timestamp": "05.25.2025-14:00:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.92,
-      "tp_s": 5.88,
-      "dp_deg": 55,
+      "hs_m": 1.94,
+      "tp_s": 7.69,
+      "dp_deg": 57,
       "sst_c": 23.5
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.15,
-      "tp_s": 15.38,
-      "dp_deg": 189,
+      "hs_m": 1.22,
+      "tp_s": 14.29,
+      "dp_deg": 191,
       "sst_c": 18.6
     },
     {
@@ -446,13 +446,13 @@
       "sst_c": 19.1
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.11,
+      "hs_m": 2.16,
       "tp_s": 8.33,
       "dp_deg": 305,
       "sst_c": 11.9
@@ -518,16 +518,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.71,
-      "tp_s": 6.67,
-      "dp_deg": 269,
-      "sst_c": 13.1
+      "hs_m": 0.67,
+      "tp_s": 7.14,
+      "dp_deg": 267,
+      "sst_c": 13.2
     },
     {
       "timestamp": "05.25.2025-14:30:00",
@@ -602,15 +602,15 @@
       "sst_c": 11.6
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.71,
-      "tp_s": 11.76,
-      "dp_deg": 297,
+      "hs_m": 1.73,
+      "tp_s": 11.11,
+      "dp_deg": 293,
       "sst_c": 13.1
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 27.7
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.53,
-      "tp_s": 4.55,
-      "dp_deg": 171,
+      "hs_m": 0.51,
+      "tp_s": 4.76,
+      "dp_deg": 182,
       "sst_c": 28.6
     },
     {
@@ -806,16 +806,16 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.54,
-      "tp_s": 3.85,
-      "dp_deg": 110,
-      "sst_c": 28.4
+      "hs_m": 0.59,
+      "tp_s": 3.7,
+      "dp_deg": 114,
+      "sst_c": 28.5
     },
     {
       "timestamp": "05.25.2025-15:00:00",
@@ -842,16 +842,16 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.53,
-      "tp_s": 9.09,
-      "dp_deg": 77,
-      "sst_c": 26.4
+      "hs_m": 0.5,
+      "tp_s": 9.88,
+      "dp_deg": 87,
+      "sst_c": 26.5
     },
     {
       "timestamp": "05.25.2025-15:00:00",
@@ -998,27 +998,27 @@
       "sst_c": 16.2
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7714,
       "longitude": -73.7712,
       "depth_cm": 2500,
-      "hs_m": 0.59,
-      "tp_s": 3.45,
-      "dp_deg": 308,
-      "sst_c": 13.9
+      "hs_m": 0.52,
+      "tp_s": 3.23,
+      "dp_deg": 309,
+      "sst_c": 14
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 1.03,
-      "tp_s": 4.76,
-      "dp_deg": 262,
+      "hs_m": 1.02,
+      "tp_s": 5.26,
+      "dp_deg": 232,
       "sst_c": 10.6
     },
     {
@@ -1046,16 +1046,16 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "05.25.2025-14:30:00",
+      "timestamp": "05.25.2025-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.82,
-      "tp_s": 9.88,
-      "dp_deg": 95,
-      "sst_c": 8.9
+      "hs_m": 0.79,
+      "tp_s": 9.09,
+      "dp_deg": 105,
+      "sst_c": 9.2
     },
     {
       "timestamp": "05.25.2025-15:00:00",
