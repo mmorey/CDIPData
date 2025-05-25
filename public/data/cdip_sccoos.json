@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-25T14:02:57.700Z",
+  "last_updated": "2025-05-25T14:21:37.240Z",
   "data": [
     {
       "timestamp": "05.25.2025-13:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.78,
+      "hs_m": 1.77,
       "tp_s": 8.33,
-      "dp_deg": 71,
+      "dp_deg": 76,
       "sst_c": 25.4
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 8.2
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.5167,
       "longitude": -117.4252,
       "depth_cm": 104980,
-      "hs_m": 1.57,
+      "hs_m": 1.59,
       "tp_s": 16.67,
-      "dp_deg": 191,
+      "dp_deg": 190,
       "sst_c": 18.5
     },
     {
@@ -266,14 +266,14 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "05.25.2025-12:45:00",
+      "timestamp": "05.25.2025-13:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.67,
-      "tp_s": 5.12,
+      "hs_m": 0.68,
+      "tp_s": 6.56,
       "dp_deg": null,
       "sst_c": null
     },
@@ -302,26 +302,26 @@
       "sst_c": 19.1
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.17,
+      "hs_m": 1.07,
       "tp_s": 14.29,
       "dp_deg": 233,
       "sst_c": 19.9
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
       "hs_m": 0.82,
-      "tp_s": 15.38,
+      "tp_s": 14.29,
       "dp_deg": 226,
       "sst_c": 19.9
     },
@@ -362,14 +362,14 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.32,
-      "tp_s": 16.67,
+      "hs_m": 1.2,
+      "tp_s": 14.29,
       "dp_deg": 189,
       "sst_c": 18.6
     },
@@ -410,16 +410,16 @@
       "sst_c": 18
     },
     {
-      "timestamp": "05.25.2025-11:30:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.54,
-      "tp_s": 18.18,
-      "dp_deg": 210,
-      "sst_c": 15.9
+      "hs_m": 1.35,
+      "tp_s": 16.67,
+      "dp_deg": 199,
+      "sst_c": 15.7
     },
     {
       "timestamp": "05.25.2025-13:30:00",
@@ -518,16 +518,16 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.74,
-      "tp_s": 6.67,
-      "dp_deg": 269,
-      "sst_c": 13
+      "hs_m": 0.72,
+      "tp_s": 7.14,
+      "dp_deg": 267,
+      "sst_c": 13.2
     },
     {
       "timestamp": "05.25.2025-13:00:00",
@@ -554,16 +554,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.31,
+      "hs_m": 1.24,
       "tp_s": 15.38,
-      "dp_deg": 235,
-      "sst_c": 12.3
+      "dp_deg": 234,
+      "sst_c": 12.4
     },
     {
       "timestamp": "05.25.2025-13:30:00",
@@ -602,15 +602,15 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.68,
+      "hs_m": 1.77,
       "tp_s": 11.11,
-      "dp_deg": 297,
+      "dp_deg": 293,
       "sst_c": 13
     },
     {
@@ -782,16 +782,16 @@
       "sst_c": 27.6
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.53,
-      "tp_s": 4.35,
-      "dp_deg": 179,
-      "sst_c": 28.4
+      "hs_m": 0.51,
+      "tp_s": 4.76,
+      "dp_deg": 174,
+      "sst_c": 28.5
     },
     {
       "timestamp": "05.25.2025-13:30:00",
@@ -818,15 +818,15 @@
       "sst_c": 28.4
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 0.5,
-      "tp_s": 4.17,
-      "dp_deg": 76,
+      "hs_m": 0.49,
+      "tp_s": 9.88,
+      "dp_deg": 44,
       "sst_c": 27
     },
     {
@@ -866,16 +866,16 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.34,
+      "hs_m": 0.36,
       "tp_s": 9.09,
-      "dp_deg": 143,
-      "sst_c": 23.9
+      "dp_deg": 123,
+      "sst_c": 24
     },
     {
       "timestamp": "05.25.2025-13:30:00",
@@ -902,16 +902,16 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.63,
-      "tp_s": 9.88,
-      "dp_deg": 75,
-      "sst_c": 21.2
+      "hs_m": 0.61,
+      "tp_s": 9.09,
+      "dp_deg": 79,
+      "sst_c": 21.3
     },
     {
       "timestamp": "05.25.2025-13:30:00",
@@ -938,16 +938,16 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.35,
-      "tp_s": 9.09,
-      "dp_deg": 79,
-      "sst_c": 19.3
+      "hs_m": 0.44,
+      "tp_s": 9.88,
+      "dp_deg": 76,
+      "sst_c": 19.2
     },
     {
       "timestamp": "05.25.2025-13:00:00",
@@ -974,15 +974,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "05.25.2025-13:00:00",
+      "timestamp": "05.25.2025-13:30:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
-      "hs_m": 0.7,
-      "tp_s": 3.85,
-      "dp_deg": 21,
+      "hs_m": 0.69,
+      "tp_s": 3.7,
+      "dp_deg": 24,
       "sst_c": 19
     },
     {
