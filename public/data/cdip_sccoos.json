@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-30T23:33:36.897Z",
+  "last_updated": "2025-05-30T23:47:03.402Z",
   "data": [
     {
       "timestamp": "05.30.2025-22:30:00",
@@ -134,25 +134,25 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.02,
-      "tp_s": 14.29,
-      "dp_deg": 191,
+      "hs_m": 0.98,
+      "tp_s": 10.53,
+      "dp_deg": 306,
       "sst_c": 26
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.36,
+      "hs_m": 1.44,
       "tp_s": 9.88,
       "dp_deg": 357,
       "sst_c": 25.8
@@ -278,16 +278,16 @@
       "sst_c": 20
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.13,
-      "tp_s": 15.38,
-      "dp_deg": 199,
-      "sst_c": 19.5
+      "hs_m": 1.16,
+      "tp_s": 9.09,
+      "dp_deg": 285,
+      "sst_c": 19.4
     },
     {
       "timestamp": "05.30.2025-23:00:00",
@@ -302,27 +302,27 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.88,
-      "tp_s": 14.29,
-      "dp_deg": 235,
+      "hs_m": 0.9,
+      "tp_s": 22.22,
+      "dp_deg": 246,
       "sst_c": 19.9
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.87,
+      "hs_m": 0.91,
       "tp_s": 15.38,
-      "dp_deg": 198,
+      "dp_deg": 194,
       "sst_c": 19.8
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 19.7
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
       "hs_m": 0.94,
-      "tp_s": 13.33,
-      "dp_deg": 183,
-      "sst_c": 19.8
+      "tp_s": 15.38,
+      "dp_deg": 192,
+      "sst_c": 19.9
     },
     {
       "timestamp": "05.30.2025-23:00:00",
@@ -506,16 +506,16 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 1.31,
-      "tp_s": 9.09,
-      "dp_deg": 262,
-      "sst_c": 13.8
+      "hs_m": 1.22,
+      "tp_s": 8.33,
+      "dp_deg": 266,
+      "sst_c": 13.5
     },
     {
       "timestamp": "05.30.2025-22:30:00",
@@ -566,15 +566,15 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 2.12,
-      "tp_s": 11.76,
-      "dp_deg": 288,
+      "hs_m": 2.19,
+      "tp_s": 10.53,
+      "dp_deg": 280,
       "sst_c": 9.2
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.86,
-      "tp_s": 11.76,
-      "dp_deg": 283,
+      "hs_m": 1.92,
+      "tp_s": 9.09,
+      "dp_deg": 272,
       "sst_c": 12.2
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.42,
-      "tp_s": 3.57,
-      "dp_deg": 154,
+      "hs_m": 0.39,
+      "tp_s": 3.7,
+      "dp_deg": 143,
       "sst_c": 29.4
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.68,
+      "hs_m": 0.73,
       "tp_s": 5.56,
-      "dp_deg": 171,
-      "sst_c": 30
+      "dp_deg": 168,
+      "sst_c": 29.9
     },
     {
       "timestamp": "05.30.2025-23:00:00",
@@ -926,15 +926,15 @@
       "sst_c": 20.4
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.19965,
       "longitude": -75.714983,
       "depth_cm": 1814,
-      "hs_m": 0.52,
-      "tp_s": 9.09,
-      "dp_deg": 100,
+      "hs_m": 0.56,
+      "tp_s": 7.69,
+      "dp_deg": 109,
       "sst_c": 20
     },
     {
@@ -1070,27 +1070,27 @@
       "sst_c": 6.6
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.51,
-      "tp_s": 3.03,
-      "dp_deg": 289,
-      "sst_c": 10.7
+      "tp_s": 3.12,
+      "dp_deg": 296,
+      "sst_c": 10.6
     },
     {
-      "timestamp": "05.30.2025-22:30:00",
+      "timestamp": "05.30.2025-23:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
       "latitude": 46.9727,
       "longitude": -86.5682,
       "depth_cm": 16000,
-      "hs_m": 0.77,
-      "tp_s": 4.55,
-      "dp_deg": 2,
+      "hs_m": 0.75,
+      "tp_s": 4.17,
+      "dp_deg": 353,
       "sst_c": 3.1
     },
     {
