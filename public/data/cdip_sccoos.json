@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-31T23:33:12.976Z",
+  "last_updated": "2025-05-31T23:47:07.182Z",
   "data": [
     {
       "timestamp": "05.31.2025-22:00:00",
@@ -62,15 +62,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.31,
+      "hs_m": 1.25,
       "tp_s": 9.88,
-      "dp_deg": 79,
+      "dp_deg": 89,
       "sst_c": 29.5
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "05.31.2025-22:00:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.72,
-      "tp_s": 13.33,
-      "dp_deg": 346,
+      "hs_m": 1.66,
+      "tp_s": 12.5,
+      "dp_deg": 349,
       "sst_c": 25.8
     },
     {
@@ -326,16 +326,16 @@
       "sst_c": 20.3
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.47,
+      "hs_m": 1.41,
       "tp_s": 9.88,
       "dp_deg": 299,
-      "sst_c": 15
+      "sst_c": 14.8
     },
     {
       "timestamp": "05.31.2025-22:30:00",
@@ -350,16 +350,16 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.87,
-      "tp_s": 14.29,
-      "dp_deg": 196,
-      "sst_c": 20.2
+      "hs_m": 0.89,
+      "tp_s": 16.67,
+      "dp_deg": 192,
+      "sst_c": 20
     },
     {
       "timestamp": "05.31.2025-23:00:00",
@@ -542,16 +542,16 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.38,
-      "tp_s": 8.33,
-      "dp_deg": 278,
-      "sst_c": 13.8
+      "hs_m": 1.29,
+      "tp_s": 11.11,
+      "dp_deg": 274,
+      "sst_c": 14.2
     },
     {
       "timestamp": "05.31.2025-23:00:00",
@@ -590,16 +590,16 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.65,
-      "tp_s": 10.53,
-      "dp_deg": 279,
-      "sst_c": 12
+      "hs_m": 1.75,
+      "tp_s": 9.88,
+      "dp_deg": 278,
+      "sst_c": 11.9
     },
     {
       "timestamp": "05.31.2025-23:00:00",
@@ -626,16 +626,16 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "05.31.2025-22:00:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.63,
-      "tp_s": 10.53,
-      "dp_deg": 275,
-      "sst_c": 12
+      "hs_m": 1.59,
+      "tp_s": 9.88,
+      "dp_deg": 279,
+      "sst_c": 11.8
     },
     {
       "timestamp": "05.31.2025-22:30:00",
@@ -662,16 +662,16 @@
       "sst_c": 13.6
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.41,
-      "tp_s": 9.09,
-      "dp_deg": 264,
-      "sst_c": 14.7
+      "hs_m": 1.46,
+      "tp_s": 9.88,
+      "dp_deg": 275,
+      "sst_c": 14.9
     },
     {
       "timestamp": "05.31.2025-23:00:00",
@@ -770,16 +770,16 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.33,
-      "tp_s": 5.88,
-      "dp_deg": 194,
-      "sst_c": 28.5
+      "tp_s": 5.56,
+      "dp_deg": 185,
+      "sst_c": 28.6
     },
     {
       "timestamp": "05.31.2025-23:00:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 9
     },
     {
-      "timestamp": "05.31.2025-22:30:00",
+      "timestamp": "05.31.2025-23:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.7,
-      "tp_s": 3.85,
-      "dp_deg": 312,
+      "hs_m": 0.69,
+      "tp_s": 3.7,
+      "dp_deg": 307,
       "sst_c": 10.2
     },
     {
