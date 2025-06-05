@@ -1,15 +1,15 @@
 {
-  "last_updated": "2025-06-05T21:33:44.685Z",
+  "last_updated": "2025-06-05T21:47:15.449Z",
   "data": [
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.81,
-      "tp_s": 14.29,
+      "hs_m": 1.84,
+      "tp_s": 15.38,
       "dp_deg": 204,
       "sst_c": 28.8
     },
@@ -62,15 +62,15 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 0.64,
-      "tp_s": 11.11,
-      "dp_deg": 36,
+      "hs_m": 0.62,
+      "tp_s": 10.53,
+      "dp_deg": 53,
       "sst_c": 29.8
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 1.26,
+      "hs_m": 1.31,
       "tp_s": 9.09,
-      "dp_deg": 69,
+      "dp_deg": 72,
       "sst_c": 29.5
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 26.9
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.93,
+      "hs_m": 0.98,
       "tp_s": 14.29,
-      "dp_deg": 174,
+      "dp_deg": 175,
       "sst_c": 25.8
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.75,
+      "hs_m": 0.76,
       "tp_s": 14.29,
-      "dp_deg": 232,
+      "dp_deg": 229,
       "sst_c": 17.1
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.92,
-      "tp_s": 14.29,
-      "dp_deg": 198,
+      "hs_m": 0.87,
+      "tp_s": 13.33,
+      "dp_deg": 199,
       "sst_c": 19.6
     },
     {
@@ -446,28 +446,28 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2,
+      "hs_m": 1.98,
       "tp_s": 10.53,
-      "dp_deg": 310,
-      "sst_c": 15.6
+      "dp_deg": 313,
+      "sst_c": 15.9
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.42,
+      "hs_m": 1.38,
       "tp_s": 9.88,
-      "dp_deg": 295,
-      "sst_c": 16.6
+      "dp_deg": 292,
+      "sst_c": 16.1
     },
     {
       "timestamp": "06.05.2025-20:30:00",
@@ -506,7 +506,7 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
@@ -514,8 +514,8 @@
       "depth_cm": 1500,
       "hs_m": 0.76,
       "tp_s": 11.11,
-      "dp_deg": 252,
-      "sst_c": 14.8
+      "dp_deg": 250,
+      "sst_c": 14.9
     },
     {
       "timestamp": "06.05.2025-20:30:00",
@@ -554,28 +554,28 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.940322,
       "longitude": -123.465,
       "depth_cm": 60000,
-      "hs_m": 2.45,
-      "tp_s": 9.88,
-      "dp_deg": 335,
+      "hs_m": 2.29,
+      "tp_s": 10.53,
+      "dp_deg": 322,
       "sst_c": 12.6
     },
     {
-      "timestamp": "06.05.2025-20:00:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 3.57,
-      "tp_s": 10.53,
-      "dp_deg": 309,
-      "sst_c": 9.4
+      "hs_m": 3.73,
+      "tp_s": 9.09,
+      "dp_deg": 332,
+      "sst_c": 9.6
     },
     {
       "timestamp": "06.05.2025-20:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.8,
-      "tp_s": 8.33,
-      "dp_deg": 305,
+      "hs_m": 2,
+      "tp_s": 7.69,
+      "dp_deg": 313,
       "sst_c": 10.3
     },
     {
@@ -686,16 +686,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.97,
+      "hs_m": 0.84,
       "tp_s": 8.33,
-      "dp_deg": 290,
-      "sst_c": 10.7
+      "dp_deg": 291,
+      "sst_c": 10.6
     },
     {
       "timestamp": "06.05.2025-20:30:00",
@@ -734,15 +734,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.03,
-      "tp_s": 5.56,
-      "dp_deg": 169,
+      "hs_m": 0.98,
+      "tp_s": 7.69,
+      "dp_deg": 211,
       "sst_c": 28.1
     },
     {
@@ -770,16 +770,16 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.36,
-      "tp_s": 7.14,
-      "dp_deg": 147,
-      "sst_c": 31.8
+      "hs_m": 0.4,
+      "tp_s": 6.67,
+      "dp_deg": 145,
+      "sst_c": 31.6
     },
     {
       "timestamp": "06.05.2025-21:00:00",
@@ -974,15 +974,15 @@
       "sst_c": 21.3
     },
     {
-      "timestamp": "06.05.2025-20:30:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "224",
       "station_name": "WALLOPS ISLAND, VA",
       "latitude": 37.756033,
       "longitude": -75.325283,
       "depth_cm": 1520,
-      "hs_m": 0.57,
-      "tp_s": 7.69,
-      "dp_deg": 123,
+      "hs_m": 0.62,
+      "tp_s": 7.14,
+      "dp_deg": 121,
       "sst_c": 19.5
     },
     {
@@ -1082,16 +1082,16 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "06.05.2025-20:00:00",
+      "timestamp": "06.05.2025-21:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.07,
-      "tp_s": 2.94,
-      "dp_deg": 86,
-      "sst_c": 13.9
+      "tp_s": 2.86,
+      "dp_deg": 83,
+      "sst_c": 13.1
     },
     {
       "timestamp": "06.05.2025-21:00:00",
