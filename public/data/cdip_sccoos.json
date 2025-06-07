@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-07T14:34:58.922Z",
+  "last_updated": "2025-06-07T14:47:03.441Z",
   "data": [
     {
       "timestamp": "06.07.2025-13:30:00",
@@ -14,7 +14,7 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "06.07.2025-12:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
@@ -26,15 +26,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "06.07.2025-12:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.07,
+      "hs_m": 2.14,
       "tp_s": 9.88,
-      "dp_deg": 132,
+      "dp_deg": 134,
       "sst_c": 28.8
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 26.5
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.75,
+      "hs_m": 0.8,
       "tp_s": 16.67,
-      "dp_deg": 165,
+      "dp_deg": 166,
       "sst_c": 25.8
     },
     {
@@ -158,15 +158,15 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.49,
+      "hs_m": 1.52,
       "tp_s": 11.11,
-      "dp_deg": 49,
+      "dp_deg": 45,
       "sst_c": 25.6
     },
     {
@@ -326,27 +326,27 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.72,
-      "tp_s": 13.33,
-      "dp_deg": 190,
+      "hs_m": 0.8,
+      "tp_s": 16.67,
+      "dp_deg": 180,
       "sst_c": 18.5
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.22,
-      "tp_s": 16.67,
-      "dp_deg": 196,
+      "hs_m": 1.25,
+      "tp_s": 10.53,
+      "dp_deg": 303,
       "sst_c": 16
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.71,
+      "hs_m": 0.76,
       "tp_s": 16.67,
-      "dp_deg": 186,
-      "sst_c": 18.9
+      "dp_deg": 183,
+      "sst_c": 18.8
     },
     {
       "timestamp": "06.07.2025-14:00:00",
@@ -386,15 +386,15 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.7,
-      "tp_s": 9.88,
-      "dp_deg": 271,
+      "hs_m": 0.69,
+      "tp_s": 10.53,
+      "dp_deg": 268,
       "sst_c": 17.1
     },
     {
@@ -422,15 +422,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.71,
-      "tp_s": 16.67,
-      "dp_deg": 190,
+      "hs_m": 0.74,
+      "tp_s": 14.29,
+      "dp_deg": 194,
       "sst_c": 17
     },
     {
@@ -470,14 +470,14 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "06.07.2025-13:00:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.1,
-      "tp_s": 9.88,
+      "hs_m": 0.96,
+      "tp_s": 9.09,
       "dp_deg": 285,
       "sst_c": 13.2
     },
@@ -518,15 +518,15 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.55,
-      "tp_s": 10.53,
-      "dp_deg": 257,
+      "hs_m": 0.56,
+      "tp_s": 9.88,
+      "dp_deg": 255,
       "sst_c": 15.2
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 9.8
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2,
-      "tp_s": 6.67,
-      "dp_deg": 329,
+      "hs_m": 2.09,
+      "tp_s": 7.14,
+      "dp_deg": 320,
       "sst_c": 10
     },
     {
@@ -638,15 +638,15 @@
       "sst_c": 7.9
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.98,
-      "tp_s": 11.11,
-      "dp_deg": 303,
+      "hs_m": 1.84,
+      "tp_s": 10.53,
+      "dp_deg": 299,
       "sst_c": 8.1
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.82,
-      "tp_s": 7.14,
-      "dp_deg": 305,
-      "sst_c": 13
+      "hs_m": 1.9,
+      "tp_s": 10.53,
+      "dp_deg": 299,
+      "sst_c": 12.9
     },
     {
       "timestamp": "06.07.2025-14:00:00",
@@ -782,16 +782,16 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.57,
-      "tp_s": 6.25,
-      "dp_deg": 165,
-      "sst_c": 29.3
+      "hs_m": 0.56,
+      "tp_s": 3.57,
+      "dp_deg": 222,
+      "sst_c": 29.4
     },
     {
       "timestamp": "06.07.2025-14:00:00",
@@ -806,16 +806,16 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.32,
-      "tp_s": 2.94,
-      "dp_deg": 122,
-      "sst_c": 27.5
+      "hs_m": 0.34,
+      "tp_s": 2.86,
+      "dp_deg": 115,
+      "sst_c": 27.8
     },
     {
       "timestamp": "06.07.2025-14:00:00",
@@ -830,16 +830,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.38,
-      "tp_s": 3.57,
-      "dp_deg": 129,
-      "sst_c": 25.4
+      "hs_m": 0.37,
+      "tp_s": 3.7,
+      "dp_deg": 125,
+      "sst_c": 26.1
     },
     {
       "timestamp": "06.07.2025-14:00:00",
@@ -854,15 +854,15 @@
       "sst_c": 26.5
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.6,
-      "tp_s": 2.7,
-      "dp_deg": 252,
+      "hs_m": 0.56,
+      "tp_s": 2.63,
+      "dp_deg": 273,
       "sst_c": 26.9
     },
     {
@@ -1094,16 +1094,16 @@
       "sst_c": 9.9
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.11,
-      "tp_s": 2.7,
-      "dp_deg": 23,
-      "sst_c": 13.8
+      "tp_s": 3.85,
+      "dp_deg": 96,
+      "sst_c": 13.9
     },
     {
       "timestamp": "06.07.2025-14:00:00",
@@ -1118,16 +1118,16 @@
       "sst_c": 3.4
     },
     {
-      "timestamp": "06.07.2025-13:30:00",
+      "timestamp": "06.07.2025-14:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 0.69,
-      "tp_s": 9.88,
-      "dp_deg": 24,
-      "sst_c": 28.8
+      "hs_m": 0.64,
+      "tp_s": 10.53,
+      "dp_deg": 18,
+      "sst_c": 28.9
     }
   ]
 }
