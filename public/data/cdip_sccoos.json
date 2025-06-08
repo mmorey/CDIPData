@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-08T10:36:18.216Z",
+  "last_updated": "2025-06-08T10:47:45.323Z",
   "data": [
     {
       "timestamp": "06.08.2025-09:30:00",
@@ -74,15 +74,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
-      "hs_m": 0.46,
-      "tp_s": 9.09,
-      "dp_deg": 69,
+      "hs_m": 0.45,
+      "tp_s": 9.88,
+      "dp_deg": 70,
       "sst_c": 29.9
     },
     {
@@ -314,7 +314,7 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
@@ -322,8 +322,8 @@
       "depth_cm": 1700,
       "hs_m": 0.64,
       "tp_s": 15.38,
-      "dp_deg": 233,
-      "sst_c": 15.6
+      "dp_deg": 232,
+      "sst_c": 15.7
     },
     {
       "timestamp": "06.08.2025-10:00:00",
@@ -338,15 +338,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.52,
+      "hs_m": 1.46,
       "tp_s": 15.38,
-      "dp_deg": 186,
+      "dp_deg": 199,
       "sst_c": 15.7
     },
     {
@@ -362,7 +362,7 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -370,7 +370,7 @@
       "depth_cm": 30300,
       "hs_m": 0.8,
       "tp_s": 15.38,
-      "dp_deg": 193,
+      "dp_deg": 187,
       "sst_c": 17.8
     },
     {
@@ -398,39 +398,39 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.93,
-      "tp_s": 15.38,
-      "dp_deg": 205,
+      "hs_m": 0.96,
+      "tp_s": 16.67,
+      "dp_deg": 208,
       "sst_c": 15.5
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.06,
+      "hs_m": 1.09,
       "tp_s": 15.38,
-      "dp_deg": 205,
+      "dp_deg": 199,
       "sst_c": 17.6
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.91,
-      "tp_s": 14.29,
-      "dp_deg": 204,
+      "hs_m": 0.93,
+      "tp_s": 15.38,
+      "dp_deg": 202,
       "sst_c": 17.1
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.77,
-      "tp_s": 9.09,
-      "dp_deg": 317,
+      "hs_m": 1.66,
+      "tp_s": 8.33,
+      "dp_deg": 326,
       "sst_c": 10.1
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 29
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.7,
-      "tp_s": 3.45,
-      "dp_deg": 215,
+      "hs_m": 0.73,
+      "tp_s": 3.7,
+      "dp_deg": 228,
       "sst_c": 29.1
     },
     {
@@ -866,15 +866,15 @@
       "sst_c": 26.9
     },
     {
-      "timestamp": "06.08.2025-09:30:00",
+      "timestamp": "06.08.2025-10:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7209,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1.61,
-      "tp_s": 5.88,
-      "dp_deg": 208,
+      "hs_m": 1.53,
+      "tp_s": 6.25,
+      "dp_deg": 199,
       "sst_c": 25.2
     },
     {
