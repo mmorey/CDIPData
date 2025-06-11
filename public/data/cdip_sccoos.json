@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-11T23:34:33.786Z",
+  "last_updated": "2025-06-11T23:47:32.505Z",
   "data": [
     {
       "timestamp": "06.11.2025-22:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 28.7
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.48,
+      "hs_m": 2.6,
       "tp_s": 12.5,
-      "dp_deg": 177,
+      "dp_deg": 158,
       "sst_c": 28.8
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.64,
+      "hs_m": 1.67,
       "tp_s": 6.25,
-      "dp_deg": 75,
+      "dp_deg": 74,
       "sst_c": 26.1
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.7,
-      "tp_s": 15.38,
-      "dp_deg": 287,
+      "hs_m": 0.72,
+      "tp_s": 7.69,
+      "dp_deg": 282,
       "sst_c": 18.8
     },
     {
@@ -290,7 +290,7 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
@@ -298,8 +298,8 @@
       "depth_cm": 1700,
       "hs_m": 1.03,
       "tp_s": 16.67,
-      "dp_deg": 242,
-      "sst_c": 19
+      "dp_deg": 243,
+      "sst_c": 18.9
     },
     {
       "timestamp": "06.11.2025-23:00:00",
@@ -350,15 +350,15 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.84,
+      "hs_m": 0.83,
       "tp_s": 16.67,
-      "dp_deg": 192,
+      "dp_deg": 197,
       "sst_c": 19.4
     },
     {
@@ -386,16 +386,16 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.93,
+      "hs_m": 0.88,
       "tp_s": 15.38,
-      "dp_deg": 187,
-      "sst_c": 17.8
+      "dp_deg": 194,
+      "sst_c": 17.9
     },
     {
       "timestamp": "06.11.2025-23:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 17.7
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.81,
+      "hs_m": 0.89,
       "tp_s": 16.67,
-      "dp_deg": 201,
+      "dp_deg": 192,
       "sst_c": 18.5
     },
     {
@@ -434,16 +434,16 @@
       "sst_c": 17.9
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 2.27,
-      "tp_s": 16.67,
-      "dp_deg": 191,
-      "sst_c": 13
+      "hs_m": 2.19,
+      "tp_s": 7.69,
+      "dp_deg": 319,
+      "sst_c": 13.1
     },
     {
       "timestamp": "06.11.2025-22:30:00",
@@ -542,16 +542,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.51,
+      "hs_m": 1.56,
       "tp_s": 16.67,
-      "dp_deg": 244,
-      "sst_c": 14
+      "dp_deg": 235,
+      "sst_c": 13.9
     },
     {
       "timestamp": "06.11.2025-23:00:00",
@@ -590,16 +590,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.5,
+      "hs_m": 2.56,
       "tp_s": 9.88,
-      "dp_deg": 323,
-      "sst_c": 12.1
+      "dp_deg": 329,
+      "sst_c": 12.2
     },
     {
       "timestamp": "06.11.2025-23:00:00",
@@ -758,28 +758,28 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 1.05,
+      "hs_m": 1.04,
       "tp_s": 6.25,
-      "dp_deg": 141,
-      "sst_c": 28.8
+      "dp_deg": 140,
+      "sst_c": 28.7
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.49,
-      "tp_s": 5,
-      "dp_deg": 157,
-      "sst_c": 30.1
+      "hs_m": 0.53,
+      "tp_s": 4.76,
+      "dp_deg": 162,
+      "sst_c": 30
     },
     {
       "timestamp": "06.11.2025-23:00:00",
@@ -1082,15 +1082,15 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "06.11.2025-22:30:00",
+      "timestamp": "06.11.2025-23:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.22,
-      "tp_s": 2.13,
-      "dp_deg": 261,
+      "hs_m": 0.2,
+      "tp_s": 2.17,
+      "dp_deg": 266,
       "sst_c": 13
     },
     {
