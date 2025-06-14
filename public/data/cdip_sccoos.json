@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-14T21:32:52.356Z",
+  "last_updated": "2025-06-14T21:46:51.803Z",
   "data": [
     {
       "timestamp": "06.14.2025-20:30:00",
@@ -98,16 +98,16 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "06.14.2025-20:00:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
       "latitude": 15.26803,
       "longitude": 145.66232,
       "depth_cm": 48768,
       "hs_m": 0,
-      "tp_s": 22.22,
-      "dp_deg": 313,
-      "sst_c": 26.1
+      "tp_s": 25,
+      "dp_deg": 320,
+      "sst_c": 27.2
     },
     {
       "timestamp": "06.14.2025-21:00:00",
@@ -158,16 +158,16 @@
       "sst_c": 26.4
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.57,
-      "tp_s": 6.25,
-      "dp_deg": 68,
-      "sst_c": 25.9
+      "hs_m": 1.54,
+      "tp_s": 5.56,
+      "dp_deg": 59,
+      "sst_c": 26.1
     },
     {
       "timestamp": "06.14.2025-21:00:00",
@@ -302,16 +302,16 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.76,
-      "tp_s": 13.33,
-      "dp_deg": 233,
-      "sst_c": 19.2
+      "hs_m": 0.75,
+      "tp_s": 18.18,
+      "dp_deg": 237,
+      "sst_c": 19.4
     },
     {
       "timestamp": "06.14.2025-21:00:00",
@@ -338,16 +338,16 @@
       "sst_c": 19
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.98,
-      "tp_s": 9.88,
-      "dp_deg": 313,
-      "sst_c": 14.9
+      "hs_m": 1.92,
+      "tp_s": 9.09,
+      "dp_deg": 316,
+      "sst_c": 15
     },
     {
       "timestamp": "06.14.2025-20:30:00",
@@ -362,16 +362,16 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.96,
-      "tp_s": 18.18,
-      "dp_deg": 181,
-      "sst_c": 19.8
+      "hs_m": 0.85,
+      "tp_s": 13.33,
+      "dp_deg": 185,
+      "sst_c": 19.7
     },
     {
       "timestamp": "06.14.2025-21:00:00",
@@ -398,16 +398,16 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.27,
+      "hs_m": 1.2,
       "tp_s": 18.18,
-      "dp_deg": 188,
-      "sst_c": 18.9
+      "dp_deg": 195,
+      "sst_c": 18.8
     },
     {
       "timestamp": "06.14.2025-21:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.93,
-      "tp_s": 4.55,
+      "hs_m": 0.97,
+      "tp_s": 4.35,
       "dp_deg": 278,
-      "sst_c": 15.1
+      "sst_c": 15.4
     },
     {
       "timestamp": "06.14.2025-20:30:00",
@@ -602,15 +602,15 @@
       "sst_c": 10.5
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.15,
+      "hs_m": 1.11,
       "tp_s": 7.14,
-      "dp_deg": 336,
+      "dp_deg": 334,
       "sst_c": 11.5
     },
     {
@@ -638,16 +638,16 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "06.14.2025-20:00:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.05,
+      "hs_m": 1.08,
       "tp_s": 7.69,
-      "dp_deg": 327,
-      "sst_c": 10.5
+      "dp_deg": 329,
+      "sst_c": 10.6
     },
     {
       "timestamp": "06.14.2025-20:30:00",
@@ -722,15 +722,15 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.407,
       "longitude": -81.967,
       "depth_cm": 10000,
-      "hs_m": 0.82,
-      "tp_s": 5,
-      "dp_deg": 106,
+      "hs_m": 0.83,
+      "tp_s": 5.88,
+      "dp_deg": 110,
       "sst_c": 29.3
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.73,
+      "hs_m": 0.69,
       "tp_s": 5.88,
-      "dp_deg": 183,
+      "dp_deg": 179,
       "sst_c": 30.3
     },
     {
@@ -974,16 +974,16 @@
       "sst_c": 23.8
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9134,
       "longitude": -75.7213,
       "depth_cm": 1829,
       "hs_m": 0.62,
-      "tp_s": 8.33,
-      "dp_deg": 121,
-      "sst_c": 24.5
+      "tp_s": 9.09,
+      "dp_deg": 120,
+      "sst_c": 25.1
     },
     {
       "timestamp": "06.14.2025-20:30:00",
@@ -1034,15 +1034,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.99,
-      "tp_s": 3.85,
-      "dp_deg": 61,
+      "hs_m": 0.92,
+      "tp_s": 4.17,
+      "dp_deg": 63,
       "sst_c": 15.5
     },
     {
@@ -1070,15 +1070,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.5008,
       "longitude": -76.5385,
       "depth_cm": 4200,
-      "hs_m": 0.35,
-      "tp_s": 3.33,
-      "dp_deg": 358,
+      "hs_m": 0.36,
+      "tp_s": 2.44,
+      "dp_deg": 3,
       "sst_c": 14.1
     },
     {
@@ -1094,27 +1094,27 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "06.14.2025-20:00:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.26,
-      "tp_s": 2.27,
+      "hs_m": 0.24,
+      "tp_s": 2.56,
       "dp_deg": 80,
-      "sst_c": 12.3
+      "sst_c": 12.2
     },
     {
-      "timestamp": "06.14.2025-20:30:00",
+      "timestamp": "06.14.2025-21:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
       "latitude": 46.9727,
       "longitude": -86.5682,
       "depth_cm": 16000,
       "hs_m": 0.1,
-      "tp_s": 1.85,
-      "dp_deg": 77,
+      "tp_s": 1.79,
+      "dp_deg": 73,
       "sst_c": 3.5
     },
     {
