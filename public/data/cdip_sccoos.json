@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-17T20:35:50.144Z",
+  "last_updated": "2025-06-17T20:48:20.358Z",
   "data": [
     {
       "timestamp": "06.17.2025-19:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.28,
-      "tp_s": 10.53,
-      "dp_deg": 154,
+      "hs_m": 1.36,
+      "tp_s": 12.5,
+      "dp_deg": 196,
       "sst_c": 28.4
     },
     {
@@ -86,15 +86,15 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 0.71,
+      "hs_m": 0.73,
       "tp_s": 9.09,
-      "dp_deg": 8,
+      "dp_deg": 21,
       "sst_c": 29.8
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.06,
-      "tp_s": 7.69,
-      "dp_deg": 70,
-      "sst_c": 26.2
+      "hs_m": 2.16,
+      "tp_s": 8.33,
+      "dp_deg": 68,
+      "sst_c": 26.1
     },
     {
       "timestamp": "06.17.2025-20:00:00",
@@ -242,15 +242,15 @@
       "sst_c": 19
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.5,
-      "tp_s": 13.33,
-      "dp_deg": 188,
+      "hs_m": 1.43,
+      "tp_s": 14.29,
+      "dp_deg": 187,
       "sst_c": 20.5
     },
     {
@@ -302,27 +302,27 @@
       "sst_c": 20.6
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.85,
+      "hs_m": 0.77,
       "tp_s": 14.29,
-      "dp_deg": 226,
+      "dp_deg": 223,
       "sst_c": 20.7
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 1.07,
+      "hs_m": 1.04,
       "tp_s": 14.29,
-      "dp_deg": 198,
+      "dp_deg": 188,
       "sst_c": 20.9
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 20
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.93,
+      "hs_m": 1.01,
       "tp_s": 14.29,
-      "dp_deg": 184,
-      "sst_c": 20.7
+      "dp_deg": 180,
+      "sst_c": 20.9
     },
     {
       "timestamp": "06.17.2025-20:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.08,
+      "hs_m": 1,
       "tp_s": 14.29,
-      "dp_deg": 192,
+      "dp_deg": 197,
       "sst_c": 19.5
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "281",
       "station_name": "SOQUEL COVE SOUTH, CA",
       "latitude": 36.93,
       "longitude": -121.9343,
       "depth_cm": 2350,
-      "hs_m": 0.66,
-      "tp_s": 4,
-      "dp_deg": 264,
-      "sst_c": 16
+      "hs_m": 0.69,
+      "tp_s": 14.29,
+      "dp_deg": 207,
+      "sst_c": 16.2
     },
     {
       "timestamp": "06.17.2025-19:30:00",
@@ -602,16 +602,16 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.07,
-      "tp_s": 9.88,
-      "dp_deg": 262,
-      "sst_c": 14
+      "hs_m": 1.08,
+      "tp_s": 8.33,
+      "dp_deg": 252,
+      "sst_c": 14.4
     },
     {
       "timestamp": "06.17.2025-20:00:00",
@@ -638,28 +638,28 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "06.17.2025-19:00:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.39,
+      "hs_m": 1.22,
       "tp_s": 9.09,
-      "dp_deg": 257,
-      "sst_c": 12.5
+      "dp_deg": 250,
+      "sst_c": 11.3
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.15,
+      "hs_m": 1.2,
       "tp_s": 9.88,
-      "dp_deg": 256,
-      "sst_c": 12.5
+      "dp_deg": 258,
+      "sst_c": 13.2
     },
     {
       "timestamp": "06.17.2025-20:00:00",
@@ -782,15 +782,15 @@
       "sst_c": 28.6
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.57,
+      "hs_m": 0.61,
       "tp_s": 4,
-      "dp_deg": 196,
+      "dp_deg": 207,
       "sst_c": 31
     },
     {
@@ -1094,16 +1094,16 @@
       "sst_c": 11
     },
     {
-      "timestamp": "06.17.2025-19:30:00",
+      "timestamp": "06.17.2025-20:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.31,
-      "tp_s": 2.94,
-      "dp_deg": 263,
-      "sst_c": 13.9
+      "hs_m": 0.26,
+      "tp_s": 3.45,
+      "dp_deg": 289,
+      "sst_c": 14
     },
     {
       "timestamp": "06.17.2025-19:30:00",
