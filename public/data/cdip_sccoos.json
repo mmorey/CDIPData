@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-26T11:33:36.491Z",
+  "last_updated": "2025-06-26T11:47:02.445Z",
   "data": [
     {
       "timestamp": "06.26.2025-10:30:00",
@@ -38,15 +38,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "163",
       "station_name": "KALO, MAJURO, MARSHALL ISLANDS",
       "latitude": 7.078291,
       "longitude": 171.383728,
       "depth_cm": 54000,
-      "hs_m": 2.07,
-      "tp_s": 8.33,
-      "dp_deg": 71,
+      "hs_m": 2.03,
+      "tp_s": 9.09,
+      "dp_deg": 80,
       "sst_c": 28.8
     },
     {
@@ -146,27 +146,27 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.95,
-      "tp_s": 9.09,
-      "dp_deg": 76,
+      "hs_m": 1.9,
+      "tp_s": 8.33,
+      "dp_deg": 74,
       "sst_c": 26.2
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.71,
-      "tp_s": 9.09,
-      "dp_deg": 61,
+      "hs_m": 1.69,
+      "tp_s": 8.33,
+      "dp_deg": 56,
       "sst_c": 25.5
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.63,
+      "hs_m": 0.56,
       "tp_s": 5.88,
-      "dp_deg": 284,
+      "dp_deg": 285,
       "sst_c": 21.5
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 21
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.69,
-      "tp_s": 20,
-      "dp_deg": 208,
+      "hs_m": 0.68,
+      "tp_s": 12.5,
+      "dp_deg": 201,
       "sst_c": 20.6
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.52,
-      "tp_s": 6.67,
-      "dp_deg": 316,
+      "hs_m": 2.39,
+      "tp_s": 7.14,
+      "dp_deg": 319,
       "sst_c": 12.5
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 10.7
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.04,
+      "hs_m": 0.98,
       "tp_s": 9.88,
-      "dp_deg": 298,
-      "sst_c": 13.8
+      "dp_deg": 297,
+      "sst_c": 13.7
     },
     {
       "timestamp": "06.26.2025-11:00:00",
@@ -626,15 +626,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "06.26.2025-09:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.19,
-      "tp_s": 9.88,
-      "dp_deg": 295,
+      "hs_m": 1.1,
+      "tp_s": 9.09,
+      "dp_deg": 292,
       "sst_c": 13.6
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1,
-      "tp_s": 9.09,
-      "dp_deg": 278,
-      "sst_c": 14.8
+      "hs_m": 0.95,
+      "tp_s": 9.88,
+      "dp_deg": 271,
+      "sst_c": 13.5
     },
     {
       "timestamp": "06.26.2025-11:00:00",
@@ -770,15 +770,15 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.63,
-      "tp_s": 5.88,
-      "dp_deg": 159,
+      "tp_s": 6.67,
+      "dp_deg": 160,
       "sst_c": 29.6
     },
     {
@@ -818,16 +818,16 @@
       "sst_c": 27.4
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.46,
-      "tp_s": 7.69,
-      "dp_deg": 87,
-      "sst_c": 26.3
+      "hs_m": 0.42,
+      "tp_s": 8.33,
+      "dp_deg": 89,
+      "sst_c": 26.2
     },
     {
       "timestamp": "06.26.2025-11:00:00",
@@ -1001,8 +1001,8 @@
       "timestamp": "06.25.2025-11:30:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
-      "latitude": 39.7726,
-      "longitude": -73.7698,
+      "latitude": 39.7719,
+      "longitude": -73.769,
       "depth_cm": 2500,
       "hs_m": 0.43,
       "tp_s": 8.33,
@@ -1010,15 +1010,15 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
-      "latitude": 39.7726,
-      "longitude": -73.7698,
+      "latitude": 39.7719,
+      "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.42,
+      "hs_m": 0.39,
       "tp_s": 7.69,
-      "dp_deg": 142,
+      "dp_deg": 143,
       "sst_c": 23.5
     },
     {
@@ -1082,28 +1082,28 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "269",
       "station_name": "RAWLEY POINT EAST, WI",
       "latitude": 44.0554,
       "longitude": -87.050133,
       "depth_cm": 14500,
-      "hs_m": 0.29,
-      "tp_s": 3.33,
-      "dp_deg": 19,
-      "sst_c": 13.3
+      "hs_m": 0.34,
+      "tp_s": 4.35,
+      "dp_deg": 3,
+      "sst_c": 13.2
     },
     {
-      "timestamp": "06.26.2025-10:30:00",
+      "timestamp": "06.26.2025-11:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.43,
-      "tp_s": 2.38,
-      "dp_deg": 68,
-      "sst_c": 15.2
+      "hs_m": 0.58,
+      "tp_s": 2.86,
+      "dp_deg": 76,
+      "sst_c": 15.4
     },
     {
       "timestamp": "06.26.2025-11:00:00",
