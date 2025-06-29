@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-29T15:35:01.981Z",
+  "last_updated": "2025-06-29T15:47:19.499Z",
   "data": [
     {
       "timestamp": "06.29.2025-14:30:00",
@@ -122,15 +122,15 @@
       "sst_c": 26.7
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.98,
+      "hs_m": 0.91,
       "tp_s": 6.25,
-      "dp_deg": 141,
+      "dp_deg": 149,
       "sst_c": 26.2
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.5,
+      "hs_m": 1.53,
       "tp_s": 7.69,
-      "dp_deg": 58,
+      "dp_deg": 57,
       "sst_c": 26.1
     },
     {
@@ -302,16 +302,16 @@
       "sst_c": 21.5
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.65,
+      "hs_m": 0.67,
       "tp_s": 14.29,
       "dp_deg": 226,
-      "sst_c": 21.6
+      "sst_c": 21.5
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -338,28 +338,28 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.71,
+      "hs_m": 0.75,
       "tp_s": 14.29,
-      "dp_deg": 215,
+      "dp_deg": 214,
       "sst_c": 21.2
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.79,
-      "tp_s": 14.29,
-      "dp_deg": 189,
-      "sst_c": 20.9
+      "hs_m": 0.8,
+      "tp_s": 15.38,
+      "dp_deg": 188,
+      "sst_c": 21
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -398,27 +398,27 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.75,
-      "tp_s": 13.33,
-      "dp_deg": 205,
+      "hs_m": 0.74,
+      "tp_s": 12.5,
+      "dp_deg": 191,
       "sst_c": 17.6
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.81,
+      "hs_m": 0.8,
       "tp_s": 14.29,
-      "dp_deg": 190,
+      "dp_deg": 202,
       "sst_c": 19.1
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 0.99,
+      "hs_m": 0.95,
       "tp_s": 15.38,
-      "dp_deg": 229,
-      "sst_c": 12.2
+      "dp_deg": 233,
+      "sst_c": 12.4
     },
     {
       "timestamp": "06.29.2025-14:30:00",
@@ -578,15 +578,15 @@
       "sst_c": 11.7
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.13,
-      "tp_s": 6.25,
-      "dp_deg": 342,
+      "hs_m": 2.08,
+      "tp_s": 7.14,
+      "dp_deg": 329,
       "sst_c": 12.1
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.70021,
       "longitude": -83.640966,
       "depth_cm": 8100,
-      "hs_m": 0.83,
-      "tp_s": 4.55,
-      "dp_deg": 117,
+      "hs_m": 0.78,
+      "tp_s": 5,
+      "dp_deg": 122,
       "sst_c": 29.3
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 29.9
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.69,
-      "tp_s": 5,
-      "dp_deg": 191,
-      "sst_c": 30.8
+      "tp_s": 5.26,
+      "dp_deg": 184,
+      "sst_c": 30.9
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -806,16 +806,16 @@
       "sst_c": 27.8
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.52,
+      "hs_m": 0.45,
       "tp_s": 9.09,
-      "dp_deg": 100,
-      "sst_c": 27
+      "dp_deg": 96,
+      "sst_c": 27.2
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -938,16 +938,16 @@
       "sst_c": 26.4
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 0.74,
-      "tp_s": 9.88,
-      "dp_deg": 106,
-      "sst_c": 27.2
+      "hs_m": 0.71,
+      "tp_s": 9.09,
+      "dp_deg": 109,
+      "sst_c": 27.3
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -974,28 +974,28 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5368,
       "longitude": -75.044,
       "depth_cm": 1060,
-      "hs_m": 0.77,
-      "tp_s": 9.09,
-      "dp_deg": 110,
-      "sst_c": 22.8
+      "hs_m": 0.69,
+      "tp_s": 5.26,
+      "dp_deg": 103,
+      "sst_c": 23
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.88,
+      "hs_m": 0.91,
       "tp_s": 9.88,
-      "dp_deg": 125,
-      "sst_c": 20.7
+      "dp_deg": 126,
+      "sst_c": 21.2
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -1034,16 +1034,16 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "06.29.2025-14:30:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.76,
+      "hs_m": 0.75,
       "tp_s": 6.25,
-      "dp_deg": 117,
-      "sst_c": 18.2
+      "dp_deg": 120,
+      "sst_c": 18.1
     },
     {
       "timestamp": "06.29.2025-15:00:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 16
     },
     {
-      "timestamp": "06.29.2025-14:00:00",
+      "timestamp": "06.29.2025-15:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.12,
-      "tp_s": 2.86,
-      "dp_deg": 297,
+      "hs_m": 0.14,
+      "tp_s": 1.92,
+      "dp_deg": 233,
       "sst_c": 14
     },
     {
