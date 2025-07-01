@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-01T16:03:56.964Z",
+  "last_updated": "2025-07-01T16:23:10.496Z",
   "data": [
     {
       "timestamp": "07.01.2025-15:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 26.4
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.27,
-      "tp_s": 7.69,
-      "dp_deg": 63,
+      "hs_m": 1.25,
+      "tp_s": 8.33,
+      "dp_deg": 68,
       "sst_c": 26.2
     },
     {
@@ -242,26 +242,26 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.84,
+      "hs_m": 0.83,
       "tp_s": 15.38,
-      "dp_deg": 192,
+      "dp_deg": 184,
       "sst_c": 20.5
     },
     {
-      "timestamp": "07.01.2025-14:45:00",
+      "timestamp": "07.01.2025-15:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.56,
-      "tp_s": 4.41,
+      "hs_m": 0.53,
+      "tp_s": 4.06,
       "dp_deg": null,
       "sst_c": null
     },
@@ -350,15 +350,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.9,
+      "hs_m": 0.89,
       "tp_s": 15.38,
-      "dp_deg": 185,
+      "dp_deg": 191,
       "sst_c": 18.3
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 19
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.68,
+      "hs_m": 0.73,
       "tp_s": 15.38,
-      "dp_deg": 191,
+      "dp_deg": 194,
       "sst_c": 17
     },
     {
@@ -494,16 +494,16 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "07.01.2025-14:30:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.76,
-      "tp_s": 9.88,
+      "hs_m": 0.74,
+      "tp_s": 9.09,
       "dp_deg": 260,
-      "sst_c": 13.7
+      "sst_c": 13.8
     },
     {
       "timestamp": "07.01.2025-15:00:00",
@@ -554,27 +554,27 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 2.63,
+      "hs_m": 2.46,
       "tp_s": 9.09,
-      "dp_deg": 323,
-      "sst_c": 11.2
+      "dp_deg": 322,
+      "sst_c": 11.4
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.93,
+      "hs_m": 1.97,
       "tp_s": 7.69,
-      "dp_deg": 325,
+      "dp_deg": 326,
       "sst_c": 11
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 1.05,
-      "tp_s": 6.25,
-      "dp_deg": 279,
-      "sst_c": 9.1
+      "hs_m": 1.18,
+      "tp_s": 6.67,
+      "dp_deg": 287,
+      "sst_c": 9
     },
     {
       "timestamp": "07.01.2025-15:00:00",
@@ -746,16 +746,16 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "07.01.2025-14:30:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.7,
-      "tp_s": 7.69,
-      "dp_deg": 160,
-      "sst_c": 30.3
+      "tp_s": 7.14,
+      "dp_deg": 178,
+      "sst_c": 30.5
     },
     {
       "timestamp": "07.01.2025-15:30:00",
@@ -770,15 +770,15 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.36,
+      "hs_m": 0.38,
       "tp_s": 4.17,
-      "dp_deg": 70,
+      "dp_deg": 79,
       "sst_c": 29.2
     },
     {
@@ -986,16 +986,16 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
       "hs_m": 1.25,
-      "tp_s": 5.88,
-      "dp_deg": 194,
-      "sst_c": 22.1
+      "tp_s": 5.56,
+      "dp_deg": 192,
+      "sst_c": 22
     },
     {
       "timestamp": "07.01.2025-15:30:00",
@@ -1022,28 +1022,28 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.3,
-      "tp_s": 2.38,
-      "dp_deg": 243,
+      "hs_m": 0.39,
+      "tp_s": 2.5,
+      "dp_deg": 239,
       "sst_c": 17.6
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.7985,
       "longitude": -70.1718,
       "depth_cm": 7650,
-      "hs_m": 0.81,
-      "tp_s": 3.7,
-      "dp_deg": 161,
-      "sst_c": 19
+      "hs_m": 0.8,
+      "tp_s": 6.67,
+      "dp_deg": 120,
+      "sst_c": 19.1
     },
     {
       "timestamp": "07.01.2025-15:30:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 17
     },
     {
-      "timestamp": "07.01.2025-15:00:00",
+      "timestamp": "07.01.2025-15:30:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.34,
-      "tp_s": 2.38,
-      "dp_deg": 268,
+      "tp_s": 2.7,
+      "dp_deg": 278,
       "sst_c": 16
     },
     {
