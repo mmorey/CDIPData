@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-01T23:34:41.626Z",
+  "last_updated": "2025-07-01T23:47:24.053Z",
   "data": [
     {
       "timestamp": "07.01.2025-22:30:00",
@@ -146,15 +146,15 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.34,
-      "tp_s": 7.69,
-      "dp_deg": 67,
+      "hs_m": 1.32,
+      "tp_s": 8.33,
+      "dp_deg": 66,
       "sst_c": 26.6
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.04,
+      "hs_m": 1.08,
       "tp_s": 8.33,
-      "dp_deg": 69,
+      "dp_deg": 72,
       "sst_c": 24
     },
     {
@@ -278,28 +278,28 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 0.71,
-      "tp_s": 15.38,
-      "dp_deg": 202,
+      "hs_m": 0.77,
+      "tp_s": 14.29,
+      "dp_deg": 191,
       "sst_c": 21.5
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.6,
-      "tp_s": 14.29,
-      "dp_deg": 243,
-      "sst_c": 17.6
+      "hs_m": 0.61,
+      "tp_s": 15.38,
+      "dp_deg": 237,
+      "sst_c": 17.5
     },
     {
       "timestamp": "07.01.2025-23:00:00",
@@ -350,15 +350,15 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.76,
+      "hs_m": 0.81,
       "tp_s": 14.29,
-      "dp_deg": 191,
+      "dp_deg": 194,
       "sst_c": 19.9
     },
     {
@@ -386,16 +386,16 @@
       "sst_c": 20.3
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.78,
+      "hs_m": 0.8,
       "tp_s": 15.38,
-      "dp_deg": 230,
-      "sst_c": 16.3
+      "dp_deg": 171,
+      "sst_c": 16.2
     },
     {
       "timestamp": "07.01.2025-23:00:00",
@@ -410,15 +410,15 @@
       "sst_c": 19
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.69,
+      "hs_m": 0.72,
       "tp_s": 14.29,
-      "dp_deg": 198,
+      "dp_deg": 194,
       "sst_c": 17.5
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.42,
-      "tp_s": 9.88,
-      "dp_deg": 327,
+      "hs_m": 1.46,
+      "tp_s": 9.09,
+      "dp_deg": 323,
       "sst_c": 15
     },
     {
@@ -542,16 +542,16 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 2.69,
+      "hs_m": 2.81,
       "tp_s": 9.09,
-      "dp_deg": 352,
-      "sst_c": 11.6
+      "dp_deg": 346,
+      "sst_c": 11.8
     },
     {
       "timestamp": "07.01.2025-23:00:00",
@@ -566,15 +566,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.8,
-      "tp_s": 7.14,
-      "dp_deg": 322,
+      "hs_m": 1.81,
+      "tp_s": 6.67,
+      "dp_deg": 329,
       "sst_c": 11.4
     },
     {
@@ -602,28 +602,28 @@
       "sst_c": 8.9
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 1.49,
-      "tp_s": 7.14,
-      "dp_deg": 316,
-      "sst_c": 8.7
+      "hs_m": 1.55,
+      "tp_s": 6.67,
+      "dp_deg": 312,
+      "sst_c": 8.8
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.34,
+      "hs_m": 1.37,
       "tp_s": 6.67,
-      "dp_deg": 313,
-      "sst_c": 8.5
+      "dp_deg": 315,
+      "sst_c": 8.4
     },
     {
       "timestamp": "07.01.2025-23:00:00",
@@ -746,15 +746,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.67,
-      "tp_s": 7.14,
-      "dp_deg": 170,
+      "hs_m": 0.68,
+      "tp_s": 5.88,
+      "dp_deg": 179,
       "sst_c": 31.4
     },
     {
@@ -854,15 +854,15 @@
       "sst_c": 24.2
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2108,
       "longitude": -76.9438,
       "depth_cm": 3048,
-      "hs_m": 1.79,
+      "hs_m": 1.8,
       "tp_s": 5.88,
-      "dp_deg": 208,
+      "dp_deg": 211,
       "sst_c": 28
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 21.5
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.62,
+      "hs_m": 1.47,
       "tp_s": 6.67,
-      "dp_deg": 176,
+      "dp_deg": 180,
       "sst_c": 22.1
     },
     {
@@ -1070,16 +1070,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "07.01.2025-22:30:00",
+      "timestamp": "07.01.2025-23:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.41,
-      "tp_s": 2.86,
-      "dp_deg": 275,
-      "sst_c": 16.1
+      "hs_m": 0.4,
+      "tp_s": 2.5,
+      "dp_deg": 264,
+      "sst_c": 16
     },
     {
       "timestamp": "07.01.2025-23:00:00",
