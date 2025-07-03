@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03T11:33:27.544Z",
+  "last_updated": "2025-07-03T11:47:07.662Z",
   "data": [
     {
       "timestamp": "07.03.2025-10:30:00",
@@ -146,15 +146,15 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.31,
-      "tp_s": 5,
-      "dp_deg": 83,
+      "hs_m": 1.36,
+      "tp_s": 5.56,
+      "dp_deg": 76,
       "sst_c": 26.4
     },
     {
@@ -170,27 +170,27 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "198",
       "station_name": "KANEOHE BAY, HI",
       "latitude": 21.4776,
       "longitude": -157.7519,
       "depth_cm": 8100,
-      "hs_m": 1.16,
+      "hs_m": 1.18,
       "tp_s": 5.56,
-      "dp_deg": 80,
+      "dp_deg": 70,
       "sst_c": 25.8
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 0.84,
+      "hs_m": 0.89,
       "tp_s": 7.69,
-      "dp_deg": 23,
+      "dp_deg": 24,
       "sst_c": 26.1
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.85,
+      "hs_m": 0.83,
       "tp_s": 18.18,
-      "dp_deg": 191,
+      "dp_deg": 190,
       "sst_c": 18.8
     },
     {
@@ -410,16 +410,16 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.84,
+      "hs_m": 0.91,
       "tp_s": 18.18,
-      "dp_deg": 195,
-      "sst_c": 18.1
+      "dp_deg": 194,
+      "sst_c": 18
     },
     {
       "timestamp": "07.03.2025-10:30:00",
@@ -446,16 +446,16 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.53,
+      "hs_m": 2.59,
       "tp_s": 9.88,
       "dp_deg": 320,
-      "sst_c": 13.9
+      "sst_c": 13.8
     },
     {
       "timestamp": "07.03.2025-10:30:00",
@@ -494,27 +494,27 @@
       "sst_c": 12
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.88,
-      "tp_s": 7.14,
-      "dp_deg": 273,
-      "sst_c": 14.1
+      "hs_m": 0.86,
+      "tp_s": 9.09,
+      "dp_deg": 262,
+      "sst_c": 13.5
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "266",
       "station_name": "PAJARO BEACH, CA",
       "latitude": 36.8449,
       "longitude": -121.8247,
       "depth_cm": 1500,
-      "hs_m": 0.92,
-      "tp_s": 7.69,
-      "dp_deg": 267,
+      "hs_m": 0.93,
+      "tp_s": 6.67,
+      "dp_deg": 271,
       "sst_c": 13.7
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 10.4
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 0.79,
-      "tp_s": 6.67,
-      "dp_deg": 320,
+      "hs_m": 0.81,
+      "tp_s": 7.14,
+      "dp_deg": 313,
       "sst_c": 10.9
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 9.4
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 0.68,
-      "tp_s": 6.67,
-      "dp_deg": 286,
+      "hs_m": 0.74,
+      "tp_s": 16.67,
+      "dp_deg": 240,
       "sst_c": 9.7
     },
     {
@@ -746,13 +746,13 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.8,
+      "hs_m": 0.83,
       "tp_s": 4,
       "dp_deg": 251,
       "sst_c": 30.2
@@ -950,16 +950,16 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.044,
       "longitude": -76.1301,
       "depth_cm": 1000,
       "hs_m": 0.25,
-      "tp_s": 2.27,
-      "dp_deg": 338,
-      "sst_c": 26.9
+      "tp_s": 2.22,
+      "dp_deg": 341,
+      "sst_c": 27
     },
     {
       "timestamp": "07.03.2025-11:00:00",
@@ -986,13 +986,13 @@
       "sst_c": 23
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.83,
+      "hs_m": 0.78,
       "tp_s": 6.25,
       "dp_deg": 168,
       "sst_c": 22.1
@@ -1046,16 +1046,16 @@
       "sst_c": 19.3
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.5008,
       "longitude": -76.5385,
       "depth_cm": 4200,
-      "hs_m": 0.76,
-      "tp_s": 4.35,
-      "dp_deg": 292,
-      "sst_c": 17.5
+      "hs_m": 0.62,
+      "tp_s": 4.17,
+      "dp_deg": 282,
+      "sst_c": 17.4
     },
     {
       "timestamp": "07.03.2025-11:00:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 17.3
     },
     {
-      "timestamp": "07.03.2025-10:30:00",
+      "timestamp": "07.03.2025-11:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.11,
-      "tp_s": 4,
-      "dp_deg": 298,
+      "hs_m": 0.1,
+      "tp_s": 1.75,
+      "dp_deg": 297,
       "sst_c": 16.8
     },
     {
