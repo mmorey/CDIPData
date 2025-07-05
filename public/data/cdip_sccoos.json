@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-05T09:34:12.833Z",
+  "last_updated": "2025-07-05T09:47:05.582Z",
   "data": [
     {
       "timestamp": "07.05.2025-08:30:00",
@@ -122,15 +122,15 @@
       "sst_c": 26.5
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.04,
+      "hs_m": 1.02,
       "tp_s": 14.29,
-      "dp_deg": 155,
+      "dp_deg": 154,
       "sst_c": 26.3
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.93,
-      "tp_s": 6.67,
-      "dp_deg": 68,
+      "hs_m": 1.85,
+      "tp_s": 6.25,
+      "dp_deg": 64,
       "sst_c": 26.1
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 1.32,
-      "tp_s": 7.14,
-      "dp_deg": 64,
+      "hs_m": 1.36,
+      "tp_s": 6.25,
+      "dp_deg": 61,
       "sst_c": 23.9
     },
     {
@@ -350,16 +350,16 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.16,
+      "hs_m": 1.33,
       "tp_s": 15.38,
-      "dp_deg": 195,
-      "sst_c": 20.2
+      "dp_deg": 192,
+      "sst_c": 20.1
     },
     {
       "timestamp": "07.05.2025-09:00:00",
@@ -494,15 +494,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.59,
-      "tp_s": 13.33,
-      "dp_deg": 229,
+      "hs_m": 0.56,
+      "tp_s": 16.67,
+      "dp_deg": 224,
       "sst_c": 14.1
     },
     {
@@ -542,14 +542,14 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 1.38,
-      "tp_s": 16.67,
+      "hs_m": 1.35,
+      "tp_s": 15.38,
       "dp_deg": 186,
       "sst_c": 13.4
     },
@@ -566,27 +566,27 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 0.74,
-      "tp_s": 16.67,
-      "dp_deg": 210,
-      "sst_c": 12.7
+      "hs_m": 0.76,
+      "tp_s": 15.38,
+      "dp_deg": 212,
+      "sst_c": 12.9
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 0.74,
+      "hs_m": 0.69,
       "tp_s": 16.67,
-      "dp_deg": 223,
+      "dp_deg": 218,
       "sst_c": 11.5
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": 11
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 0.65,
-      "tp_s": 14.29,
-      "dp_deg": 241,
-      "sst_c": 9.4
+      "hs_m": 0.69,
+      "tp_s": 15.38,
+      "dp_deg": 244,
+      "sst_c": 10.6
     },
     {
       "timestamp": "07.05.2025-09:00:00",
@@ -638,16 +638,16 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 0.75,
+      "hs_m": 0.74,
       "tp_s": 16.67,
-      "dp_deg": 218,
-      "sst_c": 12.8
+      "dp_deg": 215,
+      "sst_c": 11.6
     },
     {
       "timestamp": "07.05.2025-09:00:00",
@@ -746,16 +746,16 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.33,
-      "tp_s": 3.33,
-      "dp_deg": 232,
-      "sst_c": 30.2
+      "hs_m": 0.4,
+      "tp_s": 3.03,
+      "dp_deg": 256,
+      "sst_c": 30.3
     },
     {
       "timestamp": "07.05.2025-09:00:00",
@@ -794,16 +794,16 @@
       "sst_c": 25
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.41,
+      "hs_m": 0.37,
       "tp_s": 4.17,
-      "dp_deg": 125,
-      "sst_c": 23.9
+      "dp_deg": 132,
+      "sst_c": 23.8
     },
     {
       "timestamp": "07.05.2025-09:00:00",
@@ -986,28 +986,28 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.61,
+      "hs_m": 0.58,
       "tp_s": 16.67,
-      "dp_deg": 104,
+      "dp_deg": 113,
       "sst_c": 22.4
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9685,
       "longitude": -71.1238,
       "depth_cm": 4938,
-      "hs_m": 0.62,
-      "tp_s": 8.33,
-      "dp_deg": 169,
-      "sst_c": 18.5
+      "hs_m": 0.64,
+      "tp_s": 7.69,
+      "dp_deg": 174,
+      "sst_c": 18.9
     },
     {
       "timestamp": "07.05.2025-08:30:00",
@@ -1070,15 +1070,15 @@
       "sst_c": 18.3
     },
     {
-      "timestamp": "07.05.2025-08:30:00",
+      "timestamp": "07.05.2025-09:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.4,
-      "tp_s": 2.86,
-      "dp_deg": 259,
+      "hs_m": 0.5,
+      "tp_s": 2.94,
+      "dp_deg": 257,
       "sst_c": 17.8
     },
     {
