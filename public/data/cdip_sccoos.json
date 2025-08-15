@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-15T09:35:48.034Z",
+  "last_updated": "2025-08-15T09:48:11.650Z",
   "data": [
     {
       "timestamp": "08.15.2025-08:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "08.15.2025-08:00:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.27,
-      "tp_s": 14.29,
-      "dp_deg": 178,
-      "sst_c": 28.3
+      "hs_m": 2.33,
+      "tp_s": 6.25,
+      "dp_deg": 134,
+      "sst_c": 28.4
     },
     {
       "timestamp": "08.15.2025-08:00:00",
@@ -110,14 +110,14 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.77,
-      "tp_s": 11.76,
+      "hs_m": 0.79,
+      "tp_s": 13.33,
       "dp_deg": 181,
       "sst_c": 27.8
     },
@@ -146,15 +146,15 @@
       "sst_c": 27.6
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.25,
-      "tp_s": 10.53,
-      "dp_deg": 57,
+      "hs_m": 1.38,
+      "tp_s": 11.11,
+      "dp_deg": 56,
       "sst_c": 27.2
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 26.9
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.13,
+      "hs_m": 1.27,
       "tp_s": 11.76,
-      "dp_deg": 46,
+      "dp_deg": 41,
       "sst_c": 27.2
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.85,
+      "hs_m": 0.87,
       "tp_s": 14.29,
-      "dp_deg": 238,
+      "dp_deg": 235,
       "sst_c": 19.3
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.9,
-      "tp_s": 14.29,
-      "dp_deg": 202,
-      "sst_c": 21.9
+      "hs_m": 0.83,
+      "tp_s": 15.38,
+      "dp_deg": 201,
+      "sst_c": 21.8
     },
     {
       "timestamp": "08.15.2025-09:00:00",
@@ -590,7 +590,7 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
@@ -598,7 +598,7 @@
       "depth_cm": 19100,
       "hs_m": 1.02,
       "tp_s": 14.29,
-      "dp_deg": 217,
+      "dp_deg": 221,
       "sst_c": 16.1
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 31.7
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.47,
-      "tp_s": 5.26,
-      "dp_deg": 186,
+      "tp_s": 4.17,
+      "dp_deg": 221,
       "sst_c": 30.2
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.48,
+      "hs_m": 0.45,
       "tp_s": 9.09,
-      "dp_deg": 100,
+      "dp_deg": 105,
       "sst_c": 24.9
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.65,
+      "hs_m": 0.63,
       "tp_s": 14.29,
-      "dp_deg": 104,
+      "dp_deg": 103,
       "sst_c": 25.1
     },
     {
@@ -1082,15 +1082,15 @@
       "sst_c": 23.1
     },
     {
-      "timestamp": "08.15.2025-08:30:00",
+      "timestamp": "08.15.2025-09:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.24,
-      "tp_s": 2.04,
-      "dp_deg": 182,
+      "hs_m": 0.23,
+      "tp_s": 2.86,
+      "dp_deg": 87,
       "sst_c": 22.4
     },
     {
