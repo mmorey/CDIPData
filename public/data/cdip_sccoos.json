@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-16T19:32:18.873Z",
+  "last_updated": "2025-08-16T19:47:02.490Z",
   "data": [
     {
       "timestamp": "08.16.2025-18:30:00",
@@ -134,27 +134,27 @@
       "sst_c": 27.4
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.96,
+      "hs_m": 0.98,
       "tp_s": 15.38,
-      "dp_deg": 205,
+      "dp_deg": 198,
       "sst_c": 27.4
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.7,
-      "tp_s": 9.09,
-      "dp_deg": 28,
+      "hs_m": 1.68,
+      "tp_s": 5.88,
+      "dp_deg": 68,
       "sst_c": 26.9
     },
     {
@@ -230,16 +230,16 @@
       "sst_c": 14
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.517533,
       "longitude": -117.425283,
       "depth_cm": 104980,
       "hs_m": 0.94,
-      "tp_s": 14.29,
-      "dp_deg": 198,
-      "sst_c": 19.1
+      "tp_s": 15.38,
+      "dp_deg": 190,
+      "sst_c": 19.2
     },
     {
       "timestamp": "08.16.2025-18:30:00",
@@ -362,28 +362,28 @@
       "sst_c": 21.7
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.7,
-      "tp_s": 14.29,
-      "dp_deg": 201,
-      "sst_c": 21.6
+      "hs_m": 0.67,
+      "tp_s": 15.38,
+      "dp_deg": 194,
+      "sst_c": 21.7
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.77,
-      "tp_s": 14.29,
-      "dp_deg": 210,
-      "sst_c": 22.1
+      "hs_m": 0.63,
+      "tp_s": 15.38,
+      "dp_deg": 208,
+      "sst_c": 22.3
     },
     {
       "timestamp": "08.16.2025-19:00:00",
@@ -458,15 +458,15 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.73,
+      "hs_m": 1.62,
       "tp_s": 7.69,
-      "dp_deg": 328,
+      "dp_deg": 321,
       "sst_c": 17.4
     },
     {
@@ -530,16 +530,16 @@
       "sst_c": 15
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.63,
+      "hs_m": 0.62,
       "tp_s": 5.88,
-      "dp_deg": 277,
-      "sst_c": 15.4
+      "dp_deg": 270,
+      "sst_c": 15.9
     },
     {
       "timestamp": "08.16.2025-18:30:00",
@@ -590,16 +590,16 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.19,
+      "hs_m": 2.21,
       "tp_s": 10.53,
-      "dp_deg": 297,
-      "sst_c": 16
+      "dp_deg": 295,
+      "sst_c": 16.1
     },
     {
       "timestamp": "08.16.2025-19:00:00",
@@ -758,16 +758,16 @@
       "sst_c": 33.5
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.35,
-      "tp_s": 5.88,
-      "dp_deg": 205,
-      "sst_c": 31.4
+      "hs_m": 0.36,
+      "tp_s": 5.56,
+      "dp_deg": 211,
+      "sst_c": 32.7
     },
     {
       "timestamp": "08.16.2025-19:00:00",
@@ -818,15 +818,15 @@
       "sst_c": 31.3
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.41,
-      "tp_s": 15.38,
-      "dp_deg": 89,
+      "hs_m": 0.45,
+      "tp_s": 14.29,
+      "dp_deg": 94,
       "sst_c": 30.8
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.11,
+      "hs_m": 1.13,
       "tp_s": 5.26,
-      "dp_deg": 64,
-      "sst_c": 26.1
+      "dp_deg": 71,
+      "sst_c": 26.2
     },
     {
       "timestamp": "08.16.2025-18:30:00",
@@ -998,16 +998,16 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "08.16.2025-18:30:00",
+      "timestamp": "08.16.2025-19:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.65,
+      "hs_m": 0.66,
       "tp_s": 15.38,
-      "dp_deg": 110,
-      "sst_c": 25.8
+      "dp_deg": 107,
+      "sst_c": 26
     },
     {
       "timestamp": "08.16.2025-19:00:00",
