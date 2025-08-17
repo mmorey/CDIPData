@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-17T23:34:12.183Z",
+  "last_updated": "2025-08-17T23:47:27.781Z",
   "data": [
     {
       "timestamp": "08.17.2025-22:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 28.5
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.86,
-      "tp_s": 11.11,
-      "dp_deg": 182,
+      "hs_m": 1.83,
+      "tp_s": 13.33,
+      "dp_deg": 184,
       "sst_c": 28.5
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 27.7
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.57,
-      "tp_s": 5.56,
-      "dp_deg": 64,
-      "sst_c": 27
+      "hs_m": 1.61,
+      "tp_s": 5.88,
+      "dp_deg": 60,
+      "sst_c": 27.1
     },
     {
       "timestamp": "08.17.2025-23:00:00",
@@ -362,27 +362,27 @@
       "sst_c": 22.5
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.64,
+      "hs_m": 0.63,
       "tp_s": 14.29,
-      "dp_deg": 184,
-      "sst_c": 22
+      "dp_deg": 191,
+      "sst_c": 21.9
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.6,
+      "hs_m": 0.62,
       "tp_s": 14.29,
-      "dp_deg": 215,
+      "dp_deg": 208,
       "sst_c": 22.6
     },
     {
@@ -446,15 +446,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.63,
-      "tp_s": 13.33,
-      "dp_deg": 187,
+      "hs_m": 0.68,
+      "tp_s": 14.29,
+      "dp_deg": 191,
       "sst_c": 21.2
     },
     {
@@ -530,14 +530,14 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.91,
-      "tp_s": 3.85,
+      "hs_m": 1.09,
+      "tp_s": 4.35,
       "dp_deg": 284,
       "sst_c": 16.2
     },
@@ -590,16 +590,16 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.11,
+      "hs_m": 2.34,
       "tp_s": 11.11,
-      "dp_deg": 299,
-      "sst_c": 16.5
+      "dp_deg": 301,
+      "sst_c": 16.8
     },
     {
       "timestamp": "08.17.2025-23:00:00",
@@ -674,15 +674,15 @@
       "sst_c": 17.8
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.87,
-      "tp_s": 10.53,
-      "dp_deg": 289,
+      "hs_m": 1.97,
+      "tp_s": 11.11,
+      "dp_deg": 286,
       "sst_c": 16.1
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 32.3
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.17,
-      "tp_s": 5,
+      "hs_m": 0.16,
+      "tp_s": 5.26,
       "dp_deg": 234,
-      "sst_c": 33.4
+      "sst_c": 33
     },
     {
       "timestamp": "08.17.2025-23:00:00",
@@ -914,16 +914,16 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.72,
+      "hs_m": 0.75,
       "tp_s": 7.69,
-      "dp_deg": 88,
-      "sst_c": 26.7
+      "dp_deg": 85,
+      "sst_c": 26.8
     },
     {
       "timestamp": "08.17.2025-22:30:00",
@@ -962,16 +962,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.044,
       "longitude": -76.1301,
       "depth_cm": 1000,
       "hs_m": 0.32,
-      "tp_s": 5.26,
-      "dp_deg": 103,
-      "sst_c": 26.8
+      "tp_s": 2.27,
+      "dp_deg": 106,
+      "sst_c": 26.6
     },
     {
       "timestamp": "08.17.2025-23:00:00",
@@ -998,14 +998,14 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.25,
-      "tp_s": 4.17,
+      "hs_m": 1.28,
+      "tp_s": 4.55,
       "dp_deg": 208,
       "sst_c": 25.2
     },
@@ -1082,15 +1082,15 @@
       "sst_c": 23.1
     },
     {
-      "timestamp": "08.17.2025-22:30:00",
+      "timestamp": "08.17.2025-23:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.11,
-      "tp_s": 2.38,
-      "dp_deg": 81,
+      "hs_m": 0.12,
+      "tp_s": 2.33,
+      "dp_deg": 64,
       "sst_c": 22.1
     },
     {
