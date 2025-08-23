@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-23T05:34:13.586Z",
+  "last_updated": "2025-08-23T05:46:58.020Z",
   "data": [
     {
       "timestamp": "08.23.2025-04:00:00",
@@ -134,27 +134,27 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.01,
-      "tp_s": 13.33,
-      "dp_deg": 180,
+      "hs_m": 0.88,
+      "tp_s": 12.5,
+      "dp_deg": 181,
       "sst_c": 27.5
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.58,
-      "tp_s": 5.26,
-      "dp_deg": 94,
+      "hs_m": 1.56,
+      "tp_s": 4.76,
+      "dp_deg": 88,
       "sst_c": 26.9
     },
     {
@@ -350,15 +350,15 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.69,
+      "hs_m": 0.66,
       "tp_s": 14.29,
-      "dp_deg": 185,
+      "dp_deg": 197,
       "sst_c": 22.9
     },
     {
@@ -374,16 +374,16 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.7,
-      "tp_s": 13.33,
-      "dp_deg": 182,
-      "sst_c": 22.6
+      "hs_m": 0.66,
+      "tp_s": 14.29,
+      "dp_deg": 175,
+      "sst_c": 22.7
     },
     {
       "timestamp": "08.23.2025-05:00:00",
@@ -578,15 +578,15 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.65,
+      "hs_m": 1.68,
       "tp_s": 7.69,
-      "dp_deg": 330,
+      "dp_deg": 335,
       "sst_c": 15
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 30.6
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.25,
-      "tp_s": 4,
-      "dp_deg": 242,
+      "tp_s": 2.17,
+      "dp_deg": 94,
       "sst_c": 32.4
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.78,
-      "tp_s": 10.53,
-      "dp_deg": 92,
+      "hs_m": 1.75,
+      "tp_s": 13.33,
+      "dp_deg": 86,
       "sst_c": 21.5
     },
     {
@@ -1046,16 +1046,16 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "08.23.2025-04:00:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 3.02,
-      "tp_s": 11.11,
+      "hs_m": 3.36,
+      "tp_s": 12.5,
       "dp_deg": 109,
-      "sst_c": 19.1
+      "sst_c": 19
     },
     {
       "timestamp": "08.23.2025-05:00:00",
@@ -1082,15 +1082,15 @@
       "sst_c": 22.2
     },
     {
-      "timestamp": "08.23.2025-04:30:00",
+      "timestamp": "08.23.2025-05:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.46,
-      "tp_s": 2.7,
-      "dp_deg": 269,
+      "tp_s": 3.57,
+      "dp_deg": 287,
       "sst_c": 21.5
     },
     {
