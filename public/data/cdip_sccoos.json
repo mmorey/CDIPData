@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T22:34:42.290Z",
+  "last_updated": "2025-08-26T22:46:50.584Z",
   "data": [
     {
       "timestamp": "08.26.2025-21:30:00",
@@ -158,15 +158,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.36,
-      "tp_s": 7.69,
-      "dp_deg": 88,
+      "hs_m": 1.39,
+      "tp_s": 8.33,
+      "dp_deg": 90,
       "sst_c": 26.6
     },
     {
@@ -338,15 +338,15 @@
       "sst_c": 23.6
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.85,
+      "hs_m": 0.84,
       "tp_s": 18.18,
-      "dp_deg": 187,
+      "dp_deg": 195,
       "sst_c": 23.6
     },
     {
@@ -374,19 +374,19 @@
       "sst_c": 23.4
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.84,
+      "hs_m": 0.82,
       "tp_s": 18.18,
-      "dp_deg": 194,
-      "sst_c": 23.1
+      "dp_deg": 197,
+      "sst_c": 23
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
@@ -394,8 +394,8 @@
       "depth_cm": 1113,
       "hs_m": 0.82,
       "tp_s": 18.18,
-      "dp_deg": 212,
-      "sst_c": 23.4
+      "dp_deg": 217,
+      "sst_c": 23.5
     },
     {
       "timestamp": "08.26.2025-22:00:00",
@@ -542,16 +542,16 @@
       "sst_c": 16
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "267",
       "station_name": "PAJARO BEACH SOUTH, CA",
       "latitude": 36.838,
       "longitude": -121.8202,
       "depth_cm": 1500,
-      "hs_m": 0.57,
-      "tp_s": 8.33,
-      "dp_deg": 263,
-      "sst_c": 15.9
+      "hs_m": 0.56,
+      "tp_s": 7.69,
+      "dp_deg": 264,
+      "sst_c": 16
     },
     {
       "timestamp": "08.26.2025-21:00:00",
@@ -602,15 +602,15 @@
       "sst_c": 13.5
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.87,
+      "hs_m": 1.96,
       "tp_s": 8.33,
-      "dp_deg": 331,
+      "dp_deg": 329,
       "sst_c": 14.3
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.35,
-      "tp_s": 4.35,
-      "dp_deg": 104,
-      "sst_c": 32.1
+      "hs_m": 0.37,
+      "tp_s": 4,
+      "dp_deg": 91,
+      "sst_c": 32.2
     },
     {
       "timestamp": "08.26.2025-22:00:00",
@@ -770,28 +770,28 @@
       "sst_c": 30.3
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 0.52,
+      "hs_m": 0.55,
       "tp_s": 5.56,
-      "dp_deg": 157,
+      "dp_deg": 155,
       "sst_c": 31.2
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.39,
-      "tp_s": 2.38,
-      "dp_deg": 65,
-      "sst_c": 31.6
+      "hs_m": 0.4,
+      "tp_s": 2.5,
+      "dp_deg": 71,
+      "sst_c": 31.5
     },
     {
       "timestamp": "08.26.2025-22:00:00",
@@ -938,16 +938,16 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.22,
+      "hs_m": 1.26,
       "tp_s": 5,
-      "dp_deg": 28,
-      "sst_c": 25.5
+      "dp_deg": 27,
+      "sst_c": 25.3
     },
     {
       "timestamp": "08.26.2025-21:30:00",
@@ -1022,15 +1022,15 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.79,
-      "tp_s": 8.33,
-      "dp_deg": 140,
+      "hs_m": 0.89,
+      "tp_s": 7.69,
+      "dp_deg": 137,
       "sst_c": 23.1
     },
     {
@@ -1070,15 +1070,15 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.82,
+      "hs_m": 0.77,
       "tp_s": 7.14,
-      "dp_deg": 136,
+      "dp_deg": 134,
       "sst_c": 19.4
     },
     {
@@ -1106,15 +1106,15 @@
       "sst_c": 21.1
     },
     {
-      "timestamp": "08.26.2025-21:30:00",
+      "timestamp": "08.26.2025-22:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.71,
+      "hs_m": 0.67,
       "tp_s": 3.7,
-      "dp_deg": 286,
+      "dp_deg": 280,
       "sst_c": 20.3
     },
     {
