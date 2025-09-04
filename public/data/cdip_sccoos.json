@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-04T15:34:42.669Z",
+  "last_updated": "2025-09-04T15:47:22.848Z",
   "data": [
     {
       "timestamp": "09.04.2025-14:30:00",
@@ -158,15 +158,15 @@
       "sst_c": 26.8
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
       "hs_m": 1.2,
-      "tp_s": 11.11,
-      "dp_deg": 54,
+      "tp_s": 7.69,
+      "dp_deg": 24,
       "sst_c": 26.8
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 0.96,
+      "hs_m": 0.91,
       "tp_s": 11.76,
-      "dp_deg": 323,
+      "dp_deg": 325,
       "sst_c": 27
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.92,
-      "tp_s": 16.67,
-      "dp_deg": 198,
+      "hs_m": 0.88,
+      "tp_s": 15.38,
+      "dp_deg": 196,
       "sst_c": 21.4
     },
     {
@@ -446,16 +446,16 @@
       "sst_c": 22
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.71,
-      "tp_s": 15.38,
-      "dp_deg": 202,
-      "sst_c": 21.9
+      "hs_m": 0.75,
+      "tp_s": 14.29,
+      "dp_deg": 192,
+      "sst_c": 22
     },
     {
       "timestamp": "09.04.2025-15:00:00",
@@ -470,15 +470,15 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.65,
+      "hs_m": 1.52,
       "tp_s": 14.29,
-      "dp_deg": 299,
+      "dp_deg": 264,
       "sst_c": 17.6
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 0.95,
-      "tp_s": 14.29,
-      "dp_deg": 277,
+      "hs_m": 0.98,
+      "tp_s": 13.33,
+      "dp_deg": 258,
       "sst_c": 16.1
     },
     {
@@ -566,27 +566,27 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 1.42,
-      "tp_s": 6.67,
-      "dp_deg": 326,
-      "sst_c": 13.4
+      "hs_m": 1.52,
+      "tp_s": 13.33,
+      "dp_deg": 301,
+      "sst_c": 13.5
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.62,
+      "hs_m": 1.6,
       "tp_s": 13.33,
-      "dp_deg": 273,
+      "dp_deg": 279,
       "sst_c": 13.7
     },
     {
@@ -746,15 +746,15 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 0.68,
+      "hs_m": 0.65,
       "tp_s": 4,
-      "dp_deg": 177,
+      "dp_deg": 176,
       "sst_c": 30.8
     },
     {
@@ -890,16 +890,16 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.98,
-      "tp_s": 10.53,
-      "dp_deg": 65,
-      "sst_c": 24.8
+      "hs_m": 0.93,
+      "tp_s": 8.33,
+      "dp_deg": 102,
+      "sst_c": 24.9
     },
     {
       "timestamp": "09.04.2025-15:00:00",
@@ -914,16 +914,16 @@
       "sst_c": 24.8
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.72,
+      "hs_m": 0.75,
       "tp_s": 9.88,
-      "dp_deg": 74,
-      "sst_c": 24.2
+      "dp_deg": 73,
+      "sst_c": 24.3
     },
     {
       "timestamp": "09.04.2025-14:30:00",
@@ -998,15 +998,15 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.89,
+      "hs_m": 0.95,
       "tp_s": 9.09,
-      "dp_deg": 110,
+      "dp_deg": 106,
       "sst_c": 22.1
     },
     {
@@ -1046,16 +1046,16 @@
       "sst_c": 20
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.04,
-      "tp_s": 9.88,
-      "dp_deg": 95,
-      "sst_c": 19.2
+      "hs_m": 0.93,
+      "tp_s": 9.09,
+      "dp_deg": 112,
+      "sst_c": 19.3
     },
     {
       "timestamp": "09.04.2025-15:00:00",
@@ -1082,15 +1082,15 @@
       "sst_c": 20.2
     },
     {
-      "timestamp": "09.04.2025-14:30:00",
+      "timestamp": "09.04.2025-15:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.9,
+      "hs_m": 0.94,
       "tp_s": 4.35,
-      "dp_deg": 283,
+      "dp_deg": 285,
       "sst_c": 18.5
     },
     {
