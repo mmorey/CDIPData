@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-06T16:35:12.580Z",
+  "last_updated": "2025-09-06T16:47:11.725Z",
   "data": [
     {
       "timestamp": "09.06.2025-15:30:00",
@@ -86,15 +86,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "196",
       "station_name": "RITIDIAN POINT, GUAM",
       "latitude": 13.6833,
       "longitude": 144.8155,
       "depth_cm": 51500,
-      "hs_m": 0.99,
-      "tp_s": 6.67,
-      "dp_deg": 69,
+      "hs_m": 1.02,
+      "tp_s": 6.25,
+      "dp_deg": 76,
       "sst_c": 30
     },
     {
@@ -158,15 +158,15 @@
       "sst_c": 27.5
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.12,
-      "tp_s": 11.11,
-      "dp_deg": 345,
+      "hs_m": 1.21,
+      "tp_s": 10.53,
+      "dp_deg": 0,
       "sst_c": 26.8
     },
     {
@@ -194,16 +194,16 @@
       "sst_c": 26.4
     },
     {
-      "timestamp": "09.06.2025-15:00:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 0.89,
-      "tp_s": 9.88,
-      "dp_deg": 331,
-      "sst_c": 26.8
+      "hs_m": 0.97,
+      "tp_s": 10.53,
+      "dp_deg": 335,
+      "sst_c": 26.7
     },
     {
       "timestamp": "09.06.2025-15:30:00",
@@ -254,15 +254,15 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.1,
-      "tp_s": 14.29,
-      "dp_deg": 190,
+      "hs_m": 1.04,
+      "tp_s": 15.38,
+      "dp_deg": 197,
       "sst_c": 22.1
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.78,
-      "tp_s": 12.5,
-      "dp_deg": 229,
-      "sst_c": 17.5
+      "hs_m": 1.75,
+      "tp_s": 6.67,
+      "dp_deg": 320,
+      "sst_c": 17.6
     },
     {
       "timestamp": "09.06.2025-15:30:00",
@@ -362,16 +362,16 @@
       "sst_c": 20.8
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.89,
-      "tp_s": 15.38,
-      "dp_deg": 181,
-      "sst_c": 21.4
+      "hs_m": 0.94,
+      "tp_s": 14.29,
+      "dp_deg": 182,
+      "sst_c": 21.5
     },
     {
       "timestamp": "09.06.2025-16:00:00",
@@ -578,16 +578,16 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.07,
-      "tp_s": 8.33,
-      "dp_deg": 245,
-      "sst_c": 14.3
+      "hs_m": 1,
+      "tp_s": 7.69,
+      "dp_deg": 262,
+      "sst_c": 14.5
     },
     {
       "timestamp": "09.06.2025-16:00:00",
@@ -746,28 +746,28 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 0.96,
+      "hs_m": 0.94,
       "tp_s": 5,
-      "dp_deg": 134,
-      "sst_c": 30.8
+      "dp_deg": 132,
+      "sst_c": 30.9
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.37,
-      "tp_s": 5.56,
-      "dp_deg": 139,
-      "sst_c": 30.3
+      "tp_s": 5,
+      "dp_deg": 141,
+      "sst_c": 30.2
     },
     {
       "timestamp": "09.06.2025-16:00:00",
@@ -914,16 +914,16 @@
       "sst_c": 26
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.5,
-      "tp_s": 7.14,
-      "dp_deg": 99,
-      "sst_c": 24.9
+      "hs_m": 0.47,
+      "tp_s": 8.33,
+      "dp_deg": 80,
+      "sst_c": 25
     },
     {
       "timestamp": "09.06.2025-15:30:00",
@@ -998,16 +998,16 @@
       "sst_c": 23.7
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.36,
-      "tp_s": 4.35,
-      "dp_deg": 188,
-      "sst_c": 22.3
+      "hs_m": 1.32,
+      "tp_s": 4.55,
+      "dp_deg": 196,
+      "sst_c": 22.4
     },
     {
       "timestamp": "09.06.2025-16:00:00",
@@ -1046,15 +1046,15 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "09.06.2025-15:30:00",
+      "timestamp": "09.06.2025-16:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.09,
+      "hs_m": 1.11,
       "tp_s": 4.55,
-      "dp_deg": 158,
+      "dp_deg": 154,
       "sst_c": 18.7
     },
     {
