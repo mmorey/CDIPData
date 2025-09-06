@@ -1,16 +1,16 @@
 {
-  "last_updated": "2025-09-06T10:33:41.500Z",
+  "last_updated": "2025-09-06T10:47:05.818Z",
   "data": [
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 2.63,
+      "hs_m": 2.55,
       "tp_s": 13.33,
-      "dp_deg": 207,
+      "dp_deg": 200,
       "sst_c": 28.5
     },
     {
@@ -158,7 +158,7 @@
       "sst_c": 27.5
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
@@ -166,7 +166,7 @@
       "depth_cm": 8100,
       "hs_m": 1.21,
       "tp_s": 11.11,
-      "dp_deg": 352,
+      "dp_deg": 9,
       "sst_c": 26.9
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.67,
-      "tp_s": 5,
-      "dp_deg": 273,
-      "sst_c": 23.2
+      "hs_m": 0.69,
+      "tp_s": 5.56,
+      "dp_deg": 267,
+      "sst_c": 23.1
     },
     {
       "timestamp": "09.06.2025-10:00:00",
@@ -362,28 +362,28 @@
       "sst_c": 20.7
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.94,
+      "hs_m": 1,
       "tp_s": 15.38,
-      "dp_deg": 194,
-      "sst_c": 21.2
+      "dp_deg": 191,
+      "sst_c": 21.3
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.9,
-      "tp_s": 16.67,
-      "dp_deg": 207,
-      "sst_c": 20.6
+      "hs_m": 0.95,
+      "tp_s": 13.33,
+      "dp_deg": 205,
+      "sst_c": 20.7
     },
     {
       "timestamp": "09.06.2025-10:00:00",
@@ -398,28 +398,28 @@
       "sst_c": 20.8
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
       "hs_m": 0.88,
-      "tp_s": 13.33,
-      "dp_deg": 174,
+      "tp_s": 15.38,
+      "dp_deg": 167,
       "sst_c": 21.2
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.86,
-      "tp_s": 13.33,
-      "dp_deg": 190,
-      "sst_c": 18.3
+      "hs_m": 0.85,
+      "tp_s": 18.18,
+      "dp_deg": 197,
+      "sst_c": 18.5
     },
     {
       "timestamp": "09.06.2025-10:00:00",
@@ -518,15 +518,15 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 0.8,
-      "tp_s": 13.33,
-      "dp_deg": 230,
+      "hs_m": 0.82,
+      "tp_s": 12.5,
+      "dp_deg": 276,
       "sst_c": 15.4
     },
     {
@@ -566,31 +566,31 @@
       "sst_c": 13.3
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 1.09,
+      "hs_m": 0.99,
       "tp_s": 8.33,
-      "dp_deg": 263,
+      "dp_deg": 264,
       "sst_c": 14.5
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.04,
-      "tp_s": 9.09,
-      "dp_deg": 254,
+      "hs_m": 1.07,
+      "tp_s": 8.33,
+      "dp_deg": 261,
       "sst_c": 14.6
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
@@ -614,16 +614,16 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 0.96,
-      "tp_s": 9.09,
-      "dp_deg": 254,
-      "sst_c": 13.5
+      "hs_m": 1.02,
+      "tp_s": 8.33,
+      "dp_deg": 258,
+      "sst_c": 13.4
     },
     {
       "timestamp": "09.06.2025-09:30:00",
@@ -650,16 +650,16 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 0.96,
-      "tp_s": 9.09,
-      "dp_deg": 241,
-      "sst_c": 14.5
+      "hs_m": 0.88,
+      "tp_s": 9.88,
+      "dp_deg": 240,
+      "sst_c": 13
     },
     {
       "timestamp": "09.06.2025-10:00:00",
@@ -758,15 +758,15 @@
       "sst_c": 30.8
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.46,
-      "tp_s": 5,
-      "dp_deg": 143,
+      "tp_s": 5.26,
+      "dp_deg": 137,
       "sst_c": 30.1
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.56,
+      "hs_m": 0.54,
       "tp_s": 6.67,
-      "dp_deg": 103,
+      "dp_deg": 106,
       "sst_c": 24.4
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 23.4
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.33,
+      "hs_m": 1.27,
       "tp_s": 5.26,
-      "dp_deg": 198,
+      "dp_deg": 197,
       "sst_c": 22.3
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.15,
-      "tp_s": 7.14,
-      "dp_deg": 133,
+      "hs_m": 1.11,
+      "tp_s": 4.55,
+      "dp_deg": 161,
       "sst_c": 18.3
     },
     {
@@ -1082,15 +1082,15 @@
       "sst_c": 18.3
     },
     {
-      "timestamp": "09.06.2025-09:30:00",
+      "timestamp": "09.06.2025-10:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 1.1,
+      "hs_m": 1.19,
       "tp_s": 4.76,
-      "dp_deg": 286,
+      "dp_deg": 284,
       "sst_c": 17.5
     },
     {
