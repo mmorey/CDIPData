@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-07T10:33:56.263Z",
+  "last_updated": "2025-09-07T10:47:07.782Z",
   "data": [
     {
       "timestamp": "09.07.2025-09:30:00",
@@ -146,27 +146,27 @@
       "sst_c": 27.3
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.95,
-      "tp_s": 14.29,
-      "dp_deg": 194,
+      "hs_m": 0.96,
+      "tp_s": 16.67,
+      "dp_deg": 185,
       "sst_c": 27.5
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.1,
+      "hs_m": 1.05,
       "tp_s": 11.11,
-      "dp_deg": 352,
+      "dp_deg": 354,
       "sst_c": 27.1
     },
     {
@@ -278,16 +278,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.6,
-      "tp_s": 4.76,
-      "dp_deg": 284,
-      "sst_c": 22.3
+      "hs_m": 0.61,
+      "tp_s": 4.55,
+      "dp_deg": 287,
+      "sst_c": 22.2
     },
     {
       "timestamp": "09.07.2025-10:00:00",
@@ -374,15 +374,15 @@
       "sst_c": 21
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.92,
+      "hs_m": 0.89,
       "tp_s": 15.38,
-      "dp_deg": 200,
+      "dp_deg": 204,
       "sst_c": 21.4
     },
     {
@@ -590,7 +590,7 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
@@ -598,7 +598,7 @@
       "depth_cm": 19100,
       "hs_m": 0.98,
       "tp_s": 11.76,
-      "dp_deg": 290,
+      "dp_deg": 291,
       "sst_c": 13.8
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 0.87,
-      "tp_s": 11.76,
-      "dp_deg": 261,
-      "sst_c": 14.5
+      "hs_m": 0.92,
+      "tp_s": 7.69,
+      "dp_deg": 227,
+      "sst_c": 14.3
     },
     {
       "timestamp": "09.07.2025-10:00:00",
@@ -770,15 +770,15 @@
       "sst_c": 30.8
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.27,
-      "tp_s": 5.26,
-      "dp_deg": 138,
+      "hs_m": 0.29,
+      "tp_s": 3.85,
+      "dp_deg": 197,
       "sst_c": 30.3
     },
     {
@@ -866,27 +866,27 @@
       "sst_c": 26.5
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.61,
+      "hs_m": 0.62,
       "tp_s": 5.88,
-      "dp_deg": 142,
+      "dp_deg": 135,
       "sst_c": 26.8
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2108,
       "longitude": -76.9438,
       "depth_cm": 3048,
-      "hs_m": 0.79,
-      "tp_s": 5.88,
-      "dp_deg": 124,
+      "hs_m": 0.82,
+      "tp_s": 6.25,
+      "dp_deg": 128,
       "sst_c": 27.6
     },
     {
@@ -926,16 +926,16 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.77,
-      "tp_s": 5.88,
-      "dp_deg": 122,
-      "sst_c": 24.3
+      "hs_m": 0.83,
+      "tp_s": 6.25,
+      "dp_deg": 123,
+      "sst_c": 24.2
     },
     {
       "timestamp": "09.07.2025-09:30:00",
@@ -974,16 +974,16 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.044,
       "longitude": -76.1301,
       "depth_cm": 1000,
-      "hs_m": 0.27,
-      "tp_s": 1.72,
-      "dp_deg": 321,
-      "sst_c": 25.1
+      "hs_m": 0.26,
+      "tp_s": 5.56,
+      "dp_deg": 114,
+      "sst_c": 25
     },
     {
       "timestamp": "09.07.2025-10:00:00",
@@ -1010,15 +1010,15 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.11,
-      "tp_s": 4.55,
-      "dp_deg": 5,
+      "hs_m": 1.04,
+      "tp_s": 4,
+      "dp_deg": 19,
       "sst_c": 22.4
     },
     {
@@ -1094,15 +1094,15 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "09.07.2025-09:30:00",
+      "timestamp": "09.07.2025-10:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.48,
+      "hs_m": 0.46,
       "tp_s": 3.57,
-      "dp_deg": 285,
+      "dp_deg": 287,
       "sst_c": 16.6
     },
     {
