@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11T07:32:53.341Z",
+  "last_updated": "2025-09-11T07:46:58.499Z",
   "data": [
     {
       "timestamp": "09.11.2025-06:30:00",
@@ -74,15 +74,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.97,
-      "tp_s": 10.53,
-      "dp_deg": 103,
+      "hs_m": 1.01,
+      "tp_s": 6.67,
+      "dp_deg": 107,
       "sst_c": 30
     },
     {
@@ -362,39 +362,39 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.02,
+      "hs_m": 1.04,
       "tp_s": 14.29,
-      "dp_deg": 210,
+      "dp_deg": 207,
       "sst_c": 21.7
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.88,
-      "tp_s": 14.29,
-      "dp_deg": 219,
+      "hs_m": 0.8,
+      "tp_s": 15.38,
+      "dp_deg": 211,
       "sst_c": 21.5
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
       "hs_m": 0.98,
-      "tp_s": 14.29,
-      "dp_deg": 199,
+      "tp_s": 15.38,
+      "dp_deg": 191,
       "sst_c": 20.5
     },
     {
@@ -446,16 +446,16 @@
       "sst_c": 21.1
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.82,
+      "hs_m": 0.85,
       "tp_s": 14.29,
-      "dp_deg": 200,
-      "sst_c": 20.9
+      "dp_deg": 207,
+      "sst_c": 21
     },
     {
       "timestamp": "09.11.2025-07:00:00",
@@ -578,27 +578,27 @@
       "sst_c": 17
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 1.39,
+      "hs_m": 1.35,
       "tp_s": 12.5,
-      "dp_deg": 305,
-      "sst_c": 14.9
+      "dp_deg": 302,
+      "sst_c": 14.5
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.47,
+      "hs_m": 1.51,
       "tp_s": 11.76,
-      "dp_deg": 293,
+      "dp_deg": 290,
       "sst_c": 15
     },
     {
@@ -758,27 +758,27 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 0.89,
+      "hs_m": 0.93,
       "tp_s": 8.33,
-      "dp_deg": 97,
+      "dp_deg": 95,
       "sst_c": 30.4
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.57,
-      "tp_s": 5.56,
-      "dp_deg": 144,
+      "hs_m": 0.54,
+      "tp_s": 7.14,
+      "dp_deg": 138,
       "sst_c": 29.2
     },
     {
@@ -794,15 +794,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.13,
-      "tp_s": 11.11,
-      "dp_deg": 89,
+      "hs_m": 0.14,
+      "tp_s": 10.53,
+      "dp_deg": 70,
       "sst_c": 30
     },
     {
@@ -830,15 +830,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.04,
-      "tp_s": 7.69,
-      "dp_deg": 82,
+      "hs_m": 1.02,
+      "tp_s": 8.33,
+      "dp_deg": 76,
       "sst_c": 28
     },
     {
@@ -890,27 +890,27 @@
       "sst_c": 26.5
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.86,
-      "tp_s": 9.88,
-      "dp_deg": 69,
-      "sst_c": 23.7
+      "hs_m": null,
+      "tp_s": null,
+      "dp_deg": null,
+      "sst_c": null
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 1.88,
-      "tp_s": 9.88,
-      "dp_deg": 76,
+      "hs_m": 1.87,
+      "tp_s": 8.33,
+      "dp_deg": 69,
       "sst_c": 23.6
     },
     {
@@ -926,15 +926,15 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.54,
+      "hs_m": 1.66,
       "tp_s": 7.69,
-      "dp_deg": 61,
+      "dp_deg": 68,
       "sst_c": 23.4
     },
     {
@@ -998,27 +998,27 @@
       "sst_c": 22.3
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5368,
       "longitude": -75.044,
       "depth_cm": 1060,
-      "hs_m": 1.35,
+      "hs_m": 1.28,
       "tp_s": 8.33,
-      "dp_deg": 72,
+      "dp_deg": 81,
       "sst_c": 21.8
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.65,
+      "hs_m": 1.6,
       "tp_s": 8.33,
-      "dp_deg": 95,
+      "dp_deg": 106,
       "sst_c": 21.4
     },
     {
@@ -1058,16 +1058,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "09.11.2025-06:00:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
       "hs_m": 0.91,
-      "tp_s": 5.56,
-      "dp_deg": 107,
-      "sst_c": 18.8
+      "tp_s": 7.69,
+      "dp_deg": 137,
+      "sst_c": 18.7
     },
     {
       "timestamp": "09.11.2025-07:00:00",
@@ -1094,16 +1094,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "09.11.2025-06:30:00",
+      "timestamp": "09.11.2025-07:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.03,
-      "tp_s": 2.78,
-      "dp_deg": 306,
-      "sst_c": 16.2
+      "tp_s": 3.45,
+      "dp_deg": 60,
+      "sst_c": 16.3
     },
     {
       "timestamp": "09.11.2025-07:00:00",
