@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11T13:35:50.396Z",
+  "last_updated": "2025-09-11T13:47:00.199Z",
   "data": [
     {
       "timestamp": "09.11.2025-12:30:00",
@@ -110,15 +110,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 0.95,
+      "hs_m": 0.94,
       "tp_s": 12.5,
-      "dp_deg": 182,
+      "dp_deg": 186,
       "sst_c": 28.2
     },
     {
@@ -170,15 +170,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.37,
-      "tp_s": 7.69,
-      "dp_deg": 68,
+      "hs_m": 1.43,
+      "tp_s": 8.33,
+      "dp_deg": 73,
       "sst_c": 26.5
     },
     {
@@ -242,15 +242,15 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.77,
+      "hs_m": 0.76,
       "tp_s": 14.29,
-      "dp_deg": 243,
+      "dp_deg": 246,
       "sst_c": 19.5
     },
     {
@@ -338,15 +338,15 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.65,
+      "hs_m": 1.56,
       "tp_s": 14.29,
-      "dp_deg": 238,
+      "dp_deg": 231,
       "sst_c": 18.8
     },
     {
@@ -362,16 +362,16 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.87,
+      "hs_m": 0.93,
       "tp_s": 14.29,
-      "dp_deg": 196,
-      "sst_c": 21.6
+      "dp_deg": 205,
+      "sst_c": 21.5
     },
     {
       "timestamp": "09.11.2025-13:00:00",
@@ -518,15 +518,15 @@
       "sst_c": 17
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.33,
-      "tp_s": 14.29,
-      "dp_deg": 231,
+      "hs_m": 1.21,
+      "tp_s": 13.33,
+      "dp_deg": 265,
       "sst_c": 16.5
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.46,
-      "tp_s": 10.53,
-      "dp_deg": 296,
+      "hs_m": 1.41,
+      "tp_s": 11.76,
+      "dp_deg": 294,
       "sst_c": 14.6
     },
     {
@@ -770,15 +770,15 @@
       "sst_c": 30.3
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.57,
-      "tp_s": 2.94,
-      "dp_deg": 45,
+      "hs_m": 0.62,
+      "tp_s": 3.03,
+      "dp_deg": 50,
       "sst_c": 28.9
     },
     {
@@ -830,25 +830,25 @@
       "sst_c": 29.3
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
       "hs_m": 1.1,
-      "tp_s": 8.33,
-      "dp_deg": 68,
+      "tp_s": 7.69,
+      "dp_deg": 70,
       "sst_c": 28
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.98,
+      "hs_m": 1.07,
       "tp_s": 7.69,
       "dp_deg": 97,
       "sst_c": 27.1
@@ -926,15 +926,15 @@
       "sst_c": 23.6
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.59,
+      "hs_m": 1.68,
       "tp_s": 7.69,
-      "dp_deg": 66,
+      "dp_deg": 71,
       "sst_c": 23.4
     },
     {
@@ -1010,7 +1010,7 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
@@ -1018,7 +1018,7 @@
       "depth_cm": 2500,
       "hs_m": 1.45,
       "tp_s": 7.69,
-      "dp_deg": 96,
+      "dp_deg": 97,
       "sst_c": 21.4
     },
     {
@@ -1058,7 +1058,7 @@
       "sst_c": 18.3
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
@@ -1066,8 +1066,8 @@
       "depth_cm": 7650,
       "hs_m": 0.87,
       "tp_s": 6.67,
-      "dp_deg": 127,
-      "sst_c": 18.3
+      "dp_deg": 129,
+      "sst_c": 18.4
     },
     {
       "timestamp": "09.11.2025-13:00:00",
@@ -1094,15 +1094,15 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "09.11.2025-12:30:00",
+      "timestamp": "09.11.2025-13:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.18,
-      "tp_s": 1.92,
-      "dp_deg": 94,
+      "hs_m": 0.2,
+      "tp_s": 1.96,
+      "dp_deg": 95,
       "sst_c": 16
     },
     {
