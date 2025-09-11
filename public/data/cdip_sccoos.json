@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11T15:33:37.410Z",
+  "last_updated": "2025-09-11T15:47:15.007Z",
   "data": [
     {
       "timestamp": "09.11.2025-14:30:00",
@@ -146,7 +146,7 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
@@ -154,8 +154,8 @@
       "depth_cm": 28000,
       "hs_m": 0.97,
       "tp_s": 12.5,
-      "dp_deg": 189,
-      "sst_c": 27
+      "dp_deg": 193,
+      "sst_c": 27.1
     },
     {
       "timestamp": "09.10.2025-12:30:00",
@@ -170,15 +170,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.37,
+      "hs_m": 1.4,
       "tp_s": 8.33,
-      "dp_deg": 69,
+      "dp_deg": 76,
       "sst_c": 26.5
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.89,
+      "hs_m": 0.9,
       "tp_s": 14.29,
-      "dp_deg": 203,
+      "dp_deg": 207,
       "sst_c": 21.4
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 17
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.18,
+      "hs_m": 1.1,
       "tp_s": 12.5,
-      "dp_deg": 286,
+      "dp_deg": 287,
       "sst_c": 16.5
     },
     {
@@ -554,15 +554,15 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "029",
       "station_name": "POINT REYES, CA",
       "latitude": 37.939,
       "longitude": -123.461,
       "depth_cm": 55000,
-      "hs_m": 1.42,
-      "tp_s": 12.5,
-      "dp_deg": 287,
+      "hs_m": 1.43,
+      "tp_s": 11.76,
+      "dp_deg": 296,
       "sst_c": 14.5
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.43,
-      "tp_s": 7.14,
-      "dp_deg": 330,
-      "sst_c": 14.5
+      "hs_m": 1.35,
+      "tp_s": 11.11,
+      "dp_deg": 298,
+      "sst_c": 14.6
     },
     {
       "timestamp": "09.11.2025-15:00:00",
@@ -638,15 +638,15 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.27,
+      "hs_m": 1.33,
       "tp_s": 10.53,
-      "dp_deg": 293,
+      "dp_deg": 291,
       "sst_c": 12.3
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.22,
-      "tp_s": 5.26,
-      "dp_deg": 37,
+      "hs_m": 1.29,
+      "tp_s": 5,
+      "dp_deg": 53,
       "sst_c": 29.4
     },
     {
@@ -758,27 +758,27 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 0.76,
+      "hs_m": 0.79,
       "tp_s": 5,
-      "dp_deg": 106,
+      "dp_deg": 102,
       "sst_c": 30.2
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.64,
-      "tp_s": 3.03,
-      "dp_deg": 37,
+      "hs_m": 0.65,
+      "tp_s": 2.94,
+      "dp_deg": 43,
       "sst_c": 29
     },
     {
@@ -890,15 +890,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.89,
+      "hs_m": 1.74,
       "tp_s": 7.69,
-      "dp_deg": 64,
+      "dp_deg": 62,
       "sst_c": 23.6
     },
     {
@@ -926,15 +926,15 @@
       "sst_c": 23.6
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.57,
+      "hs_m": 1.52,
       "tp_s": 7.69,
-      "dp_deg": 68,
+      "dp_deg": 76,
       "sst_c": 23.4
     },
     {
@@ -974,15 +974,15 @@
       "sst_c": 23.3
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.044,
       "longitude": -76.1301,
       "depth_cm": 1000,
-      "hs_m": 0.58,
+      "hs_m": 0.56,
       "tp_s": 7.69,
-      "dp_deg": 92,
+      "dp_deg": 97,
       "sst_c": 23
     },
     {
@@ -1010,16 +1010,16 @@
       "sst_c": 22.2
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.22,
+      "hs_m": 1.27,
       "tp_s": 7.69,
-      "dp_deg": 106,
-      "sst_c": 21.4
+      "dp_deg": 102,
+      "sst_c": 21.5
     },
     {
       "timestamp": "09.11.2025-15:00:00",
@@ -1046,16 +1046,16 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
       "hs_m": 0.46,
-      "tp_s": 3.03,
-      "dp_deg": 354,
-      "sst_c": 18.5
+      "tp_s": 3.33,
+      "dp_deg": 350,
+      "sst_c": 18.6
     },
     {
       "timestamp": "09.11.2025-14:30:00",
@@ -1094,16 +1094,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "09.11.2025-14:30:00",
+      "timestamp": "09.11.2025-15:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.2,
-      "tp_s": 2.13,
-      "dp_deg": 96,
-      "sst_c": 16
+      "hs_m": 0.21,
+      "tp_s": 2.04,
+      "dp_deg": 85,
+      "sst_c": 16.1
     },
     {
       "timestamp": "09.11.2025-15:00:00",
