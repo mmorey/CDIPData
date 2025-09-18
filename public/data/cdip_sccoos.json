@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18T14:35:26.450Z",
+  "last_updated": "2025-09-18T14:47:11.860Z",
   "data": [
     {
       "timestamp": "09.18.2025-13:30:00",
@@ -230,14 +230,14 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.517533,
       "longitude": -117.425283,
       "depth_cm": 104980,
-      "hs_m": 1.32,
-      "tp_s": 14.29,
+      "hs_m": 1.18,
+      "tp_s": 15.38,
       "dp_deg": 191,
       "sst_c": 21.4
     },
@@ -362,27 +362,27 @@
       "sst_c": 20.6
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.02,
+      "hs_m": 0.93,
       "tp_s": 14.29,
-      "dp_deg": 189,
+      "dp_deg": 181,
       "sst_c": 20.7
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 1.07,
-      "tp_s": 15.38,
-      "dp_deg": 204,
+      "hs_m": 0.91,
+      "tp_s": 14.29,
+      "dp_deg": 200,
       "sst_c": 20
     },
     {
@@ -434,16 +434,16 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.88,
+      "hs_m": 0.78,
       "tp_s": 14.29,
-      "dp_deg": 204,
-      "sst_c": 20.7
+      "dp_deg": 191,
+      "sst_c": 20.9
     },
     {
       "timestamp": "09.18.2025-13:30:00",
@@ -566,16 +566,16 @@
       "sst_c": 14.5
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 4.28,
+      "hs_m": 4.27,
       "tp_s": 9.88,
-      "dp_deg": 321,
-      "sst_c": 15.8
+      "dp_deg": 315,
+      "sst_c": 15.7
     },
     {
       "timestamp": "09.18.2025-14:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.13,
-      "tp_s": 11.11,
-      "dp_deg": 299,
+      "hs_m": 2.82,
+      "tp_s": 10.53,
+      "dp_deg": 305,
       "sst_c": 14.1
     },
     {
@@ -686,16 +686,16 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.6,
+      "hs_m": 0.81,
       "tp_s": 12.5,
-      "dp_deg": 288,
-      "sst_c": 9.3
+      "dp_deg": 287,
+      "sst_c": 9.4
     },
     {
       "timestamp": "09.18.2025-13:30:00",
@@ -770,16 +770,16 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.42,
+      "hs_m": 0.43,
       "tp_s": 6.25,
-      "dp_deg": 170,
-      "sst_c": 29
+      "dp_deg": 168,
+      "sst_c": 29.1
     },
     {
       "timestamp": "09.18.2025-14:00:00",
@@ -794,15 +794,15 @@
       "sst_c": 28.8
     },
     {
-      "timestamp": "09.18.2025-13:00:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.67,
-      "tp_s": 4.55,
-      "dp_deg": 80,
+      "hs_m": 0.51,
+      "tp_s": 4.76,
+      "dp_deg": 55,
       "sst_c": 29.3
     },
     {
@@ -926,16 +926,16 @@
       "sst_c": 22.5
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.71,
-      "tp_s": 9.09,
-      "dp_deg": 72,
-      "sst_c": 21.2
+      "hs_m": 0.72,
+      "tp_s": 8.33,
+      "dp_deg": 63,
+      "sst_c": 21.3
     },
     {
       "timestamp": "09.18.2025-13:30:00",
@@ -1058,15 +1058,15 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.79,
+      "hs_m": 0.82,
       "tp_s": 7.69,
-      "dp_deg": 127,
+      "dp_deg": 137,
       "sst_c": 18.5
     },
     {
@@ -1082,27 +1082,27 @@
       "sst_c": 20
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "269",
       "station_name": "RAWLEY POINT EAST, WI",
       "latitude": 44.0554,
       "longitude": -87.050133,
       "depth_cm": 14500,
       "hs_m": 0.12,
-      "tp_s": 1.79,
-      "dp_deg": 285,
+      "tp_s": 1.72,
+      "dp_deg": 286,
       "sst_c": 19
     },
     {
-      "timestamp": "09.18.2025-13:30:00",
+      "timestamp": "09.18.2025-14:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.12,
+      "hs_m": 0.1,
       "tp_s": 4.17,
-      "dp_deg": 78,
+      "dp_deg": 100,
       "sst_c": 18
     },
     {
