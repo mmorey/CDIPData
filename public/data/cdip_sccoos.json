@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-23T07:33:56.903Z",
+  "last_updated": "2025-09-23T07:47:10.509Z",
   "data": [
     {
       "timestamp": "09.23.2025-06:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 28.2
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 3.13,
+      "hs_m": 3.05,
       "tp_s": 7.69,
-      "dp_deg": 148,
+      "dp_deg": 155,
       "sst_c": 27.8
     },
     {
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.63,
-      "tp_s": 4.55,
-      "dp_deg": 284,
+      "hs_m": 0.62,
+      "tp_s": 4.35,
+      "dp_deg": 281,
       "sst_c": 17.4
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.58,
+      "hs_m": 0.66,
       "tp_s": 16.67,
-      "dp_deg": 240,
+      "dp_deg": 235,
       "sst_c": 18.8
     },
     {
@@ -374,16 +374,16 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.53,
-      "tp_s": 12.5,
-      "dp_deg": 205,
-      "sst_c": 16.5
+      "hs_m": 0.5,
+      "tp_s": 16.67,
+      "dp_deg": 219,
+      "sst_c": 16.9
     },
     {
       "timestamp": "09.23.2025-07:00:00",
@@ -590,15 +590,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.33,
-      "tp_s": 12.5,
-      "dp_deg": 290,
+      "hs_m": 2.21,
+      "tp_s": 11.76,
+      "dp_deg": 294,
       "sst_c": 13.4
     },
     {
@@ -722,15 +722,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.7085,
       "longitude": -83.6502,
       "depth_cm": 8100,
-      "hs_m": 0.56,
-      "tp_s": 3.7,
-      "dp_deg": 79,
+      "hs_m": 0.63,
+      "tp_s": 3.85,
+      "dp_deg": 84,
       "sst_c": 29.4
     },
     {
@@ -770,14 +770,14 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.61,
-      "tp_s": 5.88,
+      "hs_m": 0.62,
+      "tp_s": 5.56,
       "dp_deg": 167,
       "sst_c": 29.1
     },
@@ -926,28 +926,28 @@
       "sst_c": 22.8
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.36,
-      "tp_s": 11.76,
-      "dp_deg": 101,
+      "hs_m": 1.4,
+      "tp_s": 11.11,
+      "dp_deg": 100,
       "sst_c": 22.1
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.71,
+      "hs_m": 1.77,
       "tp_s": 13.33,
-      "dp_deg": 105,
-      "sst_c": 22.6
+      "dp_deg": 104,
+      "sst_c": 22.5
     },
     {
       "timestamp": "09.23.2025-06:30:00",
@@ -1010,15 +1010,15 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.2,
-      "tp_s": 10.53,
-      "dp_deg": 129,
+      "hs_m": 1.26,
+      "tp_s": 11.76,
+      "dp_deg": 130,
       "sst_c": 21.1
     },
     {
@@ -1046,28 +1046,28 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.17,
-      "tp_s": 1.85,
-      "dp_deg": 217,
+      "hs_m": 0.16,
+      "tp_s": 11.11,
+      "dp_deg": 349,
       "sst_c": 17.9
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.4,
+      "hs_m": 1.36,
       "tp_s": 10.53,
-      "dp_deg": 139,
-      "sst_c": 18
+      "dp_deg": 138,
+      "sst_c": 17.9
     },
     {
       "timestamp": "09.23.2025-07:00:00",
@@ -1094,15 +1094,15 @@
       "sst_c": 20
     },
     {
-      "timestamp": "09.23.2025-06:30:00",
+      "timestamp": "09.23.2025-07:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
       "hs_m": 0.06,
-      "tp_s": 1.82,
-      "dp_deg": 233,
+      "tp_s": 1.75,
+      "dp_deg": 241,
       "sst_c": 16.4
     },
     {
