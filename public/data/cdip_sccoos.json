@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27T11:19:28.266Z",
+  "last_updated": "2025-09-27T11:32:19.970Z",
   "data": [
     {
       "timestamp": "09.27.2025-10:30:00",
@@ -26,15 +26,15 @@
       "sst_c": 27.5
     },
     {
-      "timestamp": "09.27.2025-09:30:00",
+      "timestamp": "09.27.2025-10:30:00",
       "station_number": "276",
       "station_name": "UTWE, KOSRAE, MICRONESIA",
       "latitude": 5.24042,
       "longitude": 163.00082,
       "depth_cm": 57000,
-      "hs_m": 1.42,
-      "tp_s": 5.26,
-      "dp_deg": 123,
+      "hs_m": 1.44,
+      "tp_s": 9.09,
+      "dp_deg": 121,
       "sst_c": 30.2
     },
     {
@@ -266,14 +266,14 @@
       "sst_c": 21.3
     },
     {
-      "timestamp": "09.27.2025-09:45:00",
+      "timestamp": "09.27.2025-10:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.65,
-      "tp_s": 10.67,
+      "hs_m": 0.68,
+      "tp_s": 9.85,
       "dp_deg": null,
       "sst_c": null
     },
@@ -326,16 +326,16 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "09.27.2025-10:30:00",
+      "timestamp": "09.27.2025-11:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.8,
-      "tp_s": 13.33,
-      "dp_deg": 173,
-      "sst_c": 20.3
+      "hs_m": 0.93,
+      "tp_s": 12.5,
+      "dp_deg": 176,
+      "sst_c": 20.2
     },
     {
       "timestamp": "09.27.2025-10:30:00",
@@ -806,15 +806,15 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "09.27.2025-10:30:00",
+      "timestamp": "09.27.2025-11:00:00",
       "station_number": "143",
       "station_name": "CAPE CANAVERAL NEARSHORE, FL",
       "latitude": 28.399683,
       "longitude": -80.53325,
       "depth_cm": 980,
-      "hs_m": 0.55,
-      "tp_s": 8.33,
-      "dp_deg": 101,
+      "hs_m": 0.56,
+      "tp_s": 3.7,
+      "dp_deg": 121,
       "sst_c": 29.2
     },
     {
