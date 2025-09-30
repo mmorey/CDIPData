@@ -1,16 +1,16 @@
 {
-  "last_updated": "2025-09-30T11:32:46.863Z",
+  "last_updated": "2025-09-30T11:47:11.447Z",
   "data": [
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.56,
+      "hs_m": 1.64,
       "tp_s": 15.38,
-      "dp_deg": 222,
+      "dp_deg": 224,
       "sst_c": 28
     },
     {
@@ -74,16 +74,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.85,
+      "hs_m": 0.8,
       "tp_s": 9.09,
-      "dp_deg": 91,
-      "sst_c": 29.5
+      "dp_deg": 86,
+      "sst_c": 29.3
     },
     {
       "timestamp": "09.30.2025-11:00:00",
@@ -362,38 +362,38 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.25,
+      "hs_m": 1.11,
       "tp_s": 10.53,
-      "dp_deg": 192,
+      "dp_deg": 199,
       "sst_c": 20.6
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 1.09,
-      "tp_s": 10.53,
-      "dp_deg": 203,
-      "sst_c": 19.8
+      "hs_m": 1.11,
+      "tp_s": 16.67,
+      "dp_deg": 208,
+      "sst_c": 19.7
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.07,
-      "tp_s": 16.67,
+      "hs_m": 1.16,
+      "tp_s": 9.88,
       "dp_deg": 175,
       "sst_c": 19
     },
@@ -422,16 +422,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 1.16,
-      "tp_s": 10.53,
-      "dp_deg": 196,
-      "sst_c": 19.2
+      "hs_m": 1.26,
+      "tp_s": 11.11,
+      "dp_deg": 198,
+      "sst_c": 19.1
     },
     {
       "timestamp": "09.30.2025-11:00:00",
@@ -590,14 +590,14 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.55,
-      "tp_s": 13.33,
+      "hs_m": 2.62,
+      "tp_s": 12.5,
       "dp_deg": 303,
       "sst_c": 13.4
     },
@@ -722,15 +722,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.14,
-      "tp_s": 5.88,
-      "dp_deg": 19,
+      "hs_m": 1.07,
+      "tp_s": 5.56,
+      "dp_deg": 10,
       "sst_c": 29.3
     },
     {
@@ -746,7 +746,7 @@
       "sst_c": 29
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
@@ -754,19 +754,19 @@
       "depth_cm": 2270,
       "hs_m": 0.67,
       "tp_s": 5.88,
-      "dp_deg": 91,
-      "sst_c": 29.2
+      "dp_deg": 90,
+      "sst_c": 29.1
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.28,
-      "tp_s": 5.88,
-      "dp_deg": 149,
+      "hs_m": 0.32,
+      "tp_s": 6.25,
+      "dp_deg": 141,
       "sst_c": 28.6
     },
     {
@@ -890,15 +890,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 3.1,
-      "tp_s": 15.38,
-      "dp_deg": 113,
+      "hs_m": 2.94,
+      "tp_s": 14.29,
+      "dp_deg": 110,
       "sst_c": 23.6
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 23.5
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.91,
-      "tp_s": 5,
-      "dp_deg": 47,
+      "hs_m": 1.87,
+      "tp_s": 5.56,
+      "dp_deg": 60,
       "sst_c": 23.1
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 22.3
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.22,
+      "hs_m": 1.15,
       "tp_s": 14.29,
-      "dp_deg": 132,
+      "dp_deg": 131,
       "sst_c": 21.6
     },
     {
@@ -1046,16 +1046,16 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.03,
-      "tp_s": 13.33,
-      "dp_deg": 140,
-      "sst_c": 18.3
+      "hs_m": 1.05,
+      "tp_s": 11.11,
+      "dp_deg": 143,
+      "sst_c": 18.2
     },
     {
       "timestamp": "09.30.2025-11:00:00",
@@ -1082,15 +1082,15 @@
       "sst_c": 19.7
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.19,
-      "tp_s": 2,
-      "dp_deg": 60,
+      "hs_m": 0.18,
+      "tp_s": 2.04,
+      "dp_deg": 63,
       "sst_c": 17.4
     },
     {
@@ -1106,15 +1106,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "09.30.2025-10:30:00",
+      "timestamp": "09.30.2025-11:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
       "hs_m": 0.56,
-      "tp_s": 10.53,
-      "dp_deg": 351,
+      "tp_s": 9.88,
+      "dp_deg": 7,
       "sst_c": 29.8
     }
   ]
