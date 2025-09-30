@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30T19:32:32.367Z",
+  "last_updated": "2025-09-30T19:47:36.066Z",
   "data": [
     {
       "timestamp": "09.30.2025-18:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 28.1
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.79,
+      "hs_m": 1.8,
       "tp_s": 9.09,
-      "dp_deg": 171,
+      "dp_deg": 168,
       "sst_c": 27.8
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.86,
+      "hs_m": 1.79,
       "tp_s": 9.88,
-      "dp_deg": 355,
+      "dp_deg": 352,
       "sst_c": 27.1
     },
     {
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.73,
-      "tp_s": 11.76,
-      "dp_deg": 291,
+      "hs_m": 0.7,
+      "tp_s": 9.88,
+      "dp_deg": 281,
       "sst_c": 20.4
     },
     {
@@ -338,15 +338,15 @@
       "sst_c": 20.8
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.92,
-      "tp_s": 12.5,
-      "dp_deg": 302,
+      "hs_m": 1.7,
+      "tp_s": 13.33,
+      "dp_deg": 296,
       "sst_c": 20.2
     },
     {
@@ -362,28 +362,28 @@
       "sst_c": 19.7
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.14,
+      "hs_m": 1.11,
       "tp_s": 9.88,
-      "dp_deg": 194,
-      "sst_c": 20.8
+      "dp_deg": 196,
+      "sst_c": 20.9
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 1.03,
+      "hs_m": 1.06,
       "tp_s": 15.38,
-      "dp_deg": 204,
-      "sst_c": 19.7
+      "dp_deg": 207,
+      "sst_c": 19.5
     },
     {
       "timestamp": "09.30.2025-19:00:00",
@@ -590,16 +590,16 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.99,
-      "tp_s": 6.67,
-      "dp_deg": 204,
-      "sst_c": 13.1
+      "hs_m": 2.97,
+      "tp_s": 7.14,
+      "dp_deg": 201,
+      "sst_c": 12.9
     },
     {
       "timestamp": "09.30.2025-19:00:00",
@@ -746,27 +746,27 @@
       "sst_c": 29.1
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 0.62,
+      "hs_m": 0.58,
       "tp_s": 5.88,
-      "dp_deg": 96,
+      "dp_deg": 106,
       "sst_c": 29.4
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
       "hs_m": 0.4,
-      "tp_s": 2.56,
-      "dp_deg": 10,
+      "tp_s": 2.63,
+      "dp_deg": 23,
       "sst_c": 29.2
     },
     {
@@ -818,15 +818,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 2.8,
-      "tp_s": 11.11,
-      "dp_deg": 80,
+      "hs_m": 2.79,
+      "tp_s": 8.33,
+      "dp_deg": 56,
       "sst_c": 27.5
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 22.3
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.53,
+      "hs_m": 1.42,
       "tp_s": 14.29,
-      "dp_deg": 136,
+      "dp_deg": 139,
       "sst_c": 21.7
     },
     {
@@ -1046,13 +1046,13 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.31,
+      "hs_m": 1.33,
       "tp_s": 12.5,
       "dp_deg": 128,
       "sst_c": 18.2
@@ -1082,27 +1082,27 @@
       "sst_c": 20.1
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.32,
-      "tp_s": 2.7,
-      "dp_deg": 88,
-      "sst_c": 16.9
+      "hs_m": 0.29,
+      "tp_s": 2.33,
+      "dp_deg": 83,
+      "sst_c": 16.8
     },
     {
-      "timestamp": "09.30.2025-18:30:00",
+      "timestamp": "09.30.2025-19:00:00",
       "station_number": "268",
       "station_name": "GRAND ISLAND NORTH, MI",
       "latitude": 46.9727,
       "longitude": -86.5682,
       "depth_cm": 16000,
-      "hs_m": 1.05,
+      "hs_m": 1.09,
       "tp_s": 4.76,
-      "dp_deg": 66,
+      "dp_deg": 64,
       "sst_c": 15
     },
     {
