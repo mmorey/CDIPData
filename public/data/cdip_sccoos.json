@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02T16:37:12.250Z",
+  "last_updated": "2025-10-02T16:49:12.197Z",
   "data": [
     {
       "timestamp": "10.02.2025-15:30:00",
@@ -74,15 +74,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.02.2025-14:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.72,
+      "hs_m": 0.7,
       "tp_s": 9.09,
-      "dp_deg": 68,
+      "dp_deg": 77,
       "sst_c": 29.4
     },
     {
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.67,
-      "tp_s": 12.5,
-      "dp_deg": 288,
+      "hs_m": 0.71,
+      "tp_s": 11.11,
+      "dp_deg": 292,
       "sst_c": 19.6
     },
     {
@@ -314,16 +314,16 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.85,
-      "tp_s": 13.33,
-      "dp_deg": 239,
-      "sst_c": 19.2
+      "hs_m": 0.77,
+      "tp_s": 9.88,
+      "dp_deg": 264,
+      "sst_c": 19.3
     },
     {
       "timestamp": "10.02.2025-16:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 18.3
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.8,
+      "hs_m": 0.72,
       "tp_s": 13.33,
-      "dp_deg": 199,
-      "sst_c": 20.1
+      "dp_deg": 203,
+      "sst_c": 20.2
     },
     {
       "timestamp": "10.02.2025-16:00:00",
@@ -410,16 +410,16 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.73,
+      "hs_m": 0.83,
       "tp_s": 13.33,
-      "dp_deg": 199,
-      "sst_c": 18.4
+      "dp_deg": 184,
+      "sst_c": 18.5
     },
     {
       "timestamp": "10.02.2025-16:00:00",
@@ -470,15 +470,15 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.79,
-      "tp_s": 13.33,
-      "dp_deg": 299,
+      "hs_m": 2.77,
+      "tp_s": 14.29,
+      "dp_deg": 316,
       "sst_c": 18.8
     },
     {
@@ -542,15 +542,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 2.26,
+      "hs_m": 2.04,
       "tp_s": 13.33,
-      "dp_deg": 268,
+      "dp_deg": 271,
       "sst_c": 16.7
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 29.2
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.41,
+      "hs_m": 0.4,
       "tp_s": 2.7,
-      "dp_deg": 61,
+      "dp_deg": 63,
       "sst_c": 28.9
     },
     {
@@ -926,15 +926,15 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 3.12,
-      "tp_s": 12.5,
-      "dp_deg": 72,
+      "hs_m": 3.06,
+      "tp_s": 13.33,
+      "dp_deg": 74,
       "sst_c": 22.1
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 21
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 2.11,
-      "tp_s": 13.33,
-      "dp_deg": 85,
+      "hs_m": 2.31,
+      "tp_s": 11.76,
+      "dp_deg": 75,
       "sst_c": 22.1
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 21.5
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 2.69,
-      "tp_s": 9.09,
-      "dp_deg": 89,
+      "hs_m": 2.59,
+      "tp_s": 8.33,
+      "dp_deg": 90,
       "sst_c": 20.9
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "10.02.2025-15:30:00",
+      "timestamp": "10.02.2025-16:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.7,
-      "tp_s": 7.69,
-      "dp_deg": 86,
+      "hs_m": 1.65,
+      "tp_s": 6.67,
+      "dp_deg": 74,
       "sst_c": 16.3
     },
     {
