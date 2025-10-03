@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-03T13:36:15.446Z",
+  "last_updated": "2025-10-03T13:47:12.452Z",
   "data": [
     {
       "timestamp": "10.03.2025-12:30:00",
@@ -74,16 +74,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.79,
-      "tp_s": 8.33,
-      "dp_deg": 65,
-      "sst_c": 29.2
+      "hs_m": 0.77,
+      "tp_s": 7.14,
+      "dp_deg": 72,
+      "sst_c": 29.3
     },
     {
       "timestamp": "10.03.2025-13:00:00",
@@ -278,15 +278,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.79,
-      "tp_s": 13.33,
-      "dp_deg": 295,
+      "hs_m": 0.82,
+      "tp_s": 14.29,
+      "dp_deg": 298,
       "sst_c": 19.9
     },
     {
@@ -362,7 +362,7 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -370,7 +370,7 @@
       "depth_cm": 30300,
       "hs_m": 0.86,
       "tp_s": 12.5,
-      "dp_deg": 250,
+      "dp_deg": 245,
       "sst_c": 20.6
     },
     {
@@ -386,28 +386,28 @@
       "sst_c": 18.6
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.88,
-      "tp_s": 12.5,
-      "dp_deg": 229,
-      "sst_c": 19.4
+      "hs_m": 0.86,
+      "tp_s": 11.11,
+      "dp_deg": 271,
+      "sst_c": 19.5
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.9,
-      "tp_s": 13.33,
-      "dp_deg": 251,
-      "sst_c": 20
+      "hs_m": 0.95,
+      "tp_s": 12.5,
+      "dp_deg": 242,
+      "sst_c": 19.9
     },
     {
       "timestamp": "10.03.2025-13:00:00",
@@ -542,15 +542,15 @@
       "sst_c": 17.7
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.72,
+      "hs_m": 1.68,
       "tp_s": 11.76,
-      "dp_deg": 279,
+      "dp_deg": 280,
       "sst_c": 16.7
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.28,
+      "hs_m": 2.4,
       "tp_s": 10.53,
-      "dp_deg": 295,
+      "dp_deg": 297,
       "sst_c": 14.6
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 14.2
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 1.83,
+      "hs_m": 1.71,
       "tp_s": 10.53,
-      "dp_deg": 282,
+      "dp_deg": 285,
       "sst_c": 13.9
     },
     {
@@ -998,15 +998,15 @@
       "sst_c": 21.2
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.46,
-      "tp_s": 9.88,
-      "dp_deg": 91,
+      "hs_m": 1.35,
+      "tp_s": 9.09,
+      "dp_deg": 96,
       "sst_c": 20.8
     },
     {
@@ -1046,16 +1046,16 @@
       "sst_c": 16
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 1.16,
+      "hs_m": 1.18,
       "tp_s": 9.09,
-      "dp_deg": 115,
-      "sst_c": 15.9
+      "dp_deg": 108,
+      "sst_c": 15.8
     },
     {
       "timestamp": "10.03.2025-13:00:00",
@@ -1082,16 +1082,16 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "10.03.2025-12:30:00",
+      "timestamp": "10.03.2025-13:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.17,
-      "tp_s": 2.63,
-      "dp_deg": 273,
-      "sst_c": 16.1
+      "hs_m": 0.19,
+      "tp_s": 2.44,
+      "dp_deg": 271,
+      "sst_c": 16.2
     },
     {
       "timestamp": "10.03.2025-13:00:00",
