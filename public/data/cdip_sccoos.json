@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06T05:34:17.030Z",
+  "last_updated": "2025-10-06T05:46:54.292Z",
   "data": [
     {
       "timestamp": "10.06.2025-04:30:00",
@@ -362,15 +362,15 @@
       "sst_c": 19.7
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.71,
+      "hs_m": 0.73,
       "tp_s": 13.33,
-      "dp_deg": 211,
+      "dp_deg": 206,
       "sst_c": 21
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 2.57,
+      "hs_m": 2.71,
       "tp_s": 8.33,
-      "dp_deg": 325,
+      "dp_deg": 326,
       "sst_c": 13.1
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 13.1
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.24,
-      "tp_s": 8.33,
-      "dp_deg": 311,
+      "hs_m": 2.21,
+      "tp_s": 9.09,
+      "dp_deg": 314,
       "sst_c": 13.9
     },
     {
@@ -746,27 +746,27 @@
       "sst_c": 28.3
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.6403,
       "longitude": -97.0112,
       "depth_cm": 2270,
-      "hs_m": 1.24,
+      "hs_m": 1.17,
       "tp_s": 8.33,
-      "dp_deg": 99,
+      "dp_deg": 97,
       "sst_c": 29
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.17,
-      "tp_s": 5.26,
-      "dp_deg": 177,
+      "hs_m": 1.12,
+      "tp_s": 5.56,
+      "dp_deg": 181,
       "sst_c": 27.9
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 27.8
     },
     {
-      "timestamp": "10.06.2025-04:00:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.46,
-      "tp_s": 13.33,
-      "dp_deg": 58,
+      "hs_m": 0.47,
+      "tp_s": 4.55,
+      "dp_deg": 59,
       "sst_c": 28.7
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 22.2
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1,
-      "tp_s": 15.38,
-      "dp_deg": 75,
-      "sst_c": 21.7
+      "hs_m": 1.07,
+      "tp_s": 14.29,
+      "dp_deg": 78,
+      "sst_c": 21.8
     },
     {
       "timestamp": "10.06.2025-04:30:00",
@@ -998,15 +998,15 @@
       "sst_c": 21.5
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.12,
+      "hs_m": 1.14,
       "tp_s": 14.29,
-      "dp_deg": 107,
+      "dp_deg": 110,
       "sst_c": 20.9
     },
     {
@@ -1046,16 +1046,16 @@
       "sst_c": 17
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.8,
-      "tp_s": 11.76,
-      "dp_deg": 103,
-      "sst_c": 16.7
+      "hs_m": 0.83,
+      "tp_s": 12.5,
+      "dp_deg": 102,
+      "sst_c": 16.6
     },
     {
       "timestamp": "10.06.2025-05:00:00",
@@ -1106,15 +1106,15 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "10.06.2025-04:30:00",
+      "timestamp": "10.06.2025-05:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 1.9,
-      "tp_s": 15.38,
-      "dp_deg": 353,
+      "hs_m": 2.14,
+      "tp_s": 13.33,
+      "dp_deg": 7,
       "sst_c": 30
     }
   ]
