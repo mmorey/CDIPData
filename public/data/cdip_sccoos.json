@@ -1,28 +1,28 @@
 {
-  "last_updated": "2025-10-06T07:33:05.655Z",
+  "last_updated": "2025-10-06T07:47:10.237Z",
   "data": [
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.4,
-      "tp_s": 11.76,
-      "dp_deg": 173,
+      "hs_m": 1.45,
+      "tp_s": 12.5,
+      "dp_deg": 183,
       "sst_c": 28.1
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.94,
-      "tp_s": 14.29,
-      "dp_deg": 184,
+      "hs_m": 2.03,
+      "tp_s": 8.33,
+      "dp_deg": 125,
       "sst_c": 27.8
     },
     {
@@ -74,16 +74,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.73,
+      "hs_m": 0.66,
       "tp_s": 7.69,
-      "dp_deg": 89,
-      "sst_c": 30.2
+      "dp_deg": 86,
+      "sst_c": 30
     },
     {
       "timestamp": "10.06.2025-07:00:00",
@@ -230,16 +230,16 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.517533,
       "longitude": -117.425283,
       "depth_cm": 104980,
-      "hs_m": 0.9,
-      "tp_s": 12.5,
-      "dp_deg": 202,
-      "sst_c": 20
+      "hs_m": 0.98,
+      "tp_s": 16.67,
+      "dp_deg": 219,
+      "sst_c": 19.9
     },
     {
       "timestamp": "10.06.2025-06:30:00",
@@ -254,15 +254,15 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.92,
+      "hs_m": 0.99,
       "tp_s": 12.5,
-      "dp_deg": 192,
+      "dp_deg": 204,
       "sst_c": 20.9
     },
     {
@@ -278,7 +278,7 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
@@ -286,7 +286,7 @@
       "depth_cm": 4100,
       "hs_m": 0.74,
       "tp_s": 9.09,
-      "dp_deg": 288,
+      "dp_deg": 287,
       "sst_c": 20
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 20
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
       "hs_m": 0.69,
-      "tp_s": 12.5,
-      "dp_deg": 253,
+      "tp_s": 16.67,
+      "dp_deg": 239,
       "sst_c": 19.5
     },
     {
@@ -362,39 +362,39 @@
       "sst_c": 19.6
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.74,
-      "tp_s": 12.5,
-      "dp_deg": 196,
+      "hs_m": 0.7,
+      "tp_s": 16.67,
+      "dp_deg": 209,
       "sst_c": 20.9
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.62,
+      "hs_m": 0.67,
       "tp_s": 12.5,
       "dp_deg": 222,
-      "sst_c": 19.6
+      "sst_c": 19.8
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.61,
+      "hs_m": 0.62,
       "tp_s": 13.33,
-      "dp_deg": 184,
+      "dp_deg": 178,
       "sst_c": 19.4
     },
     {
@@ -590,15 +590,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.17,
+      "hs_m": 2.3,
       "tp_s": 8.33,
-      "dp_deg": 313,
+      "dp_deg": 315,
       "sst_c": 13.9
     },
     {
@@ -758,15 +758,15 @@
       "sst_c": 28.9
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.09,
-      "tp_s": 5.26,
-      "dp_deg": 177,
+      "hs_m": 1.07,
+      "tp_s": 5,
+      "dp_deg": 170,
       "sst_c": 27.7
     },
     {
@@ -818,15 +818,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 2.23,
-      "tp_s": 6.67,
-      "dp_deg": 91,
+      "hs_m": 2.3,
+      "tp_s": 7.69,
+      "dp_deg": 82,
       "sst_c": 26.5
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.02,
+      "hs_m": 1.2,
       "tp_s": 14.29,
-      "dp_deg": 76,
-      "sst_c": 21.8
+      "dp_deg": 83,
+      "sst_c": 21.7
     },
     {
       "timestamp": "10.06.2025-06:30:00",
@@ -962,16 +962,16 @@
       "sst_c": 21.6
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.044,
       "longitude": -76.1301,
       "depth_cm": 1000,
-      "hs_m": 0.22,
-      "tp_s": 13.33,
-      "dp_deg": 116,
-      "sst_c": 22.1
+      "hs_m": 0.23,
+      "tp_s": 11.76,
+      "dp_deg": 107,
+      "sst_c": 22
     },
     {
       "timestamp": "10.06.2025-07:00:00",
@@ -998,15 +998,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.05,
+      "hs_m": 1.07,
       "tp_s": 13.33,
-      "dp_deg": 112,
+      "dp_deg": 102,
       "sst_c": 20.9
     },
     {
@@ -1046,15 +1046,15 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.87,
+      "hs_m": 0.8,
       "tp_s": 12.5,
-      "dp_deg": 93,
+      "dp_deg": 100,
       "sst_c": 16.5
     },
     {
@@ -1082,15 +1082,15 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "10.06.2025-06:30:00",
+      "timestamp": "10.06.2025-07:00:00",
       "station_number": "253",
       "station_name": "MCGULPIN POINT NORTH, MI",
       "latitude": 45.8033,
       "longitude": -84.7921,
       "depth_cm": 1980,
-      "hs_m": 0.52,
+      "hs_m": 0.57,
       "tp_s": 3.03,
-      "dp_deg": 262,
+      "dp_deg": 267,
       "sst_c": 17.1
     },
     {
