@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-08T13:39:01.833Z",
+  "last_updated": "2025-10-08T13:48:22.344Z",
   "data": [
     {
       "timestamp": "10.08.2025-12:30:00",
@@ -122,15 +122,15 @@
       "sst_c": 27.7
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "187",
       "station_name": "PAUWELA, MAUI, HI",
       "latitude": 21.0185,
       "longitude": -156.4215,
       "depth_cm": 20000,
-      "hs_m": 1.29,
-      "tp_s": 8.33,
-      "dp_deg": 29,
+      "hs_m": 1.14,
+      "tp_s": 7.69,
+      "dp_deg": 24,
       "sst_c": 27
     },
     {
@@ -374,27 +374,27 @@
       "sst_c": 19
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.74,
+      "hs_m": 0.67,
       "tp_s": 12.5,
-      "dp_deg": 205,
+      "dp_deg": 196,
       "sst_c": 19.9
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.617933,
       "longitude": -118.316833,
       "depth_cm": 47652,
-      "hs_m": 0.69,
+      "hs_m": 0.64,
       "tp_s": 12.5,
-      "dp_deg": 221,
+      "dp_deg": 232,
       "sst_c": 19.5
     },
     {
@@ -422,16 +422,16 @@
       "sst_c": 19.7
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.68,
-      "tp_s": 15.38,
-      "dp_deg": 211,
-      "sst_c": 19
+      "hs_m": 0.66,
+      "tp_s": 12.5,
+      "dp_deg": 205,
+      "sst_c": 18.8
     },
     {
       "timestamp": "10.08.2025-12:30:00",
@@ -446,15 +446,15 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.15,
-      "tp_s": 12.5,
-      "dp_deg": 258,
+      "hs_m": 1.26,
+      "tp_s": 11.11,
+      "dp_deg": 252,
       "sst_c": 17.6
     },
     {
@@ -878,15 +878,15 @@
       "sst_c": 26.1
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 1.07,
-      "tp_s": 8.33,
-      "dp_deg": 142,
+      "hs_m": 1.05,
+      "tp_s": 9.88,
+      "dp_deg": 113,
       "sst_c": 24.6
     },
     {
@@ -950,27 +950,27 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 1.04,
-      "tp_s": 7.69,
-      "dp_deg": 134,
+      "hs_m": 1,
+      "tp_s": 8.33,
+      "dp_deg": 123,
       "sst_c": 22
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.044,
       "longitude": -76.1301,
       "depth_cm": 1000,
-      "hs_m": 0.73,
-      "tp_s": 3.23,
-      "dp_deg": 217,
+      "hs_m": 0.69,
+      "tp_s": 3.03,
+      "dp_deg": 228,
       "sst_c": 22.1
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5368,
       "longitude": -75.044,
       "depth_cm": 1060,
       "hs_m": 0.8,
-      "tp_s": 10.53,
-      "dp_deg": 130,
+      "tp_s": 9.88,
+      "dp_deg": 79,
       "sst_c": 21.4
     },
     {
@@ -1058,16 +1058,16 @@
       "sst_c": 16
     },
     {
-      "timestamp": "10.08.2025-12:30:00",
+      "timestamp": "10.08.2025-13:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.5008,
       "longitude": -76.5385,
       "depth_cm": 4200,
-      "hs_m": 0.83,
-      "tp_s": 4.17,
+      "hs_m": 0.81,
+      "tp_s": 4,
       "dp_deg": 338,
-      "sst_c": 16.6
+      "sst_c": 16.8
     },
     {
       "timestamp": "10.08.2025-04:00:00",
