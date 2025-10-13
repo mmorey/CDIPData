@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T16:37:57.076Z",
+  "last_updated": "2025-10-13T16:48:44.752Z",
   "data": [
     {
       "timestamp": "10.13.2025-15:30:00",
@@ -74,15 +74,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.13.2025-15:30:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.36,
-      "tp_s": 12.5,
-      "dp_deg": 35,
+      "hs_m": 1.32,
+      "tp_s": 5.26,
+      "dp_deg": 98,
       "sst_c": 29.2
     },
     {
@@ -146,27 +146,27 @@
       "sst_c": 27
     },
     {
-      "timestamp": "10.13.2025-15:30:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.17,
+      "hs_m": 1.08,
       "tp_s": 16.67,
-      "dp_deg": 307,
+      "dp_deg": 317,
       "sst_c": 27.3
     },
     {
-      "timestamp": "10.13.2025-15:30:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.18,
-      "tp_s": 16.67,
-      "dp_deg": 349,
+      "hs_m": 1.28,
+      "tp_s": 12.5,
+      "dp_deg": 77,
       "sst_c": 27
     },
     {
@@ -398,16 +398,16 @@
       "sst_c": 17.7
     },
     {
-      "timestamp": "10.13.2025-15:30:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 1.46,
-      "tp_s": 15.38,
-      "dp_deg": 192,
-      "sst_c": 17.2
+      "hs_m": 1.41,
+      "tp_s": 14.29,
+      "dp_deg": 194,
+      "sst_c": 17.1
     },
     {
       "timestamp": "10.13.2025-16:00:00",
@@ -614,15 +614,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.13.2025-15:30:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.25,
+      "hs_m": 2.19,
       "tp_s": 9.88,
-      "dp_deg": 323,
+      "dp_deg": 309,
       "sst_c": 13.4
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "10.13.2025-15:00:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2145,
       "longitude": -124.12625,
       "depth_cm": 2438,
-      "hs_m": 1.73,
+      "hs_m": 1.87,
       "tp_s": 9.88,
-      "dp_deg": 282,
+      "dp_deg": 285,
       "sst_c": 14
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 20.4
     },
     {
-      "timestamp": "10.13.2025-15:30:00",
+      "timestamp": "10.13.2025-16:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
       "hs_m": 2.31,
-      "tp_s": 12.5,
-      "dp_deg": 97,
+      "tp_s": 11.76,
+      "dp_deg": 99,
       "sst_c": 20.7
     },
     {
