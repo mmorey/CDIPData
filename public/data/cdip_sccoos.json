@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-16T23:03:28.783Z",
+  "last_updated": "2025-10-16T23:20:35.776Z",
   "data": [
     {
       "timestamp": "10.16.2025-22:00:00",
@@ -206,15 +206,15 @@
       "sst_c": 27
     },
     {
-      "timestamp": "10.16.2025-21:30:00",
+      "timestamp": "10.16.2025-22:30:00",
       "station_number": "166",
       "station_name": "OCEAN STATION PAPA",
       "latitude": 49.903,
       "longitude": -145.2455,
       "depth_cm": 425200,
-      "hs_m": 6.1,
+      "hs_m": 7.53,
       "tp_s": 16.67,
-      "dp_deg": 288,
+      "dp_deg": 286,
       "sst_c": 12.1
     },
     {
@@ -254,28 +254,28 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "10.16.2025-21:45:00",
+      "timestamp": "10.16.2025-22:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
       "hs_m": 0.77,
-      "tp_s": 9.85,
+      "tp_s": 6.4,
       "dp_deg": null,
       "sst_c": null
     },
     {
-      "timestamp": "10.16.2025-22:00:00",
+      "timestamp": "10.16.2025-22:30:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.86,
+      "hs_m": 0.82,
       "tp_s": 6.67,
-      "dp_deg": 285,
-      "sst_c": 18.7
+      "dp_deg": 282,
+      "sst_c": 18.4
     },
     {
       "timestamp": "10.16.2025-22:00:00",
