@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T10:36:53.456Z",
+  "last_updated": "2025-10-31T10:48:10.175Z",
   "data": [
     {
       "timestamp": "10.31.2025-09:30:00",
@@ -218,15 +218,15 @@
       "sst_c": 20.1
     },
     {
-      "timestamp": "10.31.2025-09:30:00",
+      "timestamp": "10.31.2025-10:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.77,
-      "tp_s": 22.22,
-      "dp_deg": 246,
+      "hs_m": 0.86,
+      "tp_s": 7.69,
+      "dp_deg": 287,
       "sst_c": 17.7
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "10.31.2025-09:30:00",
+      "timestamp": "10.31.2025-10:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.83,
+      "hs_m": 0.89,
       "tp_s": 9.09,
-      "dp_deg": 284,
-      "sst_c": 19.4
+      "dp_deg": 285,
+      "sst_c": 19.3
     },
     {
       "timestamp": "10.31.2025-10:00:00",
@@ -446,13 +446,13 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "10.31.2025-09:30:00",
+      "timestamp": "10.31.2025-10:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 3.58,
+      "hs_m": 3.47,
       "tp_s": 13.33,
       "dp_deg": 316,
       "sst_c": 16.2
@@ -698,15 +698,15 @@
       "sst_c": 25.5
     },
     {
-      "timestamp": "10.31.2025-09:30:00",
+      "timestamp": "10.31.2025-10:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 1.61,
-      "tp_s": 9.88,
-      "dp_deg": 258,
+      "hs_m": 1.55,
+      "tp_s": 9.09,
+      "dp_deg": 261,
       "sst_c": 24.8
     },
     {
@@ -878,15 +878,15 @@
       "sst_c": 17.9
     },
     {
-      "timestamp": "10.31.2025-09:30:00",
+      "timestamp": "10.31.2025-10:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.91,
+      "hs_m": 0.97,
       "tp_s": 11.76,
-      "dp_deg": 64,
+      "dp_deg": 63,
       "sst_c": 16.8
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "10.31.2025-09:30:00",
+      "timestamp": "10.31.2025-10:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 2.04,
-      "tp_s": 8.33,
-      "dp_deg": 123,
+      "hs_m": 1.95,
+      "tp_s": 9.09,
+      "dp_deg": 119,
       "sst_c": 17
     },
     {
