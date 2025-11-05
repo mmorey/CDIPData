@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T19:32:31.627Z",
+  "last_updated": "2025-11-05T19:47:15.216Z",
   "data": [
     {
       "timestamp": "11.05.2025-18:30:00",
@@ -158,15 +158,15 @@
       "sst_c": 26.6
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.73,
-      "tp_s": 11.76,
-      "dp_deg": 358,
+      "hs_m": 1.77,
+      "tp_s": 13.33,
+      "dp_deg": 3,
       "sst_c": 26.4
     },
     {
@@ -338,27 +338,27 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.64,
-      "tp_s": 12.5,
-      "dp_deg": 222,
+      "hs_m": 0.73,
+      "tp_s": 13.33,
+      "dp_deg": 230,
       "sst_c": 19.4
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.66,
+      "hs_m": 0.64,
       "tp_s": 13.33,
-      "dp_deg": 217,
+      "dp_deg": 221,
       "sst_c": 19
     },
     {
@@ -542,27 +542,27 @@
       "sst_c": 14.8
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 4.94,
-      "tp_s": 11.76,
-      "dp_deg": 224,
+      "hs_m": 4.6,
+      "tp_s": 9.09,
+      "dp_deg": 198,
       "sst_c": 13.1
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 3.96,
-      "tp_s": 11.76,
-      "dp_deg": 257,
+      "hs_m": 3.68,
+      "tp_s": 11.11,
+      "dp_deg": 223,
       "sst_c": 12.5
     },
     {
@@ -638,15 +638,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 0.4,
-      "tp_s": 4.55,
-      "dp_deg": 246,
+      "hs_m": 0.42,
+      "tp_s": 4.76,
+      "dp_deg": 241,
       "sst_c": 9.1
     },
     {
@@ -662,28 +662,28 @@
       "sst_c": 28
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.12,
-      "tp_s": 5.26,
-      "dp_deg": 99,
+      "hs_m": 1.09,
+      "tp_s": 5,
+      "dp_deg": 87,
       "sst_c": 26.9
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.25,
-      "tp_s": 2.86,
-      "dp_deg": 356,
-      "sst_c": 23.2
+      "hs_m": 0.23,
+      "tp_s": 3.85,
+      "dp_deg": 342,
+      "sst_c": 23.4
     },
     {
       "timestamp": "11.05.2025-18:30:00",
@@ -698,15 +698,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.55,
+      "hs_m": 0.51,
       "tp_s": 6.25,
-      "dp_deg": 160,
+      "dp_deg": 162,
       "sst_c": 23.7
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 18.3
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.58,
-      "tp_s": 8.33,
-      "dp_deg": 119,
+      "hs_m": 0.62,
+      "tp_s": 7.69,
+      "dp_deg": 129,
       "sst_c": 18.8
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 0.51,
-      "tp_s": 15.38,
-      "dp_deg": 85,
-      "sst_c": 16.7
+      "hs_m": 0.57,
+      "tp_s": 16.67,
+      "dp_deg": 97,
+      "sst_c": 16.8
     },
     {
       "timestamp": "11.05.2025-18:30:00",
@@ -866,15 +866,15 @@
       "sst_c": 17.9
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 0.99,
+      "hs_m": 0.97,
       "tp_s": 4.55,
-      "dp_deg": 162,
+      "dp_deg": 166,
       "sst_c": 15.9
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.7,
-      "tp_s": 5,
-      "dp_deg": 203,
+      "hs_m": 1.81,
+      "tp_s": 5.56,
+      "dp_deg": 196,
       "sst_c": 16
     },
     {
@@ -962,15 +962,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "11.05.2025-18:30:00",
+      "timestamp": "11.05.2025-19:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.47,
-      "tp_s": 3.85,
-      "dp_deg": 209,
+      "hs_m": 0.51,
+      "tp_s": 3.45,
+      "dp_deg": 219,
       "sst_c": 11.3
     },
     {
