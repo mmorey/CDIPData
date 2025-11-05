@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T23:03:38.607Z",
+  "last_updated": "2025-11-05T23:22:04.422Z",
   "data": [
     {
       "timestamp": "11.05.2025-22:00:00",
@@ -242,27 +242,27 @@
       "sst_c": 20
     },
     {
-      "timestamp": "11.05.2025-21:45:00",
+      "timestamp": "11.05.2025-22:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.64,
+      "hs_m": 0.65,
       "tp_s": 11.64,
       "dp_deg": null,
       "sst_c": null
     },
     {
-      "timestamp": "11.05.2025-22:00:00",
+      "timestamp": "11.05.2025-22:30:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.62,
-      "tp_s": 11.76,
-      "dp_deg": 291,
+      "hs_m": 0.56,
+      "tp_s": 12.5,
+      "dp_deg": 295,
       "sst_c": 19.4
     },
     {
