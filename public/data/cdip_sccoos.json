@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-11-07T14:36:15.403Z",
+  "last_updated": "2025-11-07T14:47:51.881Z",
   "data": [
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.44,
-      "tp_s": 8.33,
-      "dp_deg": 47,
-      "sst_c": 28.9
+      "hs_m": 1.5,
+      "tp_s": 12.5,
+      "dp_deg": 8,
+      "sst_c": 28.7
     },
     {
       "timestamp": "11.07.2025-14:00:00",
@@ -74,15 +74,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "11.07.2025-13:00:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.55,
+      "hs_m": 2.46,
       "tp_s": 11.11,
-      "dp_deg": 65,
+      "dp_deg": 70,
       "sst_c": 28.8
     },
     {
@@ -170,15 +170,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
       "hs_m": 1.39,
-      "tp_s": 11.11,
-      "dp_deg": 359,
+      "tp_s": 9.88,
+      "dp_deg": 356,
       "sst_c": 25.8
     },
     {
@@ -362,15 +362,15 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 1.31,
-      "tp_s": 15.38,
-      "dp_deg": 255,
+      "hs_m": 1.27,
+      "tp_s": 13.33,
+      "dp_deg": 262,
       "sst_c": 19.3
     },
     {
@@ -518,27 +518,27 @@
       "sst_c": 13.9
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 3.33,
-      "tp_s": 14.29,
-      "dp_deg": 290,
-      "sst_c": 15.2
+      "hs_m": 3.12,
+      "tp_s": 11.76,
+      "dp_deg": 276,
+      "sst_c": 15.1
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 3.48,
-      "tp_s": 14.29,
-      "dp_deg": 294,
+      "hs_m": 3.8,
+      "tp_s": 12.5,
+      "dp_deg": 287,
       "sst_c": 14.5
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 12.7
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 6.09,
-      "tp_s": 14.29,
-      "dp_deg": 282,
+      "hs_m": 5.96,
+      "tp_s": 12.5,
+      "dp_deg": 281,
       "sst_c": 13.2
     },
     {
@@ -626,16 +626,16 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.64,
-      "tp_s": 13.33,
-      "dp_deg": 301,
-      "sst_c": 10.7
+      "hs_m": 0.51,
+      "tp_s": 12.5,
+      "dp_deg": 295,
+      "sst_c": 10.6
     },
     {
       "timestamp": "11.07.2025-13:30:00",
@@ -710,27 +710,27 @@
       "sst_c": 23.4
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.6431,
       "depth_cm": 2000,
-      "hs_m": 0.75,
+      "hs_m": 0.74,
       "tp_s": 4.76,
-      "dp_deg": 120,
+      "dp_deg": 123,
       "sst_c": 24.5
     },
     {
-      "timestamp": "11.07.2025-13:00:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.34,
-      "tp_s": 4.55,
-      "dp_deg": 32,
+      "hs_m": 0.3,
+      "tp_s": 3.33,
+      "dp_deg": 110,
       "sst_c": 27.5
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "11.07.2025-13:30:00",
+      "timestamp": "11.07.2025-14:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.6,
-      "tp_s": 2.86,
-      "dp_deg": 211,
+      "hs_m": 0.67,
+      "tp_s": 3.12,
+      "dp_deg": 203,
       "sst_c": 15.5
     },
     {
