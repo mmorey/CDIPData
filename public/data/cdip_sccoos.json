@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T21:33:02.706Z",
+  "last_updated": "2025-11-11T21:47:09.516Z",
   "data": [
     {
       "timestamp": "11.11.2025-20:30:00",
@@ -338,16 +338,16 @@
       "sst_c": 19.2
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.97,
+      "hs_m": 1,
       "tp_s": 14.29,
-      "dp_deg": 201,
-      "sst_c": 19.1
+      "dp_deg": 209,
+      "sst_c": 19.2
     },
     {
       "timestamp": "11.11.2025-20:30:00",
@@ -446,14 +446,14 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.07,
-      "tp_s": 12.5,
+      "hs_m": 1.94,
+      "tp_s": 14.29,
       "dp_deg": 295,
       "sst_c": 16.5
     },
@@ -518,15 +518,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 2.17,
+      "hs_m": 1.99,
       "tp_s": 11.76,
-      "dp_deg": 309,
+      "dp_deg": 315,
       "sst_c": 14.8
     },
     {
@@ -542,27 +542,27 @@
       "sst_c": 14
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.98,
-      "tp_s": 10.53,
+      "hs_m": 1.92,
+      "tp_s": 9.88,
       "dp_deg": 315,
-      "sst_c": 12.9
+      "sst_c": 13
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.63,
+      "hs_m": 1.66,
       "tp_s": 9.88,
-      "dp_deg": 303,
+      "dp_deg": 292,
       "sst_c": 12.9
     },
     {
@@ -590,16 +590,16 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.58,
+      "hs_m": 1.59,
       "tp_s": 9.88,
-      "dp_deg": 282,
-      "sst_c": 12.5
+      "dp_deg": 285,
+      "sst_c": 12.6
     },
     {
       "timestamp": "11.11.2025-21:00:00",
@@ -638,16 +638,16 @@
       "sst_c": 11.4
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 0.67,
+      "hs_m": 0.63,
       "tp_s": 5.56,
-      "dp_deg": 241,
-      "sst_c": 8.2
+      "dp_deg": 240,
+      "sst_c": 8.5
     },
     {
       "timestamp": "11.11.2025-20:30:00",
@@ -674,15 +674,15 @@
       "sst_c": 26
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 1.15,
+      "hs_m": 1.04,
       "tp_s": 8.33,
-      "dp_deg": 283,
+      "dp_deg": 277,
       "sst_c": 21.7
     },
     {
@@ -734,16 +734,16 @@
       "sst_c": 27.5
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 1.2,
-      "tp_s": 4.76,
-      "dp_deg": 41,
-      "sst_c": 27.2
+      "hs_m": 1.18,
+      "tp_s": 4.35,
+      "dp_deg": 37,
+      "sst_c": 27.1
     },
     {
       "timestamp": "11.11.2025-21:00:00",
@@ -770,28 +770,28 @@
       "sst_c": 21.6
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.97,
+      "hs_m": 0.92,
       "tp_s": 5.88,
-      "dp_deg": 6,
+      "dp_deg": 14,
       "sst_c": 22
     },
     {
-      "timestamp": "11.11.2025-20:00:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "132",
       "station_name": "FERNANDINA BEACH, FL",
       "latitude": 30.70914,
       "longitude": -81.29198,
       "depth_cm": 1524,
-      "hs_m": 0.48,
-      "tp_s": 3.57,
-      "dp_deg": 13,
-      "sst_c": 20.4
+      "hs_m": 0.45,
+      "tp_s": 3.45,
+      "dp_deg": 14,
+      "sst_c": 20.3
     },
     {
       "timestamp": "11.11.2025-21:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.02,
-      "tp_s": 6.67,
-      "dp_deg": 34,
-      "sst_c": 15.8
+      "hs_m": 0.91,
+      "tp_s": 7.14,
+      "dp_deg": 43,
+      "sst_c": 15.7
     },
     {
       "timestamp": "11.11.2025-20:30:00",
@@ -938,7 +938,7 @@
       "sst_c": 13.8
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
@@ -946,7 +946,7 @@
       "depth_cm": 2500,
       "hs_m": 2.39,
       "tp_s": 5.26,
-      "dp_deg": 261,
+      "dp_deg": 272,
       "sst_c": 14.7
     },
     {
@@ -986,15 +986,15 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "11.11.2025-20:30:00",
+      "timestamp": "11.11.2025-21:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 2.03,
-      "tp_s": 5.56,
-      "dp_deg": 265,
+      "hs_m": 2.18,
+      "tp_s": 5.88,
+      "dp_deg": 260,
       "sst_c": 10.7
     },
     {
