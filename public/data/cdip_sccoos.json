@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25T07:34:10.638Z",
+  "last_updated": "2025-11-25T07:47:07.897Z",
   "data": [
     {
       "timestamp": "11.25.2025-06:30:00",
@@ -62,15 +62,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "11.25.2025-06:00:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.04,
+      "hs_m": 1.98,
       "tp_s": 9.88,
-      "dp_deg": 91,
+      "dp_deg": 89,
       "sst_c": 28.8
     },
     {
@@ -146,15 +146,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.7,
-      "tp_s": 5,
-      "dp_deg": 93,
+      "hs_m": 1.81,
+      "tp_s": 8.33,
+      "dp_deg": 79,
       "sst_c": 25.8
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 8.6
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.517533,
       "longitude": -117.425283,
       "depth_cm": 104980,
-      "hs_m": 1.19,
-      "tp_s": 15.38,
-      "dp_deg": 261,
+      "hs_m": 1.1,
+      "tp_s": 12.5,
+      "dp_deg": 250,
       "sst_c": 18.2
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 18.1
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.72,
+      "hs_m": 2.73,
       "tp_s": 13.33,
-      "dp_deg": 288,
+      "dp_deg": 295,
       "sst_c": 17
     },
     {
@@ -326,7 +326,7 @@
       "sst_c": 17.8
     },
     {
-      "timestamp": "11.25.2025-06:00:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -334,19 +334,19 @@
       "depth_cm": 30300,
       "hs_m": 0.7,
       "tp_s": 14.29,
-      "dp_deg": 210,
+      "dp_deg": 203,
       "sst_c": 17.8
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.77,
+      "hs_m": 0.85,
       "tp_s": 14.29,
-      "dp_deg": 232,
+      "dp_deg": 222,
       "sst_c": 17.5
     },
     {
@@ -482,15 +482,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 1.72,
-      "tp_s": 13.33,
-      "dp_deg": 284,
+      "hs_m": 1.64,
+      "tp_s": 12.5,
+      "dp_deg": 280,
       "sst_c": 14.6
     },
     {
@@ -530,7 +530,7 @@
       "sst_c": 13
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
@@ -538,19 +538,19 @@
       "depth_cm": 19100,
       "hs_m": 2.37,
       "tp_s": 12.5,
-      "dp_deg": 286,
+      "dp_deg": 279,
       "sst_c": 13.1
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.9,
+      "hs_m": 1.97,
       "tp_s": 12.5,
-      "dp_deg": 284,
+      "dp_deg": 292,
       "sst_c": 12.6
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 12.6
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.16,
+      "hs_m": 2.17,
       "tp_s": 14.29,
-      "dp_deg": 287,
+      "dp_deg": 286,
       "sst_c": 11.4
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2151,
       "longitude": -124.12865,
       "depth_cm": 2499,
-      "hs_m": 1.89,
-      "tp_s": 15.38,
-      "dp_deg": 256,
+      "hs_m": 1.83,
+      "tp_s": 11.11,
+      "dp_deg": 264,
       "sst_c": 11.5
     },
     {
@@ -638,15 +638,15 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 0.61,
-      "tp_s": 3.57,
-      "dp_deg": 326,
+      "hs_m": 0.65,
+      "tp_s": 4,
+      "dp_deg": 331,
       "sst_c": 7.5
     },
     {
@@ -674,27 +674,27 @@
       "sst_c": 26
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.37,
-      "tp_s": 2.86,
-      "dp_deg": 141,
+      "hs_m": 0.35,
+      "tp_s": 2.94,
+      "dp_deg": 137,
       "sst_c": 22.3
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 1.58,
+      "hs_m": 1.46,
       "tp_s": 5.88,
-      "dp_deg": 175,
+      "dp_deg": 178,
       "sst_c": 24
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 24
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.47,
-      "tp_s": 3.33,
-      "dp_deg": 103,
+      "hs_m": 0.54,
+      "tp_s": 3.12,
+      "dp_deg": 98,
       "sst_c": 26.4
     },
     {
@@ -818,15 +818,15 @@
       "sst_c": 15.9
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
       "hs_m": 0.61,
-      "tp_s": 7.69,
-      "dp_deg": 88,
+      "tp_s": 6.25,
+      "dp_deg": 80,
       "sst_c": 14.2
     },
     {
@@ -890,15 +890,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.31,
-      "tp_s": 9.09,
-      "dp_deg": 114,
+      "hs_m": 0.4,
+      "tp_s": 2.56,
+      "dp_deg": 197,
       "sst_c": 12.2
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "11.25.2025-06:30:00",
+      "timestamp": "11.25.2025-07:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.5,
-      "tp_s": 2.63,
-      "dp_deg": 260,
+      "hs_m": 0.53,
+      "tp_s": 9.09,
+      "dp_deg": 111,
       "sst_c": 9.7
     },
     {
