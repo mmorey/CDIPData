@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-06T15:33:35.857Z",
+  "last_updated": "2025-12-06T15:47:02.780Z",
   "data": [
     {
       "timestamp": "12.06.2025-14:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 25.7
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "239",
       "station_name": "KAUMALAPAU SOUTHWEST, LANAI, HI",
       "latitude": 20.7496,
       "longitude": -157.00153,
       "depth_cm": 23000,
-      "hs_m": 1.03,
-      "tp_s": 15.38,
-      "dp_deg": 303,
+      "hs_m": 1.13,
+      "tp_s": 13.33,
+      "dp_deg": 292,
       "sst_c": 26.4
     },
     {
@@ -194,15 +194,15 @@
       "sst_c": 8.4
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.517533,
       "longitude": -117.425283,
       "depth_cm": 104980,
-      "hs_m": 0.58,
+      "hs_m": 0.64,
       "tp_s": 15.38,
-      "dp_deg": 218,
+      "dp_deg": 198,
       "sst_c": 17.7
     },
     {
@@ -254,15 +254,15 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 0.54,
+      "hs_m": 0.55,
       "tp_s": 15.38,
-      "dp_deg": 212,
+      "dp_deg": 194,
       "sst_c": 17.5
     },
     {
@@ -326,27 +326,27 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.47,
-      "tp_s": 14.29,
-      "dp_deg": 204,
+      "hs_m": 0.48,
+      "tp_s": 15.38,
+      "dp_deg": 188,
       "sst_c": 17.6
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.44,
+      "hs_m": 0.45,
       "tp_s": 15.38,
-      "dp_deg": 214,
+      "dp_deg": 205,
       "sst_c": 17.1
     },
     {
@@ -374,28 +374,28 @@
       "sst_c": 18
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "215",
       "station_name": "LONG BEACH CHANNEL, CA",
       "latitude": 33.700333,
       "longitude": -118.200668,
       "depth_cm": 2325,
-      "hs_m": 0.47,
-      "tp_s": 14.29,
-      "dp_deg": 209,
-      "sst_c": 17.6
+      "hs_m": 0.48,
+      "tp_s": 15.38,
+      "dp_deg": 205,
+      "sst_c": 17.5
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.95,
-      "tp_s": 15.38,
-      "dp_deg": 203,
-      "sst_c": 16
+      "hs_m": 0.93,
+      "tp_s": 14.29,
+      "dp_deg": 202,
+      "sst_c": 16.1
     },
     {
       "timestamp": "12.06.2025-15:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 1.66,
-      "tp_s": 12.5,
-      "dp_deg": 278,
-      "sst_c": 12.7
+      "hs_m": 1.54,
+      "tp_s": 11.76,
+      "dp_deg": 269,
+      "sst_c": 12.6
     },
     {
       "timestamp": "12.06.2025-15:00:00",
@@ -542,16 +542,16 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.29,
-      "tp_s": 9.88,
-      "dp_deg": 307,
-      "sst_c": 12.7
+      "hs_m": 3.48,
+      "tp_s": 10.53,
+      "dp_deg": 301,
+      "sst_c": 12.6
     },
     {
       "timestamp": "12.06.2025-15:00:00",
@@ -614,28 +614,28 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2151,
       "longitude": -124.12865,
       "depth_cm": 2499,
-      "hs_m": 3.75,
-      "tp_s": 12.5,
-      "dp_deg": 265,
-      "sst_c": 11.3
+      "hs_m": 4.03,
+      "tp_s": 13.33,
+      "dp_deg": 266,
+      "sst_c": 11.1
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.243,
       "depth_cm": 3900,
-      "hs_m": 4.68,
+      "hs_m": 4.73,
       "tp_s": 13.33,
-      "dp_deg": 282,
-      "sst_c": 10.8
+      "dp_deg": 285,
+      "sst_c": 10.9
     },
     {
       "timestamp": "12.06.2025-14:30:00",
@@ -650,15 +650,15 @@
       "sst_c": 9.2
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 1.17,
-      "tp_s": 7.69,
-      "dp_deg": 335,
+      "hs_m": 1.18,
+      "tp_s": 9.09,
+      "dp_deg": 333,
       "sst_c": 7.4
     },
     {
@@ -686,28 +686,28 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.47,
+      "hs_m": 0.46,
       "tp_s": 3.85,
-      "dp_deg": 210,
+      "dp_deg": 218,
       "sst_c": 21.6
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.59,
-      "tp_s": 3.23,
-      "dp_deg": 21,
-      "sst_c": 19.5
+      "hs_m": 0.56,
+      "tp_s": 3.03,
+      "dp_deg": 25,
+      "sst_c": 19.6
     },
     {
       "timestamp": "12.06.2025-15:00:00",
@@ -722,15 +722,15 @@
       "sst_c": 20.9
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
       "hs_m": 0.18,
-      "tp_s": 3.33,
-      "dp_deg": 106,
+      "tp_s": 4,
+      "dp_deg": 132,
       "sst_c": 26.3
     },
     {
@@ -794,16 +794,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2108,
       "longitude": -76.9438,
       "depth_cm": 3048,
-      "hs_m": 1.08,
+      "hs_m": 1.15,
       "tp_s": 10.53,
-      "dp_deg": 121,
-      "sst_c": 20.3
+      "dp_deg": 124,
+      "sst_c": 20.4
     },
     {
       "timestamp": "12.06.2025-14:30:00",
@@ -842,27 +842,27 @@
       "sst_c": 13.4
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.33,
+      "hs_m": 1.27,
       "tp_s": 7.69,
-      "dp_deg": 74,
+      "dp_deg": 70,
       "sst_c": 11.9
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.61,
+      "hs_m": 1.63,
       "tp_s": 7.69,
-      "dp_deg": 104,
+      "dp_deg": 110,
       "sst_c": 16.4
     },
     {
@@ -914,14 +914,14 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
       "hs_m": 0.71,
-      "tp_s": 4.55,
+      "tp_s": 5,
       "dp_deg": 112,
       "sst_c": 10.5
     },
@@ -938,16 +938,16 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.6,
-      "tp_s": 3.7,
-      "dp_deg": 145,
-      "sst_c": 9.2
+      "hs_m": 0.58,
+      "tp_s": 3.57,
+      "dp_deg": 139,
+      "sst_c": 9
     },
     {
       "timestamp": "12.06.2025-14:30:00",
@@ -962,15 +962,15 @@
       "sst_c": 8
     },
     {
-      "timestamp": "12.06.2025-14:30:00",
+      "timestamp": "12.06.2025-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.61,
+      "hs_m": 0.6,
       "tp_s": 3.23,
-      "dp_deg": 187,
+      "dp_deg": 189,
       "sst_c": 8.7
     },
     {
