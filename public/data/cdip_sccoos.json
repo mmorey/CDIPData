@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-07T15:33:18.178Z",
+  "last_updated": "2025-12-07T15:47:07.180Z",
   "data": [
     {
       "timestamp": "12.07.2025-14:30:00",
@@ -146,15 +146,15 @@
       "sst_c": 26.3
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.81,
-      "tp_s": 8.33,
-      "dp_deg": 58,
+      "hs_m": 1.77,
+      "tp_s": 7.69,
+      "dp_deg": 64,
       "sst_c": 25.6
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
       "hs_m": 0.75,
-      "tp_s": 13.33,
-      "dp_deg": 204,
+      "tp_s": 14.29,
+      "dp_deg": 215,
       "sst_c": 17.5
     },
     {
@@ -290,40 +290,40 @@
       "sst_c": 17
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.58,
+      "hs_m": 0.62,
       "tp_s": 13.33,
-      "dp_deg": 239,
+      "dp_deg": 235,
       "sst_c": 17.1
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.61,
-      "tp_s": 13.33,
-      "dp_deg": 205,
+      "hs_m": 0.57,
+      "tp_s": 14.29,
+      "dp_deg": 214,
       "sst_c": 17.1
     },
     {
-      "timestamp": "12.07.2025-14:00:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.51,
-      "tp_s": 14.29,
-      "dp_deg": 258,
-      "sst_c": 17.1
+      "hs_m": 1.37,
+      "tp_s": 7.69,
+      "dp_deg": 317,
+      "sst_c": 17
     },
     {
       "timestamp": "12.07.2025-14:30:00",
@@ -338,15 +338,15 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.65,
+      "hs_m": 0.63,
       "tp_s": 14.29,
-      "dp_deg": 199,
+      "dp_deg": 229,
       "sst_c": 17.5
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 16
     },
     {
-      "timestamp": "12.07.2025-14:00:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.82,
-      "tp_s": 13.33,
-      "dp_deg": 222,
+      "hs_m": 0.91,
+      "tp_s": 12.5,
+      "dp_deg": 249,
       "sst_c": 17.5
     },
     {
@@ -446,16 +446,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.91,
-      "tp_s": 12.5,
-      "dp_deg": 296,
-      "sst_c": 15.8
+      "hs_m": 1.81,
+      "tp_s": 13.33,
+      "dp_deg": 281,
+      "sst_c": 15.9
     },
     {
       "timestamp": "12.07.2025-15:00:00",
@@ -554,15 +554,15 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 2.91,
+      "hs_m": 2.95,
       "tp_s": 11.11,
-      "dp_deg": 301,
+      "dp_deg": 292,
       "sst_c": 12.6
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 12
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2151,
       "longitude": -124.12865,
       "depth_cm": 2499,
-      "hs_m": 2.69,
-      "tp_s": 10.53,
-      "dp_deg": 261,
+      "hs_m": 2.65,
+      "tp_s": 9.88,
+      "dp_deg": 273,
       "sst_c": 11.4
     },
     {
@@ -686,40 +686,40 @@
       "sst_c": 27
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.93,
-      "tp_s": 5,
-      "dp_deg": 34,
-      "sst_c": 25.2
+      "hs_m": 0.94,
+      "tp_s": 5.26,
+      "dp_deg": 30,
+      "sst_c": 25.3
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.59,
+      "hs_m": 0.55,
       "tp_s": 2.86,
-      "dp_deg": 101,
+      "dp_deg": 115,
       "sst_c": 21.6
     },
     {
-      "timestamp": "12.07.2025-14:00:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.27,
-      "tp_s": 3.85,
-      "dp_deg": 141,
-      "sst_c": 19.2
+      "hs_m": 0.26,
+      "tp_s": 6.25,
+      "dp_deg": 147,
+      "sst_c": 19.1
     },
     {
       "timestamp": "12.07.2025-15:00:00",
@@ -734,16 +734,16 @@
       "sst_c": 20.4
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 0.19,
-      "tp_s": 3.45,
-      "dp_deg": 102,
-      "sst_c": 26.2
+      "hs_m": 0.22,
+      "tp_s": 5.88,
+      "dp_deg": 163,
+      "sst_c": 26.4
     },
     {
       "timestamp": "12.07.2025-15:00:00",
@@ -854,15 +854,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1,
+      "hs_m": 0.99,
       "tp_s": 11.11,
-      "dp_deg": 80,
+      "dp_deg": 70,
       "sst_c": 11.9
     },
     {
@@ -926,16 +926,16 @@
       "sst_c": 9
     },
     {
-      "timestamp": "12.07.2025-14:30:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.14,
+      "hs_m": 1.04,
       "tp_s": 10.53,
-      "dp_deg": 101,
-      "sst_c": 10.3
+      "dp_deg": 99,
+      "sst_c": 10.4
     },
     {
       "timestamp": "12.07.2025-15:00:00",
@@ -974,28 +974,28 @@
       "sst_c": 8
     },
     {
-      "timestamp": "12.07.2025-14:00:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.92,
+      "hs_m": 0.87,
       "tp_s": 9.88,
-      "dp_deg": 148,
+      "dp_deg": 147,
       "sst_c": 8.6
     },
     {
-      "timestamp": "12.07.2025-14:00:00",
+      "timestamp": "12.07.2025-15:00:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.5008,
       "longitude": -76.5385,
       "depth_cm": 4200,
-      "hs_m": 0.62,
-      "tp_s": 4.35,
-      "dp_deg": 273,
-      "sst_c": 6.9
+      "hs_m": 0.64,
+      "tp_s": 3.33,
+      "dp_deg": 264,
+      "sst_c": 6.8
     },
     {
       "timestamp": "12.07.2025-15:00:00",
