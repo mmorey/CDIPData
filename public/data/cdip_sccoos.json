@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-10T07:36:29.895Z",
+  "last_updated": "2025-12-10T07:48:01.606Z",
   "data": [
     {
       "timestamp": "12.10.2025-06:30:00",
@@ -62,15 +62,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.66,
-      "tp_s": 10.53,
-      "dp_deg": 86,
+      "hs_m": 1.73,
+      "tp_s": 9.09,
+      "dp_deg": 87,
       "sst_c": 28.6
     },
     {
@@ -146,16 +146,16 @@
       "sst_c": 26.2
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.08,
+      "hs_m": 1.06,
       "tp_s": 8.33,
-      "dp_deg": 69,
-      "sst_c": 25.7
+      "dp_deg": 67,
+      "sst_c": 25.6
     },
     {
       "timestamp": "12.10.2025-07:00:00",
@@ -170,15 +170,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.31,
+      "hs_m": 1.5,
       "tp_s": 14.29,
-      "dp_deg": 318,
+      "dp_deg": 311,
       "sst_c": 26
     },
     {
@@ -290,28 +290,28 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.55,
+      "hs_m": 0.53,
       "tp_s": 16.67,
-      "dp_deg": 191,
-      "sst_c": 17.2
+      "dp_deg": 184,
+      "sst_c": 17.1
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.63,
-      "tp_s": 13.33,
-      "dp_deg": 321,
-      "sst_c": 17.4
+      "hs_m": 1.71,
+      "tp_s": 12.5,
+      "dp_deg": 316,
+      "sst_c": 17.3
     },
     {
       "timestamp": "12.10.2025-06:30:00",
@@ -326,15 +326,15 @@
       "sst_c": 17.3
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 0.46,
+      "hs_m": 0.48,
       "tp_s": 16.67,
-      "dp_deg": 188,
+      "dp_deg": 189,
       "sst_c": 17.6
     },
     {
@@ -530,15 +530,15 @@
       "sst_c": 12.4
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.28,
-      "tp_s": 13.33,
-      "dp_deg": 299,
+      "hs_m": 3.32,
+      "tp_s": 12.5,
+      "dp_deg": 304,
       "sst_c": 12.8
     },
     {
@@ -578,16 +578,16 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.72,
+      "hs_m": 2.97,
       "tp_s": 12.5,
-      "dp_deg": 285,
-      "sst_c": 11.2
+      "dp_deg": 277,
+      "sst_c": 11.3
     },
     {
       "timestamp": "12.10.2025-07:00:00",
@@ -686,16 +686,16 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.34,
+      "hs_m": 0.36,
       "tp_s": 5.88,
-      "dp_deg": 124,
-      "sst_c": 19
+      "dp_deg": 140,
+      "sst_c": 18.9
     },
     {
       "timestamp": "12.10.2025-07:00:00",
@@ -710,15 +710,15 @@
       "sst_c": 20.1
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "265",
       "station_name": "HOLLYWOOD BEACH, FL",
       "latitude": 26.001,
       "longitude": -80.096,
       "depth_cm": 2100,
-      "hs_m": 1.15,
+      "hs_m": 1.11,
       "tp_s": 6.25,
-      "dp_deg": 59,
+      "dp_deg": 61,
       "sst_c": 26.2
     },
     {
@@ -818,27 +818,27 @@
       "sst_c": 11.8
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "243",
       "station_name": "NAGS HEAD, NC",
       "latitude": 36.0015,
       "longitude": -75.4209,
       "depth_cm": 2100,
-      "hs_m": 1.52,
+      "hs_m": 1.49,
       "tp_s": 9.88,
-      "dp_deg": 66,
+      "dp_deg": 57,
       "sst_c": 12.1
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.19,
-      "tp_s": 9.88,
-      "dp_deg": 89,
+      "hs_m": 1.22,
+      "tp_s": 10.53,
+      "dp_deg": 86,
       "sst_c": 10.3
     },
     {
@@ -902,15 +902,15 @@
       "sst_c": 6.9
     },
     {
-      "timestamp": "12.10.2025-06:30:00",
+      "timestamp": "12.10.2025-07:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 2.43,
+      "hs_m": 2.35,
       "tp_s": 6.25,
-      "dp_deg": 205,
+      "dp_deg": 209,
       "sst_c": 9.5
     },
     {
