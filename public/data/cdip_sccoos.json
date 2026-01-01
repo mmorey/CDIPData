@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T21:34:23.153Z",
+  "last_updated": "2026-01-01T21:47:20.634Z",
   "data": [
     {
       "timestamp": "01.01.2026-20:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 30.1
     },
     {
-      "timestamp": "01.01.2026-19:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.85,
+      "hs_m": 1.9,
       "tp_s": 8.33,
       "dp_deg": 61,
-      "sst_c": 29.8
+      "sst_c": 30.3
     },
     {
       "timestamp": "01.01.2026-20:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 25.8
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.73,
-      "tp_s": 12.5,
-      "dp_deg": 2,
+      "hs_m": 1.88,
+      "tp_s": 9.09,
+      "dp_deg": 54,
       "sst_c": 25.5
     },
     {
@@ -170,15 +170,15 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "01.01.2026-20:00:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 2.11,
-      "tp_s": 11.76,
-      "dp_deg": 344,
+      "hs_m": 1.94,
+      "tp_s": 12.5,
+      "dp_deg": 348,
       "sst_c": 25.5
     },
     {
@@ -266,16 +266,16 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.74,
-      "tp_s": 5.26,
-      "dp_deg": 190,
-      "sst_c": 17.3
+      "hs_m": 0.69,
+      "tp_s": 13.33,
+      "dp_deg": 267,
+      "sst_c": 17.5
     },
     {
       "timestamp": "01.01.2026-21:00:00",
@@ -302,15 +302,15 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.41,
+      "hs_m": 1.4,
       "tp_s": 12.5,
-      "dp_deg": 289,
+      "dp_deg": 286,
       "sst_c": 16.6
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.76,
+      "hs_m": 0.78,
       "tp_s": 5.26,
-      "dp_deg": 198,
-      "sst_c": 17.4
+      "dp_deg": 188,
+      "sst_c": 17.8
     },
     {
       "timestamp": "01.01.2026-21:00:00",
@@ -434,15 +434,15 @@
       "sst_c": 15.3
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.6,
+      "hs_m": 1.61,
       "tp_s": 11.76,
-      "dp_deg": 275,
+      "dp_deg": 285,
       "sst_c": 15.1
     },
     {
@@ -530,14 +530,14 @@
       "sst_c": 12.3
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 1.83,
-      "tp_s": 11.76,
+      "hs_m": 1.62,
+      "tp_s": 11.11,
       "dp_deg": 271,
       "sst_c": 11.9
     },
@@ -602,16 +602,16 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2151,
       "longitude": -124.12865,
       "depth_cm": 2499,
-      "hs_m": 1.67,
-      "tp_s": 11.11,
-      "dp_deg": 261,
-      "sst_c": 10.6
+      "hs_m": 1.75,
+      "tp_s": 11.76,
+      "dp_deg": 256,
+      "sst_c": 10.5
     },
     {
       "timestamp": "01.01.2026-21:00:00",
@@ -686,27 +686,27 @@
       "sst_c": 22.8
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 0.65,
+      "hs_m": 0.67,
       "tp_s": 5.26,
-      "dp_deg": 295,
-      "sst_c": 19
+      "dp_deg": 290,
+      "sst_c": 18.9
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.33,
-      "tp_s": 3.7,
-      "dp_deg": 244,
+      "hs_m": 0.32,
+      "tp_s": 3.57,
+      "dp_deg": 245,
       "sst_c": 20.8
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.4,
-      "tp_s": 2.94,
-      "dp_deg": 307,
-      "sst_c": 17.1
+      "hs_m": 0.39,
+      "tp_s": 3.03,
+      "dp_deg": 314,
+      "sst_c": 17.2
     },
     {
       "timestamp": "01.01.2026-21:00:00",
@@ -770,15 +770,15 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.68,
-      "tp_s": 3.45,
-      "dp_deg": 196,
+      "hs_m": 0.72,
+      "tp_s": 6.67,
+      "dp_deg": 182,
       "sst_c": 12.1
     },
     {
@@ -830,15 +830,15 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.29,
-      "tp_s": 5.56,
-      "dp_deg": 10,
+      "hs_m": 1.35,
+      "tp_s": 5.88,
+      "dp_deg": 15,
       "sst_c": 9.7
     },
     {
@@ -854,15 +854,15 @@
       "sst_c": 10
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 2.6,
-      "tp_s": 7.14,
-      "dp_deg": 336,
+      "hs_m": 2.77,
+      "tp_s": 7.69,
+      "dp_deg": 344,
       "sst_c": 12.7
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 4.9
     },
     {
-      "timestamp": "01.01.2026-20:30:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 1.61,
-      "tp_s": 4.55,
-      "dp_deg": 311,
+      "hs_m": 1.59,
+      "tp_s": 5.56,
+      "dp_deg": 346,
       "sst_c": 5.5
     },
     {
@@ -962,14 +962,14 @@
       "sst_c": 4
     },
     {
-      "timestamp": "01.01.2026-20:00:00",
+      "timestamp": "01.01.2026-21:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 2.32,
-      "tp_s": 5.88,
+      "hs_m": 2.41,
+      "tp_s": 6.25,
       "dp_deg": 312,
       "sst_c": 6.5
     },
