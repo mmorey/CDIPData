@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-04T15:34:38.191Z",
+  "last_updated": "2026-01-04T15:47:17.642Z",
   "data": [
     {
       "timestamp": "01.04.2026-14:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2,
-      "tp_s": 13.33,
-      "dp_deg": 16,
+      "hs_m": 2.04,
+      "tp_s": 11.76,
+      "dp_deg": 1,
       "sst_c": 25.4
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 1.18,
+      "hs_m": 1.24,
       "tp_s": 9.88,
-      "dp_deg": 264,
+      "dp_deg": 263,
       "sst_c": 16.8
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.07,
-      "tp_s": 9.88,
-      "dp_deg": 259,
+      "hs_m": 1.11,
+      "tp_s": 10.53,
+      "dp_deg": 266,
       "sst_c": 17.2
     },
     {
@@ -290,16 +290,16 @@
       "sst_c": 17.2
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 1.1,
-      "tp_s": 10.53,
-      "dp_deg": 271,
-      "sst_c": 17.1
+      "hs_m": 1.11,
+      "tp_s": 9.09,
+      "dp_deg": 250,
+      "sst_c": 17.2
     },
     {
       "timestamp": "01.04.2026-15:00:00",
@@ -326,28 +326,28 @@
       "sst_c": 17
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
       "longitude": -117.658611,
       "depth_cm": 30300,
-      "hs_m": 1.16,
-      "tp_s": 10.53,
-      "dp_deg": 265,
+      "hs_m": 1.21,
+      "tp_s": 9.88,
+      "dp_deg": 261,
       "sst_c": 17.2
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 1.13,
-      "tp_s": 11.76,
-      "dp_deg": 242,
-      "sst_c": 16.9
+      "hs_m": 1.09,
+      "tp_s": 10.53,
+      "dp_deg": 245,
+      "sst_c": 16.6
     },
     {
       "timestamp": "01.04.2026-15:00:00",
@@ -530,16 +530,16 @@
       "sst_c": 12.9
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.38,
-      "tp_s": 10.53,
-      "dp_deg": 242,
-      "sst_c": 11.9
+      "hs_m": 3.31,
+      "tp_s": 11.11,
+      "dp_deg": 206,
+      "sst_c": 12
     },
     {
       "timestamp": "01.04.2026-15:00:00",
@@ -566,14 +566,14 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 3.39,
-      "tp_s": 10.53,
+      "hs_m": 3.2,
+      "tp_s": 11.76,
       "dp_deg": 219,
       "sst_c": 12
     },
@@ -602,16 +602,16 @@
       "sst_c": 11.2
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2151,
       "longitude": -124.12865,
       "depth_cm": 2499,
-      "hs_m": 1.91,
-      "tp_s": 10.53,
-      "dp_deg": 232,
-      "sst_c": 10.5
+      "hs_m": 1.92,
+      "tp_s": 11.11,
+      "dp_deg": 222,
+      "sst_c": 10.6
     },
     {
       "timestamp": "01.04.2026-15:00:00",
@@ -686,27 +686,27 @@
       "sst_c": 22.7
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "214",
       "station_name": "EGMONT CHANNEL ENTRANCE, FL",
       "latitude": 27.59,
       "longitude": -82.9311,
       "depth_cm": 1400,
-      "hs_m": 1.02,
-      "tp_s": 7.14,
-      "dp_deg": 269,
+      "hs_m": 0.95,
+      "tp_s": 6.67,
+      "dp_deg": 263,
       "sst_c": 19.2
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.68,
-      "tp_s": 6.67,
-      "dp_deg": 223,
+      "hs_m": 0.7,
+      "tp_s": 6.25,
+      "dp_deg": 219,
       "sst_c": 20.2
     },
     {
@@ -770,14 +770,14 @@
       "sst_c": 11.9
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 1.06,
-      "tp_s": 5.26,
+      "hs_m": 0.97,
+      "tp_s": 5,
       "dp_deg": 78,
       "sst_c": 12.9
     },
@@ -830,27 +830,27 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "433",
       "station_name": "DUCK FRF 17M, NC",
       "latitude": 36.199683,
       "longitude": -75.7143,
       "depth_cm": 1814,
-      "hs_m": 1.1,
+      "hs_m": 1.04,
       "tp_s": 5,
-      "dp_deg": 37,
+      "dp_deg": 42,
       "sst_c": 9.2
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "430",
       "station_name": "DUCK FRF 26M, NC",
       "latitude": 36.2572,
       "longitude": -75.5933,
       "depth_cm": 2830,
-      "hs_m": 1.08,
-      "tp_s": 4.35,
-      "dp_deg": 28,
+      "hs_m": 1.04,
+      "tp_s": 4.55,
+      "dp_deg": 25,
       "sst_c": 9.7
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.68,
+      "hs_m": 0.65,
       "tp_s": 3.33,
-      "dp_deg": 340,
+      "dp_deg": 348,
       "sst_c": 5
     },
     {
@@ -962,15 +962,15 @@
       "sst_c": 3.5
     },
     {
-      "timestamp": "01.04.2026-14:30:00",
+      "timestamp": "01.04.2026-15:00:00",
       "station_number": "160",
       "station_name": "JEFFREYS LEDGE, NH",
       "latitude": 42.8,
       "longitude": -70.169,
       "depth_cm": 7650,
-      "hs_m": 0.9,
+      "hs_m": 0.89,
       "tp_s": 4.55,
-      "dp_deg": 35,
+      "dp_deg": 42,
       "sst_c": 6.2
     },
     {
