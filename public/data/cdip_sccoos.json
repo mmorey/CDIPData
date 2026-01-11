@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T13:41:01.374Z",
+  "last_updated": "2026-01-11T13:49:56.844Z",
   "data": [
     {
       "timestamp": "01.11.2026-12:30:00",
@@ -62,15 +62,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.05,
+      "hs_m": 1.84,
       "tp_s": 8.33,
-      "dp_deg": 100,
+      "dp_deg": 96,
       "sst_c": 28
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 25.6
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.81,
-      "tp_s": 15.38,
-      "dp_deg": 318,
+      "hs_m": 1.88,
+      "tp_s": 14.29,
+      "dp_deg": 313,
       "sst_c": 25.7
     },
     {
@@ -254,27 +254,27 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.46,
-      "tp_s": 13.33,
-      "dp_deg": 264,
-      "sst_c": 16.4
+      "hs_m": 0.44,
+      "tp_s": 14.29,
+      "dp_deg": 259,
+      "sst_c": 16.3
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.41,
-      "tp_s": 13.33,
-      "dp_deg": 247,
+      "hs_m": 0.36,
+      "tp_s": 14.29,
+      "dp_deg": 244,
       "sst_c": 16.2
     },
     {
@@ -290,15 +290,15 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.44,
-      "tp_s": 11.76,
-      "dp_deg": 305,
+      "hs_m": 1.35,
+      "tp_s": 14.29,
+      "dp_deg": 254,
       "sst_c": 15.9
     },
     {
@@ -422,15 +422,15 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.32,
+      "hs_m": 1.35,
       "tp_s": 12.5,
-      "dp_deg": 303,
+      "dp_deg": 300,
       "sst_c": 14.6
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 3.48,
+      "hs_m": 3.6,
       "tp_s": 11.76,
-      "dp_deg": 246,
+      "dp_deg": 251,
       "sst_c": 11.6
     },
     {
@@ -770,28 +770,28 @@
       "sst_c": 12.8
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "217",
       "station_name": "ONSLOW BAY OUTER, NC",
       "latitude": 34.2108,
       "longitude": -76.9438,
       "depth_cm": 3048,
-      "hs_m": 1.93,
-      "tp_s": 6.25,
+      "hs_m": 1.79,
+      "tp_s": 6.67,
       "dp_deg": 184,
-      "sst_c": 20.8
+      "sst_c": 20.9
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 2.3,
+      "hs_m": 2.06,
       "tp_s": 7.14,
-      "dp_deg": 198,
-      "sst_c": 22.3
+      "dp_deg": 197,
+      "sst_c": 22.4
     },
     {
       "timestamp": "01.11.2026-13:00:00",
@@ -854,14 +854,14 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 1.17,
-      "tp_s": 7.69,
+      "hs_m": 1.04,
+      "tp_s": 7.14,
       "dp_deg": 151,
       "sst_c": 8.4
     },
@@ -926,16 +926,16 @@
       "sst_c": 6.9
     },
     {
-      "timestamp": "01.11.2026-12:30:00",
+      "timestamp": "01.11.2026-13:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.49,
-      "tp_s": 6.67,
-      "dp_deg": 182,
-      "sst_c": 4.7
+      "hs_m": 1.52,
+      "tp_s": 7.14,
+      "dp_deg": 189,
+      "sst_c": 4.8
     },
     {
       "timestamp": "01.11.2026-12:30:00",
