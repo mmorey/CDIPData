@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T09:39:13.385Z",
+  "last_updated": "2026-01-16T09:50:30.782Z",
   "data": [
     {
       "timestamp": "01.16.2026-08:00:00",
@@ -62,16 +62,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.16.2026-08:30:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.47,
-      "tp_s": 8.33,
-      "dp_deg": 76,
-      "sst_c": 27.9
+      "hs_m": 1.39,
+      "tp_s": 9.88,
+      "dp_deg": 70,
+      "sst_c": 28
     },
     {
       "timestamp": "01.16.2026-09:00:00",
@@ -134,13 +134,13 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "01.16.2026-08:30:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.27,
+      "hs_m": 2.26,
       "tp_s": 13.33,
       "dp_deg": 347,
       "sst_c": 25.1
@@ -290,15 +290,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "01.16.2026-08:30:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 1.7,
-      "tp_s": 13.33,
-      "dp_deg": 290,
+      "hs_m": 1.68,
+      "tp_s": 14.29,
+      "dp_deg": 282,
       "sst_c": 15.9
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 15.8
     },
     {
-      "timestamp": "01.16.2026-08:00:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.96,
-      "tp_s": 14.29,
-      "dp_deg": 268,
+      "hs_m": 0.77,
+      "tp_s": 13.33,
+      "dp_deg": 264,
       "sst_c": 16.4
     },
     {
@@ -710,16 +710,16 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "01.16.2026-08:30:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.5,
+      "hs_m": 1.48,
       "tp_s": 5.88,
       "dp_deg": 358,
-      "sst_c": 22.4
+      "sst_c": 22.5
     },
     {
       "timestamp": "01.16.2026-09:00:00",
@@ -734,15 +734,15 @@
       "sst_c": 19.3
     },
     {
-      "timestamp": "01.16.2026-08:30:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.57,
+      "hs_m": 1.48,
       "tp_s": 6.25,
-      "dp_deg": 3,
+      "dp_deg": 4,
       "sst_c": 16.8
     },
     {
@@ -794,7 +794,7 @@
       "sst_c": 17.9
     },
     {
-      "timestamp": "01.16.2026-08:30:00",
+      "timestamp": "01.16.2026-09:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
@@ -802,7 +802,7 @@
       "depth_cm": 2895,
       "hs_m": 1.94,
       "tp_s": 5.56,
-      "dp_deg": 334,
+      "dp_deg": 345,
       "sst_c": 16.8
     },
     {
