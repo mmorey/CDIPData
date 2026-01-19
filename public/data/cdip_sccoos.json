@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T09:44:01.718Z",
+  "last_updated": "2026-01-19T09:57:39.555Z",
   "data": [
     {
       "timestamp": "01.19.2026-08:30:00",
@@ -62,16 +62,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.19.2026-08:00:00",
+      "timestamp": "01.19.2026-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.62,
+      "hs_m": 1.49,
       "tp_s": 9.09,
-      "dp_deg": 89,
-      "sst_c": 28
+      "dp_deg": 91,
+      "sst_c": 27.9
     },
     {
       "timestamp": "01.19.2026-09:00:00",
@@ -494,27 +494,27 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "01.19.2026-08:30:00",
+      "timestamp": "01.19.2026-09:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 1.57,
-      "tp_s": 13.33,
-      "dp_deg": 271,
+      "hs_m": 1.6,
+      "tp_s": 14.29,
+      "dp_deg": 287,
       "sst_c": 12.6
     },
     {
-      "timestamp": "01.19.2026-08:30:00",
+      "timestamp": "01.19.2026-09:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 1.48,
+      "hs_m": 1.32,
       "tp_s": 13.33,
-      "dp_deg": 283,
+      "dp_deg": 271,
       "sst_c": 12
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "01.19.2026-08:00:00",
+      "timestamp": "01.19.2026-09:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.14,
+      "hs_m": 1.17,
       "tp_s": 4.76,
-      "dp_deg": 353,
+      "dp_deg": 356,
       "sst_c": 21.8
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "01.19.2026-08:00:00",
+      "timestamp": "01.19.2026-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.29,
+      "hs_m": 1.25,
       "tp_s": 5.26,
-      "dp_deg": 6,
+      "dp_deg": 11,
       "sst_c": 16.4
     },
     {
@@ -950,16 +950,16 @@
       "sst_c": 4
     },
     {
-      "timestamp": "01.19.2026-08:30:00",
+      "timestamp": "01.19.2026-09:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.74,
+      "hs_m": 0.73,
       "tp_s": 5.56,
-      "dp_deg": 2,
-      "sst_c": 3.4
+      "dp_deg": 5,
+      "sst_c": 3.3
     },
     {
       "timestamp": "01.19.2026-09:00:00",
