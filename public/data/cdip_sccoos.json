@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T22:41:01.832Z",
+  "last_updated": "2026-01-21T22:53:40.648Z",
   "data": [
     {
       "timestamp": "01.21.2026-21:30:00",
@@ -26,27 +26,27 @@
       "sst_c": 29.8
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "276",
       "station_name": "UTWE, KOSRAE, MICRONESIA",
       "latitude": 5.24042,
       "longitude": 163.00082,
       "depth_cm": 57000,
-      "hs_m": 1.69,
-      "tp_s": 9.09,
-      "dp_deg": 93,
+      "hs_m": 1.79,
+      "tp_s": 7.14,
+      "dp_deg": 82,
       "sst_c": 29.9
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 1.85,
-      "tp_s": 12.5,
-      "dp_deg": 15,
+      "hs_m": 1.93,
+      "tp_s": 14.29,
+      "dp_deg": 4,
       "sst_c": 29.5
     },
     {
@@ -242,16 +242,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 0.55,
-      "tp_s": 10.53,
+      "tp_s": 11.11,
       "dp_deg": 287,
-      "sst_c": 17.1
+      "sst_c": 17.2
     },
     {
       "timestamp": "01.21.2026-22:00:00",
@@ -266,27 +266,27 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.89,
-      "tp_s": 14.29,
-      "dp_deg": 273,
+      "hs_m": 0.79,
+      "tp_s": 15.38,
+      "dp_deg": 268,
       "sst_c": 17
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.82,
-      "tp_s": 13.33,
-      "dp_deg": 259,
+      "hs_m": 0.68,
+      "tp_s": 15.38,
+      "dp_deg": 251,
       "sst_c": 16.8
     },
     {
@@ -410,15 +410,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.62,
-      "tp_s": 11.11,
-      "dp_deg": 227,
+      "hs_m": 0.55,
+      "tp_s": 13.33,
+      "dp_deg": 226,
       "sst_c": 16.5
     },
     {
@@ -434,15 +434,15 @@
       "sst_c": 15.6
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.81,
+      "hs_m": 1.76,
       "tp_s": 14.29,
-      "dp_deg": 288,
+      "dp_deg": 289,
       "sst_c": 15
     },
     {
@@ -494,16 +494,16 @@
       "sst_c": 14.1
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.52,
+      "hs_m": 1.65,
       "tp_s": 13.33,
-      "dp_deg": 277,
-      "sst_c": 13.4
+      "dp_deg": 276,
+      "sst_c": 13.3
     },
     {
       "timestamp": "01.21.2026-22:00:00",
@@ -578,16 +578,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.37,
-      "tp_s": 13.33,
+      "hs_m": 1.21,
+      "tp_s": 12.5,
       "dp_deg": 274,
-      "sst_c": 10.5
+      "sst_c": 10.3
     },
     {
       "timestamp": "01.21.2026-22:00:00",
@@ -626,15 +626,15 @@
       "sst_c": 8.9
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.48,
+      "hs_m": 0.44,
       "tp_s": 11.76,
-      "dp_deg": 308,
+      "dp_deg": 301,
       "sst_c": 9
     },
     {
@@ -650,15 +650,15 @@
       "sst_c": 3.7
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.51,
+      "hs_m": 1.37,
       "tp_s": 7.69,
-      "dp_deg": 104,
+      "dp_deg": 102,
       "sst_c": 23.4
     },
     {
@@ -674,16 +674,16 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.46,
-      "tp_s": 6.25,
-      "dp_deg": 36,
-      "sst_c": 22.2
+      "hs_m": 1.45,
+      "tp_s": 5.56,
+      "dp_deg": 50,
+      "sst_c": 22.1
     },
     {
       "timestamp": "01.21.2026-22:00:00",
@@ -818,16 +818,16 @@
       "sst_c": 20.5
     },
     {
-      "timestamp": "01.21.2026-21:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 0.65,
-      "tp_s": 9.09,
-      "dp_deg": 113,
-      "sst_c": 16
+      "hs_m": 0.64,
+      "tp_s": 9.88,
+      "dp_deg": 106,
+      "sst_c": 15.9
     },
     {
       "timestamp": "01.21.2026-22:00:00",
@@ -950,16 +950,16 @@
       "sst_c": 5.9
     },
     {
-      "timestamp": "01.21.2026-20:30:00",
+      "timestamp": "01.21.2026-22:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.31,
-      "tp_s": 4.76,
-      "dp_deg": 228,
-      "sst_c": 3.8
+      "hs_m": 1.48,
+      "tp_s": 5.26,
+      "dp_deg": 220,
+      "sst_c": 3.7
     },
     {
       "timestamp": "01.21.2026-21:30:00",
