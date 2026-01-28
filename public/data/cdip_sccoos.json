@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-01-28T06:44:32.857Z",
+  "last_updated": "2026-01-28T06:59:34.009Z",
   "data": [
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 2.37,
+      "hs_m": 2.61,
       "tp_s": 9.09,
       "dp_deg": 353,
       "sst_c": 29.8
@@ -26,15 +26,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
-      "hs_m": 2.24,
+      "hs_m": 2.28,
       "tp_s": 14.29,
-      "dp_deg": 342,
+      "dp_deg": 343,
       "sst_c": 29.6
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 17.3
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.6,
-      "tp_s": 11.76,
-      "dp_deg": 262,
+      "hs_m": 0.57,
+      "tp_s": 12.5,
+      "dp_deg": 258,
       "sst_c": 16.1
     },
     {
@@ -218,16 +218,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 0.33,
-      "tp_s": 10.53,
-      "dp_deg": 281,
-      "sst_c": 16.8
+      "tp_s": 11.76,
+      "dp_deg": 285,
+      "sst_c": 16.7
     },
     {
       "timestamp": "01.28.2026-06:00:00",
@@ -254,15 +254,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.41,
+      "hs_m": 0.42,
       "tp_s": 13.33,
-      "dp_deg": 230,
+      "dp_deg": 229,
       "sst_c": 16.5
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.44,
-      "tp_s": 13.33,
-      "dp_deg": 209,
+      "hs_m": 0.5,
+      "tp_s": 11.76,
+      "dp_deg": 227,
       "sst_c": 16.2
     },
     {
@@ -482,15 +482,15 @@
       "sst_c": 14.4
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
       "hs_m": 0.86,
-      "tp_s": 14.29,
-      "dp_deg": 249,
+      "tp_s": 13.33,
+      "dp_deg": 262,
       "sst_c": 13.2
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 11
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 2.95,
-      "tp_s": 9.09,
-      "dp_deg": 223,
+      "hs_m": 2.62,
+      "tp_s": 10.53,
+      "dp_deg": 228,
       "sst_c": 10.3
     },
     {
@@ -626,16 +626,16 @@
       "sst_c": 8.5
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "248",
       "station_name": "ANGELES POINT, WA",
       "latitude": 48.172583,
       "longitude": -123.607167,
       "depth_cm": 7500,
-      "hs_m": 0.17,
+      "hs_m": 0.15,
       "tp_s": 15.38,
-      "dp_deg": 315,
-      "sst_c": 8.6
+      "dp_deg": 291,
+      "sst_c": 8.7
     },
     {
       "timestamp": "01.28.2026-06:00:00",
@@ -650,37 +650,37 @@
       "sst_c": 3.8
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.12,
+      "hs_m": 1.13,
       "tp_s": 9.09,
-      "dp_deg": 235,
+      "dp_deg": 224,
       "sst_c": 23.1
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.703813,
       "longitude": -83.654431,
       "depth_cm": 8100,
-      "hs_m": 1.61,
-      "tp_s": 7.14,
-      "dp_deg": 333,
+      "hs_m": 1.53,
+      "tp_s": 6.67,
+      "dp_deg": 338,
       "sst_c": 22.3
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 1.14,
+      "hs_m": 1.07,
       "tp_s": 5.56,
       "dp_deg": 336,
       "sst_c": 21.1
@@ -806,16 +806,16 @@
       "sst_c": 17.9
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
       "hs_m": 1.82,
-      "tp_s": 5.26,
-      "dp_deg": 226,
-      "sst_c": 12.9
+      "tp_s": 5.88,
+      "dp_deg": 213,
+      "sst_c": 12.8
     },
     {
       "timestamp": "01.28.2026-06:00:00",
@@ -866,16 +866,16 @@
       "sst_c": 8
     },
     {
-      "timestamp": "01.28.2026-05:30:00",
+      "timestamp": "01.28.2026-06:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 2.24,
-      "tp_s": 6.67,
-      "dp_deg": 229,
-      "sst_c": 11.5
+      "hs_m": 2.35,
+      "tp_s": 6.25,
+      "dp_deg": 241,
+      "sst_c": 11.4
     },
     {
       "timestamp": "01.28.2026-06:00:00",
