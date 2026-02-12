@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T21:43:34.438Z",
+  "last_updated": "2026-02-12T21:57:46.034Z",
   "data": [
     {
       "timestamp": "02.12.2026-20:30:00",
@@ -110,15 +110,15 @@
       "sst_c": 25
     },
     {
-      "timestamp": "02.12.2026-20:30:00",
+      "timestamp": "02.12.2026-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.37,
+      "hs_m": 2.46,
       "tp_s": 9.09,
-      "dp_deg": 78,
+      "dp_deg": 75,
       "sst_c": 24.6
     },
     {
@@ -242,13 +242,13 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "02.12.2026-20:30:00",
+      "timestamp": "02.12.2026-21:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 1.14,
+      "hs_m": 1.2,
       "tp_s": 9.88,
       "dp_deg": 271,
       "sst_c": 17.3
@@ -614,16 +614,16 @@
       "sst_c": 8.8
     },
     {
-      "timestamp": "02.12.2026-20:30:00",
+      "timestamp": "02.12.2026-21:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.2433,
       "depth_cm": 3900,
-      "hs_m": 1.72,
-      "tp_s": 10.53,
-      "dp_deg": 278,
-      "sst_c": 10.1
+      "hs_m": 1.66,
+      "tp_s": 22.22,
+      "dp_deg": 272,
+      "sst_c": 10.2
     },
     {
       "timestamp": "02.12.2026-21:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 8.3
     },
     {
-      "timestamp": "02.12.2026-20:30:00",
+      "timestamp": "02.12.2026-21:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 1.12,
+      "hs_m": 1.08,
       "tp_s": 6.25,
-      "dp_deg": 51,
+      "dp_deg": 52,
       "sst_c": 2.9
     },
     {
@@ -926,15 +926,15 @@
       "sst_c": 3.1
     },
     {
-      "timestamp": "02.12.2026-20:30:00",
+      "timestamp": "02.12.2026-21:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.62,
+      "hs_m": 0.63,
       "tp_s": 5.88,
-      "dp_deg": 225,
+      "dp_deg": 221,
       "sst_c": 0.6
     },
     {
