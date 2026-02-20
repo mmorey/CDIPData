@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T21:39:28.660Z",
+  "last_updated": "2026-02-20T21:51:02.178Z",
   "data": [
     {
       "timestamp": "02.20.2026-20:30:00",
@@ -98,39 +98,39 @@
       "sst_c": 24.7
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1,
-      "tp_s": 7.69,
+      "hs_m": 0.97,
+      "tp_s": 8.33,
       "dp_deg": 166,
       "sst_c": 24.9
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 3,
-      "tp_s": 9.88,
-      "dp_deg": 51,
-      "sst_c": 24.6
+      "hs_m": 2.84,
+      "tp_s": 11.11,
+      "dp_deg": 68,
+      "sst_c": 24.5
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 2.77,
-      "tp_s": 9.88,
-      "dp_deg": 47,
+      "hs_m": 2.67,
+      "tp_s": 9.09,
+      "dp_deg": 54,
       "sst_c": 23.6
     },
     {
@@ -254,16 +254,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.51,
-      "tp_s": 9.88,
-      "dp_deg": 270,
-      "sst_c": 16.4
+      "hs_m": 1.42,
+      "tp_s": 11.76,
+      "dp_deg": 266,
+      "sst_c": 16.5
     },
     {
       "timestamp": "02.20.2026-21:00:00",
@@ -278,15 +278,15 @@
       "sst_c": 16.6
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.85,
-      "tp_s": 9.88,
-      "dp_deg": 314,
+      "hs_m": 2.68,
+      "tp_s": 11.76,
+      "dp_deg": 310,
       "sst_c": 15
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 15.7
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 3.21,
-      "tp_s": 11.76,
-      "dp_deg": 309,
+      "hs_m": 3.28,
+      "tp_s": 11.11,
+      "dp_deg": 310,
       "sst_c": 15.1
     },
     {
@@ -614,15 +614,15 @@
       "sst_c": 8.9
     },
     {
-      "timestamp": "02.20.2026-20:00:00",
+      "timestamp": "02.20.2026-20:30:00",
       "station_number": "204",
       "station_name": "LOWER COOK INLET, AK",
       "latitude": 59.598033,
       "longitude": -151.82845,
       "depth_cm": 3100,
-      "hs_m": 1.06,
+      "hs_m": 1.19,
       "tp_s": 3.45,
-      "dp_deg": 1,
+      "dp_deg": 12,
       "sst_c": 4.1
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 1.2
     },
     {
-      "timestamp": "02.20.2026-20:30:00",
+      "timestamp": "02.20.2026-21:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.51,
+      "hs_m": 0.54,
       "tp_s": 2.94,
-      "dp_deg": 107,
-      "sst_c": 0.2
+      "dp_deg": 101,
+      "sst_c": 0.3
     },
     {
       "timestamp": "02.20.2026-21:00:00",
