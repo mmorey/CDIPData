@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T09:41:44.888Z",
+  "last_updated": "2026-02-21T09:53:33.842Z",
   "data": [
     {
       "timestamp": "02.21.2026-08:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "02.21.2026-08:30:00",
+      "timestamp": "02.21.2026-09:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.13,
-      "tp_s": 11.11,
-      "dp_deg": 133,
+      "hs_m": 2.12,
+      "tp_s": 10.53,
+      "dp_deg": 141,
       "sst_c": 29.5
     },
     {
@@ -230,15 +230,15 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "02.21.2026-08:30:00",
+      "timestamp": "02.21.2026-09:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.08,
+      "hs_m": 0.99,
       "tp_s": 11.11,
-      "dp_deg": 268,
+      "dp_deg": 271,
       "sst_c": 16.3
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 20.1
     },
     {
-      "timestamp": "02.21.2026-08:30:00",
+      "timestamp": "02.21.2026-09:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.55,
-      "tp_s": 12.5,
-      "dp_deg": 66,
-      "sst_c": 16
+      "hs_m": 0.56,
+      "tp_s": 13.33,
+      "dp_deg": 69,
+      "sst_c": 16.3
     },
     {
       "timestamp": "02.21.2026-09:00:00",
@@ -902,15 +902,15 @@
       "sst_c": 3.4
     },
     {
-      "timestamp": "02.21.2026-08:30:00",
+      "timestamp": "02.21.2026-09:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.86,
-      "tp_s": 7.14,
-      "dp_deg": 157,
+      "hs_m": 0.79,
+      "tp_s": 7.69,
+      "dp_deg": 161,
       "sst_c": 1.3
     },
     {
