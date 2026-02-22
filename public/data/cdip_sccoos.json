@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T14:40:45.133Z",
+  "last_updated": "2026-02-22T14:53:11.991Z",
   "data": [
     {
       "timestamp": "02.22.2026-13:30:00",
@@ -38,16 +38,16 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "02.22.2026-13:30:00",
+      "timestamp": "02.22.2026-14:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.38,
-      "tp_s": 11.76,
-      "dp_deg": 80,
-      "sst_c": 28.1
+      "hs_m": 1.62,
+      "tp_s": 9.09,
+      "dp_deg": 69,
+      "sst_c": 28.2
     },
     {
       "timestamp": "02.22.2026-14:00:00",
@@ -146,15 +146,15 @@
       "sst_c": 24
     },
     {
-      "timestamp": "02.22.2026-13:30:00",
+      "timestamp": "02.22.2026-14:00:00",
       "station_number": "202",
       "station_name": "HANALEI, KAUAI, HI",
       "latitude": 22.284717,
       "longitude": -159.574217,
       "depth_cm": 20000,
-      "hs_m": 2.32,
+      "hs_m": 2.36,
       "tp_s": 10.53,
-      "dp_deg": 81,
+      "dp_deg": 69,
       "sst_c": 24.5
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "02.22.2026-13:30:00",
+      "timestamp": "02.22.2026-14:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 0.44,
-      "tp_s": 9.09,
-      "dp_deg": 282,
+      "tp_s": 8.33,
+      "dp_deg": 280,
       "sst_c": 16.3
     },
     {
@@ -386,15 +386,15 @@
       "sst_c": 15
     },
     {
-      "timestamp": "02.22.2026-13:30:00",
+      "timestamp": "02.22.2026-14:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.34,
-      "tp_s": 6.25,
-      "dp_deg": 237,
+      "hs_m": 0.35,
+      "tp_s": 13.33,
+      "dp_deg": 205,
       "sst_c": 15.3
     },
     {
@@ -578,15 +578,15 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "02.22.2026-13:30:00",
+      "timestamp": "02.22.2026-14:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 5.82,
+      "hs_m": 6.12,
       "tp_s": 14.29,
-      "dp_deg": 202,
+      "dp_deg": 195,
       "sst_c": 10.9
     },
     {
@@ -890,15 +890,15 @@
       "sst_c": 3.4
     },
     {
-      "timestamp": "02.22.2026-13:30:00",
+      "timestamp": "02.22.2026-14:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9672,
       "longitude": -71.1236,
       "depth_cm": 4938,
-      "hs_m": 0.9,
+      "hs_m": 0.95,
       "tp_s": 11.76,
-      "dp_deg": 120,
+      "dp_deg": 113,
       "sst_c": 3.1
     },
     {
