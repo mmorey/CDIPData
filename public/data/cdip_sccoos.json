@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T19:13:42.280Z",
+  "last_updated": "2026-02-22T19:27:58.851Z",
   "data": [
     {
       "timestamp": "02.22.2026-17:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "02.22.2026-18:00:00",
+      "timestamp": "02.22.2026-18:30:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
       "hs_m": 0.84,
-      "tp_s": 9.88,
-      "dp_deg": 238,
+      "tp_s": 13.33,
+      "dp_deg": 196,
       "sst_c": 24.5
     },
     {
@@ -134,16 +134,16 @@
       "sst_c": 21.8
     },
     {
-      "timestamp": "02.22.2026-18:00:00",
+      "timestamp": "02.22.2026-18:30:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.6707,
       "longitude": -158.11816,
       "depth_cm": 20000,
-      "hs_m": 1.53,
-      "tp_s": 9.88,
-      "dp_deg": 29,
-      "sst_c": 24.2
+      "hs_m": 1.43,
+      "tp_s": 10.53,
+      "dp_deg": 34,
+      "sst_c": 24.3
     },
     {
       "timestamp": "02.22.2026-18:30:00",
@@ -206,14 +206,14 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "02.22.2026-17:45:00",
+      "timestamp": "02.22.2026-18:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.44,
-      "tp_s": 9.85,
+      "hs_m": 0.43,
+      "tp_s": 12.19,
       "dp_deg": null,
       "sst_c": null
     },
@@ -722,15 +722,15 @@
       "sst_c": 20
     },
     {
-      "timestamp": "02.22.2026-18:00:00",
+      "timestamp": "02.22.2026-18:30:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.02,
-      "tp_s": 4.17,
-      "dp_deg": 339,
+      "hs_m": 0.97,
+      "tp_s": 4.55,
+      "dp_deg": 346,
       "sst_c": 16.1
     },
     {
@@ -914,15 +914,15 @@
       "sst_c": 1.4
     },
     {
-      "timestamp": "02.22.2026-18:00:00",
+      "timestamp": "02.22.2026-18:30:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.25,
-      "tp_s": 2.22,
-      "dp_deg": 83,
+      "hs_m": 0.23,
+      "tp_s": 2.33,
+      "dp_deg": 75,
       "sst_c": 0.3
     },
     {
