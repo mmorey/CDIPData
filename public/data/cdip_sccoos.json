@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T11:44:05.939Z",
+  "last_updated": "2026-02-26T11:59:10.361Z",
   "data": [
     {
       "timestamp": "02.26.2026-09:30:00",
@@ -50,15 +50,15 @@
       "sst_c": 27.8
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 2.25,
-      "tp_s": 12.5,
-      "dp_deg": 2,
+      "hs_m": 2.34,
+      "tp_s": 13.33,
+      "dp_deg": 8,
       "sst_c": 24.1
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
       "hs_m": 0.85,
-      "tp_s": 10.53,
-      "dp_deg": 309,
+      "tp_s": 11.11,
+      "dp_deg": 290,
       "sst_c": 24.6
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.63,
+      "hs_m": 0.65,
       "tp_s": 10.53,
-      "dp_deg": 282,
+      "dp_deg": 288,
       "sst_c": 16.9
     },
     {
@@ -338,16 +338,16 @@
       "sst_c": 15.3
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.61428,
       "longitude": -118.31417,
       "depth_cm": 47652,
-      "hs_m": 0.75,
-      "tp_s": 10.53,
-      "dp_deg": 271,
-      "sst_c": 15.6
+      "hs_m": 0.78,
+      "tp_s": 9.09,
+      "dp_deg": 266,
+      "sst_c": 15.5
     },
     {
       "timestamp": "02.26.2026-11:00:00",
@@ -386,16 +386,16 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "02.26.2026-10:00:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.63,
-      "tp_s": 7.14,
-      "dp_deg": 248,
-      "sst_c": 16.8
+      "hs_m": 0.58,
+      "tp_s": 9.09,
+      "dp_deg": 237,
+      "sst_c": 16.6
     },
     {
       "timestamp": "02.26.2026-11:00:00",
@@ -506,16 +506,16 @@
       "sst_c": 12.2
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 1.61,
+      "hs_m": 1.64,
       "tp_s": 15.38,
-      "dp_deg": 304,
-      "sst_c": 12
+      "dp_deg": 301,
+      "sst_c": 11.8
     },
     {
       "timestamp": "02.26.2026-11:00:00",
@@ -626,15 +626,15 @@
       "sst_c": 3.7
     },
     {
-      "timestamp": "02.26.2026-09:00:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.46,
-      "tp_s": 7.14,
-      "dp_deg": 88,
+      "hs_m": 1.65,
+      "tp_s": 6.67,
+      "dp_deg": 113,
       "sst_c": 25.3
     },
     {
@@ -842,39 +842,39 @@
       "sst_c": 4
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.32,
-      "tp_s": 8.33,
-      "dp_deg": 172,
+      "hs_m": 1.36,
+      "tp_s": 7.69,
+      "dp_deg": 181,
       "sst_c": 7.5
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 0.75,
+      "hs_m": 0.72,
       "tp_s": 8.33,
-      "dp_deg": 145,
+      "dp_deg": 142,
       "sst_c": 3.6
     },
     {
-      "timestamp": "02.26.2026-11:00:00",
+      "timestamp": "02.26.2026-11:30:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.045,
       "longitude": -76.127,
       "depth_cm": 1000,
-      "hs_m": 0.32,
-      "tp_s": 4.55,
-      "dp_deg": 118,
+      "hs_m": 0.34,
+      "tp_s": 2.22,
+      "dp_deg": 218,
       "sst_c": 3.3
     },
     {
@@ -914,27 +914,27 @@
       "sst_c": 2.2
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.82,
+      "hs_m": 1.76,
       "tp_s": 9.88,
-      "dp_deg": 201,
-      "sst_c": 0.5
+      "dp_deg": 195,
+      "sst_c": 0.4
     },
     {
-      "timestamp": "02.26.2026-10:30:00",
+      "timestamp": "02.26.2026-11:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.08,
-      "tp_s": 1.82,
-      "dp_deg": 265,
+      "hs_m": 0.07,
+      "tp_s": 13.33,
+      "dp_deg": 336,
       "sst_c": 1.3
     },
     {
