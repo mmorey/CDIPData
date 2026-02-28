@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T14:38:04.268Z",
+  "last_updated": "2026-02-28T14:50:24.399Z",
   "data": [
     {
       "timestamp": "02.28.2026-13:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.69,
-      "tp_s": 12.5,
-      "dp_deg": 288,
+      "hs_m": 0.65,
+      "tp_s": 11.76,
+      "dp_deg": 277,
       "sst_c": 24.7
     },
     {
@@ -122,15 +122,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.35,
-      "tp_s": 11.11,
-      "dp_deg": 42,
+      "hs_m": 1.24,
+      "tp_s": 9.88,
+      "dp_deg": 55,
       "sst_c": 23.6
     },
     {
@@ -290,7 +290,7 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -298,8 +298,8 @@
       "depth_cm": 30300,
       "hs_m": 0.44,
       "tp_s": 15.38,
-      "dp_deg": 190,
-      "sst_c": 16.1
+      "dp_deg": 195,
+      "sst_c": 16
     },
     {
       "timestamp": "02.28.2026-14:00:00",
@@ -422,16 +422,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "157",
       "station_name": "POINT SUR, CA",
       "latitude": 36.341635,
       "longitude": -122.109619,
       "depth_cm": 36600,
-      "hs_m": 0.96,
+      "hs_m": 1.07,
       "tp_s": 16.67,
-      "dp_deg": 291,
-      "sst_c": 13.7
+      "dp_deg": 298,
+      "sst_c": 13.8
     },
     {
       "timestamp": "02.28.2026-13:30:00",
@@ -506,15 +506,15 @@
       "sst_c": 12.5
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "139",
       "station_name": "UMPQUA OFFSHORE, OR",
       "latitude": 43.77075,
       "longitude": -124.55345,
       "depth_cm": 19100,
-      "hs_m": 3.22,
-      "tp_s": 13.33,
-      "dp_deg": 317,
+      "hs_m": 3.31,
+      "tp_s": 14.29,
+      "dp_deg": 319,
       "sst_c": 11.5
     },
     {
@@ -578,27 +578,27 @@
       "sst_c": 10.2
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "162",
       "station_name": "CLATSOP SPIT, OR",
       "latitude": 46.2151,
       "longitude": -124.12865,
       "depth_cm": 2499,
-      "hs_m": 1.59,
-      "tp_s": 10.53,
-      "dp_deg": 284,
+      "hs_m": 1.54,
+      "tp_s": 13.33,
+      "dp_deg": 266,
       "sst_c": 8.2
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.2433,
       "depth_cm": 3900,
-      "hs_m": 1.88,
-      "tp_s": 12.5,
-      "dp_deg": 299,
+      "hs_m": 1.92,
+      "tp_s": 13.33,
+      "dp_deg": 298,
       "sst_c": 9.5
     },
     {
@@ -662,16 +662,16 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "02.28.2026-13:00:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "256",
       "station_name": "SOUTHWEST PASS ENTRANCE W, LA",
       "latitude": 28.988,
       "longitude": -89.6488,
       "depth_cm": 4600,
-      "hs_m": 0.65,
-      "tp_s": 7.69,
-      "dp_deg": 202,
-      "sst_c": 18.9
+      "hs_m": 0.59,
+      "tp_s": 7.14,
+      "dp_deg": 192,
+      "sst_c": 19
     },
     {
       "timestamp": "02.28.2026-14:00:00",
@@ -746,15 +746,15 @@
       "sst_c": 9.4
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
       "latitude": 34.1416,
       "longitude": -77.7147,
       "depth_cm": 1700,
-      "hs_m": 0.79,
-      "tp_s": 4.35,
-      "dp_deg": 77,
+      "hs_m": 0.78,
+      "tp_s": 5.26,
+      "dp_deg": 85,
       "sst_c": 9.7
     },
     {
@@ -878,16 +878,16 @@
       "sst_c": 1.7
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "209",
       "station_name": "BARNEGAT, NJ",
       "latitude": 39.7719,
       "longitude": -73.769,
       "depth_cm": 2500,
-      "hs_m": 0.72,
+      "hs_m": 0.73,
       "tp_s": 8.33,
-      "dp_deg": 138,
-      "sst_c": 2.9
+      "dp_deg": 136,
+      "sst_c": 3
     },
     {
       "timestamp": "02.28.2026-14:00:00",
@@ -938,15 +938,15 @@
       "sst_c": 4
     },
     {
-      "timestamp": "02.28.2026-13:30:00",
+      "timestamp": "02.28.2026-14:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 0.81,
+      "hs_m": 0.83,
       "tp_s": 9.88,
-      "dp_deg": 11,
+      "dp_deg": 12,
       "sst_c": 27.2
     }
   ]
