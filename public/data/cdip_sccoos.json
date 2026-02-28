@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T16:39:50.129Z",
+  "last_updated": "2026-02-28T16:51:20.196Z",
   "data": [
     {
       "timestamp": "02.28.2026-15:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.12,
-      "tp_s": 9.09,
-      "dp_deg": 63,
+      "hs_m": 2,
+      "tp_s": 15.38,
+      "dp_deg": 37,
       "sst_c": 29.3
     },
     {
@@ -98,39 +98,39 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.73,
-      "tp_s": 11.76,
-      "dp_deg": 287,
+      "hs_m": 0.71,
+      "tp_s": 9.09,
+      "dp_deg": 249,
       "sst_c": 24.7
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.37,
+      "hs_m": 1.31,
       "tp_s": 11.11,
-      "dp_deg": 36,
+      "dp_deg": 24,
       "sst_c": 24.5
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "225",
       "station_name": "KANEOHE BAY, WETS, HI",
       "latitude": 21.4774,
       "longitude": -157.756833,
       "depth_cm": 8400,
-      "hs_m": 1.24,
-      "tp_s": 11.11,
-      "dp_deg": 25,
+      "hs_m": 1.26,
+      "tp_s": 10.53,
+      "dp_deg": 31,
       "sst_c": 23.6
     },
     {
@@ -206,7 +206,7 @@
       "sst_c": null
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
@@ -214,7 +214,7 @@
       "depth_cm": 4100,
       "hs_m": 0.32,
       "tp_s": 15.38,
-      "dp_deg": 282,
+      "dp_deg": 288,
       "sst_c": 17.2
     },
     {
@@ -242,16 +242,16 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.46,
+      "hs_m": 0.4,
       "tp_s": 15.38,
-      "dp_deg": 235,
-      "sst_c": 16.8
+      "dp_deg": 218,
+      "sst_c": 16.5
     },
     {
       "timestamp": "02.28.2026-16:00:00",
@@ -374,15 +374,15 @@
       "sst_c": 16.1
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.34,
+      "hs_m": 0.36,
       "tp_s": 15.38,
-      "dp_deg": 206,
+      "dp_deg": 207,
       "sst_c": 16.8
     },
     {
@@ -542,15 +542,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "02.28.2026-14:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.71,
-      "tp_s": 11.11,
-      "dp_deg": 316,
+      "hs_m": 2.62,
+      "tp_s": 14.29,
+      "dp_deg": 310,
       "sst_c": 10.6
     },
     {
@@ -566,16 +566,16 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 2.76,
-      "tp_s": 12.5,
-      "dp_deg": 308,
-      "sst_c": 10.2
+      "hs_m": 2.92,
+      "tp_s": 13.33,
+      "dp_deg": 310,
+      "sst_c": 10.3
     },
     {
       "timestamp": "02.28.2026-16:00:00",
@@ -614,16 +614,16 @@
       "sst_c": 3.3
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.5,
-      "tp_s": 5.26,
-      "dp_deg": 100,
-      "sst_c": 25.5
+      "hs_m": 0.47,
+      "tp_s": 6.25,
+      "dp_deg": 84,
+      "sst_c": 25.6
     },
     {
       "timestamp": "02.28.2026-16:00:00",
@@ -830,28 +830,28 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.9,
-      "tp_s": 7.14,
-      "dp_deg": 124,
+      "hs_m": 0.94,
+      "tp_s": 6.67,
+      "dp_deg": 117,
       "sst_c": 8
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 0.67,
-      "tp_s": 7.14,
-      "dp_deg": 123,
-      "sst_c": 3.4
+      "hs_m": 0.66,
+      "tp_s": 7.69,
+      "dp_deg": 113,
+      "sst_c": 3.6
     },
     {
       "timestamp": "02.28.2026-16:00:00",
@@ -914,16 +914,16 @@
       "sst_c": 0.7
     },
     {
-      "timestamp": "02.28.2026-15:30:00",
+      "timestamp": "02.28.2026-16:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.17,
-      "tp_s": 1.85,
-      "dp_deg": 167,
-      "sst_c": 1
+      "hs_m": 0.21,
+      "tp_s": 2.27,
+      "dp_deg": 172,
+      "sst_c": 0.9
     },
     {
       "timestamp": "02.28.2026-16:00:00",
