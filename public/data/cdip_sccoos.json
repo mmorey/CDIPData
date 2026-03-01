@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T09:41:06.664Z",
+  "last_updated": "2026-03-01T09:52:40.259Z",
   "data": [
     {
       "timestamp": "03.01.2026-08:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.29,
+      "hs_m": 2.27,
       "tp_s": 8.33,
-      "dp_deg": 58,
+      "dp_deg": 63,
       "sst_c": 29.5
     },
     {
@@ -38,16 +38,16 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.28,
-      "tp_s": 11.11,
-      "dp_deg": 77,
-      "sst_c": 27.9
+      "hs_m": 2.34,
+      "tp_s": 9.88,
+      "dp_deg": 82,
+      "sst_c": 28
     },
     {
       "timestamp": "03.01.2026-09:00:00",
@@ -362,28 +362,28 @@
       "sst_c": 16
     },
     {
-      "timestamp": "03.01.2026-08:00:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.68,
+      "hs_m": 0.67,
       "tp_s": 14.29,
-      "dp_deg": 188,
+      "dp_deg": 184,
       "sst_c": 16.6
     },
     {
-      "timestamp": "03.01.2026-08:00:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.41,
-      "tp_s": 15.38,
-      "dp_deg": 196,
-      "sst_c": 17.4
+      "hs_m": 0.45,
+      "tp_s": 14.29,
+      "dp_deg": 205,
+      "sst_c": 17.3
     },
     {
       "timestamp": "03.01.2026-09:00:00",
@@ -614,15 +614,15 @@
       "sst_c": 3.3
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.27,
-      "tp_s": 5.26,
-      "dp_deg": 109,
+      "hs_m": 0.26,
+      "tp_s": 5.56,
+      "dp_deg": 107,
       "sst_c": 25.2
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 17
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 0.87,
+      "hs_m": 0.9,
       "tp_s": 4.35,
-      "dp_deg": 121,
+      "dp_deg": 125,
       "sst_c": 20.2
     },
     {
@@ -746,15 +746,15 @@
       "sst_c": 13.2
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7186,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.61,
-      "tp_s": 8.33,
-      "dp_deg": 112,
+      "hs_m": 0.6,
+      "tp_s": 7.69,
+      "dp_deg": 134,
       "sst_c": 9.7
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 4
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.02,
+      "hs_m": 0.99,
       "tp_s": 7.69,
-      "dp_deg": 85,
+      "dp_deg": 86,
       "sst_c": 8.2
     },
     {
@@ -866,28 +866,28 @@
       "sst_c": 3.3
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.0451,
       "longitude": -76.1272,
       "depth_cm": 1000,
-      "hs_m": 0.28,
-      "tp_s": 7.69,
-      "dp_deg": 96,
+      "hs_m": 0.27,
+      "tp_s": 4.35,
+      "dp_deg": 124,
       "sst_c": 3.6
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "263",
       "station_name": "BETHANY BEACH, DE",
       "latitude": 38.5368,
       "longitude": -75.044,
       "depth_cm": 1060,
-      "hs_m": 0.76,
-      "tp_s": 7.14,
-      "dp_deg": 101,
-      "sst_c": 1.8
+      "hs_m": 0.77,
+      "tp_s": 7.69,
+      "dp_deg": 102,
+      "sst_c": 1.6
     },
     {
       "timestamp": "03.01.2026-09:00:00",
@@ -914,26 +914,26 @@
       "sst_c": 2.4
     },
     {
-      "timestamp": "03.01.2026-08:00:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.55,
-      "tp_s": 6.25,
-      "dp_deg": 164,
-      "sst_c": 0.9
+      "hs_m": 0.54,
+      "tp_s": 8.33,
+      "dp_deg": 168,
+      "sst_c": 1
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.09,
-      "tp_s": 8.33,
+      "hs_m": 0.08,
+      "tp_s": 9.09,
       "dp_deg": 354,
       "sst_c": 0.7
     },
@@ -950,15 +950,15 @@
       "sst_c": 4.1
     },
     {
-      "timestamp": "03.01.2026-08:30:00",
+      "timestamp": "03.01.2026-09:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 0.76,
-      "tp_s": 8.33,
-      "dp_deg": 11,
+      "hs_m": 0.75,
+      "tp_s": 9.09,
+      "dp_deg": 8,
       "sst_c": 27.2
     }
   ]
