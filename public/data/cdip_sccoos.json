@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T14:39:16.808Z",
+  "last_updated": "2026-03-01T14:50:56.929Z",
   "data": [
     {
       "timestamp": "03.01.2026-13:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.88,
-      "tp_s": 13.33,
-      "dp_deg": 295,
+      "hs_m": 0.9,
+      "tp_s": 14.29,
+      "dp_deg": 297,
       "sst_c": 24.8
     },
     {
@@ -206,16 +206,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.38,
-      "tp_s": 9.88,
-      "dp_deg": 291,
-      "sst_c": 17.5
+      "hs_m": 0.36,
+      "tp_s": 10.53,
+      "dp_deg": 287,
+      "sst_c": 17.4
     },
     {
       "timestamp": "03.01.2026-14:00:00",
@@ -230,7 +230,7 @@
       "sst_c": 17.1
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
@@ -238,8 +238,8 @@
       "depth_cm": 1700,
       "hs_m": 0.48,
       "tp_s": 14.29,
-      "dp_deg": 233,
-      "sst_c": 17
+      "dp_deg": 240,
+      "sst_c": 16.9
     },
     {
       "timestamp": "03.01.2026-14:00:00",
@@ -374,7 +374,7 @@
       "sst_c": 16.3
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
@@ -382,7 +382,7 @@
       "depth_cm": 2000,
       "hs_m": 0.58,
       "tp_s": 14.29,
-      "dp_deg": 199,
+      "dp_deg": 205,
       "sst_c": 17
     },
     {
@@ -518,15 +518,15 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 1.91,
-      "tp_s": 10.53,
-      "dp_deg": 302,
+      "hs_m": 1.66,
+      "tp_s": 11.11,
+      "dp_deg": 310,
       "sst_c": 10.6
     },
     {
@@ -614,15 +614,15 @@
       "sst_c": 3.3
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.29,
-      "tp_s": 5.26,
-      "dp_deg": 131,
+      "hs_m": 0.3,
+      "tp_s": 3.57,
+      "dp_deg": 99,
       "sst_c": 25.1
     },
     {
@@ -638,16 +638,16 @@
       "sst_c": 25.4
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.91,
-      "tp_s": 4.55,
-      "dp_deg": 26,
-      "sst_c": 20.8
+      "hs_m": 0.86,
+      "tp_s": 4.35,
+      "dp_deg": 20,
+      "sst_c": 20.5
     },
     {
       "timestamp": "03.01.2026-14:00:00",
@@ -722,16 +722,16 @@
       "sst_c": 18.9
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.08,
+      "hs_m": 1.03,
       "tp_s": 5,
-      "dp_deg": 55,
-      "sst_c": 15
+      "dp_deg": 45,
+      "sst_c": 15.1
     },
     {
       "timestamp": "03.01.2026-14:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 4.2
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.98,
-      "tp_s": 8.33,
-      "dp_deg": 89,
+      "hs_m": 1.01,
+      "tp_s": 7.69,
+      "dp_deg": 93,
       "sst_c": 8.3
     },
     {
@@ -914,27 +914,27 @@
       "sst_c": 2.2
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
       "hs_m": 0.6,
-      "tp_s": 7.69,
-      "dp_deg": 163,
-      "sst_c": 0.7
+      "tp_s": 8.33,
+      "dp_deg": 157,
+      "sst_c": 0.8
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.64,
-      "tp_s": 3.33,
-      "dp_deg": 334,
+      "hs_m": 0.65,
+      "tp_s": 3.57,
+      "dp_deg": 338,
       "sst_c": 1.6
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 4.1
     },
     {
-      "timestamp": "03.01.2026-13:30:00",
+      "timestamp": "03.01.2026-14:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 0.73,
-      "tp_s": 7.14,
-      "dp_deg": 4,
+      "hs_m": 0.81,
+      "tp_s": 8.33,
+      "dp_deg": 12,
       "sst_c": 27.2
     }
   ]
