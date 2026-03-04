@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-04T17:14:01.089Z",
+  "last_updated": "2026-03-04T17:30:25.719Z",
   "data": [
     {
-      "timestamp": "03.04.2026-15:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "273",
       "station_name": "KING-POLOA, AMERICAN SAMOA",
       "latitude": -14.2965,
       "longitude": -170.8747,
       "depth_cm": 5600,
-      "hs_m": 1.51,
-      "tp_s": 10.53,
-      "dp_deg": 7,
-      "sst_c": 29.4
+      "hs_m": 1.45,
+      "tp_s": 9.09,
+      "dp_deg": 33,
+      "sst_c": 29.6
     },
     {
       "timestamp": "03.04.2026-16:30:00",
@@ -26,15 +26,15 @@
       "sst_c": 29.5
     },
     {
-      "timestamp": "03.04.2026-15:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "178",
       "station_name": "NORTH POINT, POHNPEI, MICRONESIA",
       "latitude": 7.081486,
       "longitude": 158.244174,
       "depth_cm": 82700,
       "hs_m": 1.59,
-      "tp_s": 14.29,
-      "dp_deg": 358,
+      "tp_s": 15.38,
+      "dp_deg": 3,
       "sst_c": 29.6
     },
     {
@@ -86,27 +86,27 @@
       "sst_c": 24.1
     },
     {
-      "timestamp": "03.04.2026-15:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 1.18,
+      "hs_m": 1.2,
       "tp_s": 8.33,
-      "dp_deg": 167,
-      "sst_c": 24.9
+      "dp_deg": 169,
+      "sst_c": 24.8
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.1,
+      "hs_m": 1.13,
       "tp_s": 12.5,
-      "dp_deg": 268,
+      "dp_deg": 246,
       "sst_c": 24.8
     },
     {
@@ -170,15 +170,15 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "03.04.2026-15:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "155",
       "station_name": "IMPERIAL BEACH NEARSHORE, CA",
       "latitude": 32.56968,
       "longitude": -117.16895,
       "depth_cm": 2100,
-      "hs_m": 0.73,
-      "tp_s": 7.14,
-      "dp_deg": 283,
+      "hs_m": 0.78,
+      "tp_s": 6.67,
+      "dp_deg": 287,
       "sst_c": 16.6
     },
     {
@@ -194,14 +194,14 @@
       "sst_c": 16.5
     },
     {
-      "timestamp": "03.04.2026-15:45:00",
+      "timestamp": "03.04.2026-16:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.5,
-      "tp_s": 7.76,
+      "hs_m": 0.54,
+      "tp_s": 6.92,
       "dp_deg": null,
       "sst_c": null
     },
@@ -242,27 +242,27 @@
       "sst_c": 16.4
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.55,
-      "tp_s": 15.38,
-      "dp_deg": 229,
+      "hs_m": 0.56,
+      "tp_s": 7.14,
+      "dp_deg": 270,
       "sst_c": 16.7
     },
     {
-      "timestamp": "03.04.2026-16:30:00",
+      "timestamp": "03.04.2026-17:00:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.53,
+      "hs_m": 0.54,
       "tp_s": 15.38,
-      "dp_deg": 190,
+      "dp_deg": 185,
       "sst_c": 16.9
     },
     {
@@ -374,16 +374,16 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.64,
-      "tp_s": 7.14,
-      "dp_deg": 243,
-      "sst_c": 17
+      "hs_m": 0.66,
+      "tp_s": 6.67,
+      "dp_deg": 241,
+      "sst_c": 17.1
     },
     {
       "timestamp": "03.04.2026-16:30:00",
@@ -458,15 +458,15 @@
       "sst_c": 14
     },
     {
-      "timestamp": "03.04.2026-14:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "142",
       "station_name": "SAN FRANCISCO BAR, CA",
       "latitude": 37.78785,
       "longitude": -122.6316,
       "depth_cm": 1707,
-      "hs_m": 1.12,
-      "tp_s": 5.56,
-      "dp_deg": 284,
+      "hs_m": 0.86,
+      "tp_s": 14.29,
+      "dp_deg": 261,
       "sst_c": 13.9
     },
     {
@@ -542,27 +542,27 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.04.2026-15:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "277",
       "station_name": "NEWPORT PWS NORTH, OR",
       "latitude": 44.57525,
       "longitude": -124.2324,
       "depth_cm": 6900,
-      "hs_m": 2.09,
-      "tp_s": 7.14,
-      "dp_deg": 210,
+      "hs_m": 2.36,
+      "tp_s": 6.67,
+      "dp_deg": 229,
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.04.2026-15:30:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "270",
       "station_name": "TILLAMOOK BAY SOUTH JETTY, OR",
       "latitude": 45.5615,
       "longitude": -123.99025,
       "depth_cm": 3000,
-      "hs_m": 1.67,
-      "tp_s": 7.14,
-      "dp_deg": 229,
+      "hs_m": 1.72,
+      "tp_s": 7.69,
+      "dp_deg": 223,
       "sst_c": 10.5
     },
     {
@@ -614,13 +614,13 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 2.01,
+      "hs_m": 2.02,
       "tp_s": 8.33,
       "dp_deg": 87,
       "sst_c": 25.8
@@ -842,7 +842,7 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
@@ -850,8 +850,8 @@
       "depth_cm": 4570,
       "hs_m": 1.51,
       "tp_s": 7.69,
-      "dp_deg": 120,
-      "sst_c": 8.2
+      "dp_deg": 116,
+      "sst_c": 8.3
     },
     {
       "timestamp": "03.04.2026-16:30:00",
@@ -914,28 +914,28 @@
       "sst_c": 2.4
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.25,
-      "tp_s": 9.09,
-      "dp_deg": 178,
-      "sst_c": 1.7
+      "hs_m": 1.27,
+      "tp_s": 8.33,
+      "dp_deg": 180,
+      "sst_c": 1.6
     },
     {
-      "timestamp": "03.04.2026-16:00:00",
+      "timestamp": "03.04.2026-16:30:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.27,
-      "tp_s": 3.45,
-      "dp_deg": 6,
-      "sst_c": 1.7
+      "hs_m": 0.24,
+      "tp_s": 3.33,
+      "dp_deg": 5,
+      "sst_c": 1.8
     },
     {
       "timestamp": "03.04.2026-16:30:00",
