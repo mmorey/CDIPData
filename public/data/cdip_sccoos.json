@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T21:39:32.764Z",
+  "last_updated": "2026-03-10T21:51:43.346Z",
   "data": [
     {
       "timestamp": "03.10.2026-20:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.02,
-      "tp_s": 11.76,
-      "dp_deg": 174,
+      "hs_m": 2.03,
+      "tp_s": 7.69,
+      "dp_deg": 98,
       "sst_c": 29.7
     },
     {
@@ -98,28 +98,28 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.15,
+      "hs_m": 1.21,
       "tp_s": 15.38,
-      "dp_deg": 243,
+      "dp_deg": 257,
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.79,
-      "tp_s": 9.88,
-      "dp_deg": 60,
-      "sst_c": 24.4
+      "hs_m": 1.76,
+      "tp_s": 9.09,
+      "dp_deg": 69,
+      "sst_c": 24.3
     },
     {
       "timestamp": "03.10.2026-21:00:00",
@@ -206,15 +206,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.61,
-      "tp_s": 9.88,
-      "dp_deg": 295,
+      "hs_m": 0.54,
+      "tp_s": 9.09,
+      "dp_deg": 288,
       "sst_c": 16.8
     },
     {
@@ -242,16 +242,16 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.55,
-      "tp_s": 11.76,
-      "dp_deg": 259,
-      "sst_c": 17
+      "hs_m": 0.56,
+      "tp_s": 11.11,
+      "dp_deg": 261,
+      "sst_c": 17.1
     },
     {
       "timestamp": "03.10.2026-21:00:00",
@@ -266,16 +266,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 2.31,
-      "tp_s": 11.76,
-      "dp_deg": 309,
-      "sst_c": 15.1
+      "hs_m": 2.3,
+      "tp_s": 9.88,
+      "dp_deg": 307,
+      "sst_c": 15
     },
     {
       "timestamp": "03.10.2026-21:00:00",
@@ -350,40 +350,40 @@
       "sst_c": 16.9
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "203",
       "station_name": "SANTA CRUZ BASIN, CA",
       "latitude": 33.7685,
       "longitude": -119.563,
       "depth_cm": 189000,
-      "hs_m": 0.88,
+      "hs_m": 0.94,
       "tp_s": 22.22,
-      "dp_deg": 198,
-      "sst_c": 14.6
+      "dp_deg": 200,
+      "sst_c": 14.8
     },
     {
-      "timestamp": "03.10.2026-20:00:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.7,
-      "tp_s": 22.22,
-      "dp_deg": 198,
-      "sst_c": 16.5
+      "hs_m": 0.71,
+      "tp_s": 11.76,
+      "dp_deg": 204,
+      "sst_c": 17.2
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.52,
+      "hs_m": 0.5,
       "tp_s": 22.22,
-      "dp_deg": 214,
-      "sst_c": 16.4
+      "dp_deg": 218,
+      "sst_c": 16.3
     },
     {
       "timestamp": "03.10.2026-21:00:00",
@@ -482,15 +482,15 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.10.2026-20:00:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 3.04,
-      "tp_s": 12.5,
-      "dp_deg": 321,
+      "hs_m": 2.87,
+      "tp_s": 14.29,
+      "dp_deg": 319,
       "sst_c": 12.2
     },
     {
@@ -614,15 +614,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
       "hs_m": 0.63,
-      "tp_s": 4.76,
-      "dp_deg": 124,
+      "tp_s": 3.45,
+      "dp_deg": 115,
       "sst_c": 25.8
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 23.3
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.52,
+      "hs_m": 1.48,
       "tp_s": 6.25,
-      "dp_deg": 128,
+      "dp_deg": 130,
       "sst_c": 21.4
     },
     {
@@ -722,16 +722,16 @@
       "sst_c": 22.2
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.51,
-      "tp_s": 10.53,
-      "dp_deg": 90,
-      "sst_c": 20.6
+      "hs_m": 0.46,
+      "tp_s": 9.09,
+      "dp_deg": 100,
+      "sst_c": 20.5
     },
     {
       "timestamp": "03.10.2026-21:00:00",
@@ -842,16 +842,16 @@
       "sst_c": 10.1
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.83,
-      "tp_s": 9.88,
-      "dp_deg": 109,
-      "sst_c": 10.8
+      "hs_m": 0.8,
+      "tp_s": 8.33,
+      "dp_deg": 143,
+      "sst_c": 10.4
     },
     {
       "timestamp": "03.10.2026-21:00:00",
@@ -902,39 +902,39 @@
       "sst_c": 4
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "154",
       "station_name": "BLOCK ISLAND, RI",
       "latitude": 40.9672,
       "longitude": -71.1236,
       "depth_cm": 4938,
-      "hs_m": 0.84,
-      "tp_s": 9.88,
-      "dp_deg": 156,
+      "hs_m": 0.86,
+      "tp_s": 7.14,
+      "dp_deg": 159,
       "sst_c": 2.7
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.75,
-      "tp_s": 7.14,
-      "dp_deg": 174,
-      "sst_c": 2.5
+      "hs_m": 0.69,
+      "tp_s": 9.88,
+      "dp_deg": 173,
+      "sst_c": 2.6
     },
     {
-      "timestamp": "03.10.2026-20:30:00",
+      "timestamp": "03.10.2026-21:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
       "hs_m": 0.3,
-      "tp_s": 2.44,
-      "dp_deg": 250,
+      "tp_s": 2.33,
+      "dp_deg": 252,
       "sst_c": 2.1
     },
     {
