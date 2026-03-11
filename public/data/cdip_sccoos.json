@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:44:56.599Z",
+  "last_updated": "2026-03-11T08:00:17.080Z",
   "data": [
     {
       "timestamp": "03.11.2026-06:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 29.6
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.22,
-      "tp_s": 8.33,
-      "dp_deg": 89,
+      "hs_m": 2.16,
+      "tp_s": 7.69,
+      "dp_deg": 85,
       "sst_c": 29.7
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.33,
+      "hs_m": 1.41,
       "tp_s": 14.29,
-      "dp_deg": 239,
+      "dp_deg": 237,
       "sst_c": 25
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.56,
+      "hs_m": 0.48,
       "tp_s": 22.22,
-      "dp_deg": 181,
+      "dp_deg": 104,
       "sst_c": 15.7
     },
     {
@@ -410,16 +410,16 @@
       "sst_c": 14.9
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 2.04,
-      "tp_s": 9.09,
-      "dp_deg": 288,
-      "sst_c": 12.2
+      "hs_m": 1.9,
+      "tp_s": 10.53,
+      "dp_deg": 293,
+      "sst_c": 12
     },
     {
       "timestamp": "03.11.2026-07:00:00",
@@ -482,28 +482,28 @@
       "sst_c": 11.5
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 3.16,
+      "hs_m": 3.05,
       "tp_s": 14.29,
-      "dp_deg": 312,
+      "dp_deg": 321,
       "sst_c": 12.2
     },
     {
-      "timestamp": "03.11.2026-06:00:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 3.01,
-      "tp_s": 12.5,
-      "dp_deg": 308,
-      "sst_c": 11.8
+      "hs_m": 2.93,
+      "tp_s": 15.38,
+      "dp_deg": 309,
+      "sst_c": 11.7
     },
     {
       "timestamp": "03.11.2026-07:00:00",
@@ -566,15 +566,15 @@
       "sst_c": 9.5
     },
     {
-      "timestamp": "03.11.2026-07:00:00",
+      "timestamp": "03.11.2026-07:30:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 3.2,
-      "tp_s": 12.5,
-      "dp_deg": 303,
+      "hs_m": 3.53,
+      "tp_s": 13.33,
+      "dp_deg": 300,
       "sst_c": 10.1
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.09,
-      "tp_s": 6.67,
-      "dp_deg": 94,
-      "sst_c": 25
+      "hs_m": 1.12,
+      "tp_s": 6.25,
+      "dp_deg": 100,
+      "sst_c": 24.9
     },
     {
       "timestamp": "03.11.2026-07:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 22.3
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.7,
+      "hs_m": 1.92,
       "tp_s": 6.67,
-      "dp_deg": 135,
+      "dp_deg": 134,
       "sst_c": 21.1
     },
     {
@@ -746,16 +746,16 @@
       "sst_c": 17.7
     },
     {
-      "timestamp": "03.11.2026-07:00:00",
+      "timestamp": "03.11.2026-07:30:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7186,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.69,
-      "tp_s": 9.88,
-      "dp_deg": 132,
-      "sst_c": 13.5
+      "hs_m": 0.68,
+      "tp_s": 4.76,
+      "dp_deg": 153,
+      "sst_c": 13.4
     },
     {
       "timestamp": "03.11.2026-07:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 7.3
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.87,
-      "tp_s": 9.88,
-      "dp_deg": 131,
+      "hs_m": 0.8,
+      "tp_s": 9.09,
+      "dp_deg": 132,
       "sst_c": 9.1
     },
     {
@@ -914,28 +914,28 @@
       "sst_c": 2.5
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.68,
-      "tp_s": 7.69,
-      "dp_deg": 160,
+      "hs_m": 0.65,
+      "tp_s": 9.09,
+      "dp_deg": 162,
       "sst_c": 2.3
     },
     {
-      "timestamp": "03.11.2026-06:30:00",
+      "timestamp": "03.11.2026-07:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.11,
-      "tp_s": 2.17,
-      "dp_deg": 260,
-      "sst_c": 2.1
+      "hs_m": 0.1,
+      "tp_s": 2,
+      "dp_deg": 263,
+      "sst_c": 2.2
     },
     {
       "timestamp": "03.11.2026-07:00:00",
