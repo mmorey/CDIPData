@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T21:39:41.124Z",
+  "last_updated": "2026-03-14T21:51:43.125Z",
   "data": [
     {
       "timestamp": "03.14.2026-20:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 24.4
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 2.92,
-      "tp_s": 8.33,
-      "dp_deg": 199,
+      "hs_m": 2.89,
+      "tp_s": 9.09,
+      "dp_deg": 200,
       "sst_c": 24.7
     },
     {
@@ -614,7 +614,7 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
@@ -622,8 +622,8 @@
       "depth_cm": 10000,
       "hs_m": 0.45,
       "tp_s": 7.14,
-      "dp_deg": 219,
-      "sst_c": 26.3
+      "dp_deg": 221,
+      "sst_c": 26.4
     },
     {
       "timestamp": "03.14.2026-21:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 22.7
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 0.94,
-      "tp_s": 4.76,
-      "dp_deg": 149,
+      "hs_m": 0.92,
+      "tp_s": 5,
+      "dp_deg": 145,
       "sst_c": 21.1
     },
     {
@@ -758,16 +758,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7186,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 0.46,
-      "tp_s": 6.67,
-      "dp_deg": 153,
-      "sst_c": 15.9
+      "hs_m": 0.45,
+      "tp_s": 7.69,
+      "dp_deg": 140,
+      "sst_c": 15.6
     },
     {
       "timestamp": "03.14.2026-21:00:00",
@@ -866,7 +866,7 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
@@ -874,8 +874,8 @@
       "depth_cm": 1829,
       "hs_m": 0.48,
       "tp_s": 5.56,
-      "dp_deg": 161,
-      "sst_c": 6.9
+      "dp_deg": 158,
+      "sst_c": 6.8
     },
     {
       "timestamp": "03.14.2026-21:00:00",
@@ -926,27 +926,27 @@
       "sst_c": 2.6
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 2.27,
-      "tp_s": 9.09,
-      "dp_deg": 190,
+      "hs_m": 2.06,
+      "tp_s": 8.33,
+      "dp_deg": 187,
       "sst_c": 2.2
     },
     {
-      "timestamp": "03.14.2026-20:30:00",
+      "timestamp": "03.14.2026-21:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 1.25,
-      "tp_s": 4.35,
-      "dp_deg": 310,
+      "hs_m": 1.31,
+      "tp_s": 4.76,
+      "dp_deg": 321,
       "sst_c": 2.4
     },
     {
