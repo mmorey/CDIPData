@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T23:40:44.018Z",
+  "last_updated": "2026-03-15T23:53:01.577Z",
   "data": [
     {
       "timestamp": "03.15.2026-22:30:00",
@@ -50,15 +50,15 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "188",
       "station_name": "HILO, HAWAII, HI",
       "latitude": 19.779,
       "longitude": -154.97,
       "depth_cm": 34500,
-      "hs_m": 1.96,
+      "hs_m": 1.79,
       "tp_s": 8.33,
-      "dp_deg": 103,
+      "dp_deg": 99,
       "sst_c": 25.1
     },
     {
@@ -98,15 +98,15 @@
       "sst_c": 24.3
     },
     {
-      "timestamp": "03.15.2026-22:00:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 3.03,
+      "hs_m": 3.1,
       "tp_s": 10.53,
-      "dp_deg": 268,
+      "dp_deg": 269,
       "sst_c": 24.7
     },
     {
@@ -206,28 +206,28 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.58,
-      "tp_s": 8.33,
-      "dp_deg": 285,
+      "hs_m": 0.62,
+      "tp_s": 7.14,
+      "dp_deg": 281,
       "sst_c": 17.6
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.09,
-      "tp_s": 13.33,
+      "hs_m": 1.16,
+      "tp_s": 20,
       "dp_deg": 195,
-      "sst_c": 18.4
+      "sst_c": 18.2
     },
     {
       "timestamp": "03.15.2026-22:30:00",
@@ -614,15 +614,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.62,
-      "tp_s": 5.56,
-      "dp_deg": 106,
+      "hs_m": 0.63,
+      "tp_s": 5,
+      "dp_deg": 115,
       "sst_c": 26.1
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 22.8
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.83,
-      "tp_s": 7.14,
-      "dp_deg": 160,
+      "hs_m": 1.66,
+      "tp_s": 7.69,
+      "dp_deg": 157,
       "sst_c": 21.2
     },
     {
@@ -686,15 +686,15 @@
       "sst_c": 22.1
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "279",
       "station_name": "CHANDELEUR ISLANDS SE, LA",
       "latitude": 29.5786,
       "longitude": -88.6431,
       "depth_cm": 2000,
-      "hs_m": 0.98,
+      "hs_m": 1.05,
       "tp_s": 5.56,
-      "dp_deg": 123,
+      "dp_deg": 132,
       "sst_c": 21.4
     },
     {
@@ -806,16 +806,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "192",
       "station_name": "OREGON INLET, NC",
       "latitude": 35.7504,
       "longitude": -75.33,
       "depth_cm": 1800,
-      "hs_m": 2.9,
-      "tp_s": 7.69,
-      "dp_deg": 110,
-      "sst_c": 14.8
+      "hs_m": 2.62,
+      "tp_s": 8.33,
+      "dp_deg": 103,
+      "sst_c": 14.7
     },
     {
       "timestamp": "03.15.2026-23:00:00",
@@ -854,15 +854,15 @@
       "sst_c": 6.2
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
       "hs_m": 1.92,
-      "tp_s": 7.14,
-      "dp_deg": 123,
+      "tp_s": 7.69,
+      "dp_deg": 125,
       "sst_c": 8.9
     },
     {
@@ -878,16 +878,16 @@
       "sst_c": 6.7
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "240",
       "station_name": "THIMBLE SHOAL, VA",
       "latitude": 37.0451,
       "longitude": -76.1272,
       "depth_cm": 1000,
-      "hs_m": 0.78,
+      "hs_m": 0.73,
       "tp_s": 3.85,
-      "dp_deg": 103,
-      "sst_c": 8.1
+      "dp_deg": 100,
+      "sst_c": 7.9
     },
     {
       "timestamp": "03.15.2026-23:00:00",
@@ -926,19 +926,19 @@
       "sst_c": 2.7
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.48,
+      "hs_m": 0.49,
       "tp_s": 7.14,
-      "dp_deg": 194,
+      "dp_deg": 192,
       "sst_c": 2.1
     },
     {
-      "timestamp": "03.15.2026-22:30:00",
+      "timestamp": "03.15.2026-23:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
@@ -946,8 +946,8 @@
       "depth_cm": 2500,
       "hs_m": 0.41,
       "tp_s": 2.78,
-      "dp_deg": 133,
-      "sst_c": 2.6
+      "dp_deg": 136,
+      "sst_c": 2.5
     },
     {
       "timestamp": "03.15.2026-23:00:00",
