@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T22:10:10.630Z",
+  "last_updated": "2026-03-19T22:23:39.409Z",
   "data": [
     {
       "timestamp": "03.19.2026-20:30:00",
@@ -182,28 +182,28 @@
       "sst_c": 19.9
     },
     {
-      "timestamp": "03.19.2026-20:45:00",
+      "timestamp": "03.19.2026-21:45:00",
       "station_number": "073",
       "station_name": "SCRIPPS PIER, LA JOLLA CA",
       "latitude": 32.866665,
       "longitude": -117.256668,
       "depth_cm": 751,
-      "hs_m": 0.26,
-      "tp_s": 9.85,
+      "hs_m": 0.28,
+      "tp_s": 10.24,
       "dp_deg": null,
       "sst_c": null
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.27,
+      "hs_m": 0.26,
       "tp_s": 10.53,
-      "dp_deg": 284,
-      "sst_c": 19.9
+      "dp_deg": 288,
+      "sst_c": 20.4
     },
     {
       "timestamp": "03.19.2026-21:30:00",
@@ -218,7 +218,7 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
@@ -227,7 +227,7 @@
       "hs_m": 0.43,
       "tp_s": 14.29,
       "dp_deg": 239,
-      "sst_c": 19.3
+      "sst_c": 18.8
     },
     {
       "timestamp": "03.19.2026-21:00:00",
@@ -278,7 +278,7 @@
       "sst_c": 19
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "271",
       "station_name": "GREEN BEACH OFFSHORE, CA",
       "latitude": 33.336389,
@@ -286,8 +286,8 @@
       "depth_cm": 30300,
       "hs_m": 0.79,
       "tp_s": 14.29,
-      "dp_deg": 193,
-      "sst_c": 18.7
+      "dp_deg": 199,
+      "sst_c": 18.9
     },
     {
       "timestamp": "03.19.2026-21:30:00",
@@ -314,16 +314,16 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "03.19.2026-20:30:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "092",
       "station_name": "SAN PEDRO, CA",
       "latitude": 33.61428,
       "longitude": -118.31417,
       "depth_cm": 47652,
       "hs_m": 0.54,
-      "tp_s": 14.29,
-      "dp_deg": 167,
-      "sst_c": 19.5
+      "tp_s": 13.33,
+      "dp_deg": 170,
+      "sst_c": 19.6
     },
     {
       "timestamp": "03.19.2026-21:30:00",
@@ -434,15 +434,15 @@
       "sst_c": 15.2
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 0.97,
-      "tp_s": 14.29,
-      "dp_deg": 221,
+      "hs_m": 1.04,
+      "tp_s": 9.88,
+      "dp_deg": 275,
       "sst_c": 14
     },
     {
@@ -626,15 +626,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.703813,
       "longitude": -83.654431,
       "depth_cm": 8100,
-      "hs_m": 1.64,
-      "tp_s": 5.88,
-      "dp_deg": 12,
+      "hs_m": 1.68,
+      "tp_s": 6.67,
+      "dp_deg": 352,
       "sst_c": 23
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 0.63,
-      "tp_s": 4.35,
-      "dp_deg": 124,
+      "hs_m": 0.62,
+      "tp_s": 4.55,
+      "dp_deg": 122,
       "sst_c": 20.3
     },
     {
@@ -854,28 +854,28 @@
       "sst_c": 6.7
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.25,
+      "hs_m": 1.2,
       "tp_s": 9.09,
-      "dp_deg": 114,
+      "dp_deg": 113,
       "sst_c": 8.8
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 0.8,
-      "tp_s": 9.09,
-      "dp_deg": 102,
-      "sst_c": 6.9
+      "hs_m": 0.77,
+      "tp_s": 9.88,
+      "dp_deg": 99,
+      "sst_c": 6.8
     },
     {
       "timestamp": "03.19.2026-21:30:00",
@@ -962,15 +962,15 @@
       "sst_c": 4.1
     },
     {
-      "timestamp": "03.19.2026-21:00:00",
+      "timestamp": "03.19.2026-21:30:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 0.89,
-      "tp_s": 9.09,
-      "dp_deg": 10,
+      "hs_m": 0.9,
+      "tp_s": 7.69,
+      "dp_deg": 354,
       "sst_c": 27.2
     },
     {
