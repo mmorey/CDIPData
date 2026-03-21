@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T21:38:18.538Z",
+  "last_updated": "2026-03-21T21:50:41.234Z",
   "data": [
     {
       "timestamp": "03.21.2026-20:30:00",
@@ -86,16 +86,16 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.67,
-      "tp_s": 5.88,
-      "dp_deg": 188,
-      "sst_c": 24.8
+      "hs_m": 1.76,
+      "tp_s": 12.5,
+      "dp_deg": 207,
+      "sst_c": 24.9
     },
     {
       "timestamp": "03.21.2026-21:00:00",
@@ -218,28 +218,28 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.78,
-      "tp_s": 14.29,
-      "dp_deg": 244,
-      "sst_c": 19.4
+      "hs_m": 0.72,
+      "tp_s": 15.38,
+      "dp_deg": 239,
+      "sst_c": 19.6
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 0.68,
-      "tp_s": 14.29,
-      "dp_deg": 237,
-      "sst_c": 19.7
+      "hs_m": 0.75,
+      "tp_s": 13.33,
+      "dp_deg": 246,
+      "sst_c": 19.8
     },
     {
       "timestamp": "03.21.2026-21:00:00",
@@ -290,16 +290,16 @@
       "sst_c": 19.5
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.71,
+      "hs_m": 0.75,
       "tp_s": 14.29,
-      "dp_deg": 217,
-      "sst_c": 19.1
+      "dp_deg": 211,
+      "sst_c": 19
     },
     {
       "timestamp": "03.21.2026-21:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 18.2
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.62,
-      "tp_s": 15.38,
-      "dp_deg": 210,
-      "sst_c": 18.5
+      "hs_m": 0.63,
+      "tp_s": 14.29,
+      "dp_deg": 205,
+      "sst_c": 18.7
     },
     {
       "timestamp": "03.21.2026-21:00:00",
@@ -578,15 +578,15 @@
       "sst_c": 10.6
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.2433,
       "depth_cm": 3900,
-      "hs_m": 1.9,
-      "tp_s": 12.5,
-      "dp_deg": 289,
+      "hs_m": 1.87,
+      "tp_s": 10.53,
+      "dp_deg": 282,
       "sst_c": 10.2
     },
     {
@@ -602,15 +602,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.6,
+      "hs_m": 0.58,
       "tp_s": 5.88,
-      "dp_deg": 263,
+      "dp_deg": 251,
       "sst_c": 25.4
     },
     {
@@ -650,16 +650,16 @@
       "sst_c": 20.7
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
       "hs_m": 1.09,
-      "tp_s": 5.56,
-      "dp_deg": 159,
-      "sst_c": 20.4
+      "tp_s": 5.26,
+      "dp_deg": 157,
+      "sst_c": 20.5
     },
     {
       "timestamp": "03.21.2026-21:00:00",
@@ -746,15 +746,15 @@
       "sst_c": 18.7
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "200",
       "station_name": "WILMINGTON HARBOR, NC",
       "latitude": 33.7186,
       "longitude": -78.0164,
       "depth_cm": 1280,
-      "hs_m": 1,
-      "tp_s": 5.26,
-      "dp_deg": 212,
+      "hs_m": 1.01,
+      "tp_s": 5.56,
+      "dp_deg": 208,
       "sst_c": 13.6
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.12,
+      "hs_m": 1.15,
       "tp_s": 9.88,
-      "dp_deg": 106,
-      "sst_c": 10.1
+      "dp_deg": 98,
+      "sst_c": 9.9
     },
     {
       "timestamp": "03.21.2026-21:00:00",
@@ -914,16 +914,16 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "03.21.2026-20:30:00",
+      "timestamp": "03.21.2026-21:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.07,
-      "tp_s": 7.14,
-      "dp_deg": 205,
-      "sst_c": 3.9
+      "hs_m": 1.12,
+      "tp_s": 6.67,
+      "dp_deg": 212,
+      "sst_c": 3.5
     },
     {
       "timestamp": "03.21.2026-20:30:00",
