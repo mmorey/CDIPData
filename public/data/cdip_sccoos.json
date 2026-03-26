@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T20:43:53.567Z",
+  "last_updated": "2026-03-26T20:58:27.012Z",
   "data": [
     {
       "timestamp": "03.26.2026-19:30:00",
@@ -98,27 +98,27 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.88,
+      "hs_m": 0.99,
       "tp_s": 15.38,
-      "dp_deg": 309,
+      "dp_deg": 312,
       "sst_c": 24.9
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 2.04,
+      "hs_m": 2.11,
       "tp_s": 9.88,
-      "dp_deg": 43,
+      "dp_deg": 30,
       "sst_c": 24.6
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": 20.6
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 0.67,
+      "hs_m": 0.69,
       "tp_s": 15.38,
-      "dp_deg": 208,
+      "dp_deg": 215,
       "sst_c": 19.8
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 19.1
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.85,
+      "hs_m": 0.91,
       "tp_s": 8.33,
-      "dp_deg": 274,
+      "dp_deg": 269,
       "sst_c": 18.1
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": 2.2
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
       "hs_m": 0.57,
-      "tp_s": 5.56,
-      "dp_deg": 122,
-      "sst_c": 25.1
+      "tp_s": 5.26,
+      "dp_deg": 119,
+      "sst_c": 25
     },
     {
       "timestamp": "03.26.2026-20:00:00",
@@ -662,7 +662,7 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
@@ -670,7 +670,7 @@
       "depth_cm": 2270,
       "hs_m": 0.95,
       "tp_s": 5.88,
-      "dp_deg": 154,
+      "dp_deg": 156,
       "sst_c": 22.1
     },
     {
@@ -842,15 +842,15 @@
       "sst_c": 9.6
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.19,
-      "tp_s": 9.88,
-      "dp_deg": 78,
+      "hs_m": 1.22,
+      "tp_s": 10.53,
+      "dp_deg": 82,
       "sst_c": 9.3
     },
     {
@@ -914,27 +914,27 @@
       "sst_c": 3.8
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.47,
+      "hs_m": 1.55,
       "tp_s": 6.25,
-      "dp_deg": 199,
-      "sst_c": 4
+      "dp_deg": 193,
+      "sst_c": 3.9
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.71,
+      "hs_m": 0.63,
       "tp_s": 3.57,
-      "dp_deg": 230,
+      "dp_deg": 229,
       "sst_c": 3.4
     },
     {
@@ -950,15 +950,15 @@
       "sst_c": 4.2
     },
     {
-      "timestamp": "03.26.2026-19:30:00",
+      "timestamp": "03.26.2026-20:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
-      "hs_m": 1.04,
-      "tp_s": 11.76,
-      "dp_deg": 343,
+      "hs_m": 1.08,
+      "tp_s": 11.11,
+      "dp_deg": 346,
       "sst_c": 27.2
     },
     {
