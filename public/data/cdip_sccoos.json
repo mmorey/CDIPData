@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T23:42:23.543Z",
+  "last_updated": "2026-03-27T23:54:20.379Z",
   "data": [
     {
       "timestamp": "03.27.2026-22:30:00",
@@ -14,16 +14,16 @@
       "sst_c": 31.2
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 2.23,
+      "hs_m": 2.21,
       "tp_s": 10.53,
-      "dp_deg": 182,
-      "sst_c": 30.5
+      "dp_deg": 162,
+      "sst_c": 30.6
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -230,16 +230,16 @@
       "sst_c": 20.1
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.56,
-      "tp_s": 14.29,
-      "dp_deg": 236,
-      "sst_c": 19.9
+      "hs_m": 0.54,
+      "tp_s": 15.38,
+      "dp_deg": 239,
+      "sst_c": 19.8
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -314,16 +314,16 @@
       "sst_c": 19.4
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.72,
+      "hs_m": 0.7,
       "tp_s": 14.29,
-      "dp_deg": 184,
-      "sst_c": 18.5
+      "dp_deg": 175,
+      "sst_c": 18.4
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -386,15 +386,15 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "071",
       "station_name": "HARVEST, CA",
       "latitude": 34.4515,
       "longitude": -120.78,
       "depth_cm": 55000,
-      "hs_m": 1.75,
-      "tp_s": 11.11,
-      "dp_deg": 313,
+      "hs_m": 1.8,
+      "tp_s": 11.76,
+      "dp_deg": 314,
       "sst_c": 15.4
     },
     {
@@ -482,16 +482,16 @@
       "sst_c": 11
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "094",
       "station_name": "CAPE MENDOCINO, CA",
       "latitude": 40.2915,
       "longitude": -124.7475,
       "depth_cm": 34600,
-      "hs_m": 2.86,
-      "tp_s": 9.88,
-      "dp_deg": 305,
-      "sst_c": 9.2
+      "hs_m": 2.93,
+      "tp_s": 10.53,
+      "dp_deg": 312,
+      "sst_c": 9.1
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -518,16 +518,16 @@
       "sst_c": 10.9
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "278",
       "station_name": "NEWPORT PWS SOUTH, OR",
       "latitude": 44.55847,
       "longitude": -124.23262,
       "depth_cm": 7200,
-      "hs_m": 2.8,
+      "hs_m": 2.65,
       "tp_s": 11.11,
-      "dp_deg": 295,
-      "sst_c": 10.6
+      "dp_deg": 291,
+      "sst_c": 10.5
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -614,16 +614,16 @@
       "sst_c": 2.5
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.59,
-      "tp_s": 5.26,
-      "dp_deg": 111,
-      "sst_c": 24.7
+      "hs_m": 0.53,
+      "tp_s": 5.56,
+      "dp_deg": 123,
+      "sst_c": 24.9
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -638,16 +638,16 @@
       "sst_c": 25.9
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "144",
       "station_name": "ST. PETERSBURG OFFSHORE, FL",
       "latitude": 27.3522,
       "longitude": -84.275,
       "depth_cm": 9400,
-      "hs_m": 0.28,
-      "tp_s": 6.25,
-      "dp_deg": 213,
-      "sst_c": 24.4
+      "hs_m": 0.3,
+      "tp_s": 2,
+      "dp_deg": 359,
+      "sst_c": 24.3
     },
     {
       "timestamp": "03.27.2026-23:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 21.4
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 0.95,
-      "tp_s": 6.25,
-      "dp_deg": 151,
+      "hs_m": 0.98,
+      "tp_s": 5.88,
+      "dp_deg": 153,
       "sst_c": 22.3
     },
     {
@@ -914,16 +914,16 @@
       "sst_c": 3.8
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.51,
-      "tp_s": 7.69,
-      "dp_deg": 195,
-      "sst_c": 4
+      "hs_m": 1.5,
+      "tp_s": 8.33,
+      "dp_deg": 187,
+      "sst_c": 3.9
     },
     {
       "timestamp": "03.27.2026-22:00:00",
@@ -950,15 +950,15 @@
       "sst_c": 4.1
     },
     {
-      "timestamp": "03.27.2026-22:30:00",
+      "timestamp": "03.27.2026-23:00:00",
       "station_number": "181",
       "station_name": "RINCON, PUERTO RICO",
       "latitude": 18.3765,
       "longitude": -67.2798,
       "depth_cm": 3291,
       "hs_m": 1.14,
-      "tp_s": 9.88,
-      "dp_deg": 2,
+      "tp_s": 9.09,
+      "dp_deg": 358,
       "sst_c": 27
     },
     {
