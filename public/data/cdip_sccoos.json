@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T11:40:52.456Z",
+  "last_updated": "2026-03-28T11:52:47.016Z",
   "data": [
     {
       "timestamp": "03.28.2026-10:30:00",
@@ -26,15 +26,15 @@
       "sst_c": 30
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.86,
+      "hs_m": 0.85,
       "tp_s": 10.53,
-      "dp_deg": 73,
+      "dp_deg": 82,
       "sst_c": 27.6
     },
     {
@@ -98,28 +98,28 @@
       "sst_c": 24.6
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.98,
-      "tp_s": 13.33,
-      "dp_deg": 282,
+      "hs_m": 0.95,
+      "tp_s": 11.11,
+      "dp_deg": 203,
       "sst_c": 24.8
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "098",
       "station_name": "MOKAPU POINT, HI",
       "latitude": 21.41451,
       "longitude": -157.6814,
       "depth_cm": 8100,
-      "hs_m": 1.86,
+      "hs_m": 1.88,
       "tp_s": 9.88,
-      "dp_deg": 44,
-      "sst_c": 24.4
+      "dp_deg": 55,
+      "sst_c": 24.5
     },
     {
       "timestamp": "03.28.2026-11:00:00",
@@ -158,15 +158,15 @@
       "sst_c": 5.5
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "191",
       "station_name": "POINT LOMA SOUTH, CA",
       "latitude": 32.517533,
       "longitude": -117.425283,
       "depth_cm": 104980,
-      "hs_m": 0.86,
+      "hs_m": 0.89,
       "tp_s": 14.29,
-      "dp_deg": 197,
+      "dp_deg": 194,
       "sst_c": 19.4
     },
     {
@@ -314,15 +314,15 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "213",
       "station_name": "SAN PEDRO SOUTH, CA",
       "latitude": 33.577667,
       "longitude": -118.182033,
       "depth_cm": 6600,
-      "hs_m": 0.69,
+      "hs_m": 0.65,
       "tp_s": 14.29,
-      "dp_deg": 199,
+      "dp_deg": 168,
       "sst_c": 17.4
     },
     {
@@ -374,15 +374,15 @@
       "sst_c": 17.4
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.5,
+      "hs_m": 0.51,
       "tp_s": 14.29,
-      "dp_deg": 186,
+      "dp_deg": 196,
       "sst_c": 18
     },
     {
@@ -398,15 +398,15 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 2.12,
-      "tp_s": 9.88,
-      "dp_deg": 320,
+      "hs_m": 1.84,
+      "tp_s": 10.53,
+      "dp_deg": 296,
       "sst_c": 14
     },
     {
@@ -494,15 +494,15 @@
       "sst_c": 10
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "168",
       "station_name": "HUMBOLDT BAY NORTH SPIT, CA",
       "latitude": 40.8956,
       "longitude": -124.358083,
       "depth_cm": 11700,
-      "hs_m": 3.17,
-      "tp_s": 11.11,
-      "dp_deg": 292,
+      "hs_m": 3.24,
+      "tp_s": 11.76,
+      "dp_deg": 298,
       "sst_c": 11.2
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": 2.3
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.63,
+      "hs_m": 0.56,
       "tp_s": 5.56,
-      "dp_deg": 119,
-      "sst_c": 24.7
+      "dp_deg": 117,
+      "sst_c": 24.6
     },
     {
       "timestamp": "03.28.2026-11:00:00",
@@ -662,16 +662,16 @@
       "sst_c": 20.7
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.19,
-      "tp_s": 3.85,
+      "hs_m": 1.17,
+      "tp_s": 4.17,
       "dp_deg": 21,
-      "sst_c": 22
+      "sst_c": 22.1
     },
     {
       "timestamp": "03.28.2026-11:00:00",
@@ -842,15 +842,15 @@
       "sst_c": 8.5
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.88,
-      "tp_s": 7.14,
-      "dp_deg": 55,
+      "hs_m": 1.95,
+      "tp_s": 5.88,
+      "dp_deg": 36,
       "sst_c": 9.4
     },
     {
@@ -914,26 +914,26 @@
       "sst_c": 3.8
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.95,
-      "tp_s": 7.69,
-      "dp_deg": 184,
+      "hs_m": 0.98,
+      "tp_s": 8.33,
+      "dp_deg": 189,
       "sst_c": 3.7
     },
     {
-      "timestamp": "03.28.2026-10:30:00",
+      "timestamp": "03.28.2026-11:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.86,
-      "tp_s": 4.76,
+      "hs_m": 0.9,
+      "tp_s": 5.26,
       "dp_deg": 4,
       "sst_c": 3.5
     },
