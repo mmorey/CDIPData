@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T11:42:36.931Z",
+  "last_updated": "2026-03-29T11:53:48.247Z",
   "data": [
     {
       "timestamp": "03.29.2026-10:30:00",
@@ -26,16 +26,16 @@
       "sst_c": 29.7
     },
     {
-      "timestamp": "03.29.2026-10:00:00",
+      "timestamp": "03.29.2026-11:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 0.94,
-      "tp_s": 11.11,
-      "dp_deg": 68,
-      "sst_c": 28
+      "hs_m": 0.91,
+      "tp_s": 11.76,
+      "dp_deg": 66,
+      "sst_c": 28.2
     },
     {
       "timestamp": "03.29.2026-10:30:00",
@@ -398,15 +398,15 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "03.29.2026-10:30:00",
+      "timestamp": "03.29.2026-11:00:00",
       "station_number": "222",
       "station_name": "SANTA LUCIA ESCARPMENT, CA",
       "latitude": 34.774,
       "longitude": -121.491,
       "depth_cm": 65000,
-      "hs_m": 1.64,
-      "tp_s": 14.29,
-      "dp_deg": 271,
+      "hs_m": 1.51,
+      "tp_s": 9.88,
+      "dp_deg": 303,
       "sst_c": 14
     },
     {
@@ -566,15 +566,15 @@
       "sst_c": 10.3
     },
     {
-      "timestamp": "03.29.2026-10:30:00",
+      "timestamp": "03.29.2026-11:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.18,
-      "tp_s": 9.09,
-      "dp_deg": 277,
+      "hs_m": 1.23,
+      "tp_s": 9.88,
+      "dp_deg": 278,
       "sst_c": 10.2
     },
     {
@@ -734,15 +734,15 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "03.29.2026-10:30:00",
+      "timestamp": "03.29.2026-11:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 2.77,
+      "hs_m": 2.71,
       "tp_s": 9.88,
-      "dp_deg": 68,
+      "dp_deg": 61,
       "sst_c": 18.1
     },
     {
