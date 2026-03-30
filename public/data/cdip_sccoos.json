@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T23:44:30.055Z",
+  "last_updated": "2026-03-30T23:59:39.360Z",
   "data": [
     {
       "timestamp": "03.30.2026-22:30:00",
@@ -26,23 +26,23 @@
       "sst_c": 30
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 1.03,
-      "tp_s": 9.88,
-      "dp_deg": 84,
+      "hs_m": 1.02,
+      "tp_s": 11.11,
+      "dp_deg": 77,
       "sst_c": 28
     },
     {
       "timestamp": "03.30.2026-22:30:00",
       "station_number": "197",
       "station_name": "TANAPAG, SAIPAN, NMI",
-      "latitude": 15.26803,
-      "longitude": 145.66232,
+      "latitude": 15.2685,
+      "longitude": 145.6635,
       "depth_cm": 48768,
       "hs_m": 2.79,
       "tp_s": 8.33,
@@ -98,15 +98,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.87,
+      "hs_m": 0.91,
       "tp_s": 13.33,
-      "dp_deg": 273,
+      "dp_deg": 291,
       "sst_c": 24.6
     },
     {
@@ -266,15 +266,15 @@
       "sst_c": 18.8
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "067",
       "station_name": "SAN NICOLAS ISLAND, CA",
       "latitude": 33.2255,
       "longitude": -119.8915,
       "depth_cm": 31500,
-      "hs_m": 0.92,
+      "hs_m": 0.85,
       "tp_s": 12.5,
-      "dp_deg": 272,
+      "dp_deg": 293,
       "sst_c": 16.1
     },
     {
@@ -362,28 +362,28 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "03.30.2026-22:00:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.47,
+      "hs_m": 0.46,
       "tp_s": 12.5,
       "dp_deg": 209,
-      "sst_c": 17.9
+      "sst_c": 17.7
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.35,
-      "tp_s": 12.5,
+      "hs_m": 0.33,
+      "tp_s": 11.76,
       "dp_deg": 204,
-      "sst_c": 19.1
+      "sst_c": 19
     },
     {
       "timestamp": "03.30.2026-23:00:00",
@@ -614,15 +614,15 @@
       "sst_c": 2.7
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.87,
-      "tp_s": 5.88,
-      "dp_deg": 118,
+      "hs_m": 0.91,
+      "tp_s": 3.85,
+      "dp_deg": 106,
       "sst_c": 24.9
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
       "hs_m": 0.97,
-      "tp_s": 5.26,
-      "dp_deg": 131,
+      "tp_s": 5,
+      "dp_deg": 143,
       "sst_c": 22.4
     },
     {
@@ -734,13 +734,13 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 1.55,
+      "hs_m": 1.56,
       "tp_s": 9.88,
       "dp_deg": 76,
       "sst_c": 19.6
@@ -773,8 +773,8 @@
       "timestamp": "03.30.2026-23:00:00",
       "station_number": "150",
       "station_name": "MASONBORO INLET, ILM2, NC",
-      "latitude": 34.1416,
-      "longitude": -77.7147,
+      "latitude": 34.14375,
+      "longitude": -77.71535,
       "depth_cm": 1700,
       "hs_m": 1.07,
       "tp_s": 6.25,
@@ -854,15 +854,15 @@
       "sst_c": 9.1
     },
     {
-      "timestamp": "03.30.2026-22:30:00",
+      "timestamp": "03.30.2026-23:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.31,
-      "tp_s": 6.25,
-      "dp_deg": 146,
+      "hs_m": 1.4,
+      "tp_s": 5.88,
+      "dp_deg": 149,
       "sst_c": 9.8
     },
     {
