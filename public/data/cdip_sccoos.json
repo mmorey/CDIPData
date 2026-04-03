@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T16:44:55.597Z",
+  "last_updated": "2026-04-03T17:01:20.240Z",
   "data": [
     {
       "timestamp": "04.03.2026-14:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 24
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.69,
+      "hs_m": 0.72,
       "tp_s": 13.33,
-      "dp_deg": 188,
+      "dp_deg": 194,
       "sst_c": 24.4
     },
     {
@@ -614,27 +614,27 @@
       "sst_c": 3
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.27,
+      "hs_m": 1.19,
       "tp_s": 7.14,
       "dp_deg": 115,
       "sst_c": 25.8
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.703813,
       "longitude": -83.654431,
       "depth_cm": 8100,
-      "hs_m": 1.59,
-      "tp_s": 5.56,
-      "dp_deg": 137,
+      "hs_m": 1.54,
+      "tp_s": 4.76,
+      "dp_deg": 106,
       "sst_c": 25.9
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 21.7
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.5,
+      "hs_m": 1.49,
       "tp_s": 6.67,
-      "dp_deg": 124,
+      "dp_deg": 123,
       "sst_c": 23
     },
     {
@@ -710,15 +710,15 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "04.03.2026-16:00:00",
+      "timestamp": "04.03.2026-16:30:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.51,
-      "tp_s": 5.88,
-      "dp_deg": 81,
+      "hs_m": 1.49,
+      "tp_s": 9.88,
+      "dp_deg": 67,
       "sst_c": 24.5
     },
     {
@@ -854,28 +854,28 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.33,
-      "tp_s": 7.69,
-      "dp_deg": 63,
+      "hs_m": 1.29,
+      "tp_s": 7.14,
+      "dp_deg": 57,
       "sst_c": 12
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 1.15,
+      "hs_m": 1.03,
       "tp_s": 7.69,
-      "dp_deg": 73,
-      "sst_c": 11.9
+      "dp_deg": 72,
+      "sst_c": 12
     },
     {
       "timestamp": "04.03.2026-11:00:00",
@@ -926,28 +926,28 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "04.03.2026-15:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.73,
-      "tp_s": 6.67,
-      "dp_deg": 173,
-      "sst_c": 5.5
+      "hs_m": 0.74,
+      "tp_s": 7.14,
+      "dp_deg": 175,
+      "sst_c": 5.4
     },
     {
-      "timestamp": "04.03.2026-14:30:00",
+      "timestamp": "04.03.2026-16:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.28,
-      "tp_s": 2.22,
-      "dp_deg": 169,
-      "sst_c": 4.3
+      "hs_m": 0.17,
+      "tp_s": 7.69,
+      "dp_deg": 349,
+      "sst_c": 4.7
     },
     {
       "timestamp": "04.03.2026-16:00:00",
