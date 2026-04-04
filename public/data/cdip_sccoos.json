@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T19:42:58.379Z",
+  "last_updated": "2026-04-04T19:55:01.935Z",
   "data": [
     {
       "timestamp": "04.04.2026-17:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.58,
+      "hs_m": 0.6,
       "tp_s": 11.76,
-      "dp_deg": 197,
+      "dp_deg": 186,
       "sst_c": 24.4
     },
     {
@@ -206,15 +206,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 0.56,
-      "tp_s": 10.53,
-      "dp_deg": 288,
+      "tp_s": 11.76,
+      "dp_deg": 289,
       "sst_c": 20.4
     },
     {
@@ -302,15 +302,15 @@
       "sst_c": 19
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "284",
       "station_name": "CAPISTRANO BEACH NEARSHORE, CA",
       "latitude": 33.445167,
       "longitude": -117.68015,
       "depth_cm": 1113,
-      "hs_m": 0.64,
+      "hs_m": 0.65,
       "tp_s": 18.18,
-      "dp_deg": 208,
+      "dp_deg": 203,
       "sst_c": 17.9
     },
     {
@@ -374,16 +374,16 @@
       "sst_c": 18
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.47,
-      "tp_s": 18.18,
-      "dp_deg": 184,
-      "sst_c": 18.2
+      "hs_m": 0.48,
+      "tp_s": 16.67,
+      "dp_deg": 182,
+      "sst_c": 19.1
     },
     {
       "timestamp": "04.04.2026-18:30:00",
@@ -614,15 +614,15 @@
       "sst_c": 3.5
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.92,
-      "tp_s": 7.14,
-      "dp_deg": 124,
+      "hs_m": 0.94,
+      "tp_s": 6.67,
+      "dp_deg": 119,
       "sst_c": 25.6
     },
     {
@@ -662,15 +662,15 @@
       "sst_c": 23.6
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.29,
+      "hs_m": 1.25,
       "tp_s": 7.69,
-      "dp_deg": 120,
+      "dp_deg": 128,
       "sst_c": 23.5
     },
     {
@@ -710,16 +710,16 @@
       "sst_c": 25.3
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "134",
       "station_name": "FORT PIERCE, FL",
       "latitude": 27.55145,
       "longitude": -80.21715,
       "depth_cm": 1676,
-      "hs_m": 1.33,
-      "tp_s": 5.56,
-      "dp_deg": 82,
-      "sst_c": 24.2
+      "hs_m": 1.43,
+      "tp_s": 9.09,
+      "dp_deg": 68,
+      "sst_c": 24.4
     },
     {
       "timestamp": "04.04.2026-19:00:00",
@@ -926,28 +926,28 @@
       "sst_c": 4.6
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.15,
-      "tp_s": 6.25,
-      "dp_deg": 197,
+      "hs_m": 1.14,
+      "tp_s": 5.88,
+      "dp_deg": 202,
       "sst_c": 5
     },
     {
-      "timestamp": "04.04.2026-18:30:00",
+      "timestamp": "04.04.2026-19:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.91,
-      "tp_s": 3.85,
-      "dp_deg": 46,
-      "sst_c": 4.6
+      "hs_m": 0.85,
+      "tp_s": 3.7,
+      "dp_deg": 56,
+      "sst_c": 4.5
     },
     {
       "timestamp": "04.04.2026-19:00:00",
