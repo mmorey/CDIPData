@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T10:43:45.918Z",
+  "last_updated": "2026-04-04T10:58:25.056Z",
   "data": [
     {
       "timestamp": "04.04.2026-09:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 24
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.67,
-      "tp_s": 12.5,
-      "dp_deg": 189,
+      "hs_m": 0.65,
+      "tp_s": 11.76,
+      "dp_deg": 193,
       "sst_c": 24.5
     },
     {
@@ -206,16 +206,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
       "hs_m": 0.55,
-      "tp_s": 11.11,
-      "dp_deg": 284,
-      "sst_c": 18.7
+      "tp_s": 12.5,
+      "dp_deg": 298,
+      "sst_c": 18.8
     },
     {
       "timestamp": "04.04.2026-10:00:00",
@@ -374,15 +374,15 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.4,
-      "tp_s": 9.88,
-      "dp_deg": 211,
+      "hs_m": 0.39,
+      "tp_s": 12.5,
+      "dp_deg": 204,
       "sst_c": 17.6
     },
     {
@@ -614,16 +614,16 @@
       "sst_c": 3.5
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.26,
-      "tp_s": 6.67,
-      "dp_deg": 114,
-      "sst_c": 25.3
+      "hs_m": 1.11,
+      "tp_s": 7.14,
+      "dp_deg": 123,
+      "sst_c": 25.2
     },
     {
       "timestamp": "04.04.2026-10:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 21.6
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.55,
-      "tp_s": 7.14,
-      "dp_deg": 118,
+      "hs_m": 1.68,
+      "tp_s": 6.25,
+      "dp_deg": 121,
       "sst_c": 23
     },
     {
@@ -926,26 +926,26 @@
       "sst_c": 4.4
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 1.1,
-      "tp_s": 5.88,
-      "dp_deg": 185,
-      "sst_c": 4.7
+      "hs_m": 1.09,
+      "tp_s": 5.56,
+      "dp_deg": 187,
+      "sst_c": 4.8
     },
     {
-      "timestamp": "04.04.2026-09:30:00",
+      "timestamp": "04.04.2026-10:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.28,
-      "tp_s": 2.7,
+      "hs_m": 0.24,
+      "tp_s": 2.38,
       "dp_deg": 254,
       "sst_c": 4.4
     },
