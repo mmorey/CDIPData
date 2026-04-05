@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T11:40:35.478Z",
+  "last_updated": "2026-04-05T11:53:10.533Z",
   "data": [
     {
       "timestamp": "04.05.2026-10:30:00",
@@ -26,15 +26,15 @@
       "sst_c": 30.2
     },
     {
-      "timestamp": "04.05.2026-10:30:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "121",
       "station_name": "IPAN, GUAM",
       "latitude": 13.3555,
       "longitude": 144.788,
       "depth_cm": 20000,
-      "hs_m": 2.29,
-      "tp_s": 10.53,
-      "dp_deg": 69,
+      "hs_m": 2.34,
+      "tp_s": 8.33,
+      "dp_deg": 90,
       "sst_c": 27.9
     },
     {
@@ -182,15 +182,15 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "04.05.2026-10:30:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 0.89,
+      "hs_m": 0.87,
       "tp_s": 16.67,
-      "dp_deg": 185,
+      "dp_deg": 190,
       "sst_c": 18.8
     },
     {
@@ -230,16 +230,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "04.05.2026-10:30:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.56,
+      "hs_m": 0.51,
       "tp_s": 15.38,
       "dp_deg": 237,
-      "sst_c": 18.2
+      "sst_c": 18.1
     },
     {
       "timestamp": "04.05.2026-10:00:00",
@@ -362,16 +362,16 @@
       "sst_c": 16.7
     },
     {
-      "timestamp": "04.05.2026-10:00:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 0.68,
-      "tp_s": 16.67,
-      "dp_deg": 194,
-      "sst_c": 16.9
+      "hs_m": 0.65,
+      "tp_s": 15.38,
+      "dp_deg": 211,
+      "sst_c": 16.8
     },
     {
       "timestamp": "04.05.2026-10:30:00",
@@ -446,16 +446,16 @@
       "sst_c": 15.4
     },
     {
-      "timestamp": "04.05.2026-10:30:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "156",
       "station_name": "MONTEREY CANYON OUTER, CA",
       "latitude": 36.759167,
       "longitude": -121.950283,
       "depth_cm": 13300,
-      "hs_m": 0.83,
-      "tp_s": 9.09,
-      "dp_deg": 284,
-      "sst_c": 13.9
+      "hs_m": 0.85,
+      "tp_s": 9.88,
+      "dp_deg": 287,
+      "sst_c": 13.8
     },
     {
       "timestamp": "04.05.2026-11:00:00",
@@ -566,16 +566,16 @@
       "sst_c": 9.7
     },
     {
-      "timestamp": "04.05.2026-10:30:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.57,
-      "tp_s": 13.33,
-      "dp_deg": 295,
-      "sst_c": 10.2
+      "hs_m": 1.59,
+      "tp_s": 9.09,
+      "dp_deg": 296,
+      "sst_c": 10.3
     },
     {
       "timestamp": "04.05.2026-11:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 21.9
     },
     {
-      "timestamp": "04.05.2026-10:30:00",
+      "timestamp": "04.05.2026-11:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.61,
-      "tp_s": 4.55,
-      "dp_deg": 43,
+      "hs_m": 1.71,
+      "tp_s": 4.76,
+      "dp_deg": 45,
       "sst_c": 23.2
     },
     {
