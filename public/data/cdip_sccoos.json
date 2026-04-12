@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T15:43:56.669Z",
+  "last_updated": "2026-04-12T15:58:45.366Z",
   "data": [
     {
       "timestamp": "04.12.2026-14:30:00",
@@ -218,27 +218,27 @@
       "sst_c": 19.8
     },
     {
-      "timestamp": "04.12.2026-14:30:00",
+      "timestamp": "04.12.2026-15:00:00",
       "station_number": "100",
       "station_name": "TORREY PINES OUTER, CA",
       "latitude": 32.93,
       "longitude": -117.392,
       "depth_cm": 57196,
-      "hs_m": 1.07,
+      "hs_m": 1.13,
       "tp_s": 15.38,
-      "dp_deg": 198,
+      "dp_deg": 212,
       "sst_c": 18.6
     },
     {
-      "timestamp": "04.12.2026-14:30:00",
+      "timestamp": "04.12.2026-15:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
       "longitude": -117.27956,
       "depth_cm": 1700,
-      "hs_m": 0.8,
+      "hs_m": 0.79,
       "tp_s": 15.38,
-      "dp_deg": 237,
+      "dp_deg": 242,
       "sst_c": 19.6
     },
     {
@@ -362,13 +362,13 @@
       "sst_c": 17.5
     },
     {
-      "timestamp": "04.12.2026-14:00:00",
+      "timestamp": "04.12.2026-15:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.27,
+      "hs_m": 1.23,
       "tp_s": 15.38,
       "dp_deg": 190,
       "sst_c": 17.2
@@ -674,15 +674,15 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "04.12.2026-14:30:00",
+      "timestamp": "04.12.2026-15:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.52,
+      "hs_m": 1.6,
       "tp_s": 6.25,
-      "dp_deg": 96,
+      "dp_deg": 109,
       "sst_c": 23.5
     },
     {
@@ -926,16 +926,16 @@
       "sst_c": 6.7
     },
     {
-      "timestamp": "04.12.2026-14:30:00",
+      "timestamp": "04.12.2026-15:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.39,
+      "hs_m": 0.37,
       "tp_s": 4.76,
-      "dp_deg": 8,
-      "sst_c": 5.5
+      "dp_deg": 7,
+      "sst_c": 5.6
     },
     {
       "timestamp": "04.12.2026-15:00:00",
