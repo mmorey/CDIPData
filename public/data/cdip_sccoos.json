@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:42:44.127Z",
+  "last_updated": "2026-04-12T11:56:40.513Z",
   "data": [
     {
       "timestamp": "04.12.2026-10:30:00",
@@ -98,15 +98,15 @@
       "sst_c": 24.5
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 1.35,
+      "hs_m": 1.44,
       "tp_s": 10.53,
-      "dp_deg": 296,
+      "dp_deg": 297,
       "sst_c": 24.4
     },
     {
@@ -206,13 +206,13 @@
       "sst_c": null
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.54,
+      "hs_m": 0.52,
       "tp_s": 15.38,
       "dp_deg": 275,
       "sst_c": 19.8
@@ -362,28 +362,28 @@
       "sst_c": 17.6
     },
     {
-      "timestamp": "04.12.2026-10:00:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "028",
       "station_name": "SANTA MONICA BAY, CA",
       "latitude": 33.859933,
       "longitude": -118.6411,
       "depth_cm": 38700,
-      "hs_m": 1.03,
-      "tp_s": 14.29,
-      "dp_deg": 215,
+      "hs_m": 1.11,
+      "tp_s": 16.67,
+      "dp_deg": 199,
       "sst_c": 17.5
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.87,
+      "hs_m": 0.9,
       "tp_s": 15.38,
-      "dp_deg": 212,
-      "sst_c": 17.6
+      "dp_deg": 200,
+      "sst_c": 17.7
     },
     {
       "timestamp": "04.10.2026-15:30:00",
@@ -626,27 +626,27 @@
       "sst_c": 3.2
     },
     {
-      "timestamp": "04.12.2026-10:00:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 1.05,
-      "tp_s": 4.55,
-      "dp_deg": 81,
+      "hs_m": 1.19,
+      "tp_s": 5.26,
+      "dp_deg": 100,
       "sst_c": 25.4
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "226",
       "station_name": "PULLEY RIDGE, FL",
       "latitude": 25.703813,
       "longitude": -83.654431,
       "depth_cm": 8100,
-      "hs_m": 1.41,
-      "tp_s": 5,
-      "dp_deg": 86,
+      "hs_m": 1.54,
+      "tp_s": 5.56,
+      "dp_deg": 88,
       "sst_c": 25.6
     },
     {
@@ -674,15 +674,15 @@
       "sst_c": 22.4
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.7,
+      "hs_m": 1.67,
       "tp_s": 5.88,
-      "dp_deg": 111,
+      "dp_deg": 108,
       "sst_c": 23.4
     },
     {
@@ -854,15 +854,15 @@
       "sst_c": 12.1
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.36,
-      "tp_s": 11.11,
-      "dp_deg": 88,
+      "hs_m": 1.27,
+      "tp_s": 11.76,
+      "dp_deg": 84,
       "sst_c": 10
     },
     {
@@ -926,15 +926,15 @@
       "sst_c": 6.3
     },
     {
-      "timestamp": "04.12.2026-10:30:00",
+      "timestamp": "04.12.2026-11:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.58,
+      "hs_m": 0.54,
       "tp_s": 4.55,
-      "dp_deg": 358,
+      "dp_deg": 355,
       "sst_c": 5.2
     },
     {
