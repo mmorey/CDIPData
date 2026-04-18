@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T23:44:03.701Z",
+  "last_updated": "2026-04-18T23:59:17.581Z",
   "data": [
     {
       "timestamp": "04.18.2026-22:30:00",
@@ -14,15 +14,15 @@
       "sst_c": 30.3
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "189",
       "station_name": "AUNUU, AMERICAN SAMOA",
       "latitude": -14.2724,
       "longitude": -170.501,
       "depth_cm": 6000,
-      "hs_m": 1.35,
-      "tp_s": 10.53,
-      "dp_deg": 126,
+      "hs_m": 1.36,
+      "tp_s": 12.5,
+      "dp_deg": 161,
       "sst_c": 30.3
     },
     {
@@ -98,16 +98,16 @@
       "sst_c": 25.2
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.92,
+      "hs_m": 0.83,
       "tp_s": 12.5,
-      "dp_deg": 191,
-      "sst_c": 24.8
+      "dp_deg": 190,
+      "sst_c": 24.9
     },
     {
       "timestamp": "04.18.2026-23:00:00",
@@ -374,16 +374,16 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "103",
       "station_name": "TOPANGA NEARSHORE, CA",
       "latitude": 34.022222,
       "longitude": -118.578333,
       "depth_cm": 2000,
-      "hs_m": 0.51,
+      "hs_m": 0.5,
       "tp_s": 14.29,
-      "dp_deg": 200,
-      "sst_c": 18.3
+      "dp_deg": 197,
+      "sst_c": 18
     },
     {
       "timestamp": "04.18.2026-23:00:00",
@@ -614,14 +614,14 @@
       "sst_c": 3.7
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.45,
-      "tp_s": 5.26,
+      "hs_m": 0.43,
+      "tp_s": 5,
       "dp_deg": 115,
       "sst_c": 26.6
     },
@@ -662,15 +662,15 @@
       "sst_c": 24
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 1.37,
+      "hs_m": 1.43,
       "tp_s": 7.14,
-      "dp_deg": 137,
+      "dp_deg": 130,
       "sst_c": 24.2
     },
     {
@@ -734,16 +734,16 @@
       "sst_c": 24.9
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "194",
       "station_name": "ST. AUGUSTINE, FL",
       "latitude": 29.9992,
       "longitude": -81.07947,
       "depth_cm": 2328,
-      "hs_m": 0.58,
+      "hs_m": 0.61,
       "tp_s": 8.33,
-      "dp_deg": 98,
-      "sst_c": 22.8
+      "dp_deg": 97,
+      "sst_c": 22.6
     },
     {
       "timestamp": "04.18.2026-23:00:00",
@@ -842,16 +842,16 @@
       "sst_c": 13.7
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
       "hs_m": 0.63,
-      "tp_s": 9.09,
-      "dp_deg": 130,
-      "sst_c": 14.6
+      "tp_s": 8.33,
+      "dp_deg": 131,
+      "sst_c": 14.4
     },
     {
       "timestamp": "04.18.2026-23:00:00",
@@ -902,27 +902,27 @@
       "sst_c": 7.5
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.65,
+      "hs_m": 0.61,
       "tp_s": 6.67,
-      "dp_deg": 178,
+      "dp_deg": 182,
       "sst_c": 7.2
     },
     {
-      "timestamp": "04.18.2026-22:30:00",
+      "timestamp": "04.18.2026-23:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
       "hs_m": 0.32,
-      "tp_s": 2.7,
-      "dp_deg": 17,
+      "tp_s": 2.78,
+      "dp_deg": 3,
       "sst_c": 7
     },
     {
@@ -938,15 +938,15 @@
       "sst_c": 6.1
     },
     {
-      "timestamp": "04.18.2026-23:00:00",
+      "timestamp": "04.18.2026-23:30:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.5011,
       "longitude": -76.5379,
       "depth_cm": 4200,
-      "hs_m": 0.34,
-      "tp_s": 2.5,
-      "dp_deg": 224,
+      "hs_m": 0.35,
+      "tp_s": 2.22,
+      "dp_deg": 251,
       "sst_c": 3.4
     },
     {
