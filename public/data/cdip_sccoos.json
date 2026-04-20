@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T23:44:29.890Z",
+  "last_updated": "2026-04-20T00:00:27.067Z",
   "data": [
     {
       "timestamp": "04.19.2026-22:30:00",
@@ -98,16 +98,16 @@
       "sst_c": 25.1
     },
     {
-      "timestamp": "04.19.2026-22:30:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.81,
-      "tp_s": 11.76,
-      "dp_deg": 193,
-      "sst_c": 25
+      "hs_m": 0.77,
+      "tp_s": 11.11,
+      "dp_deg": 219,
+      "sst_c": 25.1
     },
     {
       "timestamp": "04.19.2026-23:00:00",
@@ -254,13 +254,13 @@
       "sst_c": 19
     },
     {
-      "timestamp": "04.19.2026-23:00:00",
+      "timestamp": "04.19.2026-23:30:00",
       "station_number": "045",
       "station_name": "OCEANSIDE OFFSHORE, CA",
       "latitude": 33.1808,
       "longitude": -117.475,
       "depth_cm": 22300,
-      "hs_m": 0.61,
+      "hs_m": 0.68,
       "tp_s": 13.33,
       "dp_deg": 194,
       "sst_c": 19.3
@@ -278,16 +278,16 @@
       "sst_c": 16.8
     },
     {
-      "timestamp": "04.19.2026-22:30:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.57,
+      "hs_m": 0.64,
       "tp_s": 14.29,
-      "dp_deg": 216,
-      "sst_c": 19.4
+      "dp_deg": 206,
+      "sst_c": 19.3
     },
     {
       "timestamp": "04.19.2026-23:00:00",
@@ -614,16 +614,16 @@
       "sst_c": 3.7
     },
     {
-      "timestamp": "04.19.2026-22:30:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.45,
-      "tp_s": 5,
-      "dp_deg": 105,
-      "sst_c": 26.8
+      "hs_m": 0.46,
+      "tp_s": 5.26,
+      "dp_deg": 104,
+      "sst_c": 26.9
     },
     {
       "timestamp": "04.19.2026-23:00:00",
@@ -662,15 +662,15 @@
       "sst_c": 23.9
     },
     {
-      "timestamp": "04.19.2026-22:30:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "252",
       "station_name": "ARANSAS PASS CHANNEL ENTRANCE S, TX",
       "latitude": 27.63932,
       "longitude": -97.01158,
       "depth_cm": 2270,
-      "hs_m": 2.22,
-      "tp_s": 6.67,
-      "dp_deg": 76,
+      "hs_m": 2.27,
+      "tp_s": 7.14,
+      "dp_deg": 88,
       "sst_c": 23.9
     },
     {
@@ -842,16 +842,16 @@
       "sst_c": 11.1
     },
     {
-      "timestamp": "04.19.2026-22:30:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 1.66,
+      "hs_m": 1.61,
       "tp_s": 5.88,
       "dp_deg": 345,
-      "sst_c": 12.5
+      "sst_c": 12.4
     },
     {
       "timestamp": "04.19.2026-23:00:00",
@@ -902,27 +902,27 @@
       "sst_c": 7.4
     },
     {
-      "timestamp": "04.19.2026-22:30:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.85,
-      "tp_s": 3.57,
-      "dp_deg": 280,
-      "sst_c": 7.5
+      "hs_m": 0.84,
+      "tp_s": 3.33,
+      "dp_deg": 294,
+      "sst_c": 7.4
     },
     {
-      "timestamp": "04.19.2026-22:00:00",
+      "timestamp": "04.19.2026-23:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 1.13,
+      "hs_m": 1.19,
       "tp_s": 4.55,
-      "dp_deg": 328,
+      "dp_deg": 334,
       "sst_c": 6.8
     },
     {
@@ -938,16 +938,16 @@
       "sst_c": 6
     },
     {
-      "timestamp": "04.19.2026-23:00:00",
+      "timestamp": "04.19.2026-23:30:00",
       "station_number": "274",
       "station_name": "OSWEGO, NY",
       "latitude": 43.5011,
       "longitude": -76.5379,
       "depth_cm": 4200,
-      "hs_m": 0.92,
-      "tp_s": 4.17,
-      "dp_deg": 278,
-      "sst_c": 3.3
+      "hs_m": 0.86,
+      "tp_s": 4.55,
+      "dp_deg": 279,
+      "sst_c": 3.2
     },
     {
       "timestamp": "04.19.2026-23:00:00",
