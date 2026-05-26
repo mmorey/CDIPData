@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T20:26:37.299Z",
+  "last_updated": "2026-05-26T21:05:07.486Z",
   "data": [
     {
       "timestamp": "05.26.2026-18:30:00",
@@ -206,16 +206,16 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.26.2026-19:30:00",
+      "timestamp": "05.26.2026-20:00:00",
       "station_number": "201",
       "station_name": "SCRIPPS NEARSHORE, CA",
       "latitude": 32.86785,
       "longitude": -117.26667,
       "depth_cm": 4100,
-      "hs_m": 0.88,
+      "hs_m": 0.87,
       "tp_s": 5.26,
-      "dp_deg": 294,
-      "sst_c": 18.8
+      "dp_deg": 287,
+      "sst_c": 18.9
     },
     {
       "timestamp": "05.26.2026-19:30:00",
@@ -242,16 +242,16 @@
       "sst_c": 18.4
     },
     {
-      "timestamp": "05.26.2026-19:30:00",
+      "timestamp": "05.26.2026-20:00:00",
       "station_number": "262",
       "station_name": "LEUCADIA NEARSHORE, CA",
       "latitude": 33.062078,
       "longitude": -117.314075,
       "depth_cm": 1700,
-      "hs_m": 1.02,
+      "hs_m": 1.05,
       "tp_s": 14.29,
-      "dp_deg": 229,
-      "sst_c": 18
+      "dp_deg": 228,
+      "sst_c": 18.1
     },
     {
       "timestamp": "05.25.2026-03:30:00",
@@ -278,15 +278,15 @@
       "sst_c": 15.5
     },
     {
-      "timestamp": "05.26.2026-19:30:00",
+      "timestamp": "05.26.2026-20:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.93,
-      "tp_s": 13.33,
-      "dp_deg": 213,
+      "hs_m": 1.06,
+      "tp_s": 15.38,
+      "dp_deg": 209,
       "sst_c": 17.4
     },
     {
@@ -506,15 +506,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "05.26.2026-19:30:00",
+      "timestamp": "05.26.2026-20:30:00",
       "station_number": "280",
       "station_name": "YAQUINA CHANNEL SW, OR",
       "latitude": 44.56675,
       "longitude": -124.237467,
       "depth_cm": 7500,
-      "hs_m": 4.31,
+      "hs_m": 4.85,
       "tp_s": 14.29,
-      "dp_deg": 293,
+      "dp_deg": 286,
       "sst_c": null
     },
     {
