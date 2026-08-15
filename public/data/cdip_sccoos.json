@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T21:43:20.555Z",
+  "last_updated": "2026-08-15T21:57:15.800Z",
   "data": [
     {
       "timestamp": "08.15.2026-20:30:00",
@@ -446,16 +446,16 @@
       "sst_c": 18.5
     },
     {
-      "timestamp": "08.15.2026-20:30:00",
+      "timestamp": "08.15.2026-21:00:00",
       "station_number": "076",
       "station_name": "DIABLO CANYON, CA",
       "latitude": 35.203815,
       "longitude": -120.859314,
       "depth_cm": 2743,
-      "hs_m": 1.18,
+      "hs_m": 1.16,
       "tp_s": 16.67,
-      "dp_deg": 207,
-      "sst_c": 17.4
+      "dp_deg": 216,
+      "sst_c": 17.2
     },
     {
       "timestamp": "08.15.2026-21:00:00",
@@ -722,15 +722,15 @@
       "sst_c": 29.4
     },
     {
-      "timestamp": "08.15.2026-20:30:00",
+      "timestamp": "08.15.2026-21:00:00",
       "station_number": "250",
       "station_name": "CAPE HATTERAS EAST, NC",
       "latitude": 35.258,
       "longitude": -75.2851,
       "depth_cm": 2895,
-      "hs_m": 0.75,
-      "tp_s": 11.11,
-      "dp_deg": 75,
+      "hs_m": 0.76,
+      "tp_s": 5.26,
+      "dp_deg": 192,
       "sst_c": 28
     },
     {
@@ -782,15 +782,15 @@
       "sst_c": 28
     },
     {
-      "timestamp": "08.15.2026-20:30:00",
+      "timestamp": "08.15.2026-21:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.98,
+      "hs_m": 1.01,
       "tp_s": 5,
-      "dp_deg": 60,
+      "dp_deg": 66,
       "sst_c": 27.4
     },
     {
