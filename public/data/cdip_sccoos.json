@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T17:43:53.947Z",
+  "last_updated": "2026-08-22T17:58:25.356Z",
   "data": [
     {
       "timestamp": "08.22.2026-16:30:00",
@@ -122,15 +122,15 @@
       "sst_c": 26.8
     },
     {
-      "timestamp": "08.22.2026-16:30:00",
+      "timestamp": "08.22.2026-17:00:00",
       "station_number": "233",
       "station_name": "PEARL HARBOR ENTRANCE, HI",
       "latitude": 21.29735,
       "longitude": -157.95895,
       "depth_cm": 3500,
-      "hs_m": 0.94,
-      "tp_s": 5.88,
-      "dp_deg": 137,
+      "hs_m": 0.93,
+      "tp_s": 16.67,
+      "dp_deg": 163,
       "sst_c": 27.9
     },
     {
@@ -170,15 +170,15 @@
       "sst_c": null
     },
     {
-      "timestamp": "08.22.2026-16:30:00",
+      "timestamp": "08.22.2026-17:00:00",
       "station_number": "106",
       "station_name": "WAIMEA BAY, HI",
       "latitude": 21.67,
       "longitude": -158.1177,
       "depth_cm": 20000,
-      "hs_m": 0.94,
-      "tp_s": 6.25,
-      "dp_deg": 22,
+      "hs_m": 0.99,
+      "tp_s": 6.67,
+      "dp_deg": 32,
       "sst_c": 27
     },
     {
@@ -314,16 +314,16 @@
       "sst_c": 20
     },
     {
-      "timestamp": "08.22.2026-16:30:00",
+      "timestamp": "08.22.2026-17:00:00",
       "station_number": "264",
       "station_name": "RED BEACH NEARSHORE, CA",
       "latitude": 33.29076,
       "longitude": -117.50146,
       "depth_cm": 1679,
-      "hs_m": 0.75,
+      "hs_m": 0.81,
       "tp_s": 15.38,
-      "dp_deg": 206,
-      "sst_c": 23.8
+      "dp_deg": 208,
+      "sst_c": 24
     },
     {
       "timestamp": "08.22.2026-17:00:00",
@@ -566,16 +566,16 @@
       "sst_c": 15.1
     },
     {
-      "timestamp": "08.22.2026-16:30:00",
+      "timestamp": "08.22.2026-17:00:00",
       "station_number": "036",
       "station_name": "GRAYS HARBOR, WA",
       "latitude": 46.8568,
       "longitude": -124.2433,
       "depth_cm": 3900,
-      "hs_m": 1.29,
-      "tp_s": 8.33,
-      "dp_deg": 292,
-      "sst_c": 14.8
+      "hs_m": 1.23,
+      "tp_s": 7.14,
+      "dp_deg": 303,
+      "sst_c": 14.9
     },
     {
       "timestamp": "08.22.2026-17:00:00",
@@ -806,16 +806,16 @@
       "sst_c": 27.8
     },
     {
-      "timestamp": "08.22.2026-16:30:00",
+      "timestamp": "08.22.2026-17:00:00",
       "station_number": "147",
       "station_name": "CAPE HENRY, VA",
       "latitude": 36.9142,
       "longitude": -75.7203,
       "depth_cm": 1829,
-      "hs_m": 0.93,
+      "hs_m": 0.92,
       "tp_s": 7.69,
       "dp_deg": 59,
-      "sst_c": 26.2
+      "sst_c": 26
     },
     {
       "timestamp": "08.22.2026-17:00:00",
@@ -866,15 +866,15 @@
       "sst_c": 22
     },
     {
-      "timestamp": "08.22.2026-16:30:00",
+      "timestamp": "08.22.2026-17:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.51,
-      "tp_s": 3.03,
-      "dp_deg": 39,
+      "hs_m": 0.53,
+      "tp_s": 8.33,
+      "dp_deg": 155,
       "sst_c": 20.5
     },
     {
