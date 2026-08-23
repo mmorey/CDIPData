@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T15:44:58.863Z",
+  "last_updated": "2026-08-23T15:59:56.949Z",
   "data": [
     {
       "timestamp": "08.23.2026-14:30:00",
@@ -38,39 +38,39 @@
       "sst_c": 44.5
     },
     {
-      "timestamp": "08.23.2026-14:00:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "282",
       "station_name": "PIKAREEJ, ARNO, MARSHALL ISLANDS",
       "latitude": 7.3233,
       "longitude": 171.6406,
       "depth_cm": 63000,
-      "hs_m": 1.37,
-      "tp_s": 10.53,
-      "dp_deg": 33,
+      "hs_m": 1.51,
+      "tp_s": 9.88,
+      "dp_deg": 25,
       "sst_c": 30
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "219",
       "station_name": "NGARAARD, BABELDAOB, PALAU",
       "latitude": 7.629632,
       "longitude": 134.670422,
       "depth_cm": 10500,
       "hs_m": 0.61,
-      "tp_s": 8.33,
-      "dp_deg": 126,
+      "tp_s": 9.09,
+      "dp_deg": 104,
       "sst_c": 28.8
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "272",
       "station_name": "RUMUNG, YAP, MICRONESIA",
       "latitude": 9.678279,
       "longitude": 138.175779,
       "depth_cm": 65000,
-      "hs_m": 2.21,
+      "hs_m": 2.41,
       "tp_s": 8.33,
-      "dp_deg": 292,
+      "dp_deg": 295,
       "sst_c": 29.1
     },
     {
@@ -134,15 +134,15 @@
       "sst_c": 27.3
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "238",
       "station_name": "BARBERS POINT, KALAELOA, HI",
       "latitude": 21.32308,
       "longitude": -158.14948,
       "depth_cm": 28000,
-      "hs_m": 0.97,
+      "hs_m": 0.94,
       "tp_s": 15.38,
-      "dp_deg": 197,
+      "dp_deg": 191,
       "sst_c": 27.6
     },
     {
@@ -218,15 +218,15 @@
       "sst_c": 22.6
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "220",
       "station_name": "MISSION BAY WEST, CA",
       "latitude": 32.749417,
       "longitude": -117.4985,
       "depth_cm": 56267,
-      "hs_m": 1.02,
+      "hs_m": 1.06,
       "tp_s": 16.67,
-      "dp_deg": 188,
+      "dp_deg": 185,
       "sst_c": 23.5
     },
     {
@@ -266,7 +266,7 @@
       "sst_c": 22.6
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "153",
       "station_name": "DEL MAR NEARSHORE, CA",
       "latitude": 32.95654,
@@ -274,8 +274,8 @@
       "depth_cm": 1700,
       "hs_m": 0.69,
       "tp_s": 14.29,
-      "dp_deg": 240,
-      "sst_c": 21
+      "dp_deg": 232,
+      "sst_c": 21.1
     },
     {
       "timestamp": "08.23.2026-15:00:00",
@@ -542,16 +542,16 @@
       "sst_c": 14.6
     },
     {
-      "timestamp": "08.23.2026-15:00:00",
+      "timestamp": "08.23.2026-15:30:00",
       "station_number": "179",
       "station_name": "ASTORIA CANYON, OR",
       "latitude": 46.13338,
       "longitude": -124.64427,
       "depth_cm": 18288,
-      "hs_m": 1.17,
-      "tp_s": 6.67,
-      "dp_deg": 303,
-      "sst_c": 15.5
+      "hs_m": 1.27,
+      "tp_s": 7.14,
+      "dp_deg": 302,
+      "sst_c": 15.6
     },
     {
       "timestamp": "08.23.2026-15:00:00",
@@ -602,16 +602,16 @@
       "sst_c": 11.3
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "244",
       "station_name": "SATAN SHOAL, FL",
       "latitude": 24.4075,
       "longitude": -81.968,
       "depth_cm": 10000,
-      "hs_m": 0.39,
-      "tp_s": 4.35,
-      "dp_deg": 99,
-      "sst_c": 31.5
+      "hs_m": 0.4,
+      "tp_s": 4.17,
+      "dp_deg": 98,
+      "sst_c": 31.6
     },
     {
       "timestamp": "07.09.2026-17:30:00",
@@ -794,16 +794,16 @@
       "sst_c": 27.2
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "171",
       "station_name": "VIRGINIA BEACH OFFSHORE, VA",
       "latitude": 36.6117,
       "longitude": -74.8389,
       "depth_cm": 4570,
-      "hs_m": 0.87,
-      "tp_s": 12.5,
-      "dp_deg": 119,
-      "sst_c": 27.4
+      "hs_m": 0.92,
+      "tp_s": 13.33,
+      "dp_deg": 93,
+      "sst_c": 27.5
     },
     {
       "timestamp": "08.23.2026-15:00:00",
@@ -866,27 +866,27 @@
       "sst_c": 23.1
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "260",
       "station_name": "BUZZARDS BAY, MA",
       "latitude": 41.387067,
       "longitude": -71.033017,
       "depth_cm": 2042,
-      "hs_m": 0.46,
+      "hs_m": 0.48,
       "tp_s": 13.33,
-      "dp_deg": 149,
-      "sst_c": 20.4
+      "dp_deg": 156,
+      "sst_c": 20.5
     },
     {
-      "timestamp": "08.23.2026-14:30:00",
+      "timestamp": "08.23.2026-15:00:00",
       "station_number": "221",
       "station_name": "CAPE COD BAY, MA",
       "latitude": 41.8483,
       "longitude": -70.32995,
       "depth_cm": 2500,
-      "hs_m": 0.26,
-      "tp_s": 2.86,
-      "dp_deg": 298,
+      "hs_m": 0.25,
+      "tp_s": 1.96,
+      "dp_deg": 80,
       "sst_c": 21
     },
     {
